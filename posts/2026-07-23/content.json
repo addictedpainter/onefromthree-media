@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-07-23",
+  "runMode": "preview",
+  "account": "@onefromthree.kr",
+  "generationProvider": "chatgpt_codex",
+  "actualStartedAt": "2026-07-22T21:57:24+09:00",
+  "generatedAt": "2026-07-22T22:02:00+09:00",
+  "package": {
+    "title": "Gemini 3.6 Flash 출시, 모델보다 먼저 확인할 API 변화",
+    "slug": "gemini-3-6-flash-api-change",
+    "factSummary": "Google은 2026년 7월 21일 Gemini 3.6 Flash와 3.5 Flash-Lite를 정식 출시했다. 3.6 Flash는 100만 토큰 입력 문맥과 6만5536 토큰 출력을 지원하며, 가격은 입력 100만 토큰당 1.50달러, 출력 100만 토큰당 7.50달러다. Google은 Artificial Analysis Index 기준 3.5 Flash보다 출력 토큰을 17% 적게 사용했다고 밝혔다.",
+    "editorialInterpretation": "이번 발표의 실무 포인트는 벤치마크 순위보다 작업 1건당 비용과 API 호환성이다. 새 모델부터 temperature, top_p, top_k가 폐기 방향으로 바뀌고, 미리 채운 model 턴도 허용되지 않는다. 기존 서비스를 즉시 전환하기보다 고정된 실제 작업 묶음으로 품질, 총 토큰, 지연 시간, 도구 호출 실패율을 함께 비교하는 편이 안전하다.",
+    "decision": "확인할 것",
+    "slides": [
+      {
+        "index": 1,
+        "eyebrow": "AI NEWS",
+        "title": "Gemini 3.6 Flash가 나왔습니다",
+        "body": "Google이 3.6 Flash와 3.5 Flash-Lite를 정식 출시했습니다. 가격과 효율뿐 아니라 새 모델의 API 요청 방식도 달라집니다.",
+        "sourceUrl": null
+      },
+      {
+        "index": 2,
+        "eyebrow": "WHY NOW",
+        "title": "싼 토큰보다 중요한 변화",
+        "body": "에이전트는 한 번의 답보다 여러 추론 단계와 도구 호출을 반복합니다. 그래서 단가보다 작업 1건을 끝내는 데 쓰는 총 토큰과 호출 횟수가 더 중요합니다.",
+        "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/"
+      },
+      {
+        "index": 3,
+        "eyebrow": "FACT 01",
+        "title": "3.6 Flash는 지금 사용 가능",
+        "body": "GA 모델 ID는 gemini-3.6-flash입니다. 입력 100만 토큰당 1.50달러, 출력 100만 토큰당 7.50달러이며 100만 토큰 문맥을 지원합니다.",
+        "sourceUrl": "https://ai.google.dev/gemini-api/docs/latest-model"
+      },
+      {
+        "index": 4,
+        "eyebrow": "FACT 02",
+        "title": "Google이 밝힌 효율 수치",
+        "body": "Google은 Artificial Analysis Index 기준 3.5 Flash보다 출력 토큰을 17% 덜 썼다고 설명했습니다. DeepSWE 점수는 49% 대 37%로 제시했습니다.",
+        "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/"
+      },
+      {
+        "index": 5,
+        "eyebrow": "FACT 03",
+        "title": "Flash-Lite는 대량 작업용",
+        "body": "3.5 Flash-Lite 가격은 입력 0.30달러, 출력 2.50달러입니다. Google은 Artificial Analysis 기준 초당 출력 350토큰이라고 밝혔습니다.",
+        "sourceUrl": "https://ai.google.dev/gemini-api/docs/latest-model"
+      },
+      {
+        "index": 6,
+        "eyebrow": "API CHANGE",
+        "title": "그대로 바꾸면 오류가 날 수 있습니다",
+        "body": "새 모델은 temperature, top_p, top_k를 폐기합니다. 지금은 무시되고 향후 오류가 납니다. 마지막 model 턴을 미리 채운 요청은 400 오류가 납니다.",
+        "sourceUrl": "https://ai.google.dev/gemini-api/docs/latest-model"
+      },
+      {
+        "index": 7,
+        "eyebrow": "INTERPRETATION",
+        "title": "벤치마크보다 작업 단가를 보세요",
+        "body": "편집부 해석: 기존 프롬프트 하나로 비교하지 말고 실제 업무 20~50건을 고정해 성공률, 총 토큰, 지연 시간, 도구 호출 실패를 함께 재는 것이 맞습니다.",
+        "sourceUrl": null
+      },
+      {
+        "index": 8,
+        "eyebrow": "UNKNOWNS",
+        "title": "아직 확인되지 않은 부분",
+        "body": "공개 벤치마크가 한국어 실무에서도 그대로 재현되는지는 확인되지 않았습니다. Flash Cyber는 정부·신뢰 파트너 대상 제한 파일럿으로 곧 제공될 예정입니다.",
+        "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/"
+      },
+      {
+        "index": 9,
+        "eyebrow": "DECISION",
+        "title": "오늘 할 일은 전환이 아니라 측정",
+        "body": "폐기 파라미터를 먼저 제거하고 소량 트래픽으로 비교하세요. 여러분의 AI 비용은 토큰 단가와 작업 1건당 총비용 중 무엇으로 관리하고 있나요?",
+        "sourceUrl": "https://ai.google.dev/gemini-api/docs/latest-model"
+      }
+    ],
+    "caption": "구글이 Gemini 3.6 Flash와 3.5 Flash-Lite를 정식 출시했습니다.\n가격과 토큰 효율을 낮추면서, 새 모델부터 API 요청 방식도 일부 바뀝니다.\n\n확인된 사실: 3.6 Flash는 입력 100만 토큰당 1.50달러, 출력 100만 토큰당 7.50달러입니다. Google은 Artificial Analysis Index에서 3.5 Flash보다 출력 토큰을 17% 적게 썼다고 밝혔습니다. 3.5 Flash-Lite는 입력 0.30달러, 출력 2.50달러이며 Google이 제시한 출력 속도는 초당 350토큰입니다.\n\n함께 확인할 변화: 새 모델부터 temperature, top_p, top_k가 폐기됩니다. 지금은 무시되지만 향후 모델에서는 오류가 날 수 있습니다. 마지막 model 턴을 미리 채우는 요청도 400 오류 대상입니다.\n\n편집부 해석: 이번 발표의 핵심은 벤치마크 1위가 아니라 작업 1건당 총비용입니다. 기존 서비스를 바로 바꾸기보다 실제 업무 20~50건을 고정해 성공률, 총 토큰, 지연 시간, 도구 호출 실패를 함께 비교해야 합니다.\n\n아직 모르는 것: Google과 공개 벤치마크가 제시한 수치가 한국어 실무와 각자의 에이전트 구성에서도 재현되는지는 확인되지 않았습니다. 3.5 Flash Cyber는 일반 공개가 아니라 정부·신뢰 파트너 대상 제한 파일럿으로 곧 제공될 예정입니다.\n\n여러분의 AI 비용은 토큰 단가와 작업 1건당 총비용 중 무엇으로 관리하고 있나요?\n매일 쏟아지는 AI 소식 중 실제로 중요한 변화 하나를 원문 기준으로 정리합니다.\n\n#AI뉴스 #Gemini #AI에이전트 #생성형AI",
+    "question": "여러분의 AI 비용은 토큰 단가와 작업 1건당 총비용 중 무엇으로 관리하고 있나요?",
+    "editorialPromise": "매일 쏟아지는 AI 소식 중 실제로 중요한 변화 하나를 원문 기준으로 정리합니다.",
+    "hashtags": [
+      "#AI뉴스",
+      "#Gemini",
+      "#AI에이전트",
+      "#생성형AI"
+    ],
+    "unknowns": [
+      "공개 수치가 한국어 실무와 개별 에이전트 구성에서 재현되는지는 확인되지 않았습니다.",
+      "Gemini 3.5 Flash Cyber는 일반 공개가 아니라 제한 파일럿으로 예고됐습니다.",
+      "Gemini 3.5 Pro의 구체적인 일반 공개일은 발표되지 않았습니다."
+    ]
+  },
+  "sources": [
+    {
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "publisher": "Google",
+      "publishedAt": "2026-07-21T15:00:00Z",
+      "retrievedAt": "2026-07-22T21:57:24+09:00",
+      "kind": "official_announcement",
+      "evidenceSummary": "Google의 7월 21일 공식 발표에서 세 모델의 출시 범위, 가격, 토큰 효율 주장, 벤치마크 수치, Flash Cyber의 제한 배포 계획을 확인했습니다. 수치는 Google이 인용·제시한 값으로 표현하고 독립 검증 결과로 단정하지 않았습니다.",
+      "usageNote": "텍스트 사실과 원문 링크만 사용했습니다. Google의 발표 이미지나 벤치마크 도표는 복제하지 않았습니다."
+    },
+    {
+      "title": "Using the latest Gemini models",
+      "url": "https://ai.google.dev/gemini-api/docs/latest-model",
+      "publisher": "Google AI for Developers",
+      "publishedAt": "2026-07-21T00:00:00Z",
+      "retrievedAt": "2026-07-22T21:57:24+09:00",
+      "kind": "official_documentation",
+      "evidenceSummary": "7월 21일 갱신된 공식 개발자 문서에서 두 모델의 GA 상태, 가격, 권장 용도, 100만 토큰 문맥, 6만5536 토큰 출력, 샘플링 파라미터 폐기와 미리 채운 model 턴 제한을 확인했습니다.",
+      "usageNote": "문서의 텍스트 사실과 링크만 사용했습니다. 코드 예제나 화면 이미지는 복제하지 않았습니다."
+    },
+    {
+      "title": "Gemini 3.6 Flash model specification",
+      "url": "https://ai.google.dev/gemini-api/docs/models/gemini-3.6-flash",
+      "publisher": "Google AI for Developers",
+      "publishedAt": "2026-07-21T00:00:00Z",
+      "retrievedAt": "2026-07-22T21:57:24+09:00",
+      "kind": "official_documentation",
+      "evidenceSummary": "7월 21일 갱신된 공식 모델 사양에서 안정 모델 ID, 입력·출력 한도, 지원 입력 유형, 도구 지원 범위와 Computer Use의 Preview 상태를 확인했습니다.",
+      "usageNote": "문서의 텍스트 사실과 링크만 사용했습니다. 외부 이미지나 도표는 사용하지 않았습니다."
+    }
+  ],
+  "collectionErrors": []
+}

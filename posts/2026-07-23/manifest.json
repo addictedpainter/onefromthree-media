@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-07-23",
+  "runMode": "preview",
+  "account": "@onefromthree.kr",
+  "generationProvider": "chatgpt_codex",
+  "openAiPlatformCalls": 0,
+  "title": "Gemini 3.6 Flash 출시, 모델보다 먼저 확인할 API 변화",
+  "slug": "gemini-3-6-flash-api-change",
+  "status": "deployed",
+  "generatedAt": "2026-07-22T22:02:00+09:00",
+  "scheduledStartAt": "2026-07-22T22:30:00.000Z",
+  "actualStartedAt": "2026-07-22T21:57:24+09:00",
+  "imageCount": 9,
+  "contentHash": "e30a7738ad7eb99b7a330dcf18c23f0c760d5501e8f91f2354f7d8e9cd4521ef",
+  "idempotencyKey": "onefromthree:2026-07-23:e30a7738ad7eb99b",
+  "media": [
+    {
+      "path": "01.png",
+      "sha256": "18b9979229c3c6dd1d2f7f0df06f1141ede487d38b1a14367e356cfaccd864b1",
+      "bytes": 60721,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "02.png",
+      "sha256": "b4c9a29e8390375aca8330f750e1006a92164e43f768cce2190e9e8061dc2f70",
+      "bytes": 52818,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "03.png",
+      "sha256": "10d855a9d503737ca276513d8d74f5fab7bc55b9cacd6c90f39537b61bf3cca1",
+      "bytes": 55194,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "04.png",
+      "sha256": "5db00d5e375baa0f6490b554fffff5d99c66b4fbc3764e311b42e77449c37c33",
+      "bytes": 62238,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "05.png",
+      "sha256": "1c7427de221a7dc37126df84516c9c116abbe208b4d491842a2ff222398943e9",
+      "bytes": 58289,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "06.png",
+      "sha256": "601a4a08225d5438003256c91ecfa56086d1f4bd112e235e73e9f802e3404e7e",
+      "bytes": 57279,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "07.png",
+      "sha256": "ddc3e948486b5f383eeb4eb4167a64fe784b60fb92a51d0e3b10383a8e735b98",
+      "bytes": 55565,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "08.png",
+      "sha256": "9fc5b07d4a7c47c8fe42dd6199535da5db4ee7f928cdd44d4234a417bc0853d9",
+      "bytes": 57791,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "09.png",
+      "sha256": "7899cf882666ad0aaab0082cdd49c517518e0098d679211d3109c9062068314c",
+      "bytes": 63276,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "publisher": "Google",
+      "publishedAt": "2026-07-21T15:00:00Z",
+      "retrievedAt": "2026-07-22T21:57:24+09:00",
+      "kind": "official_announcement",
+      "evidenceSummary": "Google의 7월 21일 공식 발표에서 세 모델의 출시 범위, 가격, 토큰 효율 주장, 벤치마크 수치, Flash Cyber의 제한 배포 계획을 확인했습니다. 수치는 Google이 인용·제시한 값으로 표현하고 독립 검증 결과로 단정하지 않았습니다.",
+      "usageNote": "텍스트 사실과 원문 링크만 사용했습니다. Google의 발표 이미지나 벤치마크 도표는 복제하지 않았습니다."
+    },
+    {
+      "title": "Using the latest Gemini models",
+      "url": "https://ai.google.dev/gemini-api/docs/latest-model",
+      "publisher": "Google AI for Developers",
+      "publishedAt": "2026-07-21T00:00:00Z",
+      "retrievedAt": "2026-07-22T21:57:24+09:00",
+      "kind": "official_documentation",
+      "evidenceSummary": "7월 21일 갱신된 공식 개발자 문서에서 두 모델의 GA 상태, 가격, 권장 용도, 100만 토큰 문맥, 6만5536 토큰 출력, 샘플링 파라미터 폐기와 미리 채운 model 턴 제한을 확인했습니다.",
+      "usageNote": "문서의 텍스트 사실과 링크만 사용했습니다. 코드 예제나 화면 이미지는 복제하지 않았습니다."
+    },
+    {
+      "title": "Gemini 3.6 Flash model specification",
+      "url": "https://ai.google.dev/gemini-api/docs/models/gemini-3.6-flash",
+      "publisher": "Google AI for Developers",
+      "publishedAt": "2026-07-21T00:00:00Z",
+      "retrievedAt": "2026-07-22T21:57:24+09:00",
+      "kind": "official_documentation",
+      "evidenceSummary": "7월 21일 갱신된 공식 모델 사양에서 안정 모델 ID, 입력·출력 한도, 지원 입력 유형, 도구 지원 범위와 Computer Use의 Preview 상태를 확인했습니다.",
+      "usageNote": "문서의 텍스트 사실과 링크만 사용했습니다. 외부 이미지나 도표는 사용하지 않았습니다."
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "renderedAt": "2026-07-22T12:58:57.752Z",
+  "deployedAt": "2026-07-22T12:59:33.572Z"
+}
