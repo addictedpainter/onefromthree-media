@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-07-24",
+  "runMode": "scheduled",
+  "account": "@onefromthree.kr",
+  "generationProvider": "chatgpt_codex",
+  "openAiPlatformCalls": 0,
+  "title": null,
+  "slug": null,
+  "status": "skipped",
+  "editorial": null,
+  "generatedAt": "2026-07-23T22:35:43.368Z",
+  "scheduledStartAt": "2026-07-23T22:30:00.000Z",
+  "actualStartedAt": "2026-07-23T22:35:43.368Z",
+  "imageCount": 0,
+  "contentHash": null,
+  "idempotencyKey": "onefromthree:2026-07-24:no-content",
+  "media": [],
+  "sources": [],
+  "collectionErrors": [
+    {
+      "source": "source_verification",
+      "message": "Cited source failed verification: https://openai.com/index/introducing-openai-presence/ (HTTP 403, text/html; charset=utf-8)"
+    }
+  ],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "skipReason": "Source verification failed: Cited source failed verification: https://openai.com/index/introducing-openai-presence/ (HTTP 403, text/html; charset=utf-8)",
+  "deployedAt": "2026-07-23T22:36:01.552Z"
+}
