@@ -7,7 +7,7 @@
   "openAiPlatformCalls": 0,
   "title": "OpenAI Presence: 75% 해결률보다 중요한 운영 조건",
   "slug": "openai-presence-agent-operations",
-  "status": "publishing",
+  "status": "publish_ambiguous",
   "editorial": {
     "targetAudience": "고객지원·사내업무 자동화를 검토하는 한국 실무자와 소규모 팀",
     "topic": "OpenAI Presence와 프로덕션 AI 에이전트 운영",
@@ -235,5 +235,6 @@
   "renderedAt": "2026-07-24T07:26:32.396Z",
   "deployedAt": "2026-07-24T07:29:49.340Z",
   "verifiedAt": "2026-07-24T07:30:21.945Z",
-  "publishAttemptedAt": "2026-07-24T07:30:34.411Z"
+  "publishAttemptedAt": "2026-07-24T07:30:34.411Z",
+  "lastError": "Instagram publish result is unconfirmed; verify the account before retrying: External publishing is locked. Set APP_MODE=live and LIVE_PUBLISH_ENABLED=true explicitly."
 }
