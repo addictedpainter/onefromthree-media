@@ -7,7 +7,7 @@
   "openAiPlatformCalls": 0,
   "title": "OpenAI Presence: 75% 해결률보다 중요한 운영 조건",
   "slug": "openai-presence-agent-operations",
-  "status": "publish_ambiguous",
+  "status": "publishing",
   "editorial": {
     "targetAudience": "고객지원·사내업무 자동화를 검토하는 한국 실무자와 소규모 팀",
     "topic": "OpenAI Presence와 프로덕션 AI 에이전트 운영",
@@ -39,7 +39,7 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-07-24/01.png",
       "verification": {
-        "verifiedAt": "2026-07-24T07:30:34.411Z",
+        "verifiedAt": "2026-07-24T07:32:47.480Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
@@ -56,7 +56,7 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-07-24/02.png",
       "verification": {
-        "verifiedAt": "2026-07-24T07:30:34.411Z",
+        "verifiedAt": "2026-07-24T07:32:47.480Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
@@ -73,7 +73,7 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-07-24/03.png",
       "verification": {
-        "verifiedAt": "2026-07-24T07:30:34.411Z",
+        "verifiedAt": "2026-07-24T07:32:47.480Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
@@ -90,7 +90,7 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-07-24/04.png",
       "verification": {
-        "verifiedAt": "2026-07-24T07:30:34.411Z",
+        "verifiedAt": "2026-07-24T07:32:47.480Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
@@ -107,7 +107,7 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-07-24/05.png",
       "verification": {
-        "verifiedAt": "2026-07-24T07:30:34.411Z",
+        "verifiedAt": "2026-07-24T07:32:47.480Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
@@ -124,7 +124,7 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-07-24/06.png",
       "verification": {
-        "verifiedAt": "2026-07-24T07:30:34.411Z",
+        "verifiedAt": "2026-07-24T07:32:47.480Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
@@ -141,7 +141,7 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-07-24/07.png",
       "verification": {
-        "verifiedAt": "2026-07-24T07:30:34.411Z",
+        "verifiedAt": "2026-07-24T07:32:47.480Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
@@ -158,7 +158,7 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-07-24/08.png",
       "verification": {
-        "verifiedAt": "2026-07-24T07:30:34.411Z",
+        "verifiedAt": "2026-07-24T07:32:47.480Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
@@ -175,7 +175,7 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-07-24/09.png",
       "verification": {
-        "verifiedAt": "2026-07-24T07:30:34.411Z",
+        "verifiedAt": "2026-07-24T07:32:47.480Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
@@ -235,6 +235,6 @@
   "renderedAt": "2026-07-24T07:26:32.396Z",
   "deployedAt": "2026-07-24T07:29:49.340Z",
   "verifiedAt": "2026-07-24T07:30:21.945Z",
-  "publishAttemptedAt": "2026-07-24T07:30:34.411Z",
-  "lastError": "Instagram publish result is unconfirmed; verify the account before retrying: External publishing is locked. Set APP_MODE=live and LIVE_PUBLISH_ENABLED=true explicitly."
+  "lastError": "Instagram publishing was locked before any external request. The exact approved package may be published after live publishing is enabled.",
+  "publishAttemptedAt": "2026-07-24T07:32:47.480Z"
 }
