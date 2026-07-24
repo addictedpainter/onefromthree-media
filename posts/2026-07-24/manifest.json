@@ -5,26 +5,152 @@
   "account": "@onefromthree.kr",
   "generationProvider": "chatgpt_codex",
   "openAiPlatformCalls": 0,
-  "title": null,
-  "slug": null,
-  "status": "skipped",
-  "editorial": null,
-  "generatedAt": "2026-07-23T22:35:43.368Z",
+  "title": "OpenAI Presence: 75% 해결률보다 중요한 운영 조건",
+  "slug": "openai-presence-agent-operations",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "targetAudience": "고객지원·사내업무 자동화를 검토하는 한국 실무자와 소규모 팀",
+    "topic": "OpenAI Presence와 프로덕션 AI 에이전트 운영",
+    "hookType": "result_conflict",
+    "hookEvaluation": {
+      "concreteEvent": 2,
+      "practitionerImpact": 2,
+      "newPerspective": 2,
+      "evidenceDefensibility": 2,
+      "clarityWithoutHype": 2,
+      "rationale": "OpenAI Presence 공개라는 구체적 사건, 회사가 밝힌 75% 자체 해결 결과, 실무자가 준비할 권한·평가·사람 인계 기준을 공식 발표와 도움말에 연결합니다. 자체 공개 수치의 한계와 비공개 가격·한국 지원 범위를 함께 밝혀 과장을 피합니다."
+    },
+    "ctaType": "question",
+    "contentVersion": "v2"
+  },
+  "generatedAt": "2026-07-24T07:34:38.477+09:00",
   "scheduledStartAt": "2026-07-23T22:30:00.000Z",
-  "actualStartedAt": "2026-07-23T22:35:43.368Z",
-  "imageCount": 0,
-  "contentHash": null,
-  "idempotencyKey": "onefromthree:2026-07-24:no-content",
-  "media": [],
-  "sources": [],
-  "collectionErrors": [
+  "actualStartedAt": "2026-07-24T07:32:41.992+09:00",
+  "imageCount": 9,
+  "contentHash": "abd3f5592a63955220619e62d18d2559588bdb368846667cba952ec001fb7015",
+  "idempotencyKey": "onefromthree:2026-07-24:abd3f5592a639552",
+  "media": [
     {
-      "source": "source_verification",
-      "message": "Cited source failed verification: https://openai.com/index/introducing-openai-presence/ (HTTP 403, text/html; charset=utf-8)"
+      "path": "01.png",
+      "sha256": "91ec1b313d9a0f6b48ed8c86604af5e4a9cb8b57cdf3a3e5098a980f4ef27345",
+      "bytes": 599797,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "02.png",
+      "sha256": "8320f75332fa53f671f4f0d62b21fa733a6cdbfa63b1bdb9fec59611fd3ef99e",
+      "bytes": 52571,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "03.png",
+      "sha256": "0fb122506d0d5bcd288e059cf089d83262bce1f59565a3da4059588064b42059",
+      "bytes": 58026,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "04.png",
+      "sha256": "65e6fde7879d8e43e768955202930d6d00ded20b748f86593eed71269d2e74b6",
+      "bytes": 53042,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "05.png",
+      "sha256": "ab894e2dc9b4966307ed0678a673c6b3b0a206e9d4a22a68e7495a9bb6729f1f",
+      "bytes": 185208,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "06.png",
+      "sha256": "88963e27525f1929fc2e27dc2e76cb0e4a62a0bc94369f697ff370701132fea3",
+      "bytes": 59486,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "07.png",
+      "sha256": "eef6b0686b3a6f2b575aab61074526767d9c863e0eae64d16f42b69558ed3532",
+      "bytes": 59636,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "08.png",
+      "sha256": "bdde55187017bf2fff19e0c5dd234ac5b2c1358c99f853474ab107992490e341",
+      "bytes": 61232,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "09.png",
+      "sha256": "1dcd105e311b52578565c36467735ba447f967f94ea7dfeb9e723e8b59d25d2f",
+      "bytes": 43185,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
     }
   ],
-  "deploymentAttempts": 1,
+  "sources": [
+    {
+      "title": "Introducing OpenAI Presence",
+      "url": "https://openai.com/index/introducing-openai-presence/",
+      "publisher": "OpenAI",
+      "publishedAt": "2026-07-22T00:00:00Z",
+      "retrievedAt": "2026-07-24T07:33:30+09:00",
+      "kind": "official_announcement",
+      "evidenceSummary": "Presence의 공개, 음성·채팅 지원, 업무별 제한된 시스템 접근, 정책·가드레일·사람 인계 구조를 확인했습니다. OpenAI 자체 영어 전화 지원에서 75% 자체 해결과 10일 동안 사람 인계율 15%포인트 감소를 회사가 밝혔다는 범위로만 사용했습니다.",
+      "usageNote": "텍스트 사실과 원문 링크만 사용하며 외부 이미지는 사용하지 않습니다. 자체 공개 성과 수치는 독립 검증된 일반 성능으로 확장하지 않습니다.",
+      "alternateOfficialUrls": [
+        "https://help.openai.com/en/articles/20001405-openai-presence"
+      ]
+    },
+    {
+      "title": "OpenAI Presence",
+      "url": "https://help.openai.com/en/articles/20001405-openai-presence",
+      "publisher": "OpenAI Help Center",
+      "publishedAt": "2026-07-22T00:00:00Z",
+      "retrievedAt": "2026-07-24T07:33:45+09:00",
+      "kind": "official_documentation",
+      "evidenceSummary": "Presence가 고빈도·고위험 업무를 위한 관리형 기업 플랫폼이며, 현재 제한적 일반 제공이고 셀프서비스 상품이 아니라는 점을 확인했습니다. 기능·모델·채널·데이터 처리·가격은 개별 배포에 따라 정해진다는 한계도 확인했습니다.",
+      "usageNote": "가용성과 운영 조건 확인에만 사용하며, 공개되지 않은 가격·한국 지원 범위·구체적 서비스 수준은 추정하지 않습니다."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-07-24T06:42:34.929Z",
+      "attempt": 1,
+      "url": "https://openai.com/index/introducing-openai-presence/",
+      "httpStatus": 200,
+      "outcome": "verified",
+      "detail": "Verified with public web-client fallback."
+    },
+    {
+      "attemptedAt": "2026-07-24T06:42:35.923Z",
+      "attempt": 1,
+      "url": "https://help.openai.com/en/articles/20001405-openai-presence",
+      "httpStatus": 200,
+      "outcome": "verified",
+      "detail": "Verified with public web-client fallback."
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 7,
   "publishAttemptCount": 0,
-  "skipReason": "Source verification failed: Cited source failed verification: https://openai.com/index/introducing-openai-presence/ (HTTP 403, text/html; charset=utf-8)",
-  "deployedAt": "2026-07-23T22:36:01.552Z"
+  "draftApprovedAt": "2026-07-24T07:18:02.360Z",
+  "draftApprovedContentHash": "abd3f5592a63955220619e62d18d2559588bdb368846667cba952ec001fb7015",
+  "renderedAt": "2026-07-24T07:26:32.396Z",
+  "deployedAt": "2026-07-24T07:29:49.340Z"
 }
