@@ -7,7 +7,7 @@
   "openAiPlatformCalls": 0,
   "title": "Claude Opus 5가 Copilot에 왔다, 전 작업 기본값보다 선별 적용",
   "slug": "claude-opus-5-copilot-selective-use",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "targetAudience": "AI 코딩 도구를 쓰는 한국 개발자와 소규모 제품팀",
     "topic": "Claude Opus 5 출시와 GitHub Copilot 선별 적용",
@@ -39,8 +39,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-07-26/01.png",
       "verification": {
-        "verifiedAt": "2026-07-26T02:22:05.450Z",
-        "attempts": 5,
+        "verifiedAt": "2026-07-26T02:50:41.245Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 238527,
@@ -56,8 +56,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-07-26/02.png",
       "verification": {
-        "verifiedAt": "2026-07-26T02:22:05.689Z",
-        "attempts": 5,
+        "verifiedAt": "2026-07-26T02:50:41.245Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 54144,
@@ -73,8 +73,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-07-26/03.png",
       "verification": {
-        "verifiedAt": "2026-07-26T02:22:05.898Z",
-        "attempts": 5,
+        "verifiedAt": "2026-07-26T02:50:41.245Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 57367,
@@ -90,8 +90,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-07-26/04.png",
       "verification": {
-        "verifiedAt": "2026-07-26T02:22:06.104Z",
-        "attempts": 5,
+        "verifiedAt": "2026-07-26T02:50:41.245Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 61449,
@@ -107,8 +107,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-07-26/05.png",
       "verification": {
-        "verifiedAt": "2026-07-26T02:22:06.305Z",
-        "attempts": 5,
+        "verifiedAt": "2026-07-26T02:50:41.245Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 109904,
@@ -124,8 +124,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-07-26/06.png",
       "verification": {
-        "verifiedAt": "2026-07-26T02:22:06.513Z",
-        "attempts": 5,
+        "verifiedAt": "2026-07-26T02:50:41.245Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 61252,
@@ -141,8 +141,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-07-26/07.png",
       "verification": {
-        "verifiedAt": "2026-07-26T02:22:06.719Z",
-        "attempts": 5,
+        "verifiedAt": "2026-07-26T02:50:41.245Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 57092,
@@ -158,8 +158,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-07-26/08.png",
       "verification": {
-        "verifiedAt": "2026-07-26T02:22:06.925Z",
-        "attempts": 5,
+        "verifiedAt": "2026-07-26T02:50:41.245Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 64139,
@@ -175,8 +175,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-07-26/09.png",
       "verification": {
-        "verifiedAt": "2026-07-26T02:22:07.131Z",
-        "attempts": 5,
+        "verifiedAt": "2026-07-26T02:50:41.245Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 43123,
@@ -227,10 +227,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 15,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-07-26T01:54:56.952Z",
   "draftApprovedContentHash": "09860a9f844b1ded1ff72dbf66c9e6d66ede02a14c3f8bc8d3528f4c97023228",
   "renderedAt": "2026-07-26T02:21:34.136Z",
   "deployedAt": "2026-07-26T02:21:40.486Z",
-  "verifiedAt": "2026-07-26T02:22:07.336Z"
+  "verifiedAt": "2026-07-26T02:22:07.336Z",
+  "publishAttemptedAt": "2026-07-26T02:50:41.245Z"
 }
