@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-07-26",
+  "runMode": "scheduled",
+  "account": "@onefromthree.kr",
+  "generationProvider": "chatgpt_codex",
+  "actualStartedAt": "2026-07-26T07:32:34.005+09:00",
+  "generatedAt": "2026-07-26T10:40:31.444+09:00",
+  "package": {
+    "title": "Claude Opus 5가 Copilot에 왔다, 전 작업 기본값보다 선별 적용",
+    "slug": "claude-opus-5-copilot-selective-use",
+    "targetAudience": "AI 코딩 도구를 쓰는 한국 개발자와 소규모 제품팀",
+    "topic": "Claude Opus 5 출시와 GitHub Copilot 선별 적용",
+    "hookType": "cost_or_timeline",
+    "hookEvaluation": {
+      "concreteEvent": 2,
+      "practitionerImpact": 2,
+      "newPerspective": 2,
+      "evidenceDefensibility": 2,
+      "clarityWithoutHype": 2,
+      "rationale": "7월 24일 모델 출시와 GitHub Copilot 적용이라는 구체적 사건을, 사용량 기반 과금과 상위 요금제·점진 배포 조건에 연결합니다. Anthropic의 공식 비용 대비 성능 도표와 GitHub의 공식 제품 화면으로 근거를 추적할 수 있고, 전면 전환보다 고난도 작업 선별 테스트라는 실무 판단을 과장 없이 제시합니다."
+    },
+    "ctaType": "question",
+    "contentVersion": "v2",
+    "factSummary": "Anthropic은 2026년 7월 24일 Claude Opus 5를 출시했고, 같은 날 GitHub는 Copilot Pro+, Max, Business, Enterprise에 이 모델을 점진 배포한다고 발표했습니다. Anthropic API 가격은 입력 100만 토큰당 5달러, 출력 100만 토큰당 25달러로 Opus 4.8과 같으며, GitHub Copilot에서는 제공자 API 정가에 따른 사용량 기반 과금이 적용됩니다.",
+    "editorialInterpretation": "편집부 해석: 새 모델의 가치는 모든 코딩 요청의 기본값으로 바꾸는 데 있지 않습니다. 긴 디버깅, 대규모 수정, 회귀 검증처럼 실패 비용이 큰 작업을 먼저 골라 성공률과 총사용량을 함께 비교해야 비용 대비 이점을 확인할 수 있습니다.",
+    "decision": "확인할 것",
+    "slides": [
+      {
+        "index": 1,
+        "eyebrow": "AI NEWS",
+        "title": "Opus 5, Copilot에 왔다\n모든 작업용은 아니다",
+        "body": "7월 24일 GitHub Copilot에도 열렸습니다. 사용량 기반 과금이라 팀은 어려운 장기 작업부터 선별 적용해야 합니다.",
+        "sourceUrl": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot/"
+      },
+      {
+        "index": 2,
+        "eyebrow": "WHY NOW",
+        "title": "성능보다 작업 선택이 먼저",
+        "body": "복잡한 디버깅과 여러 도구를 잇는 장기 작업은 작은 답변보다 실패 비용이 큽니다. 새 모델의 값은 이런 작업에서 먼저 검증해야 합니다.",
+        "sourceUrl": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot/"
+      },
+      {
+        "index": 3,
+        "eyebrow": "FACT 01",
+        "title": "API 가격은 Opus 4.8과 같다",
+        "body": "Anthropic API 기준 입력 100만 토큰당 5달러, 출력 100만 토큰당 25달러입니다. Fast mode는 약 2.5배 빠르고 기본 가격의 2배입니다.",
+        "sourceUrl": "https://www.anthropic.com/news/claude-opus-5"
+      },
+      {
+        "index": 4,
+        "eyebrow": "FACT 02",
+        "title": "Copilot은 상위 요금제부터",
+        "body": "Pro+, Max, Business, Enterprise에 점진 배포됩니다. Business·Enterprise는 관리자가 Opus 5 정책을 켜야 하며 사용량 기반 과금이 적용됩니다.",
+        "sourceUrl": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot/"
+      },
+      {
+        "index": 5,
+        "eyebrow": "EVIDENCE",
+        "title": "같은 비용에서 통과율 약 1.5배",
+        "body": "Anthropic은 AutomationBench에서 Opus 5가 같은 작업 비용 기준 다음 모델보다 약 1.5배 높은 통과율을 보였다고 밝혔습니다. 회사 자체 평가입니다.",
+        "sourceUrl": "https://www.anthropic.com/news/claude-opus-5"
+      },
+      {
+        "index": 6,
+        "eyebrow": "INTERPRETATION",
+        "title": "기본값 교체보다 어려운 일 선별",
+        "body": "편집부 해석: 단순 완성이나 짧은 수정까지 바꾸기보다, 긴 디버깅·대규모 변경·회귀 검증처럼 실패 비용이 큰 작업부터 비교해야 합니다.",
+        "sourceUrl": null
+      },
+      {
+        "index": 7,
+        "eyebrow": "UNKNOWNS",
+        "title": "내 코드에서는 아직 모른다",
+        "body": "공개 평가는 내 저장소의 성공률을 보장하지 않습니다. 보안 관련 요청은 강화된 보호 장치로 차단될 수 있고, Copilot 배포 시점도 사용자마다 다릅니다.",
+        "sourceUrl": null
+      },
+      {
+        "index": 8,
+        "eyebrow": "DECISION",
+        "title": "고난도 작업 10건으로 확인할 것",
+        "body": "기존 모델과 같은 작업 10건을 돌려 성공률, 수정 횟수, 총사용량, 검증 통과를 비교하세요. 전면 전환은 결과를 본 뒤 판단합니다.",
+        "sourceUrl": null
+      },
+      {
+        "index": 9,
+        "eyebrow": "QUESTION",
+        "title": "어떤 일에 먼저 쓸까?",
+        "body": "Claude Opus 5를 어떤 고난도 작업에 먼저 쓰겠습니까?",
+        "sourceUrl": null
+      }
+    ],
+    "caption": "Anthropic이 Claude Opus 5를 출시했고 같은 날 GitHub Copilot에도 적용했습니다.\n성능만 바뀐 게 아니라, 팀은 고난도 작업과 비용을 함께 골라야 합니다.\n\n확인된 사실: Anthropic API 가격은 입력 100만 토큰당 5달러, 출력 100만 토큰당 25달러로 Opus 4.8과 같습니다. GitHub Copilot에서는 제공자 API 정가에 따른 사용량 기반 과금이 적용되며, Pro+, Max, Business, Enterprise에 점진 배포됩니다. Business·Enterprise 관리자는 모델 정책을 직접 켜야 합니다.\n\n이 사건이 보여주는 것: 편집부 해석으로는 새 모델을 모든 코딩 요청의 기본값으로 바꾸기보다 긴 디버깅, 대규모 수정, 회귀 검증처럼 실패 비용이 큰 작업부터 비교하는 편이 낫습니다. Anthropic은 자체 AutomationBench에서 같은 작업 비용 기준 Opus 5의 통과율이 다음 모델보다 약 1.5배 높았다고 밝혔습니다.\n\n아직 모르는 것: 회사가 공개한 평가가 각자의 코드베이스와 한국어 지시에서도 재현되는지는 확인되지 않았습니다. 보안 관련 요청은 강화된 보호 장치로 차단될 수 있고, Copilot 배포 시점도 사용자마다 다릅니다.\n\n판정: 확인할 것. 기존 모델과 같은 고난도 작업 10건으로 성공률, 수정 횟수, 총사용량, 검증 통과를 함께 비교한 뒤 전환하세요.\n\n여러분이라면 Claude Opus 5를 어떤 고난도 작업에만 먼저 쓰겠습니까? 한 가지를 댓글로 남겨도 좋습니다.\n매일 쏟아지는 AI 소식 중 실제로 중요한 변화 하나를 원문 기준으로 정리합니다.\n\n#ClaudeOpus5 #GitHubCopilot #AI코딩 #개발자동화",
+    "question": "여러분이라면 Claude Opus 5를 어떤 고난도 작업에만 먼저 쓰겠습니까? 한 가지를 댓글로 남겨도 좋습니다.",
+    "editorialPromise": "매일 쏟아지는 AI 소식 중 실제로 중요한 변화 하나를 원문 기준으로 정리합니다.",
+    "hashtags": [
+      "#ClaudeOpus5",
+      "#GitHubCopilot",
+      "#AI코딩",
+      "#개발자동화"
+    ],
+    "unknowns": [
+      "Anthropic과 GitHub의 평가 결과가 개별 코드베이스와 한국어 지시에서 같은 수준으로 재현되는지는 확인되지 않았습니다.",
+      "GitHub Copilot의 점진 배포가 모든 대상 사용자에게 완료되는 정확한 시점은 공개되지 않았습니다.",
+      "보안 관련 또는 보안 인접 요청은 Opus 5의 강화된 보호 장치에 따라 차단될 수 있습니다."
+    ],
+    "visualEvidence": {
+      "slideIndex": 5,
+      "sourceUrl": "https://www.anthropic.com/news/claude-opus-5",
+      "assetFile": "official-anthropic-opus5-automationbench.png",
+      "focus": "centre",
+      "highlights": []
+    },
+    "coverVisual": {
+      "slideIndex": 1,
+      "sourceUrl": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot/",
+      "assetFile": "official-github-copilot-opus5-picker.png"
+    }
+  },
+  "sources": [
+    {
+      "title": "Introducing Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "publisher": "Anthropic",
+      "publishedAt": "2026-07-24T17:00:00Z",
+      "retrievedAt": "2026-07-26T07:36:04.961+09:00",
+      "kind": "official_announcement",
+      "evidenceSummary": "Claude Opus 5의 7월 24일 출시, 전 플랫폼 제공, API 가격, Fast mode 조건, AutomationBench 비용 대비 통과율 주장과 보안 보호 장치 범위를 확인했습니다. 평가 수치는 Anthropic 자체 발표로 명시하고 독립 검증 결과로 확장하지 않았습니다.",
+      "usageNote": "공식 발표의 텍스트 사실과 공식 AutomationBench 도표를 사용합니다. 수치는 Anthropic이 공개한 자체 평가 범위로만 표현합니다.",
+      "alternateOfficialUrls": [
+        "https://www.anthropic.com/claude-opus-5-system-card"
+      ]
+    },
+    {
+      "title": "Claude Opus 5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot/",
+      "publisher": "GitHub",
+      "publishedAt": "2026-07-24T16:40:04Z",
+      "retrievedAt": "2026-07-26T07:36:04.961+09:00",
+      "kind": "official_announcement",
+      "evidenceSummary": "GitHub Copilot의 Opus 5 지원, 대상 요금제, 지원 클라이언트, 점진 배포, Business·Enterprise 관리자 정책 활성화와 제공자 API 정가 기반 사용량 과금 조건을 확인했습니다.",
+      "usageNote": "GitHub가 제공한 Copilot 모델 선택 화면을 표지에 사용하고, 제공 범위와 과금 조건은 공식 변경 기록에 적힌 내용으로 제한합니다."
+    }
+  ],
+  "collectionErrors": []
+}

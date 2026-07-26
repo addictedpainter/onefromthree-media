@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-07-26",
+  "runMode": "scheduled",
+  "account": "@onefromthree.kr",
+  "generationProvider": "chatgpt_codex",
+  "openAiPlatformCalls": 0,
+  "title": "Claude Opus 5가 Copilot에 왔다, 전 작업 기본값보다 선별 적용",
+  "slug": "claude-opus-5-copilot-selective-use",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "targetAudience": "AI 코딩 도구를 쓰는 한국 개발자와 소규모 제품팀",
+    "topic": "Claude Opus 5 출시와 GitHub Copilot 선별 적용",
+    "hookType": "cost_or_timeline",
+    "hookEvaluation": {
+      "concreteEvent": 2,
+      "practitionerImpact": 2,
+      "newPerspective": 2,
+      "evidenceDefensibility": 2,
+      "clarityWithoutHype": 2,
+      "rationale": "7월 24일 모델 출시와 GitHub Copilot 적용이라는 구체적 사건을, 사용량 기반 과금과 상위 요금제·점진 배포 조건에 연결합니다. Anthropic의 공식 비용 대비 성능 도표와 GitHub의 공식 제품 화면으로 근거를 추적할 수 있고, 전면 전환보다 고난도 작업 선별 테스트라는 실무 판단을 과장 없이 제시합니다."
+    },
+    "ctaType": "question",
+    "contentVersion": "v2"
+  },
+  "generatedAt": "2026-07-26T10:40:31.444+09:00",
+  "scheduledStartAt": "2026-07-25T22:30:00.000Z",
+  "actualStartedAt": "2026-07-26T07:32:34.005+09:00",
+  "imageCount": 9,
+  "contentHash": "b6a34a50cfe6f8f4a5f0b811da2675d89fdc923be33c21cfa81b09f408d1ce20",
+  "idempotencyKey": "onefromthree:2026-07-26:b6a34a50cfe6f8f4",
+  "media": [
+    {
+      "path": "01.png",
+      "sha256": "30af28dab24b537cc198cae7ecc5babb9725659ddbb6463eb3d0a27707e3dab0",
+      "bytes": 252500,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "02.png",
+      "sha256": "9aee23c6b0b1f3d915523c1f1d6e322052a11308bf5a0e5b31b3f75da8903912",
+      "bytes": 54144,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "03.png",
+      "sha256": "0fc96296bca3380cbb60fa270c3eaf0232ee529a74a59bf7cca208810c2ff913",
+      "bytes": 57367,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "04.png",
+      "sha256": "5ebe5268aa2c02d9a780c2823ceebc7dfada439b5ba2acb5f6855080968cd272",
+      "bytes": 61449,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "05.png",
+      "sha256": "ecb08d06c003f52aac97e2411dfff460495ea8c41eb2c2a834187f067605860a",
+      "bytes": 107260,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "06.png",
+      "sha256": "6996c5a6b901a0d74d397e0f31c60a97d3a153358f188524c5a66300dc2f2db8",
+      "bytes": 61252,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "07.png",
+      "sha256": "a895f492180e355dda512e7ffea51180b98643d753a65d2d916500d4ae87dc89",
+      "bytes": 57092,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "08.png",
+      "sha256": "d4a1e33be9e7fc4e0c60983ceed06909de447a139ddb8f3cf1460c33b7c8dbc8",
+      "bytes": 64139,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    },
+    {
+      "path": "09.png",
+      "sha256": "cebefa461ae97cd95a081f6aec4d6e1d5774c3a151c9b490cc72afe0409cb69a",
+      "bytes": 43123,
+      "width": 1080,
+      "height": 1350,
+      "contentType": "image/png"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Introducing Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "publisher": "Anthropic",
+      "publishedAt": "2026-07-24T17:00:00Z",
+      "retrievedAt": "2026-07-26T07:36:04.961+09:00",
+      "kind": "official_announcement",
+      "evidenceSummary": "Claude Opus 5의 7월 24일 출시, 전 플랫폼 제공, API 가격, Fast mode 조건, AutomationBench 비용 대비 통과율 주장과 보안 보호 장치 범위를 확인했습니다. 평가 수치는 Anthropic 자체 발표로 명시하고 독립 검증 결과로 확장하지 않았습니다.",
+      "usageNote": "공식 발표의 텍스트 사실과 공식 AutomationBench 도표를 사용합니다. 수치는 Anthropic이 공개한 자체 평가 범위로만 표현합니다.",
+      "alternateOfficialUrls": [
+        "https://www.anthropic.com/claude-opus-5-system-card"
+      ]
+    },
+    {
+      "title": "Claude Opus 5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot/",
+      "publisher": "GitHub",
+      "publishedAt": "2026-07-24T16:40:04Z",
+      "retrievedAt": "2026-07-26T07:36:04.961+09:00",
+      "kind": "official_announcement",
+      "evidenceSummary": "GitHub Copilot의 Opus 5 지원, 대상 요금제, 지원 클라이언트, 점진 배포, Business·Enterprise 관리자 정책 활성화와 제공자 API 정가 기반 사용량 과금 조건을 확인했습니다.",
+      "usageNote": "GitHub가 제공한 Copilot 모델 선택 화면을 표지에 사용하고, 제공 범위와 과금 조건은 공식 변경 기록에 적힌 내용으로 제한합니다."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-07-26T01:40:44.863Z",
+      "attempt": 1,
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-07-26T01:40:45.026Z",
+      "attempt": 1,
+      "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-07-26T01:40:52.841Z",
+  "draftApprovedContentHash": "b6a34a50cfe6f8f4a5f0b811da2675d89fdc923be33c21cfa81b09f408d1ce20",
+  "renderedAt": "2026-07-26T01:40:54.610Z",
+  "deployedAt": "2026-07-26T01:41:12.429Z"
+}
