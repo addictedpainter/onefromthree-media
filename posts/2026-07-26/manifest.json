@@ -7,7 +7,7 @@
   "openAiPlatformCalls": 0,
   "title": "Claude Opus 5가 Copilot에 왔다, 전 작업 기본값보다 선별 적용",
   "slug": "claude-opus-5-copilot-selective-use",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "targetAudience": "AI 코딩 도구를 쓰는 한국 개발자와 소규모 제품팀",
     "topic": "Claude Opus 5 출시와 GitHub Copilot 선별 적용",
@@ -233,5 +233,8 @@
   "renderedAt": "2026-07-26T02:21:34.136Z",
   "deployedAt": "2026-07-26T02:21:40.486Z",
   "verifiedAt": "2026-07-26T02:22:07.336Z",
-  "publishAttemptedAt": "2026-07-26T02:50:41.245Z"
+  "publishAttemptedAt": "2026-07-26T02:50:41.245Z",
+  "publishedAt": "2026-07-26T02:51:34.949Z",
+  "externalPostId": "18117240125508105",
+  "externalUrl": "https://www.instagram.com/p/DbPW8cloLmO/"
 }
