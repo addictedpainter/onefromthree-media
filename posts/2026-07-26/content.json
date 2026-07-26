@@ -5,7 +5,7 @@
   "account": "@onefromthree.kr",
   "generationProvider": "chatgpt_codex",
   "actualStartedAt": "2026-07-26T07:32:34.005+09:00",
-  "generatedAt": "2026-07-26T10:40:31.444+09:00",
+  "generatedAt": "2026-07-26T10:54:38.514+09:00",
   "package": {
     "title": "Claude Opus 5가 Copilot에 왔다, 전 작업 기본값보다 선별 적용",
     "slug": "claude-opus-5-copilot-selective-use",
@@ -30,7 +30,7 @@
         "index": 1,
         "eyebrow": "AI NEWS",
         "title": "Opus 5, Copilot에 왔다\n모든 작업용은 아니다",
-        "body": "7월 24일 GitHub Copilot에도 열렸습니다. 사용량 기반 과금이라 팀은 어려운 장기 작업부터 선별 적용해야 합니다.",
+        "body": "7월 24일 Copilot에도 열렸습니다. 고난도 작업부터 선별 적용하세요.",
         "sourceUrl": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot/"
       },
       {
