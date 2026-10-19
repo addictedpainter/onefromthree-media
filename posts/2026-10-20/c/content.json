@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-20",
+  "slot": "c",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-19T22:35:00+09:00",
+  "generatedAt": "2026-10-19T23:10:00+09:00",
+  "package": {
+    "contentVersion": "v3",
+    "category": "art",
+    "slug": "tracey-emin-my-bed-louisiana",
+    "topic": "트레이시 에민 〈My Bed〉, 루이지애나 미술관 'A Second Life'",
+    "headline": [
+      "안 치운 침대가",
+      "45억 작품 된 이유"
+    ],
+    "keyword": "45억",
+    "hook": "🛏️ 나흘 동안 안 치운 침대가 경매에서 45억 원에 팔렸습니다.",
+    "body": [
+      "1998년 런던. 트레이시 에민은 헤어진 뒤 나흘 동안 침대에서 나오지 않았어요. 먹지도 않고 술만 마셨대요. 나흘 뒤 일어나서 침대를 봤는데, 치우는 대신 그대로 전시장에 옮겼습니다. 술병, 담배, 속옷까지 바닥에 있던 그대로요.",
+      "사실 이 침대는 1999년 터너상 후보에 올라 테이트에 걸렸고, 2000년 찰스 사치가 15만 파운드(약 2억 7천만 원)에 샀습니다. 14년 뒤인 2014년 7월, 크리스티 런던 경매에서 254만 파운드, 약 45억 원에 팔렸어요. 산 사람은 독일 수집가 크리스티안 뒤르크하임이고, 그는 이 침대를 테이트에 10년 넘게 빌려줬습니다. 2015년 테이트 브리튼에서는 에민이 직접 고른 프랜시스 베이컨 그림 두 점 옆에 걸렸어요.",
+      "지금은 덴마크 루이지애나 미술관 @louisianamuseum 의 전시 'A Second Life'에 와 있습니다. 2027년 4월 18일까지예요."
+    ],
+    "question": "인생 최악의 한 주, 그대로 남한테 보여줄 수 있나요?",
+    "credits": "트레이시 에민 〈My Bed〉(1998) 설치 사진: Andy Hay (CC BY 2.0), fry_theonly (CC BY-SA 2.0), Flickr · Piers Allardyce, Julian Stallabrass, FearfulStills (CC BY 2.0) · Marathon (CC BY-SA 2.0) · Tilman2007, Ewan-M, 14GTR, kallerna (CC BY-SA 4.0), Wikimedia Commons · 트레이시 에민 작품 © Tracey Emin",
+    "editor": "Haein",
+    "hashtags": [
+      "#트레이시에민",
+      "#MyBed",
+      "#루이지애나미술관",
+      "#현대미술",
+      "#미술전시"
+    ],
+    "slides": [
+      {
+        "index": 1,
+        "text": "안 치운 침대가\n45억 작품 된 이유",
+        "image": {
+          "file": "01-my-bed-andyhay.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://www.flickr.com/photos/andyhay/20206791036/",
+          "credit": "Andy Hay, Flickr",
+          "license": "CC BY 2.0",
+          "checkedAt": "2026-10-19T23:05:00+09:00",
+          "focus": "attention",
+          "edit": {
+            "crop": {
+              "x": 0.1,
+              "y": 0,
+              "width": 0.62,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 2,
+        "text": "1998년 런던. 헤어진 뒤, 에민은 나흘 동안 침대에서 안 나왔습니다.",
+        "image": {
+          "file": "02-for-you-neon.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emin-_5721-sm_(5133441176).jpg",
+          "credit": "Tracey Emin, For You (2008), Liverpool Cathedral · Julian Stallabrass, Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "checkedAt": "2026-10-19T23:20:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.2,
+              "y": 0,
+              "width": 0.6,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 3,
+        "text": "트레이시 에민. 자기 일을 숨기지 않고 작품으로 만드는 영국 작가예요.",
+        "image": {
+          "file": "03-emin-2008.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tracey_Emin_2.jpg",
+          "credit": "FearfulStills, Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "checkedAt": "2026-10-19T23:20:00+09:00",
+          "focus": "top",
+          "edit": {
+            "crop": {
+              "x": 0.45,
+              "y": 0,
+              "width": 0.55,
+              "height": 1
+            },
+            "saturation": 0.85
+          }
+        }
+      },
+      {
+        "index": 4,
+        "text": "1999년, 그 침대를 치우지 않고 그대로 테이트 전시장에 옮겼습니다.",
+        "image": {
+          "file": "06-my-bed-fry.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://www.flickr.com/photos/fryandtricky/25585390174/",
+          "credit": "fry_theonly, Flickr",
+          "license": "CC BY-SA 2.0",
+          "checkedAt": "2026-10-19T23:05:00+09:00",
+          "focus": "attention",
+          "edit": {
+            "crop": {
+              "x": 0.12,
+              "y": 0.1,
+              "width": 0.78,
+              "height": 0.9
+            }
+          }
+        }
+      },
+      {
+        "index": 5,
+        "text": "2000년, 찰스 사치가 이 침대를 약 2억7천만 원에 샀습니다.",
+        "image": {
+          "file": "05-saatchi-gallery.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saatchi_Gallery_in_the_Duke_of_York%27s_HQ_-_geograph.org.uk_-_2733598.jpg",
+          "credit": "Marathon, Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "checkedAt": "2026-10-19T22:55:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 6,
+        "text": "사실 14년 뒤 경매에서 약 45억 원에 팔렸습니다.",
+        "image": {
+          "file": "06-christies.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christie%27s,_St_James%27s,_SW1.jpg",
+          "credit": "Ewan-M, Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-19T22:55:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 7,
+        "text": "새 주인은 이 침대를 테이트에 10년 넘게 빌려주기로 했습니다.",
+        "image": {
+          "file": "07-emin-doors-npg.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Portrait_Gallery_door_panel_by_Tracey_Emin_01.jpg",
+          "credit": "Tracey Emin, The Doors (2023), National Portrait Gallery · 14GTR, Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-19T22:55:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 8,
+        "text": "지금은 덴마크 루이지애나 미술관에 있습니다. 2027년 4월 18일까지.",
+        "image": {
+          "file": "08-louisiana-2026.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2026_Louisiana_Museum_of_Modern_Art_1.jpg",
+          "credit": "kallerna, Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-19T22:56:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 9,
+        "text": "인생 최악의 한 주, 그대로 남한테 보여줄 수 있나요?",
+        "image": {
+          "file": "09-louisiana-interior.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2026_Louisiana_Museum_of_Modern_Art_3.jpg",
+          "credit": "kallerna, Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-19T22:56:00+09:00",
+          "focus": "attention"
+        }
+      }
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 1,
+      "evidenceAndImages": 2,
+      "availableNow": 2,
+      "rationale": "'내 방 꼴 봐' 하는 친구에게 바로 보낼 이야기. 표지 두 줄로 사실이 다 전달되고 지금 루이지애나에서 볼 수 있다. 미술 전공자는 아는 작품이라 새로움 1점. 독립 출처 두 곳 이상 확인했지만 작품 〈My Bed〉 자체의 1·2등급 사진이 없어(테이트·루이지애나 보도 사진은 로그인 필요) 작가 초상·장소 사진으로 채워 근거·이미지 1점. 버린 표지 후보: '나흘 누운 침대 / 경매가 45억'(운영자 지정 표지 우선), '헤어지고 안 치운 침대 / 테이트에 10년'(숫자 둘이 겹침)."
+    },
+    "unknowns": [
+      "2014년 낙찰가 £2,546,500은 Wikipedia와 Art in Context가 같은 금액을 적고, Art Newspaper·Artlyst·TIME은 '£2.5m'로만 적어 카드에는 '약 45억 원'으로 썼다.",
+      "트레이시 에민 본인 Instagram 핸들은 공식 사이트 접속이 실패해 확인하지 못해 멘션하지 않았다.",
+      "루이지애나 미술관 입장료는 공식 페이지에 금액이 표시되지 않아 쓰지 않았다."
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tracey Emin: A Second Life",
+      "url": "https://louisiana.dk/en/exhibition/tracey-emin/",
+      "publisher": "Louisiana Museum of Modern Art",
+      "publishedAt": "2026-10-08T09:00:00+02:00",
+      "retrievedAt": "2026-10-19T22:40:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "공식 전시 페이지에서 전시명 'A Second Life', 기간 2026-10-08~2027-04-18, 테이트 모던과 공동 기획, 〈My Bed〉(1998)가 전시에 포함된 것을 확인했다. 홈 푸터에서 공식 Instagram @louisianamuseum을 확인했다.",
+      "usageNote": "보도 사진은 press.louisiana.dk 로그인이 필요해 쓰지 않았다. 게시일은 전시 개막일로 적었다."
+    },
+    {
+      "title": "Exhibition radar October 2026",
+      "url": "https://www.designboom.com/art/exhibition-radar-october-2026/",
+      "publisher": "designboom",
+      "publishedAt": "2026-10-01T09:00:00Z",
+      "retrievedAt": "2026-10-19T22:45:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "루이지애나 전시명·기간(2026-10-08~2027-04-18)과 〈My Bed〉(1998)가 이 전시에 나온 것, 작품이 'Tate, lent by The Duerckheim Collection' 장기 대여인 것을 두 번째로 확인했다.",
+      "usageNote": "기사 사진(© Tate, © Tracey Emin)은 쓰지 않았다. 게시일은 기사 페이지 표기가 없어 10월 초로 적었다."
+    },
+    {
+      "title": "My Bed",
+      "url": "https://en.wikipedia.org/wiki/My_Bed",
+      "publisher": "Wikipedia",
+      "publishedAt": "2026-10-01T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:38:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "1998년 제작, 나흘 동안 침대에서 술만 마시며 지낸 뒤 만든 것, 1999년 터너상 후보·테이트 전시, 사치 구입가 £150,000, 2014년 7월 크리스티 낙찰가 £2,546,500을 확인했다. 각 사실은 아래 다른 출처로 교차 확인했다.",
+      "usageNote": "백과 항목이라 교차 확인용으로만 썼다. 게시일은 최신 수정일을 알 수 없어 10월 초로 적었다."
+    },
+    {
+      "title": "Tracey Emin, My Bed, on the market for the first time at Christie's, London on July 1, 2014",
+      "url": "https://www.tretyakovgallerymagazine.com/news/tracey-emin-my-bed-market-first-time-christies-london-july-1-2014",
+      "publisher": "The Tretyakov Gallery Magazine (Christie's 발표문 전재)",
+      "publishedAt": "2014-06-01T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:48:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "크리스티 발표문: 1998년 제작, 에민 본인 말로 '나흘 동안 침대에서 나오지 않았다', 헤어짐과 우울 뒤의 작업, 1999년 터너상 후보·테이트 전시, 2014-07-01 크리스티 런던 경매 출품을 확인했다.",
+      "usageNote": "게시일은 2014년 5~6월 발표로 추정해 적었다."
+    },
+    {
+      "title": "Thatcher and tampons: how Tracey Emin came to sell her unmade bed to Charles Saatchi",
+      "url": "https://www.theartnewspaper.com/2021/08/19/thatcher-and-tampons-how-tracey-emin-came-to-sell-her-unmade-bed-to-charles-saatchi",
+      "publisher": "The Art Newspaper",
+      "publishedAt": "2021-08-19T12:00:00Z",
+      "retrievedAt": "2026-10-19T23:05:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2000년 찰스 사치가 £150,000에 구입(1999년 터너상 후보 이듬해), 2014년 크리스티에서 £2.5m에 매각, 제이 조플링이 크리스티안 뒤르크하임 백작을 대신해 응찰, 뒤르크하임이 테이트에 10년 대여, 워털루 아파트에서 우울증 시기에 제작한 것을 확인했다.",
+      "usageNote": null
+    },
+    {
+      "title": "\"My Bed\" by Tracey Emin – Between the Sheets of Art",
+      "url": "https://artincontext.org/?p=89563",
+      "publisher": "Art in Context",
+      "publishedAt": "2023-12-21T12:00:00Z",
+      "retrievedAt": "2026-10-19T23:05:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "사치 구입가 £150,000(2000년), 2014년 7월 크리스티 낙찰가 £2,546,500, 에민 본인 말로 '나흘 동안 침대에서 나오지 않았다'를 두 번째로 확인했다. 이 글은 구매자를 조플링으로 적지만 다른 출처(Art Newspaper·Artlyst·TIME)가 조플링은 대리 응찰자이고 구매자는 뒤르크하임이라고 밝혀 그쪽을 따랐다.",
+      "usageNote": "낙찰가 정확 금액의 교차 확인용."
+    },
+    {
+      "title": "Tate Secures Tracey Emin My Bed Installation For Long Term Loan",
+      "url": "https://artlyst.com/?p=168459",
+      "publisher": "Artlyst",
+      "publishedAt": "2014-07-29T12:00:00Z",
+      "retrievedAt": "2026-10-19T22:52:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "£2.5m 낙찰(작가 기록), 제이 조플링이 뒤르크하임을 대신해 구입, 테이트에 10년 이상 대여, 1999년 터너상 후보, 1998년 워털루 아파트에서 제작을 확인했다.",
+      "usageNote": null
+    },
+    {
+      "title": "Tracey Emin's 'My Bed' Will Be Displayed at the Tate",
+      "url": "https://time.com/3060115/tracey-emin-my-bed-tate",
+      "publisher": "TIME",
+      "publishedAt": "2014-07-29T12:00:00Z",
+      "retrievedAt": "2026-10-19T22:52:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2014-07-01 크리스티 런던 낙찰, 구매자 뒤르크하임, 테이트 10년 이상 대여, 사치가 2000년에 산 값의 18배 이상, 1999년 터너상 후보를 확인했다.",
+      "usageNote": null
+    },
+    {
+      "title": "Tracey Emin Unveils My Bed At Tate Britain Fifteen Years Later",
+      "url": "https://artlyst.com/tracey-emin-unveils-my-bed-at-tate-britain-fifteen-years-later/",
+      "publisher": "Artlyst",
+      "publishedAt": "2015-03-30T12:00:00Z",
+      "retrievedAt": "2026-10-19T22:58:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2015-03-31부터 테이트 브리튼 전시, 에민이 고른 프랜시스 베이컨 〈Study of a Dog〉(1952)·〈Reclining Woman〉(1961)과 함께 전시, 뒤르크하임 컬렉션 10년 대여를 확인했다.",
+      "usageNote": null
+    },
+    {
+      "title": "Perfect bedfellows: Tracey Emin and Francis Bacon",
+      "url": "https://www.tate.org.uk/tate-etc/issue-34-summer-2015/perfect-bedfellows",
+      "publisher": "Tate Etc.",
+      "publishedAt": "2015-06-01T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:58:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "테이트 공식 매거진에서 〈My Bed〉가 1999년 터너상 전시 뒤 테이트 브리튼에 돌아와 장기 대여로 전시된 것, 베이컨 두 점과 함께 건 것, 에민의 선택 이유를 확인했다.",
+      "usageNote": null
+    },
+    {
+      "title": "Tracey Emin: A Second Life",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/tracey-emin",
+      "publisher": "Tate",
+      "publishedAt": "2026-02-27T09:00:00Z",
+      "retrievedAt": "2026-10-19T22:45:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "테이트 모던 전시(2026-02-27~08-31) 공식 페이지. 〈My Bed〉(1998)가 전시 대표 이미지이며 'lent by The Duerckheim Collection'으로 표기된 것을 확인했다.",
+      "usageNote": "테이트 보도 사진은 별도 등록이 필요해 쓰지 않았다."
+    }
+  ],
+  "collectionErrors": [
+    {
+      "source": "openverse / commons",
+      "message": "〈My Bed〉 설치 사진은 Wikimedia Commons에 없고 Openverse API는 인증(401)을 요구해 작품 사진 없이 구성했다."
+    }
+  ]
+}

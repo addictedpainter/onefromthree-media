@@ -1,0 +1,318 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-20",
+  "slot": "c",
+  "postId": "2026-10-20-c",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "안 치운 침대가 45억 작품 된 이유",
+  "slug": "tracey-emin-my-bed-louisiana",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "v3",
+    "topic": "트레이시 에민 〈My Bed〉, 루이지애나 미술관 'A Second Life'",
+    "category": "art",
+    "editor": "Haein",
+    "shareScore": 9,
+    "coverLayout": "keyword",
+    "imageTiers": {
+      "public_domain": 9
+    }
+  },
+  "generatedAt": "2026-10-19T23:10:00+09:00",
+  "scheduledStartAt": "2026-10-19T18:30:00.000Z",
+  "actualStartedAt": "2026-10-19T22:35:00+09:00",
+  "imageCount": 10,
+  "contentHash": "3160e93186defcd4fccbb177fa955a9329f92e310671a95dfddf700cac9fade2",
+  "idempotencyKey": "scenenode:2026-10-20-c:3160e93186defcd4",
+  "media": [
+    {
+      "path": "01.png",
+      "sha256": "7f8eb51aae84a7d7173a8527a0dbac01b580e4ec7988e3b1790fc4d171419699",
+      "bytes": 2921103,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "02.png",
+      "sha256": "ac474e392e8e5bde747c78bbf347bc2e5d280504a6528c263e1984da68d68e9e",
+      "bytes": 3930996,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "03.png",
+      "sha256": "00cf1102a6a772104a0906aaf9574c322a07c9b7380e57ce2d23ff4f5a6029a6",
+      "bytes": 1727892,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "04.png",
+      "sha256": "a76558e4f139d51394f62284ac688c91cceb10dcdaa284e8283c7cbbff9cfc9f",
+      "bytes": 2943336,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "05.png",
+      "sha256": "6ffeada764f8af98db6e8636986750ba6251e56ab3ce84f9ef9f5a79bddf8b5f",
+      "bytes": 3375957,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "06.png",
+      "sha256": "2b47891a69dfc57cecbdc8571396db481171436899dca8926f3c5a30d94bb286",
+      "bytes": 2202969,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "07.png",
+      "sha256": "1de7d74805deb3403b67144797199e261664bfde792589a50c86a495b43391b4",
+      "bytes": 3938821,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "08.png",
+      "sha256": "b76394b0dd9876073ffb1dd0fc87a71c1d42c2e8bd60c5f80dcbb0b1e270b623",
+      "bytes": 3410678,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "09.png",
+      "sha256": "1cbefc256cf8037eee1f86a40393592c7373c26e40b32ab00c740049c58e628a",
+      "bytes": 3947311,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "10.png",
+      "sha256": "951b51e925fa836e489e9852016c09bcc749603edec2ae0af215782edb11bf5a",
+      "bytes": 69848,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Tracey Emin: A Second Life",
+      "url": "https://louisiana.dk/en/exhibition/tracey-emin/",
+      "publisher": "Louisiana Museum of Modern Art",
+      "publishedAt": "2026-10-08T09:00:00+02:00",
+      "retrievedAt": "2026-10-19T22:40:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "공식 전시 페이지에서 전시명 'A Second Life', 기간 2026-10-08~2027-04-18, 테이트 모던과 공동 기획, 〈My Bed〉(1998)가 전시에 포함된 것을 확인했다. 홈 푸터에서 공식 Instagram @louisianamuseum을 확인했다.",
+      "usageNote": "보도 사진은 press.louisiana.dk 로그인이 필요해 쓰지 않았다. 게시일은 전시 개막일로 적었다."
+    },
+    {
+      "title": "Exhibition radar October 2026",
+      "url": "https://www.designboom.com/art/exhibition-radar-october-2026/",
+      "publisher": "designboom",
+      "publishedAt": "2026-10-01T09:00:00Z",
+      "retrievedAt": "2026-10-19T22:45:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "루이지애나 전시명·기간(2026-10-08~2027-04-18)과 〈My Bed〉(1998)가 이 전시에 나온 것, 작품이 'Tate, lent by The Duerckheim Collection' 장기 대여인 것을 두 번째로 확인했다.",
+      "usageNote": "기사 사진(© Tate, © Tracey Emin)은 쓰지 않았다. 게시일은 기사 페이지 표기가 없어 10월 초로 적었다."
+    },
+    {
+      "title": "My Bed",
+      "url": "https://en.wikipedia.org/wiki/My_Bed",
+      "publisher": "Wikipedia",
+      "publishedAt": "2026-10-01T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:38:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "1998년 제작, 나흘 동안 침대에서 술만 마시며 지낸 뒤 만든 것, 1999년 터너상 후보·테이트 전시, 사치 구입가 £150,000, 2014년 7월 크리스티 낙찰가 £2,546,500을 확인했다. 각 사실은 아래 다른 출처로 교차 확인했다.",
+      "usageNote": "백과 항목이라 교차 확인용으로만 썼다. 게시일은 최신 수정일을 알 수 없어 10월 초로 적었다."
+    },
+    {
+      "title": "Tracey Emin, My Bed, on the market for the first time at Christie's, London on July 1, 2014",
+      "url": "https://www.tretyakovgallerymagazine.com/news/tracey-emin-my-bed-market-first-time-christies-london-july-1-2014",
+      "publisher": "The Tretyakov Gallery Magazine (Christie's 발표문 전재)",
+      "publishedAt": "2014-06-01T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:48:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "크리스티 발표문: 1998년 제작, 에민 본인 말로 '나흘 동안 침대에서 나오지 않았다', 헤어짐과 우울 뒤의 작업, 1999년 터너상 후보·테이트 전시, 2014-07-01 크리스티 런던 경매 출품을 확인했다.",
+      "usageNote": "게시일은 2014년 5~6월 발표로 추정해 적었다."
+    },
+    {
+      "title": "Thatcher and tampons: how Tracey Emin came to sell her unmade bed to Charles Saatchi",
+      "url": "https://www.theartnewspaper.com/2021/08/19/thatcher-and-tampons-how-tracey-emin-came-to-sell-her-unmade-bed-to-charles-saatchi",
+      "publisher": "The Art Newspaper",
+      "publishedAt": "2021-08-19T12:00:00Z",
+      "retrievedAt": "2026-10-19T23:05:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2000년 찰스 사치가 £150,000에 구입(1999년 터너상 후보 이듬해), 2014년 크리스티에서 £2.5m에 매각, 제이 조플링이 크리스티안 뒤르크하임 백작을 대신해 응찰, 뒤르크하임이 테이트에 10년 대여, 워털루 아파트에서 우울증 시기에 제작한 것을 확인했다.",
+      "usageNote": null
+    },
+    {
+      "title": "\"My Bed\" by Tracey Emin – Between the Sheets of Art",
+      "url": "https://artincontext.org/?p=89563",
+      "publisher": "Art in Context",
+      "publishedAt": "2023-12-21T12:00:00Z",
+      "retrievedAt": "2026-10-19T23:05:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "사치 구입가 £150,000(2000년), 2014년 7월 크리스티 낙찰가 £2,546,500, 에민 본인 말로 '나흘 동안 침대에서 나오지 않았다'를 두 번째로 확인했다. 이 글은 구매자를 조플링으로 적지만 다른 출처(Art Newspaper·Artlyst·TIME)가 조플링은 대리 응찰자이고 구매자는 뒤르크하임이라고 밝혀 그쪽을 따랐다.",
+      "usageNote": "낙찰가 정확 금액의 교차 확인용."
+    },
+    {
+      "title": "Tate Secures Tracey Emin My Bed Installation For Long Term Loan",
+      "url": "https://artlyst.com/?p=168459",
+      "publisher": "Artlyst",
+      "publishedAt": "2014-07-29T12:00:00Z",
+      "retrievedAt": "2026-10-19T22:52:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "£2.5m 낙찰(작가 기록), 제이 조플링이 뒤르크하임을 대신해 구입, 테이트에 10년 이상 대여, 1999년 터너상 후보, 1998년 워털루 아파트에서 제작을 확인했다.",
+      "usageNote": null
+    },
+    {
+      "title": "Tracey Emin's 'My Bed' Will Be Displayed at the Tate",
+      "url": "https://time.com/3060115/tracey-emin-my-bed-tate",
+      "publisher": "TIME",
+      "publishedAt": "2014-07-29T12:00:00Z",
+      "retrievedAt": "2026-10-19T22:52:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2014-07-01 크리스티 런던 낙찰, 구매자 뒤르크하임, 테이트 10년 이상 대여, 사치가 2000년에 산 값의 18배 이상, 1999년 터너상 후보를 확인했다.",
+      "usageNote": null
+    },
+    {
+      "title": "Tracey Emin Unveils My Bed At Tate Britain Fifteen Years Later",
+      "url": "https://artlyst.com/tracey-emin-unveils-my-bed-at-tate-britain-fifteen-years-later/",
+      "publisher": "Artlyst",
+      "publishedAt": "2015-03-30T12:00:00Z",
+      "retrievedAt": "2026-10-19T22:58:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2015-03-31부터 테이트 브리튼 전시, 에민이 고른 프랜시스 베이컨 〈Study of a Dog〉(1952)·〈Reclining Woman〉(1961)과 함께 전시, 뒤르크하임 컬렉션 10년 대여를 확인했다.",
+      "usageNote": null
+    },
+    {
+      "title": "Perfect bedfellows: Tracey Emin and Francis Bacon",
+      "url": "https://www.tate.org.uk/tate-etc/issue-34-summer-2015/perfect-bedfellows",
+      "publisher": "Tate Etc.",
+      "publishedAt": "2015-06-01T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:58:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "테이트 공식 매거진에서 〈My Bed〉가 1999년 터너상 전시 뒤 테이트 브리튼에 돌아와 장기 대여로 전시된 것, 베이컨 두 점과 함께 건 것, 에민의 선택 이유를 확인했다.",
+      "usageNote": null
+    },
+    {
+      "title": "Tracey Emin: A Second Life",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/tracey-emin",
+      "publisher": "Tate",
+      "publishedAt": "2026-02-27T09:00:00Z",
+      "retrievedAt": "2026-10-19T22:45:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "테이트 모던 전시(2026-02-27~08-31) 공식 페이지. 〈My Bed〉(1998)가 전시 대표 이미지이며 'lent by The Duerckheim Collection'으로 표기된 것을 확인했다.",
+      "usageNote": "테이트 보도 사진은 별도 등록이 필요해 쓰지 않았다."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-19T14:05:26.780Z",
+      "attempt": 1,
+      "url": "https://louisiana.dk/en/exhibition/tracey-emin/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:05:27.163Z",
+      "attempt": 1,
+      "url": "https://www.designboom.com/art/exhibition-radar-october-2026/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:05:27.494Z",
+      "attempt": 1,
+      "url": "https://en.wikipedia.org/wiki/My_Bed",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:05:29.462Z",
+      "attempt": 1,
+      "url": "https://www.tretyakovgallerymagazine.com/news/tracey-emin-my-bed-market-first-time-christies-london-july-1-2014",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:05:30.308Z",
+      "attempt": 1,
+      "url": "https://www.theartnewspaper.com/2021/08/19/thatcher-and-tampons-how-tracey-emin-came-to-sell-her-unmade-bed-to-charles-saatchi",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:05:33.747Z",
+      "attempt": 1,
+      "url": "https://artincontext.org/?p=89563",
+      "httpStatus": 200,
+      "outcome": "verified",
+      "detail": "Redirected to https://artincontext.org/my-bed-by-tracey-emin/"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:05:35.877Z",
+      "attempt": 1,
+      "url": "https://artlyst.com/?p=168459",
+      "httpStatus": 200,
+      "outcome": "verified",
+      "detail": "Redirected to https://artlyst.com/tate-secures-tracey-emin-my-bed-installation-for-long-term-loan/"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:05:35.983Z",
+      "attempt": 1,
+      "url": "https://time.com/3060115/tracey-emin-my-bed-tate",
+      "httpStatus": 206,
+      "outcome": "verified",
+      "detail": "Redirected to https://time.com/3060115/tracey-emin-my-bed-tate/"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:05:36.514Z",
+      "attempt": 1,
+      "url": "https://artlyst.com/tracey-emin-unveils-my-bed-at-tate-britain-fifteen-years-later/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:05:37.059Z",
+      "attempt": 1,
+      "url": "https://www.tate.org.uk/tate-etc/issue-34-summer-2015/perfect-bedfellows",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:05:37.086Z",
+      "attempt": 1,
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/tracey-emin",
+      "httpStatus": 206,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [
+    {
+      "source": "openverse / commons",
+      "message": "〈My Bed〉 설치 사진은 Wikimedia Commons에 없고 Openverse API는 인증(401)을 요구해 작품 사진 없이 구성했다."
+    }
+  ],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-19T14:05:37.110Z",
+  "draftApprovedContentHash": "3160e93186defcd4fccbb177fa955a9329f92e310671a95dfddf700cac9fade2",
+  "renderedAt": "2026-10-19T14:05:46.242Z",
+  "deployedAt": "2026-10-19T22:46:38.489Z"
+}
