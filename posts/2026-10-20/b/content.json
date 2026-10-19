@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-20",
+  "slot": "b",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-19T22:20:00+09:00",
+  "generatedAt": "2026-10-19T23:10:00+09:00",
+  "package": {
+    "contentVersion": "v3",
+    "category": "art",
+    "slug": "ruth-asawa-beyeler-retrospective",
+    "topic": "루스 아사와 회고전, 바이엘러 재단(스위스 리헨/바젤) 2026-10-18 개막",
+    "headline": [
+      "16살에 수용소 간",
+      "철사 조각가"
+    ],
+    "coverLayout": "caption",
+    "hook": "🧵 수용소에 갇혔던 16살 소녀, 멕시코 시골에서 철사 엮는 법을 배웠어요.",
+    "body": [
+      "1942년 봄 캘리포니아예요. 일본계 미국인 루스 아사와는 16살에 가족과 함께 산타아니타 경마장으로 끌려가 말 마구간 두 칸에서 다섯 달을 살았어요. 아버지는 FBI가 두 달 전에 먼저 데려가서 한참을 얼굴도 못 봤고요. 그해 가을 가족은 아칸소주 로워 수용소로 옮겨졌어요. 8천 명이 갇힌 곳이었죠.",
+      "사실 수용소를 나온 뒤에도 끝이 아니었어요. 1943년 퀘이커 장학금으로 밀워키 사범대학에 갔는데, 일본계 학생을 교생으로 받아주는 학교가 없어서 졸업장을 못 받았어요. 1946년 블랙마운틴 칼리지로 옮겨 요제프 알버스에게 배웠고, 1947년 멕시코 톨루카에서 한 장인이 철사로 달걀 바구니 엮는 걸 보여줬어요. 그 손놀림이 평생의 조각이 됐죠. 1949년 샌프란시스코에 자리 잡고 아이 여섯을 키우며 철사를 엮었고, 기라델리 광장의 인어 분수와 유니언스퀘어의 샌프란시스코 분수도 이 사람 작품이에요. 밀워키 대학이 명예박사를 주겠다고 한 건 1998년. 거절하고 원래 받았어야 할 학사 졸업장을 달라고 했어요. 2013년 87세로 세상을 떠났어요.",
+      "회고전 'Ruth Asawa'가 스위스 바젤 근교 리헨의 바이엘러 재단 @fondationbeyeler 에서 10월 18일 열렸어요. 2027년 1월 10일까지. SFMOMA·MoMA와 같이 만든 전시예요."
+    ],
+    "question": "16살 때 제일 억울했던 일, 지금은 뭐가 되어 있나요?",
+    "credits": "산타아니타 1942: Russell Lee (Public domain) · 로워 수용소 표지: Maekju (CC BY-SA 4.0) · 드영 미술관 설치 전경: Alexandra Courtis (CC BY-SA 4.0) · 휘트니 미술관 〈Number 1-1955〉: Sharon Mollerus (CC BY 2.0) · 샌프란시스코 분수: BrokenSphere (CC BY 3.0), The wub (CC BY-SA 4.0) · 기라델리 광장 인어 분수: Nick Amoscato (Public domain) · 바이엘러 재단: Jean Housen (CC BY-SA 4.0) · 모두 Wikimedia Commons · 작품 © Estate of Ruth Asawa",
+    "editor": "Haein",
+    "hashtags": [
+      "#루스아사와",
+      "#RuthAsawa",
+      "#바이엘러재단",
+      "#철사조각",
+      "#미술전시"
+    ],
+    "slides": [
+      {
+        "index": 1,
+        "text": "16살에 수용소 간\n철사 조각가",
+        "image": {
+          "file": "06-whitney.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruth_Asawa_Number_1-_1955,_1954_1_15_18_-whitneymuseum_(40528958572).jpg",
+          "credit": "Sharon Mollerus, Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "checkedAt": "2026-10-19T22:57:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 2,
+        "text": "1942년 봄, 16살 루스는 경마장 마구간에 갇혔어요.",
+        "image": {
+          "file": "02-santa-anita.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santa-Anita-Assembly-Center-38735.jpg",
+          "credit": "Russell Lee, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-19T22:55:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 3,
+        "text": "아버지는 FBI가 먼저 데려갔고, 가족은 아칸소 수용소로 보내졌어요.",
+        "image": {
+          "file": "03-rohwer.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rohwer_Japanese_American_Relocation_Center_sign.jpg",
+          "credit": "Maekju, Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-19T22:55:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.368,
+              "y": 0,
+              "width": 0.504,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 4,
+        "text": "1947년 멕시코 시골에서 철사로 바구니 엮는 법을 배웠어요.",
+        "image": {
+          "file": "04-wire.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Untitled_Looped_Wire_Sculpture,_Ruth_Asawa,_De_Young_Museum_Permanent_Collection.jpg",
+          "credit": "Alexandra Courtis, Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-19T22:55:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 5,
+        "text": "1949년 샌프란시스코에 자리 잡고 아이 여섯을 키우며 철사를 엮었어요.",
+        "image": {
+          "file": "05-sf-fountain-detail.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruth_Asawa_San_Francisco_Fountain_11.JPG",
+          "credit": "BrokenSphere, Wikimedia Commons",
+          "license": "CC BY 3.0",
+          "checkedAt": "2026-10-19T22:57:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 6,
+        "text": "사실 대학은 일본계라는 이유로 졸업장을 안 줬고, 1998년에야 줬어요.",
+        "image": {
+          "file": "01-cover.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Untitled,_Ruth_Asawa,_De_Young_Museum_Permanent_Collection.jpg",
+          "credit": "Alexandra Courtis, Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-19T22:57:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 7,
+        "text": "기라델리 광장의 인어 분수도 이 사람 작품이에요.",
+        "image": {
+          "file": "07-ghirardelli.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fountain,_Ghirardelli_Square_(29998974418).jpg",
+          "credit": "Nick Amoscato, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-19T22:55:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0,
+              "y": 0.16,
+              "width": 0.8,
+              "height": 0.7
+            }
+          }
+        }
+      },
+      {
+        "index": 8,
+        "text": "스위스 바젤 바이엘러 재단, 내년 1월 10일까지 회고전이에요.",
+        "image": {
+          "file": "08-beyeler.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20220808_Basel_Beyeler_029.jpg",
+          "credit": "Jean Housen, Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-19T22:56:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 9,
+        "text": "16살 때 제일 억울했던 일, 지금은 뭐가 되어 있나요?",
+        "image": {
+          "file": "09-sf-fountain.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruth_Asawa_San_Francisco_Fountain_2023-02-19.jpg",
+          "credit": "The wub, Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-19T22:55:00+09:00",
+          "focus": "centre"
+        }
+      }
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 2,
+      "evidenceAndImages": 2,
+      "availableNow": 2,
+      "rationale": "미술 하는 친구와 역사 좋아하는 친구 양쪽에 보낼 이야기이고, 표지 두 줄(16살 수용소 → 철사 조각가)로 설명이 끝난다. 한국에서는 거의 알려지지 않은 작가라 새로움 2점. 사진 9장이 모두 퍼블릭 도메인·CC(수용소 역사 사진 2장, 공공 분수 3장, 미술관 설치 전경 4장)이고, 바이엘러 회고전이 2027년 1월 10일까지 열려 지금 볼 수 있다. 표지 헤드라인은 운영자가 고정한 문구를 그대로 썼다. 레이아웃은 자막 박스형: 키워드 '철사'를 키우면 반전(수용소)이 아니라 재료가 커져 훅이 약해진다고 봤다. 버린 표지 후보: ① 졸업장 못 받은 소녀 / 52년 뒤 받다 — 반전은 있지만 '왜 못 받았는지'가 빠져 한 문장이 안 된다. ② 철사 한 가닥으로 / 미술관 천장을 채운 여자 — 그림 설명이라 DM 이유가 약하다."
+    },
+    "unknowns": [
+      "'유럽 첫 회고전'(바이엘러·즈워너 표현)은 구겐하임 빌바오가 2026-03-19~09-13에 같은 순회전을 열었다고 적고 있어 맞지 않아 쓰지 않았다. 바이엘러 작품 수도 공식 자료에 없어 뺐다.",
+      "아버지와 떨어진 기간은 ruthasawa.com '약 2년', NMWA '6년'으로 달라 '한참'으로만 적었다. 6번의 '일본계라는 이유로'는 빌바오(반일 편견)와 NMWA(교생 거부) 설명을 합친 표현이다.",
+      "기라델리 인어 분수(Andrea)는 1966·1968년, 유니언스퀘어 분수는 1970~73년으로 매체마다 달라 두 분수 모두 연도를 쓰지 않았다.",
+      "산타아니타에서 디즈니 애니메이터들에게 그림을 배웠다는 일화는 아트바젤·ruthasawa.com에만 있어(독립 2곳 미확인) 넣지 않았다.",
+      "1·2등급 초상 사진이 없어(커닝햄 초상은 저작권 있음) 3번 인물 카드는 로워 수용소 표지 사진으로 대신했다. 2·3·9번은 가로 사진을 3:4로 세게 잘랐다(heavyCrop)."
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ruth Asawa — Fondation Beyeler exhibition page",
+      "url": "https://www.fondationbeyeler.ch/en/exhibitions/ruth-asawa",
+      "publisher": "Fondation Beyeler",
+      "publishedAt": "2026-10-18T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:25:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "회고전 기간 2026-10-18~2027-01-10, 장소 리헨/바젤, SFMOMA·MoMA와의 협력, 1949년 샌프란시스코 정착, 블랙마운틴 칼리지(알버스·풀러)를 확인했습니다. '유럽 첫 회고전' 표현은 여기서 나왔습니다.",
+      "usageNote": "보도용 이미지는 매체 전용·무편집 조건이라 쓰지 않았다. 공식 IG @fondationbeyeler는 사이트 푸터에서 확인."
+    },
+    {
+      "title": "Solo exhibitions 2026 — media release (PDF)",
+      "url": "https://archive-2026.fondationbeyeler.ch/fileadmin/user_upload/Presse/Medienmitteilungen_E/en2025/EN_MM_Solo_exhibitions_2026.pdf",
+      "publisher": "Fondation Beyeler",
+      "publishedAt": "2025-11-04T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:30:00+09:00",
+      "kind": "official_announcement",
+      "evidenceSummary": "2026년 개인전 일정 중 루스 아사와 회고전 2026-10-18~2027-01-10, 전시가 SFMOMA·MoMA와의 파트너십이며 바이엘러가 자체 구성했다는 점을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Ruth Asawa retrospective at Fondation Beyeler (Art Basel Stories)",
+      "url": "https://www.artbasel.com/stories/ruth-asawa-retrospective-fondation-beyeler-2026",
+      "publisher": "Art Basel",
+      "publishedAt": "2026-10-12T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:32:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "16살에 산타아니타 경마장에 수용, 블랙마운틴 칼리지, 아이 여섯, 기라델리 광장 인어 분수(첫 공공 커미션)와 유니언스퀘어 샌프란시스코 분수, 2013년 87세 사망, 바이엘러 회고전 기간을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Incarceration — Ruth Asawa (official estate site)",
+      "url": "https://ruthasawa.com/life/incarceration/",
+      "publisher": "Ruth Asawa Lanier, Inc.",
+      "publishedAt": "2020-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:35:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "1942년 2월 아버지 FBI 체포와 뉴멕시코 수용, 가족은 4월 산타아니타 경마장 마구간 두 칸에서 다섯 달, 9월 아칸소 로워 수용소(약 8천 명) 이동, 1943년 8월 퀘이커 장학금으로 밀워키행을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Black Mountain College — Ruth Asawa (official estate site)",
+      "url": "https://ruthasawa.com/life/black-mountain-college/",
+      "publisher": "Ruth Asawa Lanier, Inc.",
+      "publishedAt": "2020-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:36:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "1946~49년 블랙마운틴 칼리지 3년, 1947년 멕시코 톨루카에서 장인이 철사로 달걀 바구니 엮는 법을 보여 준 일을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Ruth Asawa — National Museum of Women in the Arts",
+      "url": "https://nmwa.org/?p=16561",
+      "publisher": "National Museum of Women in the Arts",
+      "publishedAt": "2020-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:38:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "16살 산타아니타 수용, 1943년 장학금으로 밀워키 주립 사범대학, 일본계 학생을 교생으로 받아 줄 학교가 없어 학위를 못 받은 일, 1998년 명예박사 제안을 거절하고 원래 학사 학위를 요구해 받은 일을 확인했습니다. 아버지와 떨어진 기간은 '6년'으로 적혀 있어 unknowns에 남겼습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Ruth Asawa: Retrospective — Guggenheim Bilbao",
+      "url": "https://www.guggenheim-bilbao.eus/en/exhibitions/ruth-asawa-retrospective",
+      "publisher": "Guggenheim Museum Bilbao",
+      "publishedAt": "2026-03-19T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:40:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "빌바오 회고전 2026-03-19~09-13, 1946년 블랙마운틴 입학, 반일 편견으로 교직 학위를 거부당한 일, 1949년 샌프란시스코 정착, 유니언스퀘어 분수를 확인했습니다. '유럽 첫 회고전' 표현과 어긋나는 근거입니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Ruth Asawa — David Zwirner news",
+      "url": "https://www.davidzwirner.com/news/2026/ruth-asawa-retrospective",
+      "publisher": "David Zwirner",
+      "publishedAt": "2026-10-01T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:42:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "바이엘러 회고전 일정과 SFMOMA·MoMA·빌바오 순회 경로를 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Visionary Sculptor Ruth Asawa Dies at 87",
+      "url": "https://rafu.com/2013/08/visionary-sculptor-ruth-asawa-dies-at-87/",
+      "publisher": "The Rafu Shimpo",
+      "publishedAt": "2013-08-07T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:45:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2013년 87세 사망, 로워 수용소, 밀워키 학위 거부와 1998년 수여, 유니언스퀘어 분수가 친구·학생 약 250명이 만든 밀가루 반죽 모형으로 제작된 일을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Ruth Asawa Found Her Artistic Calling In An Internment Camp",
+      "url": "https://www.wfae.org/2013-08-09/ruth-asawa-found-her-artistic-calling-in-an-internment-camp",
+      "publisher": "NPR (WFAE)",
+      "publishedAt": "2013-08-09T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:47:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "아들 폴 래니어 인터뷰로 수용소 경험, 밀가루·소금·물 반죽(baker's clay)으로 만든 샌프란시스코 분수, 2013년 사망을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Ruth Asawa: A Life of Art — SFMOMA",
+      "url": "https://www.sfmoma.org/read/a-life-of-art/",
+      "publisher": "SFMOMA",
+      "publishedAt": "2025-04-05T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:50:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "1947년 멕시코 톨루카 여행과 철사 바구니 기법, 블랙마운틴 칼리지, 샌프란시스코 공공 작업을 확인했습니다. 위키미디어의 SFMOMA 회고전 벽면 텍스트 사진(GualdimG, CC BY-SA 4.0)으로 1946~49년 BMC, 1947년 멕시코, 기라델리 인어 분수, 유니언스퀘어 분수의 반죽 패널 41장도 교차 확인했습니다.",
+      "usageNote": null
+    }
+  ],
+  "collectionErrors": []
+}

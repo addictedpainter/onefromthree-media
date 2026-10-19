@@ -1,0 +1,311 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-20",
+  "slot": "b",
+  "postId": "2026-10-20-b",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "16살에 수용소 간 철사 조각가",
+  "slug": "ruth-asawa-beyeler-retrospective",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "v3",
+    "topic": "루스 아사와 회고전, 바이엘러 재단(스위스 리헨/바젤) 2026-10-18 개막",
+    "category": "art",
+    "editor": "Haein",
+    "shareScore": 10,
+    "coverLayout": "caption",
+    "imageTiers": {
+      "public_domain": 9
+    }
+  },
+  "generatedAt": "2026-10-19T23:10:00+09:00",
+  "scheduledStartAt": "2026-10-19T18:30:00.000Z",
+  "actualStartedAt": "2026-10-19T22:20:00+09:00",
+  "imageCount": 10,
+  "contentHash": "488b13266b991369add370ae43f2c7211f4ea0687bc21f82c782e0cc8b936722",
+  "idempotencyKey": "scenenode:2026-10-20-b:488b13266b991369",
+  "media": [
+    {
+      "path": "01.png",
+      "sha256": "2f7e084964597896196de198b1c910109e24d86e99cef9763e7654bc88ee1f85",
+      "bytes": 2744336,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "02.png",
+      "sha256": "e6dfed88d229254c6afe14ab43e344f46c0a580f23943f4ecacd666ef7d0b16e",
+      "bytes": 1643653,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "03.png",
+      "sha256": "931a25d9c1b306a57943ec7fe2b38ba3aa1eb3eb9d79109ba55484e89b595515",
+      "bytes": 3330808,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "04.png",
+      "sha256": "38dcf7810261a45f29a45e2376d65e688b711fce411b6de2a4c1d6f1b853b8d1",
+      "bytes": 3049175,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "05.png",
+      "sha256": "be969570c304147b6c409e1ee43cfad2d87bb068294d29ec6966f0b1e4f81944",
+      "bytes": 3995393,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "06.png",
+      "sha256": "a394b7df72f880d0e12bbf0a1a8057f3d5830d6fb9f8d1628cfaf9771fbd54a4",
+      "bytes": 3405175,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "07.png",
+      "sha256": "ef454d4dba03ea6771ac8be778b62ad07c90b88d17db941cece94b5c5f0af8d6",
+      "bytes": 4139440,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "08.png",
+      "sha256": "e88a201cefff5fefde6d5bedfba75aae55fbf8174e3efff76735dabcfd3c0098",
+      "bytes": 3553172,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "09.png",
+      "sha256": "003ded6a0c47b6f12fd08423d3137a39c110c9896c38d7b3f7eddb8464fdc6c1",
+      "bytes": 4063611,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "10.png",
+      "sha256": "951b51e925fa836e489e9852016c09bcc749603edec2ae0af215782edb11bf5a",
+      "bytes": 69848,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ruth Asawa — Fondation Beyeler exhibition page",
+      "url": "https://www.fondationbeyeler.ch/en/exhibitions/ruth-asawa",
+      "publisher": "Fondation Beyeler",
+      "publishedAt": "2026-10-18T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:25:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "회고전 기간 2026-10-18~2027-01-10, 장소 리헨/바젤, SFMOMA·MoMA와의 협력, 1949년 샌프란시스코 정착, 블랙마운틴 칼리지(알버스·풀러)를 확인했습니다. '유럽 첫 회고전' 표현은 여기서 나왔습니다.",
+      "usageNote": "보도용 이미지는 매체 전용·무편집 조건이라 쓰지 않았다. 공식 IG @fondationbeyeler는 사이트 푸터에서 확인."
+    },
+    {
+      "title": "Solo exhibitions 2026 — media release (PDF)",
+      "url": "https://archive-2026.fondationbeyeler.ch/fileadmin/user_upload/Presse/Medienmitteilungen_E/en2025/EN_MM_Solo_exhibitions_2026.pdf",
+      "publisher": "Fondation Beyeler",
+      "publishedAt": "2025-11-04T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:30:00+09:00",
+      "kind": "official_announcement",
+      "evidenceSummary": "2026년 개인전 일정 중 루스 아사와 회고전 2026-10-18~2027-01-10, 전시가 SFMOMA·MoMA와의 파트너십이며 바이엘러가 자체 구성했다는 점을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Ruth Asawa retrospective at Fondation Beyeler (Art Basel Stories)",
+      "url": "https://www.artbasel.com/stories/ruth-asawa-retrospective-fondation-beyeler-2026",
+      "publisher": "Art Basel",
+      "publishedAt": "2026-10-12T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:32:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "16살에 산타아니타 경마장에 수용, 블랙마운틴 칼리지, 아이 여섯, 기라델리 광장 인어 분수(첫 공공 커미션)와 유니언스퀘어 샌프란시스코 분수, 2013년 87세 사망, 바이엘러 회고전 기간을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Incarceration — Ruth Asawa (official estate site)",
+      "url": "https://ruthasawa.com/life/incarceration/",
+      "publisher": "Ruth Asawa Lanier, Inc.",
+      "publishedAt": "2020-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:35:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "1942년 2월 아버지 FBI 체포와 뉴멕시코 수용, 가족은 4월 산타아니타 경마장 마구간 두 칸에서 다섯 달, 9월 아칸소 로워 수용소(약 8천 명) 이동, 1943년 8월 퀘이커 장학금으로 밀워키행을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Black Mountain College — Ruth Asawa (official estate site)",
+      "url": "https://ruthasawa.com/life/black-mountain-college/",
+      "publisher": "Ruth Asawa Lanier, Inc.",
+      "publishedAt": "2020-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:36:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "1946~49년 블랙마운틴 칼리지 3년, 1947년 멕시코 톨루카에서 장인이 철사로 달걀 바구니 엮는 법을 보여 준 일을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Ruth Asawa — National Museum of Women in the Arts",
+      "url": "https://nmwa.org/?p=16561",
+      "publisher": "National Museum of Women in the Arts",
+      "publishedAt": "2020-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:38:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "16살 산타아니타 수용, 1943년 장학금으로 밀워키 주립 사범대학, 일본계 학생을 교생으로 받아 줄 학교가 없어 학위를 못 받은 일, 1998년 명예박사 제안을 거절하고 원래 학사 학위를 요구해 받은 일을 확인했습니다. 아버지와 떨어진 기간은 '6년'으로 적혀 있어 unknowns에 남겼습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Ruth Asawa: Retrospective — Guggenheim Bilbao",
+      "url": "https://www.guggenheim-bilbao.eus/en/exhibitions/ruth-asawa-retrospective",
+      "publisher": "Guggenheim Museum Bilbao",
+      "publishedAt": "2026-03-19T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:40:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "빌바오 회고전 2026-03-19~09-13, 1946년 블랙마운틴 입학, 반일 편견으로 교직 학위를 거부당한 일, 1949년 샌프란시스코 정착, 유니언스퀘어 분수를 확인했습니다. '유럽 첫 회고전' 표현과 어긋나는 근거입니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Ruth Asawa — David Zwirner news",
+      "url": "https://www.davidzwirner.com/news/2026/ruth-asawa-retrospective",
+      "publisher": "David Zwirner",
+      "publishedAt": "2026-10-01T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:42:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "바이엘러 회고전 일정과 SFMOMA·MoMA·빌바오 순회 경로를 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Visionary Sculptor Ruth Asawa Dies at 87",
+      "url": "https://rafu.com/2013/08/visionary-sculptor-ruth-asawa-dies-at-87/",
+      "publisher": "The Rafu Shimpo",
+      "publishedAt": "2013-08-07T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:45:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2013년 87세 사망, 로워 수용소, 밀워키 학위 거부와 1998년 수여, 유니언스퀘어 분수가 친구·학생 약 250명이 만든 밀가루 반죽 모형으로 제작된 일을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Ruth Asawa Found Her Artistic Calling In An Internment Camp",
+      "url": "https://www.wfae.org/2013-08-09/ruth-asawa-found-her-artistic-calling-in-an-internment-camp",
+      "publisher": "NPR (WFAE)",
+      "publishedAt": "2013-08-09T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:47:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "아들 폴 래니어 인터뷰로 수용소 경험, 밀가루·소금·물 반죽(baker's clay)으로 만든 샌프란시스코 분수, 2013년 사망을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Ruth Asawa: A Life of Art — SFMOMA",
+      "url": "https://www.sfmoma.org/read/a-life-of-art/",
+      "publisher": "SFMOMA",
+      "publishedAt": "2025-04-05T00:00:00Z",
+      "retrievedAt": "2026-10-19T22:50:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "1947년 멕시코 톨루카 여행과 철사 바구니 기법, 블랙마운틴 칼리지, 샌프란시스코 공공 작업을 확인했습니다. 위키미디어의 SFMOMA 회고전 벽면 텍스트 사진(GualdimG, CC BY-SA 4.0)으로 1946~49년 BMC, 1947년 멕시코, 기라델리 인어 분수, 유니언스퀘어 분수의 반죽 패널 41장도 교차 확인했습니다.",
+      "usageNote": null
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-19T14:11:15.717Z",
+      "attempt": 1,
+      "url": "https://www.fondationbeyeler.ch/en/exhibitions/ruth-asawa",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:11:16.509Z",
+      "attempt": 1,
+      "url": "https://archive-2026.fondationbeyeler.ch/fileadmin/user_upload/Presse/Medienmitteilungen_E/en2025/EN_MM_Solo_exhibitions_2026.pdf",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:11:17.442Z",
+      "attempt": 1,
+      "url": "https://www.artbasel.com/stories/ruth-asawa-retrospective-fondation-beyeler-2026",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:11:17.997Z",
+      "attempt": 1,
+      "url": "https://ruthasawa.com/life/incarceration/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:11:18.551Z",
+      "attempt": 1,
+      "url": "https://ruthasawa.com/life/black-mountain-college/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:11:18.597Z",
+      "attempt": 1,
+      "url": "https://nmwa.org/?p=16561",
+      "httpStatus": 206,
+      "outcome": "verified",
+      "detail": "Redirected to https://nmwa.org/blog/nmwa-exhibitions/artist-spotlight-ruth-asawa/"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:11:19.663Z",
+      "attempt": 1,
+      "url": "https://www.guggenheim-bilbao.eus/en/exhibitions/ruth-asawa-retrospective",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:11:19.767Z",
+      "attempt": 1,
+      "url": "https://www.davidzwirner.com/news/2026/ruth-asawa-retrospective",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:11:22.189Z",
+      "attempt": 1,
+      "url": "https://rafu.com/2013/08/visionary-sculptor-ruth-asawa-dies-at-87/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:11:22.814Z",
+      "attempt": 1,
+      "url": "https://www.wfae.org/2013-08-09/ruth-asawa-found-her-artistic-calling-in-an-internment-camp",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:11:22.960Z",
+      "attempt": 1,
+      "url": "https://www.sfmoma.org/read/a-life-of-art/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-19T14:11:23.006Z",
+  "draftApprovedContentHash": "488b13266b991369add370ae43f2c7211f4ea0687bc21f82c782e0cc8b936722",
+  "renderedAt": "2026-10-19T14:11:33.453Z",
+  "deployedAt": "2026-10-19T22:46:38.475Z"
+}
