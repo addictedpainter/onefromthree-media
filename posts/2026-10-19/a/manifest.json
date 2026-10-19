@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "한국 화가 하나 몰랐던 RM 큐레이터 된다",
   "slug": "rm-sfmoma-between-you-and-me",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "RM이 큐레이션한 SFMOMA 전시 'RM x SFMOMA: Between You and Me'",
@@ -263,5 +263,8 @@
   "renderedAt": "2026-10-19T01:01:36.525Z",
   "deployedAt": "2026-10-19T12:12:37.312Z",
   "verifiedAt": "2026-10-19T12:12:44.535Z",
-  "publishAttemptedAt": "2026-10-19T13:00:00.015Z"
+  "publishAttemptedAt": "2026-10-19T13:00:00.015Z",
+  "publishedAt": "2026-10-19T13:01:13.682Z",
+  "externalPostId": "18132037819706611",
+  "externalUrl": "https://www.instagram.com/p/DerUSCAkYUw/"
 }
