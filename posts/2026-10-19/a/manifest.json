@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "한국 화가 하나 몰랐던 RM 큐레이터 된다",
   "slug": "rm-sfmoma-between-you-and-me",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "v3",
     "topic": "RM이 큐레이션한 SFMOMA 전시 'RM x SFMOMA: Between You and Me'",
@@ -37,7 +37,7 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-19/a/01.png",
       "verification": {
-        "verifiedAt": "2026-10-19T12:12:40.856Z",
+        "verifiedAt": "2026-10-19T13:00:00.015Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
@@ -54,7 +54,7 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-19/a/02.png",
       "verification": {
-        "verifiedAt": "2026-10-19T12:12:41.237Z",
+        "verifiedAt": "2026-10-19T13:00:00.015Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
@@ -71,7 +71,7 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-19/a/03.png",
       "verification": {
-        "verifiedAt": "2026-10-19T12:12:41.827Z",
+        "verifiedAt": "2026-10-19T13:00:00.015Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
@@ -88,7 +88,7 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-19/a/04.png",
       "verification": {
-        "verifiedAt": "2026-10-19T12:12:42.291Z",
+        "verifiedAt": "2026-10-19T13:00:00.015Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
@@ -105,7 +105,7 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-19/a/05.png",
       "verification": {
-        "verifiedAt": "2026-10-19T12:12:42.713Z",
+        "verifiedAt": "2026-10-19T13:00:00.015Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
@@ -122,7 +122,7 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-19/a/06.png",
       "verification": {
-        "verifiedAt": "2026-10-19T12:12:43.012Z",
+        "verifiedAt": "2026-10-19T13:00:00.015Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
@@ -139,7 +139,7 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-19/a/07.png",
       "verification": {
-        "verifiedAt": "2026-10-19T12:12:43.303Z",
+        "verifiedAt": "2026-10-19T13:00:00.015Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
@@ -156,7 +156,7 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-19/a/08.png",
       "verification": {
-        "verifiedAt": "2026-10-19T12:12:43.584Z",
+        "verifiedAt": "2026-10-19T13:00:00.015Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
@@ -173,7 +173,7 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-19/a/09.png",
       "verification": {
-        "verifiedAt": "2026-10-19T12:12:43.896Z",
+        "verifiedAt": "2026-10-19T13:00:00.015Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
@@ -190,7 +190,7 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-19/a/10.png",
       "verification": {
-        "verifiedAt": "2026-10-19T12:12:44.327Z",
+        "verifiedAt": "2026-10-19T13:00:00.015Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
@@ -257,10 +257,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 8,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-19T01:01:26.012Z",
   "draftApprovedContentHash": "9131381288b38feb65158baebd319217467f2192209502737923b4cd68cdbc92",
   "renderedAt": "2026-10-19T01:01:36.525Z",
   "deployedAt": "2026-10-19T12:12:37.312Z",
-  "verifiedAt": "2026-10-19T12:12:44.535Z"
+  "verifiedAt": "2026-10-19T12:12:44.535Z",
+  "publishAttemptedAt": "2026-10-19T13:00:00.015Z"
 }
