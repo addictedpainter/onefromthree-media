@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "25년 만에 나온 450억짜리 몬드리안",
   "slug": "mondrian-composition-iii-christies-2026",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "몬드리안 1920년작 '컴포지션 III' 크리스티 런던 첫 경매, 2523만 파운드",
@@ -302,5 +302,8 @@
   "renderedAt": "2026-10-19T14:02:39.636Z",
   "deployedAt": "2026-10-19T22:46:38.466Z",
   "verifiedAt": "2026-10-19T22:48:33.083Z",
-  "publishAttemptedAt": "2026-10-19T23:30:00.029Z"
+  "publishAttemptedAt": "2026-10-19T23:30:00.029Z",
+  "publishedAt": "2026-10-19T23:31:16.743Z",
+  "externalPostId": "18067272752790177",
+  "externalUrl": "https://www.instagram.com/p/DescZKeDSWd/"
 }
