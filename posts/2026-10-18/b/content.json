@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-18",
+  "slot": "b",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-18T15:41:51+09:00",
+  "generatedAt": "2026-10-18T16:25:00+09:00",
+  "package": {
+    "contentVersion": "v3",
+    "category": "art",
+    "slug": "monet-armistice-water-lilies-orangerie",
+    "topic": "모네 100주기 오랑주리 전과 휴전 다음 날의 수련 기증 편지",
+    "headline": [
+      "전쟁이 끝난 다음 날",
+      "모네가 보낸 건 꽃이었다"
+    ],
+    "hook": "🌸 휴전 다음 날, 일흔일곱의 모네는 나라에 꽃 그림 두 폭을 바치겠다고 썼습니다.",
+    "body": [
+      "1918년 11월 11일, 4년 넘게 이어진 전쟁이 멈췄는데요. 바로 다음 날 지베르니의 모네는 총리 클레망소에게 편지를 보냅니다. \"승리의 날에 서명하고 싶은 장식 패널 두 폭을 거의 끝냈다\"는 내용이었어요. 두 폭은 클레망소의 설득으로 대형 작품 여덟 점으로 늘어났고, 1922년에 기증 계약서에 서명했습니다.",
+      "사실 그때 모네는 백내장으로 눈이 흐려지고 있었어요. 빨강이 탁해 보인다고 썼고, 수술은 1923년에야 받았습니다. 그 눈으로 1890년대부터 1926년까지 수련만 200점이 넘게 그렸고, 오랑주리의 타원형 두 방에 둘러친 벽화는 이어 붙이면 90미터가 넘어요. 모네는 1926년 12월 5일 여든여섯에 세상을 떠났고, 장례식에서 관을 덮은 검은 천을 본 클레망소가 \"모네에게 검은색은 안 돼\" 하며 꽃무늬 천으로 바꿨다고 전해집니다. 수련 방은 다섯 달 뒤인 1927년 5월에 열렸습니다.",
+      "오랑주리(@museeorangerie)는 지금 100주기 전 '모네, 시간을 그리다(Monet, Painting Time)'를 열고 있어요. 2027년 1월 25일까지, 입장료 12.5유로(18세 미만 무료). 이어서 런던 테이트 모던에서 2027년 2월 25일부터 6월 27일까지 열립니다."
+    ],
+    "question": "지독한 한 해가 끝난 날, 여러분은 누구에게 뭘 보내고 싶나요?",
+    "credits": "Claude Monet 작품(퍼블릭 도메인) · Wikimedia Commons · Google Art Project · Nadar, Claude Monet (1899, 퍼블릭 도메인)",
+    "editor": "Haein",
+    "hashtags": [
+      "#모네",
+      "#오랑주리",
+      "#수련",
+      "#인상주의",
+      "#미술전시"
+    ],
+    "slides": [
+      {
+        "index": 1,
+        "text": "전쟁이 끝난 다음 날\n모네가 보낸 건 꽃이었다",
+        "image": {
+          "file": "07-water-lilies-1922.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Water_Lilies_-_Google_Art_Project.jpg",
+          "credit": "Claude Monet, Water Lilies (1922) · Google Art Project, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-18T16:11:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 2,
+        "text": "1918년 11월 11일, 4년 넘게 이어진 전쟁이 멈췄습니다.",
+        "image": {
+          "file": "05-rouen-morning.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Rouen_Cathedral,_Facade_(Morning_effect).JPG",
+          "credit": "Claude Monet, Rouen Cathedral, Facade (Morning effect) · Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-18T16:09:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 3,
+        "text": "다음 날, 일흔일곱의 모네는 총리 클레망소에게 편지를 썼습니다.",
+        "image": {
+          "file": "03-nadar.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Claude_Monet_1899_Nadar.jpg",
+          "credit": "Nadar, Claude Monet (1899) · Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-18T16:07:00+09:00",
+          "focus": "top"
+        }
+      },
+      {
+        "index": 4,
+        "text": "승리의 날에 서명해 수련 패널 두 폭을 나라에 바치겠다는 내용이었어요.",
+        "image": {
+          "file": "06-water-lilies-1906.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Water_Lilies_-_1906,_Ryerson.jpg",
+          "credit": "Claude Monet, Water Lilies (1906) · Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-18T16:10:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 5,
+        "text": "두 폭은 여덟 점으로 늘었고, 이어 붙이면 90미터가 넘습니다.",
+        "image": {
+          "file": "05-orangerie-setting-sun.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Water_Lilies_-_Setting_Sun_-_Google_Art_Project.jpg",
+          "credit": "Claude Monet, The Water Lilies – Setting Sun (1914–1926), Musée de l'Orangerie · Google Art Project, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-18T16:20:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 6,
+        "text": "사실 그때 모네는 백내장으로 눈이 흐려지고 있었고, 수술은 1923년이었어요.",
+        "image": {
+          "file": "06-japanese-footbridge.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Japanese_Footbridge,_Giverny_-_Google_Art_Project.jpg",
+          "credit": "Claude Monet, The Japanese Footbridge, Giverny (1920–1924) · Google Art Project, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-18T16:21:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 7,
+        "text": "\"모네에게 검은색은 안 돼.\" 장례식 날 클레망소는 관의 검은 천을 걷어 냈어요.",
+        "image": {
+          "file": "02-parasol.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Woman_with_a_Parasol_-_Madame_Monet_and_Her_Son_-_Google_Art_Project.jpg",
+          "credit": "Claude Monet, Woman with a Parasol – Madame Monet and Her Son (1875) · Google Art Project, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-18T16:06:00+09:00",
+          "focus": "top"
+        }
+      },
+      {
+        "index": 8,
+        "text": "수련 방은 1927년 5월에 열렸고, 100주기 전은 2027년 1월 25일까지입니다.",
+        "image": {
+          "file": "08-charing-cross.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Charing_Cross_Bridge_-_Google_Art_Project.jpg",
+          "credit": "Claude Monet, Charing Cross Bridge · Google Art Project, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-18T16:12:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 9,
+        "text": "지독한 한 해가 끝난 날, 여러분은 누구에게 뭘 보내고 싶나요?",
+        "image": {
+          "file": "01-cover.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Claude_Monet,_Impression,_soleil_levant.jpg",
+          "credit": "Claude Monet, Impression, soleil levant (1872) · Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-18T16:05:00+09:00",
+          "focus": "centre"
+        }
+      }
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 2,
+      "evidenceAndImages": 2,
+      "availableNow": 1,
+      "rationale": "훅 후보 세 개 중 선택: (1) '전쟁이 끝난 다음 날 / 모네가 보낸 건 꽃이었다' 채택, 날짜·사물·상식 어긋남이 한 줄에 있다. (2) '\"모네에게 검은색은 안 돼\" / 장례식에서 벗겨 낸 천'은 인용형이지만 전시 소식과 멀어 버렸다. (3) '수련 200점 / 흐린 눈으로 그렸다'는 백내장 일화가 널리 알려져 새로움이 약해 버렸다. 모네를 아는 사람에게 모르는 일화(휴전 편지)를 주므로 새로움 2점. 독립 출처가 편지·기증·개관·장례식을 각각 두 곳 이상 뒷받침하고 사진 9장이 모두 퍼블릭 도메인이다. 전시는 파리·런던이라 지금 볼 수 있는가는 1점. 합계 9점."
+    },
+    "unknowns": [
+      "수련 수는 오랑주리 전시 페이지 '200점 넘게', 수련 역사 페이지 '거의 300점', 기사 '250점 넘게'로 달라 '200점이 넘게'로만 적었다. 패널 수도 1922년 계약서 기준 19와 22로 출처가 달라 '작품 여덟 점'으로만 썼다.",
+      "벽화 총길이는 위키피디아 91m, 오랑주리 '거의 100m'로 달라 '90미터가 넘어요'로 적었다. 장례식의 꽃무늬 천 종류는 출처마다 달라 '꽃무늬 천'으로만 썼다.",
+      "카드에 쓴 그림이 오랑주리 100주기 전 출품작인지는 확인하지 않았고 출품작이라고 쓰지 않았다. 5장 그림은 오랑주리 상설 수련 방의 패널이며, 4:5 크롭에서 좌우가 많이 잘린다."
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monet, painting time",
+      "url": "https://www.musee-orangerie.fr/en/whats-on/exhibitions/monet-painting-time",
+      "publisher": "Musée de l'Orangerie",
+      "publishedAt": "2026-09-30T09:00:00Z",
+      "retrievedAt": "2026-10-18T16:00:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "전시 기간(2026-09-30~2027-01-25), 테이트 모던 순회(2027-02-25~06-27), 40점 가까운 회화, 일반 12.5유로·18세 미만 무료, 수련 200점 넘음, 휴전 다음 날 기증 제안, 1927년 공개를 확인했다.",
+      "usageNote": "페이지에 발행일이 없어 개막일을 적었다."
+    },
+    {
+      "title": "Monet, Painting Time: A Major Exhibition in Paris Marking the Centennial of His Death",
+      "url": "https://www.finestresullarte.info/en/exhibitions/monet-painting-time-a-major-exhibition-in-paris-marking-the-centennial-of-his-death",
+      "publisher": "Finestre sull'Arte",
+      "publishedAt": "2026-09-30T09:00:00Z",
+      "retrievedAt": "2026-10-18T16:01:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "전시 기간, 테이트 모던 순회, 40점 가까운 회화, 수련 연작이 1890년대부터 1926년 사망까지 이어진 점, 휴전 후 기증과 1927년 공개를 확인했다. 수련 수는 250점 넘는다고 적었다.",
+      "usageNote": "기사 발행일이 본문에 없어 개막일로 적었다. 입장료는 공식 페이지에서만 확인했다."
+    },
+    {
+      "title": "History of the Water Lilies cycle",
+      "url": "https://www.musee-orangerie.fr/en/node/33",
+      "publisher": "Musée de l'Orangerie",
+      "publishedAt": "2026-10-18T00:00:00Z",
+      "retrievedAt": "2026-10-18T16:23:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "1918년 11월 12일 모네가 클레망소에게 '승리의 날에 서명하고 싶은 장식 패널 두 폭을 거의 끝냈다'고 쓴 편지, 1922년 4월 12일 기증 계약, 대형 구성 8점, 타원형 두 방, 거의 100m 길이, 사후 몇 달 뒤 1927년 설치, 1926년 86세 사망을 확인했다.",
+      "usageNote": "페이지에 발행일이 없어 열람일을 적었다. 수련 수(거의 300점)는 다른 출처와 달라 쓰지 않았다."
+    },
+    {
+      "title": "« Monet, le cycle des Nymphéas » (Journal de l'année 2000)",
+      "url": "https://www.larousse.fr/archives/journaux_annee/2000/188/_monet_le_cycle_des_nympheas",
+      "publisher": "Larousse",
+      "publishedAt": "2000-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-18T16:23:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "1918년 11월 12일(휴전 다음 날) 편지와 '두 장식 패널을 승리의 날에 서명하고 싶다'는 인용, 1922년 공식 기증 서명과 구성 8점, 1927년 5월 개관을 확인했다.",
+      "usageNote": "패널 수를 22로 적어 오랑주리(19)와 다르다. 캡션에는 패널 수를 쓰지 않았다."
+    },
+    {
+      "title": "Musée de l'Orangerie",
+      "url": "https://en.wikipedia.org/wiki/Mus%C3%A9e_de_l%27Orangerie",
+      "publisher": "Wikipedia",
+      "publishedAt": "2026-10-18T00:00:00Z",
+      "retrievedAt": "2026-10-18T16:23:00+09:00",
+      "kind": "data",
+      "evidenceSummary": "벽화 8점·높이 2m·길이 91m, 타원형 두 방, 1922년 기증 확정, 클레망소가 오랑주리 배치를 추진, 1927년 5월 17일 개관을 확인했다.",
+      "usageNote": "열람일을 적었다. 길이는 오랑주리 '거의 100m'와 달라 '90미터가 넘어요'로 썼다."
+    },
+    {
+      "title": "Claude Monet",
+      "url": "https://en.wikipedia.org/wiki/Claude_Monet",
+      "publisher": "Wikipedia",
+      "publishedAt": "2026-10-18T00:00:00Z",
+      "retrievedAt": "2026-10-18T16:10:00+09:00",
+      "kind": "data",
+      "evidenceSummary": "1840년 11월 14일 출생, 백내장과 1923년 수술, 붉은·노란 색조 변화, 1926년 12월 5일 86세 사망, 장례식에서 클레망소가 검은 천을 꽃무늬 천으로 바꾼 일화를 확인했다.",
+      "usageNote": "열람일을 적었다. 수술 전 그림을 스스로 없앴다는 서술은 다른 출처를 못 찾아 쓰지 않았다."
+    },
+    {
+      "title": "How Monet's artistic vision shone through blurry eyes",
+      "url": "https://www.pbs.org/newshour/arts/how-monets-artistic-vision-shone-through-blurry-eyes",
+      "publisher": "PBS NewsHour",
+      "publishedAt": "2015-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-18T16:23:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "1922년 9월 법적 실명 판정 뒤 쿠텔라에게 진료, 1923년 수술, 빨강이 탁해 보였다는 모네의 말, 1921년 기증 철회 시도를 클레망소가 설득한 점, 사후 이듬해 봄 오랑주리 설치를 확인했다.",
+      "usageNote": "기사 발행일이 본문에 없어 연도만 적었다."
+    },
+    {
+      "title": "Monet timeline: 1926",
+      "url": "https://www.ngv.vic.gov.au/monet-timeline/lightboxesweb/29-2.php",
+      "publisher": "National Gallery of Victoria",
+      "publishedAt": "2013-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-18T16:23:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "12월 5일 사망, 12월 8일 장례식에서 클레망소가 검은 관보를 보고 'No! No black for Monet'라 말하고 꽃 빛깔 크레톤 천으로 바꾼 일화를 확인했다.",
+      "usageNote": "전시 연계 타임라인이라 발행 연도는 추정이다."
+    }
+  ],
+  "collectionErrors": []
+}
