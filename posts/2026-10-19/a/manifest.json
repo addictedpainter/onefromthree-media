@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "한국 화가 하나 몰랐던 RM 큐레이터 된다",
   "slug": "rm-sfmoma-between-you-and-me",
-  "status": "blocked_deploy",
+  "status": "awaiting_visual_review",
   "editorial": {
     "contentVersion": "v3",
     "topic": "RM이 큐레이션한 SFMOMA 전시 'RM x SFMOMA: Between You and Me'",
@@ -166,11 +166,10 @@
     }
   ],
   "collectionErrors": [],
-  "deploymentAttempts": 7,
+  "deploymentAttempts": 8,
   "publishAttemptCount": 0,
   "draftApprovedAt": "2026-10-19T01:01:26.012Z",
   "draftApprovedContentHash": "9131381288b38feb65158baebd319217467f2192209502737923b4cd68cdbc92",
   "renderedAt": "2026-10-19T01:01:36.525Z",
-  "deployedAt": "2026-10-19T12:10:52.095Z",
-  "lastError": "GitHub Pages verification failed after 6 attempts: https://addictedpainter.github.io/onefromthree-media/posts/2026-10-19/a/01.png returned HTTP 404, text/html, SHA b620507312c5."
+  "deployedAt": "2026-10-19T12:12:37.312Z"
 }
