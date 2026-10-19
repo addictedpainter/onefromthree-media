@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-20",
+  "slot": "a",
+  "postId": "2026-10-20-a",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "25년 만에 나온 450억짜리 몬드리안",
+  "slug": "mondrian-composition-iii-christies-2026",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "v3",
+    "topic": "몬드리안 1920년작 '컴포지션 III' 크리스티 런던 첫 경매, 2523만 파운드",
+    "category": "art",
+    "editor": "Haein",
+    "shareScore": 8,
+    "coverLayout": "keyword",
+    "imageTiers": {
+      "public_domain": 9
+    }
+  },
+  "generatedAt": "2026-10-19T23:20:00+09:00",
+  "scheduledStartAt": "2026-10-19T18:30:00.000Z",
+  "actualStartedAt": "2026-10-19T22:05:00+09:00",
+  "imageCount": 10,
+  "contentHash": "a4cc2f236ae4c026d22c938b9c5c664376f7f0fe0f9fb47a370930b3e129deab",
+  "idempotencyKey": "scenenode:2026-10-20-a:a4cc2f236ae4c026",
+  "media": [
+    {
+      "path": "01.png",
+      "sha256": "e83a3736d1d3d6a08f03ae5cddf7dcbec959735b6ed78703c85d3acc34c670ee",
+      "bytes": 2637120,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "02.png",
+      "sha256": "e97685fff9d1bb4ff96f07e184195110a59a9f63c89537f68f9fc08f6e36df81",
+      "bytes": 3350998,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "03.png",
+      "sha256": "c5227451aa8adf03fb850e6a2bc1af7ffcfb5b5b34d04aaab3db3af7df53d6b7",
+      "bytes": 3260162,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "04.png",
+      "sha256": "edcbe1cb1de1551f73de622076feaa0d7c7a0ac921a516fa60c7129bf74a3f41",
+      "bytes": 3407111,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "05.png",
+      "sha256": "9cbc0a381573d50d5eb715702113bec830e3cc440f2fd9cdd6f1a97c5b4b26d7",
+      "bytes": 2738995,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "06.png",
+      "sha256": "72d6da36bd4f08440b91338f30a8c32419626bbc12974cb1a834240a45f19e35",
+      "bytes": 2676349,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "07.png",
+      "sha256": "4e949c767aac75a15aeb7dd394690b955505cc71b57355450adf3a6938a8b3a4",
+      "bytes": 2769077,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "08.png",
+      "sha256": "bda9c689df4c45647b066335ff169563666a788bb42f5a822f163f5855fa896b",
+      "bytes": 2868805,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "09.png",
+      "sha256": "bac36d35fc8d67b9e5c517deb30e54d335169d9a5d9de527ff44ea1113c818f2",
+      "bytes": 2900952,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "10.png",
+      "sha256": "951b51e925fa836e489e9852016c09bcc749603edec2ae0af215782edb11bf5a",
+      "bytes": 69848,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Christie's achieves £219m in 'steady, solid' London sales",
+      "url": "https://www.theartnewspaper.com/2026/10/15/christies-achieves-£219m-in-steady-solid-london-sales",
+      "publisher": "The Art Newspaper",
+      "publishedAt": "2026-10-15T09:00:00Z",
+      "retrievedAt": "2026-10-19T22:20:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2026-10-14 크리스티 런던 이브닝 세일 결과 기사. 몬드리안 '컴포지션 III'(1920) 해머가 2150만 파운드, 수수료 포함 2520만 파운드, 추정가 2000만~3000만 파운드, 전화 응찰자(캐서린 아널드 대리) 낙찰, 제3자 보증, 1920년 연작 여덟 점 중 다섯 점이 테이트·MoMA 등 미술관 소장, 그날 밤 두 번째로 비싼 로트(1위는 칸딘스키 3160만 파운드)를 확인했다.",
+      "usageNote": null
+    },
+    {
+      "title": "Dutch artist Mondrian's Composition III fetches €29 million at London art auction",
+      "url": "https://nltimes.nl/2026/10/15/dutch-artist-mondrians-composition-iii-fetches-eu29-million-london-art-auction",
+      "publisher": "NL Times",
+      "publishedAt": "2026-10-15T16:40:00Z",
+      "retrievedAt": "2026-10-19T22:15:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "낙찰가 2523만 5000파운드(약 2900만 유로), 2026-10-14 크리스티 런던 20th/21st Century 이브닝 세일, 1920년 유화 53.4×51.2cm, 추정가 2000만~3000만 파운드 안, 경매 첫 출품, 25년간 공개 전시 없음, 1920년 큰 작품 여덟 점 중 다섯 점 미술관 소장, 몬드리안 최고가 기록 아님(2025년 크리스티 뉴욕 4760만 달러 사례 언급)을 확인했다.",
+      "usageNote": null
+    },
+    {
+      "title": "A potentially record-breaking Mondrian and a recently restituted Kandinsky painting: our pick of the October auctions",
+      "url": "https://www.theartnewspaper.com/2026/10/12/a-potentially-record-breaking-mondrian-and-a-recently-restituted-kandinsky-painting-our-pick-of-the-october-auctions",
+      "publisher": "The Art Newspaper",
+      "publishedAt": "2026-10-12T09:00:00Z",
+      "retrievedAt": "2026-10-19T22:15:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "경매 전 기사. '컴포지션 III'(1920) 추정가 2000만~3000만 파운드, 25년간 공개 전시 없음, 경매 첫 출품, 건축가 아르망 바르토스·셀레스트 부부의 옛 소장품, 1920년 주요작 여덟 점 중 다섯 점이 테이트·MoMA·암스테르담 시립미술관 소장, 2009년 이후 유럽 경매 최고 추정가(크리스티 설명)를 확인했다.",
+      "usageNote": null
+    },
+    {
+      "title": "Rare Mondrian painting to be auctioned for first time, estimated at up to €35 million",
+      "url": "https://nltimes.nl/2026/08/26/rare-mondrian-painting-auctioned-first-time-estimated-eu35-million",
+      "publisher": "NL Times",
+      "publishedAt": "2026-08-26T12:00:00Z",
+      "retrievedAt": "2026-10-19T22:25:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "경매 예고 기사. 바르토스 부부 소장 이력, 25년간 비공개, 1920년 여덟 점 중 다섯 점 미술관(테이트·MoMA·시립미술관), 몬드리안 최고가는 2022년 소더비 뉴욕 '컴포지션 No. II'(1930) 5100만 달러, 크리스티 키스 길의 '1920년은 급진적 추상을 완성한 시기'라는 설명을 확인했다.",
+      "usageNote": null
+    },
+    {
+      "title": "Pivotal 1920 Mondrian Heads to Christie's with £20–30 Million Estimate",
+      "url": "https://fadmagazine.com/2026/08/26/piet-mondrian-composition-iii-christies/",
+      "publisher": "FAD Magazine",
+      "publishedAt": "2026-08-26T10:00:00Z",
+      "retrievedAt": "2026-10-19T22:25:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "크리스티 발표를 옮긴 기사. 1920년 여덟 점 중 다섯 점의 소장처(테이트, MoMA, 암스테르담 시립미술관, 로마 국립근대미술관, 루트비히스하펜 빌헬름하크 미술관), 경매 첫 출품, 바르토스 부부 소장, 런던 공개 전시 10월 8일부터, 키스 길(크리스티 부회장) 인용을 확인했다.",
+      "usageNote": "경매작 사진은 'Courtesy Christie's Images Ltd.' 표기만 있고 보도 외 사용 조건이 없어 쓰지 않았다."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-19T14:02:27.270Z",
+      "attempt": 1,
+      "url": "https://www.theartnewspaper.com/2026/10/15/christies-achieves-£219m-in-steady-solid-london-sales",
+      "httpStatus": 200,
+      "outcome": "verified",
+      "detail": "Redirected to https://www.theartnewspaper.com/2026/10/15/christies-achieves-%C2%A3219m-in-steady-solid-london-sales"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:02:28.447Z",
+      "attempt": 1,
+      "url": "https://nltimes.nl/2026/10/15/dutch-artist-mondrians-composition-iii-fetches-eu29-million-london-art-auction",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:02:29.118Z",
+      "attempt": 1,
+      "url": "https://www.theartnewspaper.com/2026/10/12/a-potentially-record-breaking-mondrian-and-a-recently-restituted-kandinsky-painting-our-pick-of-the-october-auctions",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:02:29.159Z",
+      "attempt": 1,
+      "url": "https://nltimes.nl/2026/08/26/rare-mondrian-painting-auctioned-first-time-estimated-eu35-million",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-19T14:02:30.279Z",
+      "attempt": 1,
+      "url": "https://fadmagazine.com/2026/08/26/piet-mondrian-composition-iii-christies/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [
+    {
+      "source": "christies.com",
+      "message": "로트·보도자료 페이지가 스크립트 렌더링이라 curl·WebFetch로 본문을 읽지 못함"
+    }
+  ],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-19T14:02:30.327Z",
+  "draftApprovedContentHash": "a4cc2f236ae4c026d22c938b9c5c664376f7f0fe0f9fb47a370930b3e129deab",
+  "renderedAt": "2026-10-19T14:02:39.636Z",
+  "deployedAt": "2026-10-19T22:46:38.466Z"
+}
