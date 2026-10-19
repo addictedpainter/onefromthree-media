@@ -250,10 +250,10 @@
     }
   ],
   "collectionErrors": [],
-  "deploymentAttempts": 1,
+  "deploymentAttempts": 2,
   "publishAttemptCount": 0,
   "draftApprovedAt": "2026-10-18T10:14:41.119Z",
   "draftApprovedContentHash": "fd01ea76a95d2e570bf328b3386f5d722b04d5e6de71769c540da2f32ab04ad7",
   "renderedAt": "2026-10-18T12:22:23.468Z",
-  "deployedAt": "2026-10-19T00:44:02.171Z"
+  "deployedAt": "2026-10-19T00:45:44.292Z"
 }
