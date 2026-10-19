@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-19",
+  "slot": "a",
+  "postId": "2026-10-19-a",
+  "runMode": "scheduled",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "한국 화가 하나 몰랐던 RM 큐레이터 된다",
+  "slug": "rm-sfmoma-between-you-and-me",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "v3",
+    "topic": "RM이 큐레이션한 SFMOMA 전시 'RM x SFMOMA: Between You and Me'",
+    "category": "culture",
+    "editor": "Kang",
+    "shareScore": 9,
+    "coverLayout": "caption",
+    "imageTiers": {
+      "public_domain": 9
+    }
+  },
+  "generatedAt": "2026-10-19T03:58:00+09:00",
+  "scheduledStartAt": "2026-10-18T18:30:00.000Z",
+  "actualStartedAt": "2026-10-19T03:36:33+09:00",
+  "imageCount": 10,
+  "contentHash": "9131381288b38feb65158baebd319217467f2192209502737923b4cd68cdbc92",
+  "idempotencyKey": "scenenode:2026-10-19-a:9131381288b38feb",
+  "media": [
+    {
+      "path": "01.png",
+      "sha256": "510c905b2a98708fe95516f7e35afd1623151619d5b1afa685eb94ba464e1137",
+      "bytes": 1708927,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "02.png",
+      "sha256": "197cc2727537c76d658d0ff2de11da00632e2dbba98572f8b4cd1528c653a657",
+      "bytes": 2160848,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "03.png",
+      "sha256": "d5e1ec519d8a2bea0c3e82f3930318e2f4102fa525606dda098d8f4aa7fa989b",
+      "bytes": 4450344,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "04.png",
+      "sha256": "3ef6713066b796ef50aea43f881de5c3357f21bb292f2b14b470fe526ecd8f8b",
+      "bytes": 1937331,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "05.png",
+      "sha256": "712df5e5d8029cd047bb2f98324740f2b35cb1c6e2c1e3cf40106a5a68ac7f61",
+      "bytes": 3683907,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "06.png",
+      "sha256": "6e9ef847a2901ab87e513295956736e41ca14fc4c9fb2a6c6963d02cf7f5f033",
+      "bytes": 1812553,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "07.png",
+      "sha256": "a4aa9d5db95f75940c583bb68ed220bc2f3b0d2cfe17fe7b52187469d7943fa9",
+      "bytes": 2764790,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "08.png",
+      "sha256": "41cde1276469553ad24baa149c41ce12f7ac098f1a7dbc055440e5daeb284da9",
+      "bytes": 3015598,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "09.png",
+      "sha256": "03cc919c9429c64836217999bd0079529e73a81f28633777346928f1503abeb2",
+      "bytes": 2916832,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    },
+    {
+      "path": "10.png",
+      "sha256": "fb93eda7974355981bc85719bf013a60013630c170a9e60a5c4c15556b0c0adb",
+      "bytes": 66210,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/png"
+    }
+  ],
+  "sources": [
+    {
+      "title": "RM x SFMoMA: K-pop star turns his collection into a sanctuary of Korean art",
+      "url": "https://www.theartnewspaper.com/2026/10/07/rm-k-pop-star-bts-exhibition-sfmoma-korean-art",
+      "publisher": "The Art Newspaper",
+      "publishedAt": "2026-10-07T09:00:00Z",
+      "retrievedAt": "2026-10-19T03:45:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2018년 시카고 미술관 방문과 한국 작가를 몰랐던 일화, 약 8년의 수집, 178점(SFMOMA 소장 36점), 예약 5만 건, 개막 주말 매진, 2027년 2월 7일 폐막, 김환기 작품 포함을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "RM's SFMOMA exhibition draws 7,500 visitors, generates record ticket demand",
+      "url": "https://koreajoongangdaily.com/lifestyle/rms-sfmoma-exhibition-draws-7500-visitors-generates-record-ticket-demand/12911501",
+      "publisher": "Korea JoongAng Daily",
+      "publishedAt": "2026-10-08T09:00:00+09:00",
+      "retrievedAt": "2026-10-19T03:46:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "SFMOMA 보도자료 인용: 사전 예매가 이전 어느 전시보다 6배, 예약 5만 건 이상, 약 180점, 윤형근·장욱진·김환기·박래현 포함, RM이 공동 큐레이터들과 기획하고 한·영 작품 설명과 오디오 가이드를 직접 맡음, 2027년 2월 7일까지.",
+      "usageNote": null
+    },
+    {
+      "title": "SFMOMA — RM x SFMOMA: Between You and Me",
+      "url": "https://www.sfmoma.org/",
+      "publisher": "San Francisco Museum of Modern Art",
+      "publishedAt": "2026-10-03T00:00:00-07:00",
+      "retrievedAt": "2026-10-19T03:55:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "미술관 공식 사이트에서 전시가 10월 3일 개막했고 회기 중 표가 남아 있다는 안내, 공식 Instagram @sfmoma를 확인했습니다.",
+      "usageNote": "로스코·마티스 등 SFMOMA 소장 작가 목록은 Hypebeast·Khaleej Times 보도 요약에서 확인."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-19T01:01:25.010Z",
+      "attempt": 1,
+      "url": "https://www.theartnewspaper.com/2026/10/07/rm-k-pop-star-bts-exhibition-sfmoma-korean-art",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-19T01:01:25.830Z",
+      "attempt": 1,
+      "url": "https://koreajoongangdaily.com/lifestyle/rms-sfmoma-exhibition-draws-7500-visitors-generates-record-ticket-demand/12911501",
+      "httpStatus": 200,
+      "outcome": "verified",
+      "detail": "Redirected to https://www.koreajoongangdaily.com/lifestyle/rms-sfmoma-exhibition-draws-7500-visitors-generates-record-ticket-demand/12911501"
+    },
+    {
+      "attemptedAt": "2026-10-19T01:01:25.991Z",
+      "attempt": 1,
+      "url": "https://www.sfmoma.org/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-19T01:01:26.012Z",
+  "draftApprovedContentHash": "9131381288b38feb65158baebd319217467f2192209502737923b4cd68cdbc92",
+  "renderedAt": "2026-10-19T01:01:36.525Z",
+  "deployedAt": "2026-10-19T12:10:52.095Z"
+}

@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-19",
+  "slot": "a",
+  "runMode": "scheduled",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-19T03:36:33+09:00",
+  "generatedAt": "2026-10-19T03:58:00+09:00",
+  "package": {
+    "contentVersion": "v3",
+    "category": "culture",
+    "slug": "rm-sfmoma-between-you-and-me",
+    "topic": "RM이 큐레이션한 SFMOMA 전시 'RM x SFMOMA: Between You and Me'",
+    "headline": [
+      "한국 화가 하나 몰랐던 RM",
+      "큐레이터 된다"
+    ],
+    "coverLayout": "caption",
+    "hook": "🖼️ 2018년 RM은 한국 화가 이름을 하나도 못 댔대요. 그 사람이 지금 미국 미술관 전시를 골랐습니다.",
+    "body": [
+      "월드투어 중 혼자 들른 미술관이었어요. 교과서에서 본 피카소와 고흐는 알아봤는데, 정작 우리나라 화가는 한 명도 떠오르지 않았다고 합니다. 그게 부끄러웠대요. 그날부터 8년, 윤형근·장욱진·김환기를 한 점씩 사 모았습니다.",
+      "사실 이번 전시의 큐레이터가 RM 본인이에요. 자기 소장품과 미술관 소장품을 합쳐 약 180점, 장욱진 옆에 로스코가, 윤형근 옆에 마티스가 걸렸습니다. 작품 설명은 한국어와 영어로 직접 썼고, 오디오 가이드도 본인 목소리예요. 개막 전 예매만 5만 건, 이 미술관 역대 전시의 6배였습니다.",
+      "'RM x SFMOMA: Between You and Me', 샌프란시스코 현대미술관 @sfmoma 에서 2027년 2월 7일까지입니다."
+    ],
+    "question": "한국 화가 세 명, 바로 말할 수 있나요? 저는 두 명에서 막혔어요.",
+    "credits": "RM: Dispatch (CC BY 3.0), K-POPIT (CC BY 3.0), TV10 (CC BY 4.0) · SFMOMA: Beyond My Ken, Dllu, Nanaonwiki (CC BY-SA 4.0) · 시카고 미술관: Ken Lund (CC BY-SA 2.0) · 빈센트 반 고흐 〈침실〉, Art Institute of Chicago (Public domain)",
+    "editor": "Kang",
+    "hashtags": [
+      "#RM",
+      "#김남준",
+      "#SFMOMA",
+      "#한국미술",
+      "#미술전시"
+    ],
+    "slides": [
+      {
+        "index": 1,
+        "text": "한국 화가 하나 몰랐던 RM\n큐레이터 된다",
+        "image": {
+          "file": "01-rm-wkorea-2025.png",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:RM_at_W_Korea_Breast_Cancer_Campaign,_15_October_2025.png",
+          "credit": "TV10, Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "checkedAt": "2026-10-19T03:50:00+09:00",
+          "focus": "top"
+        }
+      },
+      {
+        "index": 2,
+        "text": "2018년 월드투어 중, RM은 혼자 시카고 미술관에 들렀습니다.",
+        "image": {
+          "file": "02-aic-building.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Art_Institute_of_Chicago_Building,_Chicago,_Illinois_(11004251406).jpg",
+          "credit": "Ken Lund, Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "checkedAt": "2026-10-19T03:50:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 3,
+        "text": "고흐는 바로 알아봤습니다. 한국 화가는 한 명도 떠오르지 않았고요.",
+        "image": {
+          "file": "04-vangogh-bedroom-aic.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg",
+          "credit": "Vincent van Gogh, The Bedroom (1889), Art Institute of Chicago",
+          "license": "Public domain",
+          "checkedAt": "2026-10-19T03:50:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 4,
+        "text": "그날부터 8년, 윤형근·장욱진·김환기를 한 점씩 사 모았습니다.",
+        "image": {
+          "file": "03-rm-la-2018.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:RM_for_BTS_5th_anniversary_party_in_LA_photoshoot_by_Dispatch,_May_2018_01.jpg",
+          "credit": "Dispatch, Wikimedia Commons",
+          "license": "CC BY 3.0",
+          "checkedAt": "2026-10-19T03:50:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 5,
+        "text": "그 그림들이 지금 샌프란시스코 현대미술관에 걸려 있습니다.",
+        "image": {
+          "file": "05-sfmoma-yerba-buena.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2017_SFMOMA_from_Yerba_Buena_Gardens.jpg",
+          "credit": "Beyond My Ken, Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-19T03:50:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 6,
+        "text": "큐레이터는 RM 본인. 작품 설명을 한국어와 영어로 직접 썼습니다.",
+        "image": {
+          "file": "06-rm-wkorea-2023.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:RM_at_W_Korea_Love_Your_W,_November_2023.jpg",
+          "credit": "K-POPIT, Wikimedia Commons",
+          "license": "CC BY 3.0",
+          "checkedAt": "2026-10-19T03:50:00+09:00",
+          "focus": "top"
+        }
+      },
+      {
+        "index": 7,
+        "text": "장욱진 옆에 로스코, 윤형근 옆에 마티스. 모두 약 180점입니다.",
+        "image": {
+          "file": "07-sfmoma-oculus.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oculus_interior_of_the_SFMoMA_dllu.jpg",
+          "credit": "Dllu, Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-19T03:50:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 8,
+        "text": "개막 전 예매 5만 건, 역대 6배. 2027년 2월 7일까지입니다.",
+        "image": {
+          "file": "08-sfmoma-night.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:SF_MOMA,_San_Francisco_at_night.jpg",
+          "credit": "Dllu, Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-19T03:50:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 9,
+        "text": "한국 화가 세 명, 바로 말할 수 있나요? 저는 두 명에서 막혔어요.",
+        "image": {
+          "file": "09-sfmoma-bridge.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_Bridge.jpg",
+          "credit": "Nanaonwiki, Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-19T03:50:00+09:00",
+          "focus": "centre"
+        }
+      }
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 1,
+      "evidenceAndImages": 2,
+      "availableNow": 2,
+      "rationale": "BTS 팬과 미술 좋아하는 친구 양쪽에 바로 보낼 이야기이고, 사진 9장이 모두 CC·퍼블릭 도메인이며 전시가 2027년 2월까지 열린다. 개막 2주가 지나 팬덤 안에서는 알려진 소식이라 새로움 1점. 2026-10-19 사용자 검토로 카피 교체(첫 안 '고흐는 알아도 한국 화가는 몰랐던 RM이 미국 미술관 예매 기록을 6배로 깼습니다'는 두 사실을 한 문장에 욱여넣어 AI 문장처럼 읽힘). 2차 수정('RM은 한국 화가를 몰랐다 / 8년 뒤 미술관을 채웠다')도 과거형 두 줄 대구 산문이라 거부. 최종 표지는 운영자 예문 그대로(헤드라인체: 조사·어미 덜고 현재형, 사실 하나). 버린 후보: ① 한국 화가 몰랐던 RM / 8년 만에 큐레이터 — 같은 뜻인데 호흡이 약함. ② RM 전시 예매 5만 건 / 미술관 기록 6배 — 자랑 숫자라 DM 이유가 약함."
+    },
+    "unknowns": [
+      "작품 수는 매체마다 178점(The Art Newspaper), 약 180점(코리아중앙데일리), 약 190~200점으로 달라 '약 180점'으로 적었다.",
+      "'예매 6배'는 SFMOMA 보도자료를 인용한 코리아중앙데일리 기사 기준이며, 5만 건 예약은 The Art Newspaper와 코리아중앙데일리가 같이 적었다.",
+      "2018년 시카고 미술관 일화는 RM의 2022년 뉴욕타임스 인터뷰를 인용한 보도(The Art Newspaper, 국내 매체)에서 확인했고, '한 명도 몰랐다'는 직접 인용이 아니라 보도의 요약이다.",
+      "3번 카드의 고흐 〈침실〉은 시카고 미술관 소장본(1889)이며 RM이 그날 이 그림을 봤다는 기록은 없다. 카드 문장도 그렇게 주장하지 않는다."
+    ]
+  },
+  "sources": [
+    {
+      "title": "RM x SFMoMA: K-pop star turns his collection into a sanctuary of Korean art",
+      "url": "https://www.theartnewspaper.com/2026/10/07/rm-k-pop-star-bts-exhibition-sfmoma-korean-art",
+      "publisher": "The Art Newspaper",
+      "publishedAt": "2026-10-07T09:00:00Z",
+      "retrievedAt": "2026-10-19T03:45:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2018년 시카고 미술관 방문과 한국 작가를 몰랐던 일화, 약 8년의 수집, 178점(SFMOMA 소장 36점), 예약 5만 건, 개막 주말 매진, 2027년 2월 7일 폐막, 김환기 작품 포함을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "RM's SFMOMA exhibition draws 7,500 visitors, generates record ticket demand",
+      "url": "https://koreajoongangdaily.com/lifestyle/rms-sfmoma-exhibition-draws-7500-visitors-generates-record-ticket-demand/12911501",
+      "publisher": "Korea JoongAng Daily",
+      "publishedAt": "2026-10-08T09:00:00+09:00",
+      "retrievedAt": "2026-10-19T03:46:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "SFMOMA 보도자료 인용: 사전 예매가 이전 어느 전시보다 6배, 예약 5만 건 이상, 약 180점, 윤형근·장욱진·김환기·박래현 포함, RM이 공동 큐레이터들과 기획하고 한·영 작품 설명과 오디오 가이드를 직접 맡음, 2027년 2월 7일까지.",
+      "usageNote": null
+    },
+    {
+      "title": "SFMOMA — RM x SFMOMA: Between You and Me",
+      "url": "https://www.sfmoma.org/",
+      "publisher": "San Francisco Museum of Modern Art",
+      "publishedAt": "2026-10-03T00:00:00-07:00",
+      "retrievedAt": "2026-10-19T03:55:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "미술관 공식 사이트에서 전시가 10월 3일 개막했고 회기 중 표가 남아 있다는 안내, 공식 Instagram @sfmoma를 확인했습니다.",
+      "usageNote": "로스코·마티스 등 SFMOMA 소장 작가 목록은 Hypebeast·Khaleej Times 보도 요약에서 확인."
+    }
+  ],
+  "collectionErrors": []
+}
