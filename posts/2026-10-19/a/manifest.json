@@ -34,7 +34,16 @@
       "bytes": 1708927,
       "width": 1080,
       "height": 1440,
-      "contentType": "image/png"
+      "contentType": "image/png",
+      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-19/a/01.png",
+      "verification": {
+        "verifiedAt": "2026-10-19T12:12:40.856Z",
+        "attempts": 1,
+        "httpStatus": 200,
+        "contentType": "image/png",
+        "bytes": 1708927,
+        "sha256": "510c905b2a98708fe95516f7e35afd1623151619d5b1afa685eb94ba464e1137"
+      }
     },
     {
       "path": "02.png",
@@ -42,7 +51,16 @@
       "bytes": 2160848,
       "width": 1080,
       "height": 1440,
-      "contentType": "image/png"
+      "contentType": "image/png",
+      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-19/a/02.png",
+      "verification": {
+        "verifiedAt": "2026-10-19T12:12:41.237Z",
+        "attempts": 1,
+        "httpStatus": 200,
+        "contentType": "image/png",
+        "bytes": 2160848,
+        "sha256": "197cc2727537c76d658d0ff2de11da00632e2dbba98572f8b4cd1528c653a657"
+      }
     },
     {
       "path": "03.png",
@@ -50,7 +68,16 @@
       "bytes": 4450344,
       "width": 1080,
       "height": 1440,
-      "contentType": "image/png"
+      "contentType": "image/png",
+      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-19/a/03.png",
+      "verification": {
+        "verifiedAt": "2026-10-19T12:12:41.827Z",
+        "attempts": 1,
+        "httpStatus": 200,
+        "contentType": "image/png",
+        "bytes": 4450344,
+        "sha256": "d5e1ec519d8a2bea0c3e82f3930318e2f4102fa525606dda098d8f4aa7fa989b"
+      }
     },
     {
       "path": "04.png",
@@ -58,7 +85,16 @@
       "bytes": 1937331,
       "width": 1080,
       "height": 1440,
-      "contentType": "image/png"
+      "contentType": "image/png",
+      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-19/a/04.png",
+      "verification": {
+        "verifiedAt": "2026-10-19T12:12:42.291Z",
+        "attempts": 1,
+        "httpStatus": 200,
+        "contentType": "image/png",
+        "bytes": 1937331,
+        "sha256": "3ef6713066b796ef50aea43f881de5c3357f21bb292f2b14b470fe526ecd8f8b"
+      }
     },
     {
       "path": "05.png",
@@ -66,7 +102,16 @@
       "bytes": 3683907,
       "width": 1080,
       "height": 1440,
-      "contentType": "image/png"
+      "contentType": "image/png",
+      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-19/a/05.png",
+      "verification": {
+        "verifiedAt": "2026-10-19T12:12:42.713Z",
+        "attempts": 1,
+        "httpStatus": 200,
+        "contentType": "image/png",
+        "bytes": 3683907,
+        "sha256": "712df5e5d8029cd047bb2f98324740f2b35cb1c6e2c1e3cf40106a5a68ac7f61"
+      }
     },
     {
       "path": "06.png",
@@ -74,7 +119,16 @@
       "bytes": 1812553,
       "width": 1080,
       "height": 1440,
-      "contentType": "image/png"
+      "contentType": "image/png",
+      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-19/a/06.png",
+      "verification": {
+        "verifiedAt": "2026-10-19T12:12:43.012Z",
+        "attempts": 1,
+        "httpStatus": 200,
+        "contentType": "image/png",
+        "bytes": 1812553,
+        "sha256": "6e9ef847a2901ab87e513295956736e41ca14fc4c9fb2a6c6963d02cf7f5f033"
+      }
     },
     {
       "path": "07.png",
@@ -82,7 +136,16 @@
       "bytes": 2764790,
       "width": 1080,
       "height": 1440,
-      "contentType": "image/png"
+      "contentType": "image/png",
+      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-19/a/07.png",
+      "verification": {
+        "verifiedAt": "2026-10-19T12:12:43.303Z",
+        "attempts": 1,
+        "httpStatus": 200,
+        "contentType": "image/png",
+        "bytes": 2764790,
+        "sha256": "a4aa9d5db95f75940c583bb68ed220bc2f3b0d2cfe17fe7b52187469d7943fa9"
+      }
     },
     {
       "path": "08.png",
@@ -90,7 +153,16 @@
       "bytes": 3015598,
       "width": 1080,
       "height": 1440,
-      "contentType": "image/png"
+      "contentType": "image/png",
+      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-19/a/08.png",
+      "verification": {
+        "verifiedAt": "2026-10-19T12:12:43.584Z",
+        "attempts": 1,
+        "httpStatus": 200,
+        "contentType": "image/png",
+        "bytes": 3015598,
+        "sha256": "41cde1276469553ad24baa149c41ce12f7ac098f1a7dbc055440e5daeb284da9"
+      }
     },
     {
       "path": "09.png",
@@ -98,7 +170,16 @@
       "bytes": 2916832,
       "width": 1080,
       "height": 1440,
-      "contentType": "image/png"
+      "contentType": "image/png",
+      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-19/a/09.png",
+      "verification": {
+        "verifiedAt": "2026-10-19T12:12:43.896Z",
+        "attempts": 1,
+        "httpStatus": 200,
+        "contentType": "image/png",
+        "bytes": 2916832,
+        "sha256": "03cc919c9429c64836217999bd0079529e73a81f28633777346928f1503abeb2"
+      }
     },
     {
       "path": "10.png",
@@ -106,7 +187,16 @@
       "bytes": 66210,
       "width": 1080,
       "height": 1440,
-      "contentType": "image/png"
+      "contentType": "image/png",
+      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-19/a/10.png",
+      "verification": {
+        "verifiedAt": "2026-10-19T12:12:44.327Z",
+        "attempts": 1,
+        "httpStatus": 200,
+        "contentType": "image/png",
+        "bytes": 66210,
+        "sha256": "fb93eda7974355981bc85719bf013a60013630c170a9e60a5c4c15556b0c0adb"
+      }
     }
   ],
   "sources": [
@@ -171,5 +261,6 @@
   "draftApprovedAt": "2026-10-19T01:01:26.012Z",
   "draftApprovedContentHash": "9131381288b38feb65158baebd319217467f2192209502737923b4cd68cdbc92",
   "renderedAt": "2026-10-19T01:01:36.525Z",
-  "deployedAt": "2026-10-19T12:12:37.312Z"
+  "deployedAt": "2026-10-19T12:12:37.312Z",
+  "verifiedAt": "2026-10-19T12:12:44.535Z"
 }
