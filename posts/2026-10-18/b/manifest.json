@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "전쟁이 끝난 다음 날 모네가 보낸 건 꽃이었다",
   "slug": "monet-armistice-water-lilies-orangerie",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "모네 100주기 오랑주리 전과 휴전 다음 날의 수련 기증 편지",
@@ -348,5 +348,8 @@
   "deployedAt": "2026-10-19T00:45:44.292Z",
   "verifiedAt": "2026-10-19T00:46:23.762Z",
   "publishAttemptedAt": "2026-10-19T01:00:00.019Z",
-  "manualPreviewPublishedOutsideStoryDate": true
+  "manualPreviewPublishedOutsideStoryDate": true,
+  "publishedAt": "2026-10-19T01:01:14.857Z",
+  "externalPostId": "18167214172469134",
+  "externalUrl": "https://www.instagram.com/p/DeqB47sicEl/"
 }
