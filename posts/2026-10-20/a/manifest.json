@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "25년 만에 나온 450억짜리 몬드리안",
   "slug": "mondrian-composition-iii-christies-2026",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "v3",
     "topic": "몬드리안 1920년작 '컴포지션 III' 크리스티 런던 첫 경매, 2523만 파운드",
@@ -37,8 +37,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/a/01.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:28.529Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-19T23:30:00.029Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 2637120,
@@ -54,8 +54,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/a/02.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:28.893Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-19T23:30:00.029Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 3350998,
@@ -71,8 +71,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/a/03.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:29.542Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-19T23:30:00.029Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 3260162,
@@ -88,8 +88,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/a/04.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:30.190Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-19T23:30:00.029Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 3407111,
@@ -105,8 +105,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/a/05.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:30.603Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-19T23:30:00.029Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 2738995,
@@ -122,8 +122,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/a/06.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:31.429Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-19T23:30:00.029Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 2676349,
@@ -139,8 +139,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/a/07.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:31.703Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-19T23:30:00.029Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 2769077,
@@ -156,8 +156,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/a/08.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:31.981Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-19T23:30:00.029Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 2868805,
@@ -173,8 +173,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/a/09.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:32.247Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-19T23:30:00.029Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 2900952,
@@ -190,8 +190,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/a/10.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:32.876Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-19T23:30:00.029Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 69848,
@@ -296,10 +296,11 @@
     }
   ],
   "deploymentAttempts": 11,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-19T14:02:30.327Z",
   "draftApprovedContentHash": "a4cc2f236ae4c026d22c938b9c5c664376f7f0fe0f9fb47a370930b3e129deab",
   "renderedAt": "2026-10-19T14:02:39.636Z",
   "deployedAt": "2026-10-19T22:46:38.466Z",
-  "verifiedAt": "2026-10-19T22:48:33.083Z"
+  "verifiedAt": "2026-10-19T22:48:33.083Z",
+  "publishAttemptedAt": "2026-10-19T23:30:00.029Z"
 }
