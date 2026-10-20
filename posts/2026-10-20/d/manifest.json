@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "35살에 죽은 화가의 140억짜리 그림",
   "slug": "popova-painterly-architectonic-record",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "류보프 포포바 〈회화적 건축〉(1918) 크리스티 런던 경매 작가 최고가 기록",
@@ -364,5 +364,8 @@
   "renderedAt": "2026-10-19T15:01:21.422Z",
   "deployedAt": "2026-10-19T22:46:38.530Z",
   "verifiedAt": "2026-10-19T22:48:32.708Z",
-  "publishAttemptedAt": "2026-10-20T12:00:00.046Z"
+  "publishAttemptedAt": "2026-10-20T12:00:00.046Z",
+  "publishedAt": "2026-10-20T12:01:34.193Z",
+  "externalPostId": "18480211456112014",
+  "externalUrl": "https://www.instagram.com/p/DetyQcjmw6k/"
 }
