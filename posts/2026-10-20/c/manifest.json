@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "안 치운 침대가 45억 작품 된 이유",
   "slug": "tracey-emin-my-bed-louisiana",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "v3",
     "topic": "트레이시 에민 〈My Bed〉, 루이지애나 미술관 'A Second Life'",
@@ -37,8 +37,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/c/01.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:26.964Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-20T08:30:00.173Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 2921103,
@@ -54,8 +54,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/c/02.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:27.428Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-20T08:30:00.173Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 3930996,
@@ -71,8 +71,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/c/03.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:27.708Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-20T08:30:00.173Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 1727892,
@@ -88,8 +88,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/c/04.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:27.948Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-20T08:30:00.173Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 2943336,
@@ -105,8 +105,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/c/05.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:28.386Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-20T08:30:00.173Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 3375957,
@@ -122,8 +122,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/c/06.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:28.725Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-20T08:30:00.173Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 2202969,
@@ -139,8 +139,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/c/07.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:29.161Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-20T08:30:00.173Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 3938821,
@@ -156,8 +156,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/c/08.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:29.444Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-20T08:30:00.173Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 3410678,
@@ -173,8 +173,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/c/09.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:29.774Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-20T08:30:00.173Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 3947311,
@@ -190,8 +190,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/c/10.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:30.796Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-20T08:30:00.173Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 69848,
@@ -400,10 +400,11 @@
     }
   ],
   "deploymentAttempts": 9,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-19T14:05:37.110Z",
   "draftApprovedContentHash": "3160e93186defcd4fccbb177fa955a9329f92e310671a95dfddf700cac9fade2",
   "renderedAt": "2026-10-19T14:05:46.242Z",
   "deployedAt": "2026-10-19T22:46:38.489Z",
-  "verifiedAt": "2026-10-19T22:48:30.993Z"
+  "verifiedAt": "2026-10-19T22:48:30.993Z",
+  "publishAttemptedAt": "2026-10-20T08:30:00.173Z"
 }
