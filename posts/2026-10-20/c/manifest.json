@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "안 치운 침대가 45억 작품 된 이유",
   "slug": "tracey-emin-my-bed-louisiana",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "트레이시 에민 〈My Bed〉, 루이지애나 미술관 'A Second Life'",
@@ -406,5 +406,8 @@
   "renderedAt": "2026-10-19T14:05:46.242Z",
   "deployedAt": "2026-10-19T22:46:38.489Z",
   "verifiedAt": "2026-10-19T22:48:30.993Z",
-  "publishAttemptedAt": "2026-10-20T08:30:00.173Z"
+  "publishAttemptedAt": "2026-10-20T08:30:00.173Z",
+  "publishedAt": "2026-10-20T08:31:09.859Z",
+  "externalPostId": "18130705688500696",
+  "externalUrl": "https://www.instagram.com/p/DetaLlbFecp/"
 }
