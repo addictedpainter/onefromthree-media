@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "16살에 수용소 간 철사 조각가",
   "slug": "ruth-asawa-beyeler-retrospective",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "루스 아사와 회고전, 바이엘러 재단(스위스 리헨/바젤) 2026-10-18 개막",
@@ -399,5 +399,8 @@
   "renderedAt": "2026-10-19T14:11:33.453Z",
   "deployedAt": "2026-10-19T22:46:38.475Z",
   "verifiedAt": "2026-10-19T22:48:30.497Z",
-  "publishAttemptedAt": "2026-10-20T03:30:00.013Z"
+  "publishAttemptedAt": "2026-10-20T03:30:00.013Z",
+  "publishedAt": "2026-10-20T03:31:12.338Z",
+  "externalPostId": "17992826013060708",
+  "externalUrl": "https://www.instagram.com/p/Des32VbACTq/"
 }
