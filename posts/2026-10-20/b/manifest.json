@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "16살에 수용소 간 철사 조각가",
   "slug": "ruth-asawa-beyeler-retrospective",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "v3",
     "topic": "루스 아사와 회고전, 바이엘러 재단(스위스 리헨/바젤) 2026-10-18 개막",
@@ -37,8 +37,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/b/01.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:26.948Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-20T03:30:00.013Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 2744336,
@@ -54,8 +54,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/b/02.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:27.478Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-20T03:30:00.013Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 1643653,
@@ -71,8 +71,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/b/03.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:27.875Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-20T03:30:00.013Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 3330808,
@@ -88,8 +88,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/b/04.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:28.163Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-20T03:30:00.013Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 3049175,
@@ -105,8 +105,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/b/05.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:28.593Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-20T03:30:00.013Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 3995393,
@@ -122,8 +122,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/b/06.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:28.902Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-20T03:30:00.013Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 3405175,
@@ -139,8 +139,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/b/07.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:29.300Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-20T03:30:00.013Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 4139440,
@@ -156,8 +156,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/b/08.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:29.717Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-20T03:30:00.013Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 3553172,
@@ -173,8 +173,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/b/09.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:29.977Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-20T03:30:00.013Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 4063611,
@@ -190,8 +190,8 @@
       "contentType": "image/png",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-20/b/10.png",
       "verification": {
-        "verifiedAt": "2026-10-19T22:48:30.271Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-20T03:30:00.013Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/png",
         "bytes": 69848,
@@ -393,10 +393,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 10,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-19T14:11:23.006Z",
   "draftApprovedContentHash": "488b13266b991369add370ae43f2c7211f4ea0687bc21f82c782e0cc8b936722",
   "renderedAt": "2026-10-19T14:11:33.453Z",
   "deployedAt": "2026-10-19T22:46:38.475Z",
-  "verifiedAt": "2026-10-19T22:48:30.497Z"
+  "verifiedAt": "2026-10-19T22:48:30.497Z",
+  "publishAttemptedAt": "2026-10-20T03:30:00.013Z"
 }
