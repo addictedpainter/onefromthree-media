@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-21",
+  "slot": "b",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-20T16:58:00+09:00",
+  "generatedAt": "2026-10-20T17:20:00+09:00",
+  "package": {
+    "contentVersion": "v3",
+    "category": "art",
+    "slug": "kroller-muller-van-gogh-all-88",
+    "topic": "크뢸러뮐러 미술관 'Van Gogh, All Our Paintings' (오테를로, 2026-09-15~2027-01-03), 소장 고흐 회화 88점 전체 전시",
+    "headline": [
+      "한 사람이 사 모은",
+      "고흐 그림들"
+    ],
+    "hook": "🌻 고흐 그림을 약 90점이나 사 모은 여자가 있었어요.",
+    "body": [
+      "1908년, 네덜란드 사업가의 아내 헬레네 크뢸러뮐러가 경매에서 고흐의 숲 그림 한 점을 110길더에 샀어요. 고흐가 세상을 떠난 지 18년 뒤예요. 그림값은 남편 안톤의 사업에서 나왔고, 1912년 5월엔 아를의 다리 그림, 1919년엔 고흐 자화상을 6,500길더에 샀어요. 그렇게 1929년 무렵까지 모은 고흐 그림이 약 90점, 종이 작품은 180점이 넘어요.",
+      "사실 지금 미술관에 있는 88점이 전부 그가 산 건 아니에요. 미술관도 '대부분'을 창립자가 1908~1930년에 사들였다고 적어요. '감자 먹는 사람들'의 두 번째 습작은 헬레네가 1939년 세상을 떠난 뒤, 1946년 4월에 미술관이 다른 고흐 그림 한 점과 2,500길더를 내주고 바꿔 왔어요. 헬레네는 1938년 국립공원 숲속에 미술관을 열고 이듬해 세상을 떠났어요.",
+      "네덜란드 오테를로의 크뢸러뮐러 미술관 @krollermullermuseum 에서 'Van Gogh, All Our Paintings' 전시로 고흐 회화 88점을 한자리에서 볼 수 있어요. 미술관은 1984년 이후 처음이라고 밝혔어요. 2027년 1월 3일까지, 화~일 10~17시예요."
+    ],
+    "question": "평생 한 사람 작품만 모은다면, 누구 걸 고를래요?",
+    "credits": "모든 고흐 작품: Kröller-Müller Museum 소장, Public domain · 〈밤의 카페 테라스〉 collectienederland.nl · 〈숲 가장자리〉 Wuselig (CC0) · 〈아를의 다리〉 Kröller-Müller Museum · 〈자화상〉 Google Art Project · 〈감자 먹는 사람들〉 습작 Paul Hermans · 〈시든 해바라기 네 송이〉·〈영원의 문에서〉 Anagoria 외 (Public domain) · 헬레네 크뢸러뮐러 초상: Spaarnestad (Public domain) · 미술관 입구: Gerardus (Public domain) · 모두 Wikimedia Commons",
+    "editor": "Haein",
+    "hashtags": [
+      "#고흐",
+      "#VanGogh",
+      "#크뢸러뮐러미술관",
+      "#반고흐",
+      "#미술전시"
+    ],
+    "slides": [
+      {
+        "index": 1,
+        "text": "한 사람이 사 모은\n고흐 그림들",
+        "image": {
+          "file": "01-cover.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Terrace_of_a_Caf%C3%A9_at_Night_(Place_du_Forum)_1888.jpg",
+          "credit": "Vincent van Gogh, Terrace of a Café at Night (1888), Kröller-Müller Museum, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-20T17:05:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 2,
+        "text": "1908년, 한 여자가 경매에서 고흐의 숲 그림 한 점을 샀어요.",
+        "image": {
+          "file": "02-edge-of-wood.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh-Waldrand-04251.jpg",
+          "credit": "Vincent van Gogh, Edge of a Wood (1883), photo Wuselig, Wikimedia Commons",
+          "license": "CC0",
+          "checkedAt": "2026-10-20T17:05:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 3,
+        "text": "헬레네 크뢸러뮐러. 그림값은 사업가 남편 안톤이 댔어요.",
+        "image": {
+          "file": "03-helene.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Helene_Kr%C3%B6ller-M%C3%BCller_(1869-1939),_kunstverzamelaar_en_stichter_van_het_Kr%C3%B6ller-M%C3%BCller_Museum_in,_SFA001014323.jpg",
+          "credit": "Helene Kröller-Müller, unknown photographer (Spaarnestad), Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-20T17:06:00+09:00",
+          "focus": "top"
+        }
+      },
+      {
+        "index": 4,
+        "text": "1912년엔 아를의 다리 그림까지, 20년 동안 고흐를 사들였어요.",
+        "image": {
+          "file": "07-langlois.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vincent_Willem_van_Gogh_-_Pont_de_Langlois_-_Kr%C3%B6ller-M%C3%BCller.jpg",
+          "credit": "Vincent van Gogh, Bridge at Arles (1888), Kröller-Müller Museum, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-20T17:07:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 5,
+        "text": "그렇게 모은 고흐 그림이 약 90점, 종이 작품은 180점이 넘어요.",
+        "image": {
+          "file": "05-self-portrait.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Self-portrait_-_Google_Art_Project.jpg",
+          "credit": "Vincent van Gogh, Self-portrait (1887), Kröller-Müller Museum KM 105.833, Google Art Project, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-20T17:07:00+09:00",
+          "focus": "top"
+        }
+      },
+      {
+        "index": 6,
+        "text": "사실 '감자 먹는 사람들'은 헬레네가 죽은 뒤인 1946년에 들어왔어요.",
+        "image": {
+          "file": "06-potato-eaters.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_(1853-1890)_De_aardappeleters_(tweede_voorstudie)_Kr%C3%B6ller-M%C3%BCller_Museum_Otterlo_23-8-2016_13-40-54.JPG",
+          "credit": "Vincent van Gogh, The Potato Eaters (second study, 1885), photo Paul Hermans, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-20T17:08:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 7,
+        "text": "1938년 숲속에 자기 미술관을 열고, 이듬해 세상을 떠났어요.",
+        "image": {
+          "file": "08-entrance.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrance_Kr%C3%B6ller-M%C3%BCller_Museum.JPG",
+          "credit": "Kröller-Müller Museum entrance, Gerardus, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-20T17:12:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.5,
+              "y": 0,
+              "width": 0.5,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 8,
+        "text": "네덜란드 크뢸러뮐러 미술관, 내년 1월 3일까지 88점 전부 걸려요.",
+        "image": {
+          "file": "04-sunflowers.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vier_uitgebloeide_zonnebloemen.jpg",
+          "credit": "Vincent van Gogh, Four Sunflowers Gone to Seed (1887), Kröller-Müller Museum, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-20T17:06:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 9,
+        "text": "평생 한 사람 작품만 모은다면, 누구 걸 고를래요?",
+        "image": {
+          "file": "09-eternity.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:1890-05_van_Gogh_At_Eternitys_Gate_anagoria.jpg",
+          "credit": "Vincent van Gogh, At Eternity's Gate (1890), photo Anagoria, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-20T17:08:00+09:00",
+          "focus": "centre"
+        }
+      }
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 1,
+      "evidenceAndImages": 2,
+      "availableNow": 2,
+      "rationale": "고흐 좋아하는 친구, 네덜란드 여행 가는 친구에게 바로 보낼 이야기. 고흐는 다 알지만 그림을 사 모은 한 사람의 이야기는 덜 알려져 새로움 1점. 독립 출처(미술관 공식 페이지·타임라인, AFP·Reuters 계열 보도, Art in Context, 호헤 벨뤼베 국립공원 전기)와 퍼블릭 도메인 사진 9장, 2027-01-03까지 볼 수 있음. 표지는 운영자가 2026-10-20 저녁 고른 C안 '한 사람이 사 모은 / 고흐 그림들'(88점 전부가 헬레네 구입분이 아니어서 숫자를 뺌. 미술관 표현은 '대부분', 감자 먹는 사람들 습작은 1946년 사후 입수). 버린 표지 후보: ① 고흐 그림 90점을 / 혼자 사 모은 여자 — 구입 총수가 출처마다 89·90·91점으로 달라 숫자 단정이 위험. ② 42년 만에 한 방에 / 고흐 그림 88점 — The Art Newspaper가 직전 전체 전시를 2003년으로 적어 '1984년 이후 처음'이 다툼 있음."
+    },
+    "unknowns": [
+      "[핵심] 88점 전부가 헬레네 구입분은 아니다. 미술관·AFP·QNA 모두 '대부분'(most)을 창립자가 1908~1930년에 샀다고만 쓴다. '감자 먹는 사람들' 습작은 그의 사후 1946년 4월 교환으로 입수(미술관 타임라인). 88점 중 정확한 헬레네 구입 수는 공식 자료에 없다.",
+      "구입 총수가 출처마다 다르다: 미술관 작품 페이지 1+88=89점, 미술관 갤러리 페이지 91점 이상(검색 요약만, 직접 열면 404), 반고흐 미술관 90점(검색 요약). 그래서 '약 90점'으로 썼다.",
+      "미술관은 구입 주체를 '부부'로도 '헬레네'로도 쓴다. 돈은 남편 안톤의 사업에서 나왔다(호헤 벨뤼베 전기). 호헤 벨뤼베는 고흐 구입 시작을 1912년으로 적어 미술관의 1908년과 다르다.",
+      "'1984년 이후 처음'은 미술관·AFP·QNA 표현, Art in Context는 The Art Newspaper를 인용해 직전 전체 전시를 2003년으로 적는다. 캡션에 '미술관은 ~라고 밝혔어요'로 붙였다. 110·6,500길더는 미술관 한 곳만 확인.",
+      "8장 해바라기는 전시장 사진이 아니다. 7장 입구 사진은 오른쪽 절반만 잘라 조각 작품을 뺐다. 2·4·6·8장은 가로 그림을 3:4로 잘라 양옆이 잘린다."
+    ]
+  },
+  "sources": [
+    {
+      "title": "Van Gogh: All Our Paintings — Kröller-Müller Museum",
+      "url": "https://krollermuller.nl/en/what-s-on/exhibitions/van-gogh-all-our-paintings",
+      "publisher": "Kröller-Müller Museum",
+      "publishedAt": "2026-09-15T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:00:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "회화 88점 전부를 1984년 이후 처음 함께 전시, 기간 2026-09-15~2027-01-03, 'Most of these were acquired between 1908 and 1930 by the museum's founder', 화~일 10~17시를 확인했습니다. 88점 중 헬레네 구입분의 정확한 수는 없습니다.",
+      "usageNote": "공식 IG instagram.com/krollermullermuseum 은 사이트 푸터 링크에서 확인. 보도용 이미지 라이선스는 표시되지 않아 쓰지 않았다."
+    },
+    {
+      "title": "Dutch museum displays all 88 Van Gogh paintings, first time since 1984 (AFP)",
+      "url": "https://www.khaleejtimes.com/entertainment/dutch-museum-displays-all-88-van-gogh-paintings-first-time-since-1984",
+      "publisher": "Khaleej Times / AFP",
+      "publishedAt": "2026-09-15T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:00:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "88점 전체 전시, 1984년 이후 처음, 대부분 창립자가 1908~1930년에 구입, '감자 먹는 사람들'(1885)·'밤의 카페 테라스'(1888)·'누에넌의 낡은 탑'(1884) 출품, 믿음·소망·사랑 세 주제 구성을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Dutch museum to showcase its full Van Gogh collection",
+      "url": "https://qna.org.qa/en/News-Area/News/2026-9/16/dutch-museum-to-showcase-its-full-van-gogh-collection",
+      "publisher": "Qatar News Agency",
+      "publishedAt": "2026-09-16T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:03:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "88점, 'most of which were acquired between 1908 and 1930', 1984년 이후 처음, 2027년 1월 3일까지를 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Vincent van Gogh — Kröller-Müller Museum collection page",
+      "url": "https://krollermuller.nl/en/vincent-van-gogh-artwork",
+      "publisher": "Kröller-Müller Museum",
+      "publishedAt": "2026-09-01T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:04:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "1908년 헬레네가 경매에서 '숲 가장자리'를 110길더에 첫 구입, 이후 20년간 부부가 회화 88점·종이 작품 172점 구입, 1912년 5월 '아를의 다리', 1919년 자화상 6,500길더를 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "The acquisition of The potato eaters — Kröller-Müller timeline",
+      "url": "https://tijdlijn.krollermuller.nl/en/timeline/the-acquisition-of-the-potato-eaters",
+      "publisher": "Kröller-Müller Museum",
+      "publishedAt": "2020-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:04:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "1946년 4월 미술관이 화상 Herman d'Audretsch와 교환('초승달 아래 걷는 연인이 있는 풍경' + 2,500길더)으로 '감자 먹는 사람들'을 입수한 경위를 확인했습니다. 헬레네 사후 입수 근거입니다.",
+      "usageNote": null
+    },
+    {
+      "title": "All 88 Van Gogh Paintings Reunited at Kröller-Müller",
+      "url": "https://artincontext.org/?p=130232",
+      "publisher": "Art in Context",
+      "publishedAt": "2026-09-16T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:03:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "'감자 먹는 사람들' 1946년 4월 입수(헬레네 사후 7년), 1908년 첫 구입 '숲 가장자리'·'시든 해바라기 네 송이', 1935년 국가 기증, 직전 전체 전시를 2003년으로 본 The Art Newspaper 인용을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Biography Anton and Helene Kröller-Müller",
+      "url": "https://hogeveluwe.nl/en/discover-the-park/historic-tales/biography-anton-and-helene-kroller-muller",
+      "publisher": "Het Nationale Park De Hoge Veluwe",
+      "publishedAt": "2020-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:10:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "헬레네 1869~1939, 1938년 미술관 개관과 이듬해 사망, 안톤이 사업으로 수집 자금을 댔다는 점을 확인했습니다. 고흐 구입 시작을 1912년으로 적어 미술관 자료(1908)와 다릅니다.",
+      "usageNote": null
+    }
+  ],
+  "collectionErrors": []
+}

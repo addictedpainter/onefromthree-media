@@ -1,0 +1,257 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-21",
+  "slot": "b",
+  "postId": "2026-10-21-b",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "한 사람이 사 모은 고흐 그림들",
+  "slug": "kroller-muller-van-gogh-all-88",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "v3",
+    "topic": "크뢸러뮐러 미술관 'Van Gogh, All Our Paintings' (오테를로, 2026-09-15~2027-01-03), 소장 고흐 회화 88점 전체 전시",
+    "category": "art",
+    "editor": "Haein",
+    "shareScore": 9,
+    "coverLayout": "caption",
+    "imageTiers": {
+      "public_domain": 9
+    }
+  },
+  "generatedAt": "2026-10-20T17:20:00+09:00",
+  "scheduledStartAt": "2026-10-20T18:30:00.000Z",
+  "actualStartedAt": "2026-10-20T16:58:00+09:00",
+  "imageCount": 10,
+  "contentHash": "03bf72cea922584fbfa72eef0db639dadcb735a3e14b3e90d46a636ab81cd4be",
+  "idempotencyKey": "scenenode:2026-10-21-b:03bf72cea922584f",
+  "media": [
+    {
+      "path": "01.jpg",
+      "sha256": "d6d9f1e66c187c5b8bdb9c9424692b552160e635174b134076899a3625ee8a49",
+      "bytes": 753765,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "ace11e107fec8af9278996ca05b13729b24731e168f2379a5090a6181a9df56b"
+    },
+    {
+      "path": "02.jpg",
+      "sha256": "b05c7b45afd6ff0ab2cfacd286b8aa246a8b572f80bea201352e30a205419bac",
+      "bytes": 684479,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "346eb4a749831c3dea914e09fae84608f21ec3f0ba25cf99be6359edbe34c5da"
+    },
+    {
+      "path": "03.jpg",
+      "sha256": "0512deec84a02d8dfbc69887de2f5ce3c774e9481daa1351ef10b5c6d7472021",
+      "bytes": 192550,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "487e52eab5ac70f77a0604e983d3dfe5c3dfa46270413e98dfaf666229f61b85"
+    },
+    {
+      "path": "04.jpg",
+      "sha256": "9456990f8814738eb1e1e53736d245d1e09ec70b41884ffc5b98aa534afd1009",
+      "bytes": 764657,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "ff0c5558f9f372ed907d09961ba975ef84a674a46fc7de8b2b23b02cb346a645"
+    },
+    {
+      "path": "05.jpg",
+      "sha256": "3bc30caf016ee53300a34919ab33fdd2df81e8989b2c3c68124d2108392cf8da",
+      "bytes": 768531,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "4afd6690fbff2ab001ca02452c661f5c9656ad27b9bafe4848e2342642c79102"
+    },
+    {
+      "path": "06.jpg",
+      "sha256": "ad694e8dcaf6a6072998df7246954be5aada082fbb44ccf497c63df98721084f",
+      "bytes": 328424,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "ed29099b96cac1c3138bc86051817ec85581a65f1e8f0a1a515eb32a622d7934"
+    },
+    {
+      "path": "07.jpg",
+      "sha256": "103b0855de04aef073ed88d87a699256c07aa4b42490550157a096a4ea530bfa",
+      "bytes": 680108,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "0e87ea3c84f90e0aff9fb950562c72c9f32f6c9bc045d3092a970b21305f1ca7"
+    },
+    {
+      "path": "08.jpg",
+      "sha256": "98fcc0bc3171992d953e8246eb436e4c713a97c78f96a56b3ba5b87926f5c535",
+      "bytes": 516891,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "67628fddc70083cb2f798f24fe1e0b855d5b7048837d87d316cd02677a8b15c1"
+    },
+    {
+      "path": "09.jpg",
+      "sha256": "d89eeaa08b016d971b1c450c3ef69d46257487473128e60e18ca24445a2ea7fe",
+      "bytes": 720622,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "1382c7acc4bc2fd90986a741a76201e30cb43848878f3b54b13d4d003628fa2f"
+    },
+    {
+      "path": "10.jpg",
+      "sha256": "483ff9319ff798c0b071305b0ea28dd226e1ffcf6a9deb97e1b62fbe9996c19e",
+      "bytes": 44550,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "f0aa1d42e9342b9bd771bc673e8d8c1723be3d1212825177751f42919a482829"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Van Gogh: All Our Paintings — Kröller-Müller Museum",
+      "url": "https://krollermuller.nl/en/what-s-on/exhibitions/van-gogh-all-our-paintings",
+      "publisher": "Kröller-Müller Museum",
+      "publishedAt": "2026-09-15T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:00:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "회화 88점 전부를 1984년 이후 처음 함께 전시, 기간 2026-09-15~2027-01-03, 'Most of these were acquired between 1908 and 1930 by the museum's founder', 화~일 10~17시를 확인했습니다. 88점 중 헬레네 구입분의 정확한 수는 없습니다.",
+      "usageNote": "공식 IG instagram.com/krollermullermuseum 은 사이트 푸터 링크에서 확인. 보도용 이미지 라이선스는 표시되지 않아 쓰지 않았다."
+    },
+    {
+      "title": "Dutch museum displays all 88 Van Gogh paintings, first time since 1984 (AFP)",
+      "url": "https://www.khaleejtimes.com/entertainment/dutch-museum-displays-all-88-van-gogh-paintings-first-time-since-1984",
+      "publisher": "Khaleej Times / AFP",
+      "publishedAt": "2026-09-15T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:00:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "88점 전체 전시, 1984년 이후 처음, 대부분 창립자가 1908~1930년에 구입, '감자 먹는 사람들'(1885)·'밤의 카페 테라스'(1888)·'누에넌의 낡은 탑'(1884) 출품, 믿음·소망·사랑 세 주제 구성을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Dutch museum to showcase its full Van Gogh collection",
+      "url": "https://qna.org.qa/en/News-Area/News/2026-9/16/dutch-museum-to-showcase-its-full-van-gogh-collection",
+      "publisher": "Qatar News Agency",
+      "publishedAt": "2026-09-16T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:03:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "88점, 'most of which were acquired between 1908 and 1930', 1984년 이후 처음, 2027년 1월 3일까지를 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Vincent van Gogh — Kröller-Müller Museum collection page",
+      "url": "https://krollermuller.nl/en/vincent-van-gogh-artwork",
+      "publisher": "Kröller-Müller Museum",
+      "publishedAt": "2026-09-01T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:04:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "1908년 헬레네가 경매에서 '숲 가장자리'를 110길더에 첫 구입, 이후 20년간 부부가 회화 88점·종이 작품 172점 구입, 1912년 5월 '아를의 다리', 1919년 자화상 6,500길더를 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "The acquisition of The potato eaters — Kröller-Müller timeline",
+      "url": "https://tijdlijn.krollermuller.nl/en/timeline/the-acquisition-of-the-potato-eaters",
+      "publisher": "Kröller-Müller Museum",
+      "publishedAt": "2020-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:04:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "1946년 4월 미술관이 화상 Herman d'Audretsch와 교환('초승달 아래 걷는 연인이 있는 풍경' + 2,500길더)으로 '감자 먹는 사람들'을 입수한 경위를 확인했습니다. 헬레네 사후 입수 근거입니다.",
+      "usageNote": null
+    },
+    {
+      "title": "All 88 Van Gogh Paintings Reunited at Kröller-Müller",
+      "url": "https://artincontext.org/?p=130232",
+      "publisher": "Art in Context",
+      "publishedAt": "2026-09-16T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:03:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "'감자 먹는 사람들' 1946년 4월 입수(헬레네 사후 7년), 1908년 첫 구입 '숲 가장자리'·'시든 해바라기 네 송이', 1935년 국가 기증, 직전 전체 전시를 2003년으로 본 The Art Newspaper 인용을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Biography Anton and Helene Kröller-Müller",
+      "url": "https://hogeveluwe.nl/en/discover-the-park/historic-tales/biography-anton-and-helene-kroller-muller",
+      "publisher": "Het Nationale Park De Hoge Veluwe",
+      "publishedAt": "2020-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:10:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "헬레네 1869~1939, 1938년 미술관 개관과 이듬해 사망, 안톤이 사업으로 수집 자금을 댔다는 점을 확인했습니다. 고흐 구입 시작을 1912년으로 적어 미술관 자료(1908)와 다릅니다.",
+      "usageNote": null
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-20T10:16:53.440Z",
+      "attempt": 1,
+      "url": "https://krollermuller.nl/en/what-s-on/exhibitions/van-gogh-all-our-paintings",
+      "httpStatus": 206,
+      "outcome": "verified",
+      "detail": "Redirected to https://www.krollermuller.nl/en/what-s-on/exhibitions/van-gogh-all-our-paintings"
+    },
+    {
+      "attemptedAt": "2026-10-20T10:16:53.476Z",
+      "attempt": 1,
+      "url": "https://www.khaleejtimes.com/entertainment/dutch-museum-displays-all-88-van-gogh-paintings-first-time-since-1984",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-20T10:16:54.682Z",
+      "attempt": 1,
+      "url": "https://qna.org.qa/en/News-Area/News/2026-9/16/dutch-museum-to-showcase-its-full-van-gogh-collection",
+      "httpStatus": 200,
+      "outcome": "verified",
+      "detail": "Redirected to https://qna.org.qa/en/news/news-details?id=dutch-museum-to-showcase-its-full-van-gogh-collection&date=16/09/2026"
+    },
+    {
+      "attemptedAt": "2026-10-20T10:16:54.851Z",
+      "attempt": 1,
+      "url": "https://krollermuller.nl/en/vincent-van-gogh-artwork",
+      "httpStatus": 206,
+      "outcome": "verified",
+      "detail": "Redirected to https://www.krollermuller.nl/en/about-the-collection/van-gogh-collection"
+    },
+    {
+      "attemptedAt": "2026-10-20T10:16:55.790Z",
+      "attempt": 1,
+      "url": "https://tijdlijn.krollermuller.nl/en/timeline/the-acquisition-of-the-potato-eaters",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-20T10:16:57.886Z",
+      "attempt": 1,
+      "url": "https://artincontext.org/?p=130232",
+      "httpStatus": 200,
+      "outcome": "verified",
+      "detail": "Redirected to https://artincontext.org/all-88-van-gogh-paintings-kroller-muller-2026/"
+    },
+    {
+      "attemptedAt": "2026-10-20T10:16:59.583Z",
+      "attempt": 1,
+      "url": "https://hogeveluwe.nl/en/discover-the-park/historic-tales/biography-anton-and-helene-kroller-muller",
+      "httpStatus": 206,
+      "outcome": "verified",
+      "detail": "Redirected to https://hogeveluwe.nl/en/nature-and-culture/culture/historic-tales/biographies-anton-en-helene-kroeller-mueller"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-20T10:16:59.607Z",
+  "draftApprovedContentHash": "03bf72cea922584fbfa72eef0db639dadcb735a3e14b3e90d46a636ab81cd4be",
+  "renderedAt": "2026-10-20T10:17:10.604Z",
+  "deployedAt": "2026-10-21T01:00:38.583Z"
+}
