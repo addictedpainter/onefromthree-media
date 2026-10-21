@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "알파고를 이긴 이세돌도 못 읽는 아내의 수",
   "slug": "lee-sedol-wifes-move",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "reel",
     "topic": "이세돌, KBS2 옥탑방의 문제아들(2026-10-20 방송)에서 아내의 수는 못 읽는다고 답함",
@@ -111,5 +111,8 @@
   "renderedAt": "2026-10-20T23:03:08.815Z",
   "deployedAt": "2026-10-21T01:00:38.514Z",
   "verifiedAt": "2026-10-21T01:02:40.846Z",
-  "publishAttemptedAt": "2026-10-21T12:32:14.153Z"
+  "publishAttemptedAt": "2026-10-21T12:32:14.153Z",
+  "publishedAt": "2026-10-21T12:32:59.103Z",
+  "externalPostId": "18092598695682942",
+  "externalUrl": "https://www.instagram.com/reel/DewalwYlKJn/"
 }
