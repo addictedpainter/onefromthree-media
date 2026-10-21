@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-21",
+  "slot": "e",
+  "runMode": "scheduled",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-21T03:36:00+09:00",
+  "generatedAt": "2026-10-21T03:50:00+09:00",
+  "package": {
+    "contentVersion": "reel",
+    "category": "culture",
+    "slug": "lee-sedol-wifes-move",
+    "topic": "이세돌, KBS2 옥탑방의 문제아들(2026-10-20 방송)에서 아내의 수는 못 읽는다고 답함",
+    "title": [
+      "알파고를 이긴 이세돌도",
+      "못 읽는 아내의 수"
+    ],
+    "window": "1.37:1",
+    "clips": [
+      {
+        "file": "clip-01.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=xXSM_yah2_U",
+        "channel": "KBS Entertain",
+        "start": 579.35,
+        "end": 586.95,
+        "fit": "cover",
+        "focusX": 0.85,
+        "focusY": 0.33,
+        "zoom": 1.82,
+        "audio": true
+      },
+      {
+        "file": "clip-02.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=xXSM_yah2_U",
+        "channel": "KBS Entertain",
+        "start": 590,
+        "end": 603.45,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.33,
+        "zoom": 1.82,
+        "audio": true
+      }
+    ],
+    "subtitleMode": "ours",
+    "subtitles": [
+      {
+        "text": "아내의 수도 보입니까?",
+        "start": 0.05,
+        "end": 2.9
+      },
+      {
+        "text": "아내의 수는\n영원히 알 수 없죠",
+        "start": 3.5,
+        "end": 5.7
+      },
+      {
+        "text": "안 돼요",
+        "start": 5.8,
+        "end": 7.5
+      },
+      {
+        "text": "수읽기가 안 돼요?",
+        "start": 8.1,
+        "end": 9.5
+      },
+      {
+        "text": "수읽기는 안 되지만\n정답은 몇 개 있습니다",
+        "start": 9.55,
+        "end": 12
+      },
+      {
+        "text": "\"오늘 나 달라진 거 없어?\"\n그럼 어떻게 얘기해요?",
+        "start": 12.1,
+        "end": 15
+      },
+      {
+        "text": "제일 힘들다",
+        "start": 16.3,
+        "end": 17.9
+      },
+      {
+        "text": "제일 힘들어\n땀이 막 쭉 난다",
+        "start": 18,
+        "end": 21
+      }
+    ],
+    "coverAt": 1,
+    "hook": "♟️ 알파고를 이긴 이세돌도 아내의 수는 못 읽는대요.",
+    "body": [
+      "어젯밤 KBS2 '옥탑방의 문제아들'에서 김숙이 바둑처럼 아내의 수도 보이냐고 묻자, 이세돌은 \"아내의 수는 영원히 알 수 없다\"고 답했어요.",
+      "옆에 있던 김종국은 \"수읽기는 안 되지만 정답은 몇 개가 있다\"고 자신했는데요. 양세찬이 \"오늘 나 달라진 거 없어?\"라는 질문을 던지자 \"생각만 해도 땀이 쭉쭉 난다\"며 웃었어요.",
+      "이세돌이 알파고와의 대국을 돌아본 이야기는 KBS Entertain 유튜브의 전체 클립에서 볼 수 있어요."
+    ],
+    "question": "\"오늘 나 달라진 거 없어?\" 여러분은 뭐라고 답하세요?",
+    "credits": "KBS Entertain (YouTube)",
+    "editor": "Kang",
+    "hashtags": [
+      "#이세돌",
+      "#옥탑방의문제아들",
+      "#김종국",
+      "#김숙",
+      "#양세찬"
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 1,
+      "evidenceAndImages": 2,
+      "availableNow": 2,
+      "rationale": "결혼한 친구, 연인에게 '알파고 이긴 이세돌도 아내 수는 못 읽는대'로 바로 보낼 이야기. 원본은 KBS Entertain 공식 유튜브 클립이고 세계일보·미디어파인(텐아시아도)이 같은 발언을 보도했다. 기사가 10-20 낮에 나와 새로움 1점. 화면 제목은 운영자가 10-20 저녁 편성에서 확정(1안). 버린 후보 제목: '은퇴한 바둑 천재도 / 못 읽는 수 하나'(대상이 흐림), '이세돌 9단의 / 결혼 생활 수읽기'(인물명 시작·라벨형)."
+    },
+    "unknowns": [
+      "원음을 전사 모델로 듣지 못했다(로컬 모델 없음). 자막은 유튜브 자동 자막(ko) 단어 시각, KBS가 원본에 박은 자막, 세계일보·미디어파인 인용을 대조해 썼다.",
+      "이세돌 답의 자동 자막은 '아내분의 그 수가 보이가(보일 수가) 없죠'로 잡혀 있다. 우리 자막 '아내의 수는 영원히 알 수 없죠'는 KBS 박힌 자막('영원히 알 수 없죠')과 세 기사 인용을 따른 것이라 실제 말과 몇 단어 다를 수 있다.",
+      "'안 돼요'(5.8~7.5초)는 자동 자막 기준이며 화자가 이세돌인지 확정하지 못했다(자막에 화자 이름은 쓰지 않음). 양세찬 질문은 자동 자막이 '오늘 나 뭐 변한 거 없어?', KBS 자막이 '오늘 나 달라진 거 없어?'다. KBS 표기를 썼다.",
+      "원본 587.0~590.0초(단체 화면, 가운데 KBS 자막 '결혼을 못 해봐서 모르시나 봐요?')는 자막을 창 밖으로 뺄 수 없어 잘라 냈다. 595.1~598.5초 전경 화면의 얼굴 확대 상자(그래픽)는 남는다.",
+      "릴스 주제 점수는 화제 증거 0(다음 랭킹·트렌드·조회 속도 3배 미달, 클립 조회는 채널 중앙값의 0.27배), 아는 얼굴 2, 반전 2, 참여 장치 0, 원본 2 = 6점으로 기준 7점에 1점 모자라지만, 운영자가 10-20 저녁 편성에서 확정한 주제라 만들었다."
+    ]
+  },
+  "sources": [
+    {
+      "title": "사실 신의 한 수는 68수였다? 이세돌이 아직도 생생히 기억하는 알파고와의 대국 [옥탑방의 문제아들/Problem Child in House] | KBS 261020 방송",
+      "url": "https://www.youtube.com/watch?v=xXSM_yah2_U",
+      "publisher": "KBS Entertain (YouTube, KBS 공식 채널)",
+      "publishedAt": "2026-10-20T13:34:42Z",
+      "retrievedAt": "2026-10-21T03:40:00+09:00",
+      "kind": "official_social",
+      "evidenceSummary": "KBS 공식 채널 KBS Entertain(UCK1sVuXaDvJeNwl9noN5nOA)의 2026-10-20 방송 클립(10분 5초). 9:39~9:45 김숙이 '아내의 수도 보입니까?'라고 묻고 이세돌이 답하는 장면에 KBS 자막 '바둑 천재는 아내의 수도 보이는지?', '영원히 알 수 없죠'가 박혀 있다. 9:51~9:54 김종국 '아니 수읽기는 안 되지만 정답은 몇 개 있습니다'(KBS 자막 '정답 몇 개가 있어요'), 9:54~9:57 '오늘 나 뭐 변한 거 없어? 그럼 어떻게 얘기해요?'(KBS 자막 '아내 기습 질문 \"오늘 나 달라진 거 없어?\"'), 9:58~10:03 '제일 힘들다 … 제일 힘들어. … 땀이 막 쭉 난다'(KBS 자막 '세찬아… 그게 제일 힘들다…')를 자동 생성 자막(ko)과 화면 자막으로 확인했다.",
+      "usageNote": "릴스 클립 원본: 579.35~586.95초, 590.0~603.45초."
+    },
+    {
+      "title": "바둑 천재 이세돌도 못 읽는 수…“아내의 수는 영원히 알 수 없어”",
+      "url": "https://www.segye.com/newsView/20261020507229",
+      "publisher": "세계일보",
+      "publishedAt": "2026-10-20T04:11:00Z",
+      "retrievedAt": "2026-10-21T03:42:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "김숙이 바둑 수읽기처럼 아내의 생각도 미리 읽을 수 있느냐고 묻자 이세돌이 \"아내의 수는 영원히 알 수 없다\"고 답했고, 김종국이 \"수읽기는 안 되지만 정답은 몇 개가 있다\"고 했다가 양세찬의 구체적 질문에 \"생각만 해도 땀이 쭉쭉 난다\"고 했다는 것을 확인했다.",
+      "usageNote": null
+    },
+    {
+      "title": "이세돌도 못 읽는 평생의 난제 “아내의 수”",
+      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=93130",
+      "publisher": "미디어파인",
+      "publishedAt": "2026-10-20T05:16:00Z",
+      "retrievedAt": "2026-10-21T03:46:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "이세돌 \"아내의 수는 영원히 알 수 없다\", 김종국 \"수읽기는 안 되지만 정답은 몇 개가 있다\", \"생각만 해도 땀이 쭉쭉 난다\" 인용과 김숙의 질문, 양세찬의 상황 질문을 확인했다.",
+      "usageNote": "텐아시아(https://www.tenasia.co.kr/article/2026102021074)도 같은 발언을 보도했다."
+    }
+  ],
+  "collectionErrors": []
+}
