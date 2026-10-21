@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "'후지산 36경'에 숨어 있던 10장",
   "slug": "hokusai-fuji-46-dulwich",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "호쿠사이 '후지산 36경'은 36장 + 나중에 붙은 10장 = 46장, 런던 덜리치 미술관에서 영국 첫 전체 전시(2026-10-20~2027-01-17)",
@@ -325,5 +325,8 @@
   "renderedAt": "2026-10-20T08:13:40.532Z",
   "deployedAt": "2026-10-21T01:00:38.578Z",
   "verifiedAt": "2026-10-21T01:02:38.926Z",
-  "publishAttemptedAt": "2026-10-21T01:02:53.256Z"
+  "publishAttemptedAt": "2026-10-21T01:02:53.256Z",
+  "publishedAt": "2026-10-21T01:04:10.109Z",
+  "externalPostId": "18641009986051631",
+  "externalUrl": "https://www.instagram.com/p/DevLzQ-jS_Y/"
 }
