@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "러닝 붐을 만든 기안84가 마라톤 대회에 던진 쓴소리",
   "slug": "kian84-marathon-weekend-roads",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "reel",
     "topic": "기안84, 인생84에서 서울 주말 마라톤 대회가 너무 많아 길이 막힌다고 말함(권화운 출연)",
@@ -39,8 +39,8 @@
       "durationSeconds": 22.6,
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-21/d/reel.mp4",
       "verification": {
-        "verifiedAt": "2026-10-21T01:02:35.305Z",
-        "attempts": 12,
+        "verifiedAt": "2026-10-21T09:30:00.087Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "video/mp4",
         "bytes": 6890485,
@@ -105,10 +105,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 12,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-20T10:25:32.343Z",
   "draftApprovedContentHash": "bb2836476af5dcff84dbdf0abb6ac8cd55317dad91082e0c1257426c7d19c6df",
   "renderedAt": "2026-10-20T10:25:39.853Z",
   "deployedAt": "2026-10-21T01:00:38.506Z",
-  "verifiedAt": "2026-10-21T01:02:35.894Z"
+  "verifiedAt": "2026-10-21T01:02:35.894Z",
+  "publishAttemptedAt": "2026-10-21T09:30:00.087Z"
 }
