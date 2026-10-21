@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "러닝 붐을 만든 기안84가 마라톤 대회에 던진 쓴소리",
   "slug": "kian84-marathon-weekend-roads",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "reel",
     "topic": "기안84, 인생84에서 서울 주말 마라톤 대회가 너무 많아 길이 막힌다고 말함(권화운 출연)",
@@ -111,5 +111,8 @@
   "renderedAt": "2026-10-20T10:25:39.853Z",
   "deployedAt": "2026-10-21T01:00:38.506Z",
   "verifiedAt": "2026-10-21T01:02:35.894Z",
-  "publishAttemptedAt": "2026-10-21T09:30:00.087Z"
+  "publishAttemptedAt": "2026-10-21T09:30:00.087Z",
+  "publishedAt": "2026-10-21T09:30:48.146Z",
+  "externalPostId": "17953058253277930",
+  "externalUrl": "https://www.instagram.com/reel/DewFw18Dnfd/"
 }
