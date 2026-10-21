@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "한 사람이 사 모은 고흐 그림들",
   "slug": "kroller-muller-van-gogh-all-88",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "v3",
     "topic": "크뢸러뮐러 미술관 'Van Gogh, All Our Paintings' (오테를로, 2026-09-15~2027-01-03), 소장 고흐 회화 88점 전체 전시",
@@ -38,8 +38,8 @@
       "sourceSha256": "ace11e107fec8af9278996ca05b13729b24731e168f2379a5090a6181a9df56b",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-21/b/01.jpg",
       "verification": {
-        "verifiedAt": "2026-10-21T01:02:35.335Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-21T04:00:00.061Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 753765,
@@ -56,8 +56,8 @@
       "sourceSha256": "346eb4a749831c3dea914e09fae84608f21ec3f0ba25cf99be6359edbe34c5da",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-21/b/02.jpg",
       "verification": {
-        "verifiedAt": "2026-10-21T01:02:35.600Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-21T04:00:00.061Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 684479,
@@ -74,8 +74,8 @@
       "sourceSha256": "487e52eab5ac70f77a0604e983d3dfe5c3dfa46270413e98dfaf666229f61b85",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-21/b/03.jpg",
       "verification": {
-        "verifiedAt": "2026-10-21T01:02:35.857Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-21T04:00:00.061Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 192550,
@@ -92,8 +92,8 @@
       "sourceSha256": "ff0c5558f9f372ed907d09961ba975ef84a674a46fc7de8b2b23b02cb346a645",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-21/b/04.jpg",
       "verification": {
-        "verifiedAt": "2026-10-21T01:02:36.088Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-21T04:00:00.061Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 764657,
@@ -110,8 +110,8 @@
       "sourceSha256": "4afd6690fbff2ab001ca02452c661f5c9656ad27b9bafe4848e2342642c79102",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-21/b/05.jpg",
       "verification": {
-        "verifiedAt": "2026-10-21T01:02:36.320Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-21T04:00:00.061Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 768531,
@@ -128,8 +128,8 @@
       "sourceSha256": "ed29099b96cac1c3138bc86051817ec85581a65f1e8f0a1a515eb32a622d7934",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-21/b/06.jpg",
       "verification": {
-        "verifiedAt": "2026-10-21T01:02:37.088Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-21T04:00:00.061Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 328424,
@@ -146,8 +146,8 @@
       "sourceSha256": "0e87ea3c84f90e0aff9fb950562c72c9f32f6c9bc045d3092a970b21305f1ca7",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-21/b/07.jpg",
       "verification": {
-        "verifiedAt": "2026-10-21T01:02:37.303Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-21T04:00:00.061Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 680108,
@@ -164,8 +164,8 @@
       "sourceSha256": "67628fddc70083cb2f798f24fe1e0b855d5b7048837d87d316cd02677a8b15c1",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-21/b/08.jpg",
       "verification": {
-        "verifiedAt": "2026-10-21T01:02:37.531Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-21T04:00:00.061Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 516891,
@@ -182,8 +182,8 @@
       "sourceSha256": "1382c7acc4bc2fd90986a741a76201e30cb43848878f3b54b13d4d003628fa2f",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-21/b/09.jpg",
       "verification": {
-        "verifiedAt": "2026-10-21T01:02:37.745Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-21T04:00:00.061Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 720622,
@@ -200,8 +200,8 @@
       "sourceSha256": "f0aa1d42e9342b9bd771bc673e8d8c1723be3d1212825177751f42919a482829",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-21/b/10.jpg",
       "verification": {
-        "verifiedAt": "2026-10-21T01:02:38.136Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-21T04:00:00.061Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 44550,
@@ -339,10 +339,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 11,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-20T10:16:59.607Z",
   "draftApprovedContentHash": "03bf72cea922584fbfa72eef0db639dadcb735a3e14b3e90d46a636ab81cd4be",
   "renderedAt": "2026-10-20T10:17:10.604Z",
   "deployedAt": "2026-10-21T01:00:38.583Z",
-  "verifiedAt": "2026-10-21T01:02:38.358Z"
+  "verifiedAt": "2026-10-21T01:02:38.358Z",
+  "publishAttemptedAt": "2026-10-21T04:00:00.061Z"
 }
