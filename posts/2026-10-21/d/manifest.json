@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-21",
+  "slot": "d",
+  "postId": "2026-10-21-d",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "러닝 붐을 만든 기안84가 마라톤 대회에 던진 쓴소리",
+  "slug": "kian84-marathon-weekend-roads",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "reel",
+    "topic": "기안84, 인생84에서 서울 주말 마라톤 대회가 너무 많아 길이 막힌다고 말함(권화운 출연)",
+    "category": "culture",
+    "editor": "Seol",
+    "shareScore": 9,
+    "durationSeconds": 22.6,
+    "clipCount": 2,
+    "channels": [
+      "인생84"
+    ]
+  },
+  "generatedAt": "2026-10-20T17:35:50+09:00",
+  "scheduledStartAt": "2026-10-20T18:30:00.000Z",
+  "actualStartedAt": "2026-10-20T17:05:00+09:00",
+  "imageCount": 1,
+  "contentHash": "bb2836476af5dcff84dbdf0abb6ac8cd55317dad91082e0c1257426c7d19c6df",
+  "idempotencyKey": "scenenode:2026-10-21-d:bb2836476af5dcff",
+  "media": [
+    {
+      "path": "reel.mp4",
+      "sha256": "c2dccccad31a9bd4e313995de4fc6031b4023d77c8bf9fea67133566109c5a38",
+      "bytes": 6890485,
+      "width": 1080,
+      "height": 1920,
+      "contentType": "video/mp4",
+      "durationSeconds": 22.6
+    }
+  ],
+  "sources": [
+    {
+      "title": "이번편은 직접 찍고 편집 해봤습니다.",
+      "url": "https://www.youtube.com/watch?v=YtxhBlwwUR4",
+      "publisher": "인생84 (YouTube, 기안84 공식 채널)",
+      "publishedAt": "2026-10-19T09:00:09Z",
+      "retrievedAt": "2026-10-20T17:08:00+09:00",
+      "kind": "official_social",
+      "evidenceSummary": "기안84 공식 채널 인생84(UC1Rz7a_DWtsE9cQwSyElE0Q)의 2026-10-19 영상(16분 57초). 3:12~3:46 구간에서 기안84가 '서울이(서울에서) 너무 많이 하니까 길이 겁나 막히는 거야. 주말에', '그것 때문에 좀 일반 사람들이 좀 안 좋게 생각할 수도 있겠다고', 권화운이 '지금 동시에 세 군데 열리잖아요', '진짜 딱 메이저만 딱 하고 하나의 뭔가 몰빵을 하면', 기안84가 '선택과 집중을 좀 해 주는 거죠'라고 말하는 것을 원본에 박힌 자막과 자동 생성 자막(ko)으로 확인했습니다. 원본 자막 표기는 '서울에서 너무 많이 하니까', '길이 겁나 막히는 거야 주말에 막', '그것 때문에 좀 일반 사람들이 좀 안 좋게 생각할 수도 있겠더라고', '길 다 틀어막아 놓곤', '선택과 집중을 좀 해 주는 거지 이렇게', '축구 월드컵을 매주 하지 않잖아요'입니다. 3:12 무렵 기안84가 권화운을 '연예계 달리기 1등', '달리기 한 지 아직 3년도 안 되는데 2시간 36분'이라고 소개합니다.",
+      "usageNote": "릴스 클립 원본: 206.35~226.45초(3:26.35~3:46.45), 227.6~230.1초(3:47.6~3:50.1). 원음은 한국어 원본 트랙(자동 더빙 영어 트랙 아님)."
+    },
+    {
+      "title": "기안84, 마라톤 대회에 쓴소리 \"서울서 주말에 너무 많이 해…길 다 틀어막아\"",
+      "url": "https://v.daum.net/v/20261020100337770",
+      "publisher": "뉴스1",
+      "publishedAt": "2026-10-20T01:03:00Z",
+      "retrievedAt": "2026-10-20T17:09:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "19일 유튜브 '인생84' 영상에서 기안84가 \"서울에서 (마라톤을) 너무 많이 하니까 길이 겁나 막히는 거다 주말에\", \"오히려 일반 사람들이 러닝을 그것 때문에 좀 안 좋게 생각할 수도 있겠더라\", \"길 다 틀어막아 놓곤\", \"선택과 집중을 좀 해주는 거다\"라고 했고, 권화운이 \"지금 동시에 세 군데 열린다\", \"진짜 딱 메이저만 하고 하나에 뭔가 몰빵을 하면?\"이라고 했다는 것, 권화운의 2시간 36분 기록을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "기안84, 우후죽순 마라톤 대회에 불편 \"길 다 틀어막아\"",
+      "url": "https://v.daum.net/v/20261020123126455",
+      "publisher": "뉴시스",
+      "publishedAt": "2026-10-20T03:31:00Z",
+      "retrievedAt": "2026-10-20T17:38:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "19일 유튜브 '인생84'의 '이번편은 직접 찍고 편집 해봤습니다.' 영상에서 기안84가 \"서울에서 (대회를) 너무 많이 하니까 주말에 길이 겁나 막히더라\", \"길을 다 틀어막아 놨다\"고 했고, 권화운이 \"진짜 메이저만 하고 하나에 몰빵을 하면 돈 벌지 않을까\"라고 했다는 것을 확인했습니다.",
+      "usageNote": "텐아시아 기사(https://www.tenasia.co.kr/article/2026102026444)도 같은 발언을 보도했으나 자동 검증에서 HTTP 500이 나 이 기사로 바꿨습니다."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-20T10:25:31.587Z",
+      "attempt": 1,
+      "url": "https://www.youtube.com/watch?v=YtxhBlwwUR4",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-20T10:25:31.850Z",
+      "attempt": 1,
+      "url": "https://v.daum.net/v/20261020100337770",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-20T10:25:32.198Z",
+      "attempt": 1,
+      "url": "https://v.daum.net/v/20261020123126455",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-20T10:25:32.343Z",
+  "draftApprovedContentHash": "bb2836476af5dcff84dbdf0abb6ac8cd55317dad91082e0c1257426c7d19c6df",
+  "renderedAt": "2026-10-20T10:25:39.853Z",
+  "deployedAt": "2026-10-21T01:00:38.506Z"
+}
