@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "완공된 오페라하우스를 한 번도 못 본 설계자",
   "slug": "utzon-never-saw-sydney-opera-house",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "요른 웃손, 시드니 오페라하우스 설계자가 완공된 건물을 끝내 보지 못한 이유 (1973-10-20 개관 53주년 다음 날)",
@@ -377,5 +377,8 @@
   "renderedAt": "2026-10-20T08:16:11.729Z",
   "deployedAt": "2026-10-21T01:00:38.574Z",
   "verifiedAt": "2026-10-21T01:02:43.335Z",
-  "publishAttemptedAt": "2026-10-21T06:30:00.053Z"
+  "publishAttemptedAt": "2026-10-21T06:30:00.053Z",
+  "publishedAt": "2026-10-21T06:30:58.946Z",
+  "externalPostId": "18164667100494257",
+  "externalUrl": "https://www.instagram.com/p/DevxOdtFakp/"
 }
