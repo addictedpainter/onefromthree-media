@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "완공된 오페라하우스를 한 번도 못 본 설계자",
   "slug": "utzon-never-saw-sydney-opera-house",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "v3",
     "topic": "요른 웃손, 시드니 오페라하우스 설계자가 완공된 건물을 끝내 보지 못한 이유 (1973-10-20 개관 53주년 다음 날)",
@@ -38,8 +38,8 @@
       "sourceSha256": "adedacb318a8e509f01af3d20cf18795fe528ef0d6ba9ca34d629f773b5befc9",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-21/c/01.jpg",
       "verification": {
-        "verifiedAt": "2026-10-21T01:02:40.535Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-21T06:30:00.053Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 174077,
@@ -56,8 +56,8 @@
       "sourceSha256": "b5c4a3df6282765db7ec86f65a21255d7392df2f70c798daa2207efc1d9715b8",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-21/c/02.jpg",
       "verification": {
-        "verifiedAt": "2026-10-21T01:02:40.803Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-21T06:30:00.053Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 227983,
@@ -74,8 +74,8 @@
       "sourceSha256": "53250a0d42c315f96d9b35666100ba8c6dff2d8268f0bd19ae56b487cfb9959d",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-21/c/03.jpg",
       "verification": {
-        "verifiedAt": "2026-10-21T01:02:41.026Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-21T06:30:00.053Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 685458,
@@ -92,8 +92,8 @@
       "sourceSha256": "aeff2a4ff52c222e7b6214d096a3840a9320e686179f8952f6f214349a347b01",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-21/c/04.jpg",
       "verification": {
-        "verifiedAt": "2026-10-21T01:02:41.788Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-21T06:30:00.053Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 329638,
@@ -110,8 +110,8 @@
       "sourceSha256": "4a5287a059427bd38560e1753c4bc075304b76fef187050549e96aa38cdd4da9",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-21/c/05.jpg",
       "verification": {
-        "verifiedAt": "2026-10-21T01:02:42.022Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-21T06:30:00.053Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 220172,
@@ -128,8 +128,8 @@
       "sourceSha256": "d47d12c88fea227b67e4e6884eb73dbe189e03d04390581316961ff9e98de2c6",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-21/c/06.jpg",
       "verification": {
-        "verifiedAt": "2026-10-21T01:02:42.251Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-21T06:30:00.053Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 492273,
@@ -146,8 +146,8 @@
       "sourceSha256": "97964c20f8191bda322b41221b3af1a8a763bd795850bb8fd723b154c2a44c4b",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-21/c/07.jpg",
       "verification": {
-        "verifiedAt": "2026-10-21T01:02:42.471Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-21T06:30:00.053Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 275740,
@@ -164,8 +164,8 @@
       "sourceSha256": "cbb57ecdade24e4c3ac322bf197dbad6372ef56202f07e9756dc02f9590dfce4",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-21/c/08.jpg",
       "verification": {
-        "verifiedAt": "2026-10-21T01:02:42.694Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-21T06:30:00.053Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 534269,
@@ -182,8 +182,8 @@
       "sourceSha256": "f08584d8f990a50e841d4241ebc90e9c90556430e49bc9dc9f80a5e8ab25f8ff",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-21/c/09.jpg",
       "verification": {
-        "verifiedAt": "2026-10-21T01:02:42.907Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-21T06:30:00.053Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 108464,
@@ -200,8 +200,8 @@
       "sourceSha256": "f0aa1d42e9342b9bd771bc673e8d8c1723be3d1212825177751f42919a482829",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-21/c/10.jpg",
       "verification": {
-        "verifiedAt": "2026-10-21T01:02:43.125Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-21T06:30:00.053Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 44550,
@@ -371,10 +371,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 11,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-20T08:16:02.890Z",
   "draftApprovedContentHash": "8c77fa18dd4ec33f5e2b0b82883e6f510598d75d2c70c26f6a531add34dce750",
   "renderedAt": "2026-10-20T08:16:11.729Z",
   "deployedAt": "2026-10-21T01:00:38.574Z",
-  "verifiedAt": "2026-10-21T01:02:43.335Z"
+  "verifiedAt": "2026-10-21T01:02:43.335Z",
+  "publishAttemptedAt": "2026-10-21T06:30:00.053Z"
 }
