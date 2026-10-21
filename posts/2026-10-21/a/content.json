@@ -1,0 +1,306 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-21",
+  "slot": "a",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-20T17:00:00+09:00",
+  "generatedAt": "2026-10-20T17:35:00+09:00",
+  "package": {
+    "contentVersion": "v3",
+    "category": "art",
+    "slug": "hokusai-fuji-46-dulwich",
+    "topic": "호쿠사이 '후지산 36경'은 36장 + 나중에 붙은 10장 = 46장, 런던 덜리치 미술관에서 영국 첫 전체 전시(2026-10-20~2027-01-17)",
+    "headline": [
+      "'후지산 36경'에",
+      "숨어 있던 10장"
+    ],
+    "coverLayout": "caption",
+    "hook": "🗻 호쿠사이의 '후지산 36경', 세어 보면 판화가 46장이에요.",
+    "body": [
+      "1830년 무렵 에도(지금의 도쿄)예요. 일흔 살의 가쓰시카 호쿠사이가 후지산을 이곳저곳에서 바라본 판화 시리즈를 시작했어요. 출판사는 니시무라야 요하치(에이주도). 막 값이 내려간 수입 안료 프러시안 블루를 하늘과 물에 듬뿍 썼고, '거대한 파도'와 '붉은 후지'도 이 시리즈에서 나왔어요.",
+      "사실 이 시리즈는 36장에서 끝나지 않았어요. 반응이 워낙 좋아서 출판사가 10장을 더 붙였거든요. 늘어난 10장에도 '후지산 36경(冨嶽三十六景)'이라는 제목이 그대로 붙어서, 다 모으면 46장이 돼요. 도카이도 가나야에서 사람들이 가마와 짐을 이고 강을 건너는 장면도 그 10장 중 하나예요.",
+      "이 46장이 영국에서 한자리에 걸린 건 이번이 처음이에요. 런던 덜리치 미술관 @dulwichgallery 에서 10월 20일 열린 'Hokusai: Thirty-six Views of Mount Fuji from the Iuchi Collection'이고, 2027년 1월 17일까지예요. 도쿄 국립서양미술관에 맡겨진 이우치 컬렉션에서 왔고, '붉은 후지'의 드문 다른 판본도 영국에 처음 걸렸어요. 성인 입장료는 기부금 포함 21.50파운드부터예요."
+    ],
+    "question": "끝난 줄 알았던 시리즈에 10편이 더 나오면, 마저 본다 vs 그만둔다?",
+    "credits": "가쓰시카 호쿠사이 〈후지산 36경〉 9점: The Metropolitan Museum of Art (Open Access, Public domain/CC0)",
+    "editor": "Haein",
+    "hashtags": [
+      "#호쿠사이",
+      "#Hokusai",
+      "#후지산36경",
+      "#우키요에",
+      "#덜리치미술관"
+    ],
+    "slides": [
+      {
+        "index": 1,
+        "text": "'후지산 36경'에\n숨어 있던 10장",
+        "image": {
+          "file": "01-great-wave.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://www.metmuseum.org/art/collection/search/45434",
+          "credit": "Katsushika Hokusai, The Great Wave, The Met Open Access",
+          "license": "Public domain (CC0)",
+          "checkedAt": "2026-10-20T17:12:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.21,
+              "y": 0.025,
+              "width": 0.479,
+              "height": 0.95
+            }
+          }
+        }
+      },
+      {
+        "index": 2,
+        "text": "1830년대 초 에도, 후지산만 그린 판화 36장이 나왔어요.",
+        "image": {
+          "file": "02-red-fuji.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://www.metmuseum.org/art/collection/search/36490",
+          "credit": "Katsushika Hokusai, Red Fuji, The Met Open Access",
+          "license": "Public domain (CC0)",
+          "checkedAt": "2026-10-20T17:12:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.33,
+              "y": 0.025,
+              "width": 0.491,
+              "height": 0.95
+            }
+          }
+        }
+      },
+      {
+        "index": 3,
+        "text": "그린 사람은 일흔 살에 이 시리즈를 시작한 호쿠사이예요.",
+        "image": {
+          "file": "03-storm.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://www.metmuseum.org/art/collection/search/56229",
+          "credit": "Katsushika Hokusai, Storm below Mount Fuji, The Met Open Access",
+          "license": "Public domain (CC0)",
+          "checkedAt": "2026-10-20T17:12:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.46,
+              "y": 0.025,
+              "width": 0.486,
+              "height": 0.95
+            }
+          }
+        }
+      },
+      {
+        "index": 4,
+        "text": "막 값이 내려간 수입 안료, 프러시안 블루를 듬뿍 썼어요.",
+        "image": {
+          "file": "04-misaka.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://www.metmuseum.org/art/collection/search/36495",
+          "credit": "Katsushika Hokusai, Reflection in Lake at Misaka, The Met Open Access",
+          "license": "Public domain (CC0)",
+          "checkedAt": "2026-10-20T17:12:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.29,
+              "y": 0.025,
+              "width": 0.487,
+              "height": 0.95
+            }
+          }
+        }
+      },
+      {
+        "index": 5,
+        "text": "반응이 워낙 좋아서 출판사가 10장을 더 붙였어요.",
+        "image": {
+          "file": "08-kanaya.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://www.metmuseum.org/art/collection/search/55236",
+          "credit": "Katsushika Hokusai, Fuji Seen from Kanaya on the Tokaido, The Met Open Access",
+          "license": "Public domain (CC0)",
+          "checkedAt": "2026-10-20T17:12:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.11,
+              "y": 0.025,
+              "width": 0.489,
+              "height": 0.95
+            }
+          }
+        }
+      },
+      {
+        "index": 6,
+        "text": "사실 늘어난 10장에도 '36경'이라는 제목이 그대로 붙었어요.",
+        "image": {
+          "file": "06-minobu.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://www.metmuseum.org/art/collection/search/36494",
+          "credit": "Katsushika Hokusai, View from the Other Side of Fuji from the Minobu River, The Met Open Access",
+          "license": "Public domain (CC0)",
+          "checkedAt": "2026-10-20T17:12:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.025,
+              "y": 0.025,
+              "width": 0.483,
+              "height": 0.95
+            }
+          }
+        }
+      },
+      {
+        "index": 7,
+        "text": "그래서 '후지산 36경'을 전부 모으면 46장이에요.",
+        "image": {
+          "file": "07-isawa.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://www.metmuseum.org/art/collection/search/55286",
+          "credit": "Katsushika Hokusai, Dawn at Isawa in Kai Province, The Met Open Access",
+          "license": "Public domain (CC0)",
+          "checkedAt": "2026-10-20T17:15:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.17,
+              "y": 0.025,
+              "width": 0.493,
+              "height": 0.95
+            }
+          }
+        }
+      },
+      {
+        "index": 8,
+        "text": "46장이 영국에 다 걸린 건 처음, 런던 덜리치 미술관에서 1월 17일까지예요.",
+        "image": {
+          "file": "05-tatekawa.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://www.metmuseum.org/art/collection/search/55225",
+          "credit": "Katsushika Hokusai, Tatekawa in Honjo, The Met Open Access",
+          "license": "Public domain (CC0)",
+          "checkedAt": "2026-10-20T17:12:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.43,
+              "y": 0.025,
+              "width": 0.498,
+              "height": 0.95
+            }
+          }
+        }
+      },
+      {
+        "index": 9,
+        "text": "끝난 줄 알았던 시리즈에 10편이 더 나오면, 마저 본다 vs 그만둔다?",
+        "image": {
+          "file": "09-climbers.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://www.metmuseum.org/art/collection/search/55281",
+          "credit": "Katsushika Hokusai, Groups of Mountain Climbers, The Met Open Access",
+          "license": "Public domain (CC0)",
+          "checkedAt": "2026-10-20T17:12:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.48,
+              "y": 0.025,
+              "width": 0.487,
+              "height": 0.95
+            }
+          }
+        }
+      }
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 2,
+      "evidenceAndImages": 2,
+      "availableNow": 1,
+      "rationale": "'거대한 파도'를 아는 친구, 일본 여행·우키요에 좋아하는 친구에게 바로 보낼 이야기이고 표지 두 줄로 '36경인데 46장'이 전달된다. 제목과 장수가 어긋난다는 건 거의 알려지지 않아 새로움 2점. 출처는 덜리치 공식 페이지·타임아웃·재팬 나카마·MOA 미술관·시카고 미술관·애슈몰린으로 독립 확인했고 사진 9장 모두 메트 오픈 액세스(퍼블릭 도메인)라 근거 2점. 런던 전시라 국내 독자에겐 간접이어서 지금 볼 수 있는가는 1점. 표지는 운영자가 고정한 문구를 그대로 썼고, 카드 5·6장에서 '숨어 있던'을 '나중에 붙은 10장'으로 정확히 풀었다. 표지는 자막 박스형: 키워드형(10장)으로 먼저 렌더했더니 작은 흰 헤드라인이 파도 거품 위에 얹혀 잘 안 읽혀서 바꿨다. 버린 표지 후보: ① '거대한 파도' 시리즈 / 사실은 46장 — 작품명으로 시작해 금지 목록에 걸린다. ② 36경이라더니 / 세어 보면 46장 — 숫자 두 개가 한 표지에 겹쳐 읽는 속도가 떨어진다."
+    },
+    "unknowns": [
+      "추가 10장을 '우라 후지(裏富士)'로 묶어 부르는 표현은 판화상 한 곳에서만 확인돼 쓰지 않았다. '숨어 있던'은 운영자 고정 표지이고 카드에서는 '나중에 붙은'으로만 썼다.",
+      "5~9장 사진 중 가나야는 애슈몰린이 추가 10장이라고 명시했다. 미노부·다테카와·이사와·등산객이 추가 10장이라는 건 위키백과 표(Calza 인용)로만 대조했고 카드 문장은 그 판화가 추가분이라고 단정하지 않는다.",
+      "추가 10장의 제작 연도는 애슈몰린 '아마 1835년', 덜리치 '1830~1833년'으로 달라 쓰지 않았다. 출판 시작도 '1830년 무렵'으로만 적었다.",
+      "입장료는 덜리치 공식 페이지 '성인 21.50파운드부터(기부 포함), 회원 무료' 값을 썼다. 재팬 나카마는 '회원만 예매 가능'이라고 적어 일반 예매 가능 여부는 확인이 필요하다.",
+      "'푸른 후지 판본이 7장만 남았다'는 주장은 쓰지 않았다. 2012년 워싱턴에서 46장 전체 전시가 있었다는 기록이 있어 '세계 처음'이 아니라 '영국 처음'으로만 썼다."
+    ]
+  },
+  "sources": [
+    {
+      "title": "Hokusai: Thirty-six Views of Mount Fuji from the Iuchi Collection",
+      "url": "https://www.dulwichpicturegallery.org.uk/whats-on/hokusai-thirty-six-views-of-mt-fuji-from-the-iuchi-collection/",
+      "publisher": "Dulwich Picture Gallery",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:05:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "전시 기간 2026-10-20~2027-01-17, 제작 1830~1833년, '영국에서 처음으로 후지산 36경 전체를 선보인다', 새로 들어온 프러시안 블루가 인기를 끌어 출판사가 원래 시리즈에 10장을 더 붙였다는 설명, '붉은 후지'의 영국 첫 공개 희귀 판본과 '거대한 파도', 성인 21.50파운드부터(기부 포함)·회원 무료를 확인했습니다.",
+      "usageNote": "게시일 미표기라 개막일로 적었다. 공식 IG @dulwichgallery는 페이지 푸터 링크에서 확인. 보도용 이미지는 쓰지 않았다."
+    },
+    {
+      "title": "A major new Katsushika Hokusai exhibition is opening in London next month",
+      "url": "https://www.timeout.com/london/news/a-major-new-katsushika-hokusai-exhibition-is-opening-in-london-next-month-090826",
+      "publisher": "Time Out London",
+      "publishedAt": "2026-09-08T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:02:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "덜리치 미술관 2026-10-20~2027-01-17, 이우치 컬렉션의 46장 전체(원래 36장 + 확장된 10장)가 영국에서 처음 한자리에 모인다는 점, 이우치 컬렉션이 도쿄 국립서양미술관에 기탁돼 있고 그 미술관이 전시 협력 기관이라는 점을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Hokusai: Thirty-six Views of Mt Fuji",
+      "url": "https://www.japannakama.co.uk/events/hokusai-thirty-six-views-of-mt-fuji/",
+      "publisher": "Japan Nakama",
+      "publishedAt": "2026-10-01T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:06:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "덜리치 미술관 2026-10-20~2027-01-17, 1830~1833년 제작, 원래 36장에 인기 때문에 나중에 10장이 더해져 46장이라는 점, 전체 세트의 영국 첫 공개, '붉은 후지(남풍 쾌청)'의 희귀 판본을 확인했습니다.",
+      "usageNote": "게시일 미표기라 확인 월 초로 적었다. '회원만 예매 가능'이라는 문구는 공식 페이지와 달라 unknowns에 남겼다."
+    },
+    {
+      "title": "Hokusai's Thirty-Six Views of Mt. Fuji",
+      "url": "https://www.moaart.or.jp/en/?p=37151",
+      "publisher": "MOA Museum of Art",
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:08:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "시리즈가 1831년 무렵 니시무라 에이주도에서 출판됐고, 큰 성공에 힘입어 10장이 더해져 모두 46장이 됐다는 점, 베를린 블루(프러시안 블루)를 쓴 색 표현을 확인했습니다.",
+      "usageNote": "게시일 미표기. 일본 미술관의 46장 전체 전시 안내 페이지라 영국 전시와 독립된 출처로 썼다."
+    },
+    {
+      "title": "Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave — collection record",
+      "url": "https://api.artic.edu/api/v1/artworks/24645",
+      "publisher": "Art Institute of Chicago",
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:10:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "시리즈가 1830년, 호쿠사이 70세에 시작됐고 새로 값이 싸진 베를린 블루를 하늘과 물에 많이 썼다는 점, 출판사 니시무라야 요하치(서명·간기)를 확인했습니다.",
+      "usageNote": "소장품 기록 API(JSON). 이 미술관 이미지 서버는 Cloudflare 확인 화면으로 막혀 사진은 받지 않았다."
+    },
+    {
+      "title": "Fuji from Kanaya on the Tōkaidō Road — Eastern Art Online",
+      "url": "https://jameelcentre.ashmolean.org/collection/6980/9571/0/12350",
+      "publisher": "Ashmolean Museum, University of Oxford",
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:20:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "'도카이도 가나야의 후지'가 원래 시리즈의 큰 성공에 맞춰 만든 '후지산 36경' 추가 10장 묶음에 속한다는 설명과 출판사 니시무라야 요하치를 확인했습니다. 제작 연도는 '아마 1835년'으로 적혀 있어 쓰지 않았습니다.",
+      "usageNote": "게시일 미표기."
+    }
+  ],
+  "collectionErrors": []
+}

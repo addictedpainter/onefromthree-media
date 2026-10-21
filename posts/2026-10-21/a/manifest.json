@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-21",
+  "slot": "a",
+  "postId": "2026-10-21-a",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "'후지산 36경'에 숨어 있던 10장",
+  "slug": "hokusai-fuji-46-dulwich",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "v3",
+    "topic": "호쿠사이 '후지산 36경'은 36장 + 나중에 붙은 10장 = 46장, 런던 덜리치 미술관에서 영국 첫 전체 전시(2026-10-20~2027-01-17)",
+    "category": "art",
+    "editor": "Haein",
+    "shareScore": 9,
+    "coverLayout": "caption",
+    "imageTiers": {
+      "public_domain": 9
+    }
+  },
+  "generatedAt": "2026-10-20T17:35:00+09:00",
+  "scheduledStartAt": "2026-10-20T18:30:00.000Z",
+  "actualStartedAt": "2026-10-20T17:00:00+09:00",
+  "imageCount": 10,
+  "contentHash": "de13d59a3602a5575aa3000c28bbd2a884901b6a5e03c8393e9aab83d4c28bfb",
+  "idempotencyKey": "scenenode:2026-10-21-a:de13d59a3602a557",
+  "media": [
+    {
+      "path": "01.jpg",
+      "sha256": "b7fd311d59405762bc182360721e3211b9f55c78c9318b22047270a7608240be",
+      "bytes": 624219,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "ff6b718c999a6b37be9c50a8e16c815fa8417717d395b788e3e0d8c003f2c2da"
+    },
+    {
+      "path": "02.jpg",
+      "sha256": "a92a9283599f4db0148fb7d0cd1d52133cbfbc3545380a44363439a60779f8fd",
+      "bytes": 496751,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "bd562ab0d4127a71484f92a59496092a104aef8fad48f780b7a17b2152c179ef"
+    },
+    {
+      "path": "03.jpg",
+      "sha256": "9ee7f4b1ea9b29ac0523c64f65bca69c05287a4ab7645f025bff83c10f981471",
+      "bytes": 428052,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "2abb5feb9a388734058feb6da8e11c07fd63d8ea4dd3dfa8cfa959bdc8f10d58"
+    },
+    {
+      "path": "04.jpg",
+      "sha256": "32a1c464470008c288cb05f59322eb7b90cc848a433d6e59346ae65f85e72fdc",
+      "bytes": 490299,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "c2a42192ead2ca089d962e1645ee7041a4d51bf0710893061347d590686abb0f"
+    },
+    {
+      "path": "05.jpg",
+      "sha256": "e0c5d7a4e443bfd21c9cdfbe58e9e1dbb1cf6dcf56c1909501de99a46a791f38",
+      "bytes": 593131,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "2fcd70c199fdf53f9c6da2128e009a0f97fc4f68ea19f602d51dc1cdde61e344"
+    },
+    {
+      "path": "06.jpg",
+      "sha256": "18d34b53ca86899c185fb4a090dda040b366894a2dd45ca0dfb7a8832b28758d",
+      "bytes": 504289,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "c61c44f4f99f9637a3a7743cb487de834b8426adfbe0883860671c553531acbb"
+    },
+    {
+      "path": "07.jpg",
+      "sha256": "a6499619fb0be00c9b69d5260298efec6d24006fccc4ab0385b4a4ea65dc834e",
+      "bytes": 413500,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "68570d521c6387c8c0171f63318e2ec6162921e9c3603f80f04b3e41b4dbeda8"
+    },
+    {
+      "path": "08.jpg",
+      "sha256": "530552a363fb601f76ae352da94fd2b50b1604b3b14c4d3539b317dca610e7e2",
+      "bytes": 538502,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "b249d17fa0115513f91e42184ab86ecb1d5703c297c2588f3f0b84c66871295d"
+    },
+    {
+      "path": "09.jpg",
+      "sha256": "c1de323e539f23acf3cd4556f0868308d173867d7c6a0fd9b0696b864426c3d8",
+      "bytes": 526845,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "b1c1d173a3e288130d1f573b43acbe1748adba1c3538292afc6f3dcbb72ab5fa"
+    },
+    {
+      "path": "10.jpg",
+      "sha256": "483ff9319ff798c0b071305b0ea28dd226e1ffcf6a9deb97e1b62fbe9996c19e",
+      "bytes": 44550,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "f0aa1d42e9342b9bd771bc673e8d8c1723be3d1212825177751f42919a482829"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Hokusai: Thirty-six Views of Mount Fuji from the Iuchi Collection",
+      "url": "https://www.dulwichpicturegallery.org.uk/whats-on/hokusai-thirty-six-views-of-mt-fuji-from-the-iuchi-collection/",
+      "publisher": "Dulwich Picture Gallery",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:05:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "전시 기간 2026-10-20~2027-01-17, 제작 1830~1833년, '영국에서 처음으로 후지산 36경 전체를 선보인다', 새로 들어온 프러시안 블루가 인기를 끌어 출판사가 원래 시리즈에 10장을 더 붙였다는 설명, '붉은 후지'의 영국 첫 공개 희귀 판본과 '거대한 파도', 성인 21.50파운드부터(기부 포함)·회원 무료를 확인했습니다.",
+      "usageNote": "게시일 미표기라 개막일로 적었다. 공식 IG @dulwichgallery는 페이지 푸터 링크에서 확인. 보도용 이미지는 쓰지 않았다."
+    },
+    {
+      "title": "A major new Katsushika Hokusai exhibition is opening in London next month",
+      "url": "https://www.timeout.com/london/news/a-major-new-katsushika-hokusai-exhibition-is-opening-in-london-next-month-090826",
+      "publisher": "Time Out London",
+      "publishedAt": "2026-09-08T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:02:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "덜리치 미술관 2026-10-20~2027-01-17, 이우치 컬렉션의 46장 전체(원래 36장 + 확장된 10장)가 영국에서 처음 한자리에 모인다는 점, 이우치 컬렉션이 도쿄 국립서양미술관에 기탁돼 있고 그 미술관이 전시 협력 기관이라는 점을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Hokusai: Thirty-six Views of Mt Fuji",
+      "url": "https://www.japannakama.co.uk/events/hokusai-thirty-six-views-of-mt-fuji/",
+      "publisher": "Japan Nakama",
+      "publishedAt": "2026-10-01T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:06:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "덜리치 미술관 2026-10-20~2027-01-17, 1830~1833년 제작, 원래 36장에 인기 때문에 나중에 10장이 더해져 46장이라는 점, 전체 세트의 영국 첫 공개, '붉은 후지(남풍 쾌청)'의 희귀 판본을 확인했습니다.",
+      "usageNote": "게시일 미표기라 확인 월 초로 적었다. '회원만 예매 가능'이라는 문구는 공식 페이지와 달라 unknowns에 남겼다."
+    },
+    {
+      "title": "Hokusai's Thirty-Six Views of Mt. Fuji",
+      "url": "https://www.moaart.or.jp/en/?p=37151",
+      "publisher": "MOA Museum of Art",
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:08:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "시리즈가 1831년 무렵 니시무라 에이주도에서 출판됐고, 큰 성공에 힘입어 10장이 더해져 모두 46장이 됐다는 점, 베를린 블루(프러시안 블루)를 쓴 색 표현을 확인했습니다.",
+      "usageNote": "게시일 미표기. 일본 미술관의 46장 전체 전시 안내 페이지라 영국 전시와 독립된 출처로 썼다."
+    },
+    {
+      "title": "Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave — collection record",
+      "url": "https://api.artic.edu/api/v1/artworks/24645",
+      "publisher": "Art Institute of Chicago",
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:10:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "시리즈가 1830년, 호쿠사이 70세에 시작됐고 새로 값이 싸진 베를린 블루를 하늘과 물에 많이 썼다는 점, 출판사 니시무라야 요하치(서명·간기)를 확인했습니다.",
+      "usageNote": "소장품 기록 API(JSON). 이 미술관 이미지 서버는 Cloudflare 확인 화면으로 막혀 사진은 받지 않았다."
+    },
+    {
+      "title": "Fuji from Kanaya on the Tōkaidō Road — Eastern Art Online",
+      "url": "https://jameelcentre.ashmolean.org/collection/6980/9571/0/12350",
+      "publisher": "Ashmolean Museum, University of Oxford",
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:20:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "'도카이도 가나야의 후지'가 원래 시리즈의 큰 성공에 맞춰 만든 '후지산 36경' 추가 10장 묶음에 속한다는 설명과 출판사 니시무라야 요하치를 확인했습니다. 제작 연도는 '아마 1835년'으로 적혀 있어 쓰지 않았습니다.",
+      "usageNote": "게시일 미표기."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-20T08:13:17.988Z",
+      "attempt": 1,
+      "url": "https://www.dulwichpicturegallery.org.uk/whats-on/hokusai-thirty-six-views-of-mt-fuji-from-the-iuchi-collection/",
+      "httpStatus": 206,
+      "outcome": "verified",
+      "detail": "Verified with public web-client fallback."
+    },
+    {
+      "attemptedAt": "2026-10-20T08:13:18.108Z",
+      "attempt": 1,
+      "url": "https://www.timeout.com/london/news/a-major-new-katsushika-hokusai-exhibition-is-opening-in-london-next-month-090826",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-20T08:13:19.634Z",
+      "attempt": 1,
+      "url": "https://www.japannakama.co.uk/events/hokusai-thirty-six-views-of-mt-fuji/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-20T08:13:21.158Z",
+      "attempt": 1,
+      "url": "https://www.moaart.or.jp/en/?p=37151",
+      "httpStatus": 200,
+      "outcome": "verified",
+      "detail": "Redirected to https://www.moaart.or.jp/en/event/hokusai-3/"
+    },
+    {
+      "attemptedAt": "2026-10-20T08:13:21.793Z",
+      "attempt": 1,
+      "url": "https://api.artic.edu/api/v1/artworks/24645",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-20T08:13:23.847Z",
+      "attempt": 1,
+      "url": "https://jameelcentre.ashmolean.org/collection/6980/9571/0/12350",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-20T08:13:23.870Z",
+  "draftApprovedContentHash": "de13d59a3602a5575aa3000c28bbd2a884901b6a5e03c8393e9aab83d4c28bfb",
+  "renderedAt": "2026-10-20T08:13:40.532Z",
+  "deployedAt": "2026-10-21T01:00:38.578Z"
+}
