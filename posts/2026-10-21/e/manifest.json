@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "알파고를 이긴 이세돌도 못 읽는 아내의 수",
   "slug": "lee-sedol-wifes-move",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "reel",
     "topic": "이세돌, KBS2 옥탑방의 문제아들(2026-10-20 방송)에서 아내의 수는 못 읽는다고 답함",
@@ -39,8 +39,8 @@
       "durationSeconds": 21.067,
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-21/e/reel.mp4",
       "verification": {
-        "verifiedAt": "2026-10-21T01:02:40.362Z",
-        "attempts": 12,
+        "verifiedAt": "2026-10-21T12:32:14.153Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "video/mp4",
         "bytes": 4295540,
@@ -105,10 +105,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 12,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-20T23:03:02.485Z",
   "draftApprovedContentHash": "714efb4d19f44f03da05d73f65458c15e9b686e4ca998fea4a9d4bfa9920a304",
   "renderedAt": "2026-10-20T23:03:08.815Z",
   "deployedAt": "2026-10-21T01:00:38.514Z",
-  "verifiedAt": "2026-10-21T01:02:40.846Z"
+  "verifiedAt": "2026-10-21T01:02:40.846Z",
+  "publishAttemptedAt": "2026-10-21T12:32:14.153Z"
 }
