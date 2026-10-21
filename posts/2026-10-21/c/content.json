@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-21",
+  "slot": "c",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-20T16:50:00+09:00",
+  "generatedAt": "2026-10-20T17:16:00+09:00",
+  "package": {
+    "contentVersion": "v3",
+    "category": "art",
+    "slug": "utzon-never-saw-sydney-opera-house",
+    "topic": "요른 웃손, 시드니 오페라하우스 설계자가 완공된 건물을 끝내 보지 못한 이유 (1973-10-20 개관 53주년 다음 날)",
+    "headline": [
+      "완공된 오페라하우스를",
+      "한 번도 못 본 설계자"
+    ],
+    "coverLayout": "caption",
+    "hook": "🎭 시드니 오페라하우스를 설계한 사람은 완공된 건물을 끝내 직접 보지 못했어요.",
+    "body": [
+      "1957년 1월, 시드니 오페라하우스 국제 공모전 1등은 233개 안 가운데 덴마크의 38살 건축가 요른 웃손에게 돌아갔어요. 공사는 1959년에 시작됐는데, 처음 700만 호주달러로 잡은 예산은 1973년 완공 때 1억 200만 달러가 돼 있었어요. 비용 대부분은 주 정부 복권으로 메웠고요.",
+      "사실 웃손은 완공을 7년 앞둔 1966년에 사표를 냈어요. 공사비와 밀린 설계비를 두고 주 정부와 갈등한 끝이었어요. 흔히 1973년 10월 20일 개관식에 초대도 못 받았다고 알려져 있지만, 뉴사우스웨일스 주 기록보관소에는 주 총리가 보낸 초대장(6월 20일)과 웃손이 정중히 거절한 답장(8월 1일)이 남아 있어요. 정부의 손님으로 가서 그 정부의 장관을 비판할 수는 없다는 이유였대요. 개관식 날 그는 덴마크 헬레베크 집에 있었고, 2008년 90세로 세상을 떠날 때까지 호주에 다시 오지 않았어요. 2003년 프리츠커상과 2007년 유네스코 세계유산 등재 소식은 덴마크에서 들었고요.",
+      "오페라하우스는 지금도 시드니 항구 끝 베넬롱 포인트에 있어요. 한국어를 포함한 7개 언어 가이드 투어로 건물 안까지 둘러볼 수 있고, 일정과 가격은 공식 사이트와 @sydneyoperahouse 에서 볼 수 있어요."
+    ],
+    "question": "끝을 못 보고 손 놓은 일, 여러분에겐 뭐가 있나요?",
+    "credits": "오페라하우스: Adam Jones (CC BY-SA 2.0), -jkb- (CC BY-SA 3.0), Thomas Adams (CC BY-SA 4.0), Jorge Láscar (CC BY 2.0), Kgbo (CC BY-SA 4.0), Aus0me.au (CC0) · 1964년 공사 현장: My Grandfather (CC0) · 1968년 공사 현장: wilford peloquin (CC BY 2.0) · 헬레베크 웃손 자택: seier+seier (CC BY 2.0) · 모두 Wikimedia Commons",
+    "editor": "Haein",
+    "hashtags": [
+      "#시드니오페라하우스",
+      "#요른웃손",
+      "#JornUtzon",
+      "#건축가",
+      "#건축이야기"
+    ],
+    "slides": [
+      {
+        "index": 1,
+        "text": "완공된 오페라하우스를\n한 번도 못 본 설계자",
+        "image": {
+          "file": "01-cover.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_-_Sydney_-_Australia_-_02_(11202846495).jpg",
+          "credit": "Adam Jones, Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "checkedAt": "2026-10-20T17:05:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 2,
+        "text": "1957년 1월, 233개 안이 몰린 공모전에서 1등이 나왔어요.",
+        "image": {
+          "file": "02-harbour.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_from_the_harbour.jpg",
+          "credit": "-jkb-, Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "checkedAt": "2026-10-20T17:05:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 3,
+        "text": "덴마크의 무명 건축가 요른 웃손, 그때 서른여덟 살이었어요.",
+        "image": {
+          "file": "03-hellebaek.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:J%C3%B8rn_utzon,_architects_own_house,_helleb%C3%A6k,_1950-1952.jpg",
+          "credit": "seier+seier, Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "checkedAt": "2026-10-20T17:05:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 4,
+        "text": "700만 호주달러였던 예산은 결국 1억 200만 달러가 됐어요.",
+        "image": {
+          "file": "04-construction-1964.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_Under_Construction_in_the_mid-1960s_03.jpg",
+          "credit": "My Grandfather, Wikimedia Commons",
+          "license": "CC0",
+          "checkedAt": "2026-10-20T17:05:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 5,
+        "text": "1966년, 공사비와 설계비를 두고 정부와 갈등하다 사표를 냈어요.",
+        "image": {
+          "file": "05-construction-1968.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:68-09_Opera_House,_Sydney_1968_(51228768699).jpg",
+          "credit": "wilford peloquin, Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "checkedAt": "2026-10-20T17:05:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 6,
+        "text": "사실 1973년 개관식 초대장은 왔는데, 그가 정중히 거절했어요.",
+        "image": {
+          "file": "06-night.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydneyoperahouse_at_night.jpg",
+          "credit": "Thomas Adams, Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-20T17:05:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 7,
+        "text": "2008년 세상을 떠날 때까지 호주 땅을 다시 밟지 않았어요.",
+        "image": {
+          "file": "07-tiles.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Some_of_the_1,056,006_tiles_that_cover_the_Sydney_Opera_House%27s_shells_(16428635477).jpg",
+          "credit": "Jorge Láscar, Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "checkedAt": "2026-10-20T17:05:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 8,
+        "text": "지금은 한국어 가이드 투어로 이 건물 안까지 볼 수 있어요.",
+        "image": {
+          "file": "08-tour.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_interior_tour,_2023,_07.jpg",
+          "credit": "Kgbo, Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-20T17:05:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 9,
+        "text": "끝을 못 보고 손 놓은 일, 여러분에겐 뭐가 있나요?",
+        "image": {
+          "file": "09-sunset.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunset_over_the_Sydney_Opera_House.jpg",
+          "credit": "Aus0me.au, Wikimedia Commons",
+          "license": "CC0",
+          "checkedAt": "2026-10-20T17:05:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.03,
+              "y": 0,
+              "width": 0.42,
+              "height": 1
+            }
+          }
+        }
+      }
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 1,
+      "oneSentence": 2,
+      "novelty": 2,
+      "evidenceAndImages": 2,
+      "availableNow": 2,
+      "rationale": "여행·건축 좋아하는 친구에게 보낼 이야기지만 대상이 넓지는 않아 1점. 표지 두 줄로 '설계자가 자기 건물을 못 봤다'가 오해 없이 전달되고, 6장에서 '초대도 못 받았다'는 통설을 주 기록보관소 편지로 뒤집는 반전이 있어 새로움 2점. 핵심 사실은 독립 출처 3곳 이상(MHNSW 기록보관소 글, WAtoday/SMH 기사, The Local, The National, Pritzker, Sydney Opera House 공식 사실 페이지, 기네스)으로 확인했고 사진 9장이 모두 CC0·CC BY·CC BY-SA. 건물은 지금 한국어 투어로 갈 수 있어 2점. 표지는 운영자가 정한 대체안을 썼다: 운영자 1안 '시드니 오페라하우스에 / 끝내 초대받지 못한 설계자'는 NSW 주 기록보관소의 1973-06-20 Askin 총리 초대장과 1973-08-01 웃손의 거절 답장(MHNSW, 큐레이터 Scott Hill)과 2023-06-30 WAtoday/SMH 기사(Julie Power)가 '모든 경비를 대는 초대를 받았다'고 확인해 사실과 달라 버렸다. 버린 다른 후보: '개관식 초대장을 / 스스로 거절한 설계자' — 사실이지만 답(거절)을 표지에서 다 보여 줘서 6장 반전이 사라진다. 레이아웃은 자막 박스형(숫자·반전 단어 없음)."
+    },
+    "unknowns": [
+      "'초대받지 못했다'는 통설(Smithsonian·The Age·ABC)이다. 주 기록보관소 초대장(1973-06-20)·거절 답장(08-01)은 MHNSW 글과 WAtoday 기사 인용으로 확인했고 원본 이미지는 직접 보지 못했다.",
+      "사직 시점은 WAtoday가 1966년 2월, MHNSW가 3월로 적어 '1966년'만 썼다. 헬레베크 집에 있었다는 건 The Local 한 곳이라 캡션에만 썼다.",
+      "3번 사진은 웃손이 1950~52년 지은 헬레베크 자택이다. 1973년에도 이 집에 살았는지는 확인하지 못해 카드 문장과 직접 연결하지 않았다.",
+      "호주에 다시 오지 않은 이유는 본인 선택(1973 거절)과 말년 건강(2008 AFP의 Evans 발언)이 섞여 단정하지 않았다. 담 넘은 일화는 Smithsonian 한 곳뿐이라 뺐다.",
+      "웃손 초상·도면은 쓸 수 있는 라이선스·해상도가 없어 뺐다. 투어 가격은 적지 않았다. 4번 사진(CC0)은 업로더가 할아버지 사진이라 밝힌 개인 자료다."
+    ]
+  },
+  "sources": [
+    {
+      "title": "The myth of a non-invitation: Jørn Utzon and the Sydney Opera House opening",
+      "url": "https://mhnsw.au/stories/general/the-myth-of-a-non-invitation-utzon/",
+      "publisher": "Museum of History NSW (NSW State Archives Collection)",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:00:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "주 기록보관소 서류로 1973-06-15 Gray 메모(초대 권고, 여비·숙박 제공), 1973-06-20 Askin 주 총리의 초대장(부부 초대, 항공·숙박 포함), 1973-08-01 웃손의 거절 답장(정부의 손님으로 가서 장관을 비판할 수 없다는 이유)을 확인했습니다. 웃손이 1966년 3월 프로젝트를 떠난 일, 1978년 인터뷰에서 언론 논란이 축하를 가릴까 봐 거절했다는 설명, Smithsonian·The Age·ABC가 '초대받지 못했다'는 통설을 되풀이했다는 점도 확인했습니다.",
+      "usageNote": "웹페이지는 WebFetch 403, 직접 HTTP로 본문을 읽었습니다. 페이지에 게시일이 없어 publishedAt은 확인일로 적었습니다."
+    },
+    {
+      "title": "As the Sydney Opera House turns 50, a letter exposes the real drama behind its shells",
+      "url": "https://camd.org.au/?p=23766",
+      "publisher": "WAtoday / Sydney Morning Herald (Julie Power), reposted by CAMD",
+      "publishedAt": "2023-06-30T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:02:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "웃손 부부가 모든 경비를 대는 초대를 받았지만 정부가 불참을 발표했다는 점, 큐레이터 Scott Hill이 주 기록보관소에서 Askin 총리 초대를 정중히 거절한 웃손의 편지를 찾았다는 점, 웃손이 1966년 2월 공공사업부 장관의 대우에 항의해 사임했고 주 정부가 설계비를 지급하지 않았다는 점을 확인했습니다.",
+      "usageNote": "원 기사(WAtoday 2023-06-30)의 CAMD 전재본입니다."
+    },
+    {
+      "title": "Why Sydney Opera House's Danish architect was not present at 1973 opening",
+      "url": "https://www.thelocal.dk/20231020/why-sydney-opera-houses-danish-architect-was-not-present-at-1973-opening",
+      "publisher": "The Local Denmark (Ritzau)",
+      "publishedAt": "2023-10-20T00:00:00Z",
+      "retrievedAt": "2026-10-20T16:58:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "개관식 때 웃손이 덴마크 헬레베크 집에 있었다는 점, 1966년 주 정부와의 갈등으로 가족과 호주를 떠난 점, 완공된 오페라하우스를 보러 시드니에 다시 가지 않은 점, 2007년 세계유산 등재를 보고 이듬해 세상을 떠난 점, 예산 700만 호주달러가 1억 200만 달러로 불어난 점을 확인했습니다. 초대 여부는 언급하지 않습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Architect of a modern classic (Jørn Utzon obituary)",
+      "url": "https://www.thenationalnews.com/uae/architect-of-a-modern-classic-1.526335",
+      "publisher": "The National",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:03:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "1957년 1월 233개 응모작 중 무명의 38살 덴마크인이 당선된 점, 1966년 3월 약 10만 호주달러의 설계비가 밀린 상태에서 사임 의사를 밝혔고 받아들여진 점, 웃손이 호주에 다시 오지 않았고 건물을 직접 보지 못한 점, 2003년 프리츠커상, 1918년 4월 9일 출생과 2008년 11월 29일 90세 사망을 확인했습니다.",
+      "usageNote": "페이지에 게시일이 없어 publishedAt은 확인일로 적었습니다."
+    },
+    {
+      "title": "Opera House architect 'a man ahead of his time' (AFP)",
+      "url": "https://mg.co.za/2008-11-30-opera-house-architect-a-man-ahead-of-his-time/",
+      "publisher": "Mail & Guardian (AFP, Madeleine Coorey)",
+      "publishedAt": "2008-11-30T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:03:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "웃손이 코펜하겐에서 90세로 세상을 떠났고, 자신이 설계한 오페라하우스의 완공된 모습을 끝내 보지 못했다는 점을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Jørn Utzon, 2003 Laureate",
+      "url": "https://www.pritzkerprize.com/laureates/2003",
+      "publisher": "The Pritzker Architecture Prize",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "retrievedAt": "2026-10-20T16:59:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "2003년 수상, 공사 1959년 시작·1973년 완공, 웃손이 비용과 일정을 둘러싼 호주 당국과의 격한 다툼 끝에 1966년 프로젝트를 떠난 점, 2008년 사망을 확인했습니다.",
+      "usageNote": "페이지에 게시일이 없어 publishedAt은 확인일로 적었습니다."
+    },
+    {
+      "title": "Sydney Opera House facts",
+      "url": "https://www.sydneyoperahouse.com/our-story/sydney-opera-house-facts.html",
+      "publisher": "Sydney Opera House",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:01:00+09:00",
+      "kind": "official_documentation",
+      "evidenceSummary": "최초 예산 700만 달러, 최종 공사비 1억 200만 달러(대부분 주 복권으로 충당), 1956년 공모전 233개 응모작, 1959년 착공, 2007년 세계유산 등재, 1973년 10월 20일 엘리자베스 2세 개관, 베넬롱 포인트 위치를 확인했습니다.",
+      "usageNote": "페이지에 게시일이 없어 publishedAt은 확인일로 적었습니다."
+    },
+    {
+      "title": "Largest proportional increase in cost for a building project",
+      "url": "https://www.guinnessworldrecords.com/world-records/382062-largest-proportional-increase-in-cost-for-a-building-project",
+      "publisher": "Guinness World Records",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:01:00+09:00",
+      "kind": "data",
+      "evidenceSummary": "최초 예산 700만 호주달러, 1973년 완공 시 1억 200만 호주달러로 첫 추정의 14배가 넘었다는 점을 확인했습니다.",
+      "usageNote": "페이지에 게시일이 없어 publishedAt은 확인일로 적었습니다."
+    },
+    {
+      "title": "Tours | Sydney Opera House",
+      "url": "https://www.sydneyoperahouse.com/tours-and-experiences",
+      "publisher": "Sydney Opera House",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "retrievedAt": "2026-10-20T17:12:00+09:00",
+      "kind": "official_documentation",
+      "evidenceSummary": "영어·프랑스어·독일어·스페인어·일본어·한국어·중국어 가이드 투어를 운영한다는 점과 공식 Instagram 링크(instagram.com/sydneyoperahouse)를 확인했습니다.",
+      "usageNote": "페이지에 게시일이 없어 publishedAt은 확인일로 적었습니다."
+    }
+  ],
+  "collectionErrors": []
+}
