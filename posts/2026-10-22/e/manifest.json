@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-22",
+  "slot": "e",
+  "postId": "2026-10-22-e",
+  "runMode": "scheduled",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "별명이 '킹'인 르브론이 집에 건 바스키아",
+  "slug": "lebron-basquiat-minor-success",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "reel",
+    "topic": "르브론 제임스, Vogue 집 공개 영상(2026-10-20)에서 거실의 바스키아 'Minor Success'(1980)를 왕관을 쓰기 시작한 초기 작품이라고 소개",
+    "category": "culture",
+    "editor": "Kang",
+    "shareScore": 9,
+    "durationSeconds": 31.05,
+    "clipCount": 1,
+    "channels": [
+      "Vogue"
+    ]
+  },
+  "generatedAt": "2026-10-22T03:48:00+09:00",
+  "scheduledStartAt": "2026-10-21T18:30:00.000Z",
+  "actualStartedAt": "2026-10-22T03:36:00+09:00",
+  "imageCount": 1,
+  "contentHash": "fac7ae914c6a8137707583e9488c2a231f085c20292945383aa493ff113b6210",
+  "idempotencyKey": "scenenode:2026-10-22-e:fac7ae914c6a8137",
+  "media": [
+    {
+      "path": "reel.mp4",
+      "sha256": "d836ff8da2afde55f9e04781dd4d8eef7dd4b68d7fc42bcd3ee86823ef6d3c41",
+      "bytes": 8476088,
+      "width": 1080,
+      "height": 1920,
+      "contentType": "video/mp4",
+      "durationSeconds": 31.067
+    }
+  ],
+  "sources": [
+    {
+      "title": "Inside LeBron and Savannah James's Home, Full of Wonderful Objects | Vogue",
+      "url": "https://www.youtube.com/watch?v=G7QspzZIpCY",
+      "publisher": "Vogue (YouTube, 공식 채널)",
+      "publishedAt": "2026-10-20T16:00:07Z",
+      "retrievedAt": "2026-10-22T03:40:00+09:00",
+      "kind": "official_social",
+      "evidenceSummary": "Vogue 공식 채널의 집 공개 영상(11분 48초). 7:20~7:55 르브론이 거실 그림을 소개한다. 영어 자동 생성 자막 원문: \"This is a Basquiat piece. It's called Minor Success.\" / \"In some of his early works he didn't have the money or the resources to actually put some of his works on canvas. This is some of the first works where he started to use the crown and it resonated to not only me but it resonated to our family.\" / \"All these A's that you see in the middle, he was a big fan of Hank Aaron, the great baseball player that played for the Atlanta Braves. So, that's kind of a nod to him there.\" / \"This right here is like the cars that's running through New York City all the time. We super humble to be able to even have a piece like this. Such a legend.\" 캡션의 따옴표 \"왕관을 쓰기 시작한 초기 작품 중 하나\" = \"This is some of the first works where he started to use the crown\", \"저뿐 아니라 가족에게도 와닿았다\" = \"it resonated to not only me but it resonated to our family\".",
+      "usageNote": "릴스 클립 원본: 444.45~475.5초(7:24~7:55). 7:20~7:24는 Vogue 그래픽 글자('Object Eight', 'Minor Success By Jean-Michel Basquiat')가 그림 위에 박혀 있어 뺐다."
+    },
+    {
+      "title": "LeBron and Savannah James Give a House Tour Featuring Championship Trophies, Basquiat, and More",
+      "url": "https://www.complex.com/sports/a/jaelaniturnerwilliams/lebron-savannah-james-house-tour",
+      "publisher": "Complex",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:44:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "Vogue 집 공개 영상에서 부부가 바스키아 'Minor Success'를 보여 줬고, 르브론이 이를 바스키아가 왕관을 그리기 시작한 첫 작품 중 하나라고 설명했다는 것을 확인했다(작성 Jaelani Turner-Williams, 10-20).",
+      "usageNote": null
+    },
+    {
+      "title": "LeBron James Home Tour Reveals Basquiat, Maybach and More",
+      "url": "https://balleralert.com/lebron-james-home-vogue-tour/",
+      "publisher": "Balleralert",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:44:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "바스키아 'Minor Success'가 바스키아가 대표 상징인 왕관을 쓰기 시작한 초기 작품 중 하나이고, 왕관이 가족 모두에게 와닿은 상징이라고 소개됐다는 것을 확인했다.",
+      "usageNote": "ESPN(https://www.espn.com/nba/story/_/id/50238339/lebron-james-savanna-home-tour)도 같은 영상을 보도했다."
+    },
+    {
+      "title": "Jean-Michel Basquiat, Minor Success (Contemporary Art Evening Auction, 2020)",
+      "url": "https://www.sothebys.com/en/buy/auction/2020/contemporary-art-evening-auction-2/jean-michel-basquiat-minor-success",
+      "publisher": "Sotheby's",
+      "publishedAt": "2020-10-21T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:46:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "'Minor Success'는 뒷면에 1980년 서명·연도가 있고 재료는 거울과 나무 위 아크릴·오일스틱·금색 물감이다. 추정가 150만~200만 파운드. 위키백과 'List of paintings by Jean-Michel Basquiat'도 같은 재료와 2020년 경매를 적는다.",
+      "usageNote": "연도·재료 확인용. 르브론 소장품과 같은 작품인지는 unknowns에 적었다."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-21T18:48:17.231Z",
+      "attempt": 1,
+      "url": "https://www.youtube.com/watch?v=G7QspzZIpCY",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-21T18:48:18.042Z",
+      "attempt": 1,
+      "url": "https://www.complex.com/sports/a/jaelaniturnerwilliams/lebron-savannah-james-house-tour",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-21T18:48:18.312Z",
+      "attempt": 1,
+      "url": "https://balleralert.com/lebron-james-home-vogue-tour/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-21T18:48:19.152Z",
+      "attempt": 1,
+      "url": "https://www.sothebys.com/en/buy/auction/2020/contemporary-art-evening-auction-2/jean-michel-basquiat-minor-success",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-21T18:48:19.309Z",
+  "draftApprovedContentHash": "fac7ae914c6a8137707583e9488c2a231f085c20292945383aa493ff113b6210",
+  "renderedAt": "2026-10-21T18:48:37.603Z",
+  "deployedAt": "2026-10-22T01:00:33.752Z"
+}
