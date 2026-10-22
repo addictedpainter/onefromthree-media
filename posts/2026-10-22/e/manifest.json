@@ -7,7 +7,7 @@
   "account": "@scene.node",
   "generationProvider": "claude_code",
   "openAiPlatformCalls": 0,
-  "title": "별명이 '킹'인 르브론이 집에 건 바스키아",
+  "title": "킹 르브론이 집에 건 바스키아",
   "slug": "lebron-basquiat-minor-success",
   "status": "awaiting_visual_review",
   "editorial": {
@@ -26,26 +26,17 @@
   "scheduledStartAt": "2026-10-21T18:30:00.000Z",
   "actualStartedAt": "2026-10-22T03:36:00+09:00",
   "imageCount": 1,
-  "contentHash": "fac7ae914c6a8137707583e9488c2a231f085c20292945383aa493ff113b6210",
-  "idempotencyKey": "scenenode:2026-10-22-e:fac7ae914c6a8137",
+  "contentHash": "508e654cc1ce890d5b5eb16493500c68afa641b9f83a1b316a4b68933ac55e25",
+  "idempotencyKey": "scenenode:2026-10-22-e:508e654cc1ce890d",
   "media": [
     {
       "path": "reel.mp4",
-      "sha256": "d836ff8da2afde55f9e04781dd4d8eef7dd4b68d7fc42bcd3ee86823ef6d3c41",
-      "bytes": 8476088,
+      "sha256": "05cfffd26c13a2936e23cb8f38c161b81aa0e625e635039e0ac95c12ebd28a90",
+      "bytes": 8360636,
       "width": 1080,
       "height": 1920,
       "contentType": "video/mp4",
-      "durationSeconds": 31.067,
-      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/e/reel.mp4",
-      "verification": {
-        "verifiedAt": "2026-10-22T01:02:45.939Z",
-        "attempts": 10,
-        "httpStatus": 200,
-        "contentType": "video/mp4",
-        "bytes": 8476088,
-        "sha256": "d836ff8da2afde55f9e04781dd4d8eef7dd4b68d7fc42bcd3ee86823ef6d3c41"
-      }
+      "durationSeconds": 31.067
     }
   ],
   "sources": [
@@ -92,28 +83,28 @@
   ],
   "sourceVerification": [
     {
-      "attemptedAt": "2026-10-21T18:48:17.231Z",
+      "attemptedAt": "2026-10-22T01:07:58.676Z",
       "attempt": 1,
       "url": "https://www.youtube.com/watch?v=G7QspzZIpCY",
       "httpStatus": 200,
       "outcome": "verified"
     },
     {
-      "attemptedAt": "2026-10-21T18:48:18.042Z",
+      "attemptedAt": "2026-10-22T01:07:59.412Z",
       "attempt": 1,
       "url": "https://www.complex.com/sports/a/jaelaniturnerwilliams/lebron-savannah-james-house-tour",
       "httpStatus": 200,
       "outcome": "verified"
     },
     {
-      "attemptedAt": "2026-10-21T18:48:18.312Z",
+      "attemptedAt": "2026-10-22T01:07:59.888Z",
       "attempt": 1,
       "url": "https://balleralert.com/lebron-james-home-vogue-tour/",
       "httpStatus": 200,
       "outcome": "verified"
     },
     {
-      "attemptedAt": "2026-10-21T18:48:19.152Z",
+      "attemptedAt": "2026-10-22T01:08:01.378Z",
       "attempt": 1,
       "url": "https://www.sothebys.com/en/buy/auction/2020/contemporary-art-evening-auction-2/jean-michel-basquiat-minor-success",
       "httpStatus": 200,
@@ -121,11 +112,10 @@
     }
   ],
   "collectionErrors": [],
-  "deploymentAttempts": 10,
+  "deploymentAttempts": 11,
   "publishAttemptCount": 0,
-  "draftApprovedAt": "2026-10-21T18:48:19.309Z",
-  "draftApprovedContentHash": "fac7ae914c6a8137707583e9488c2a231f085c20292945383aa493ff113b6210",
-  "renderedAt": "2026-10-21T18:48:37.603Z",
-  "deployedAt": "2026-10-22T01:00:33.752Z",
-  "verifiedAt": "2026-10-22T01:02:46.807Z"
+  "draftApprovedAt": "2026-10-22T01:08:01.528Z",
+  "draftApprovedContentHash": "508e654cc1ce890d5b5eb16493500c68afa641b9f83a1b316a4b68933ac55e25",
+  "renderedAt": "2026-10-22T01:08:17.637Z",
+  "deployedAt": "2026-10-22T01:09:50.282Z"
 }
