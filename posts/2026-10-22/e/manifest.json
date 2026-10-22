@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "킹 르브론이 집에 건 바스키아",
   "slug": "lebron-basquiat-minor-success",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "reel",
     "topic": "르브론 제임스, Vogue 집 공개 영상(2026-10-20)에서 거실의 바스키아 'Minor Success'(1980)를 왕관을 쓰기 시작한 초기 작품이라고 소개",
@@ -128,5 +128,8 @@
   "renderedAt": "2026-10-22T01:08:17.637Z",
   "deployedAt": "2026-10-22T01:09:50.282Z",
   "verifiedAt": "2026-10-22T01:10:47.555Z",
-  "publishAttemptedAt": "2026-10-22T12:00:00.025Z"
+  "publishAttemptedAt": "2026-10-22T12:00:00.025Z",
+  "publishedAt": "2026-10-22T12:00:49.764Z",
+  "externalPostId": "18020516315941640",
+  "externalUrl": "https://www.instagram.com/reel/Dey7s7lEYI-/"
 }
