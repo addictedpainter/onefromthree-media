@@ -1,0 +1,306 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-22",
+  "slot": "a",
+  "postId": "2026-10-22-a",
+  "runMode": "scheduled",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "티파니 램프의 잠자리 그린 사람은 따로",
+  "slug": "clara-driscoll-tiffany-dragonfly",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "v3",
+    "topic": "티파니 잠자리·등나무 램프는 클라라 드리스콜의 디자인(2005년 편지로 알려짐), 메트 'Designing the Gilded Age' 10-22 개막",
+    "category": "art",
+    "editor": "Haein",
+    "shareScore": 9,
+    "coverLayout": "caption",
+    "imageTiers": {
+      "public_domain": 9
+    }
+  },
+  "generatedAt": "2026-10-22T04:02:00+09:00",
+  "scheduledStartAt": "2026-10-21T18:30:00.000Z",
+  "actualStartedAt": "2026-10-22T03:36:00+09:00",
+  "imageCount": 10,
+  "contentHash": "1600edb565e710e89ed504bae0ef4d94922cdc702ef31fcea2623d12edc1922c",
+  "idempotencyKey": "scenenode:2026-10-22-a:1600edb565e710e8",
+  "media": [
+    {
+      "path": "01.jpg",
+      "sha256": "7a514f00fc897cd06b372896bc46b1f7b0fc1441bfcc2633ba04084513b3f045",
+      "bytes": 428698,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "9fcc6590e58ff6867d6282ab29cf2e35e4638724e7c829364daf08d2187e0bb9"
+    },
+    {
+      "path": "02.jpg",
+      "sha256": "2754507718d9911d4c1b845aec3e9c02447b91eebd6a64c3e936f47e09639015",
+      "bytes": 462661,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "35570f5ebde9f12a1ed6a9ea86aeac31776be8426e15ae9071943f52b21b7cd0"
+    },
+    {
+      "path": "03.jpg",
+      "sha256": "86524c20c4b0879fc06de93d1aeddb48b9c340e02aa8503de9c1ee5708138756",
+      "bytes": 233826,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "199f9fdfef0f533b95a4f174f9c58322020af07e44eeb33790a53d78e4d6e857"
+    },
+    {
+      "path": "04.jpg",
+      "sha256": "fb77a0dcba4ec640389997afa6cfa06ce1e4d1e95fc26b38739df3b664dd559f",
+      "bytes": 274925,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "ae59dbcd43556e551c5e82ffcefcdc2e58d5937411a76474d9bb1bc99e3457f6"
+    },
+    {
+      "path": "05.jpg",
+      "sha256": "0e29c96389fbafddb46d0c48404784948a8c96a2d1077a4582c6f0d96def81fe",
+      "bytes": 399983,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "de5a4dbd0adea400c104b6195b38c9d526032227238e4844343722158173812b"
+    },
+    {
+      "path": "06.jpg",
+      "sha256": "43e646254a73d106e792bee92762e6c5c2fd00cf456242fd5393a79711f133c6",
+      "bytes": 270341,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "0a17e3c28f7e3f25e006c1b910fe46940ce7118001796f143aa07c7c715c8816"
+    },
+    {
+      "path": "07.jpg",
+      "sha256": "57a05697e267e981d0ffbe12d62fee337f50232c29a19dd1472e2de3d8887e69",
+      "bytes": 266465,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "248cd75bec8793290621cd1fe6cb90cdb1ae55bd08dfa323f34ca54fe6148998"
+    },
+    {
+      "path": "08.jpg",
+      "sha256": "4081956ecfbf2fa6b2ad1bbc17a1045409aaca70373eb134b115067492cc444e",
+      "bytes": 346915,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "1463d106bc28996541154743037a8c3c9320c3cf60722075225c9cd249991bde"
+    },
+    {
+      "path": "09.jpg",
+      "sha256": "3852eab448f887c496308463fe9193ca8d3f6a0decce796d70c7807670e152f2",
+      "bytes": 502221,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "22bac2a80811b3d39de6b904158029caecbb296988bba4df6c36412e36cbc076"
+    },
+    {
+      "path": "10.jpg",
+      "sha256": "5512ec838895f195e6b6e0f8c72681b923842d950ab177321b27d601f2e3fc7e",
+      "bytes": 50591,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "5127ac84df266dbf3398ec9543149ff2da50207944dcb636c5d9b4c62154effa"
+    }
+  ],
+  "sources": [
+    {
+      "title": "These Women Were the Real Geniuses Behind the Iconic Tiffany Lamps",
+      "url": "https://www.smithsonianmag.com/smithsonian-institution/women-real-geniuses-behind-iconic-tiffany-lamps-180983699/",
+      "publisher": "Smithsonian Magazine",
+      "publishedAt": "2024-03-01T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:38:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "회사 광고가 티파니를 수석 디자이너로 내세웠고 공식 자료에 드리스콜을 언급하지 않았다는 점, 2005년 드리스콜 가족 편지 수백 통 발견, 편지에서 드리스콜이 Wisteria·Butterfly·Fern·Poppy·Dragonfly 램프 디자이너로 자신을 밝힌 점, 여성 유리 재단부를 이끈 점, 거의 한 세기 동안 크레딧이 없었다는 점(부제), 미술관들이 드리스콜 이름을 올리기 시작했다는 점을 확인했습니다.",
+      "usageNote": "2024년 3월호 기사라 게시일을 3월 1일로 적었다."
+    },
+    {
+      "title": "Exhibition Honors Woman Behind the Tiffany Lamp",
+      "url": "https://www.npr.org/2007/01/14/6854160/exhibition-honors-woman-behind-the-tiffany-lamp",
+      "publisher": "NPR (Weekend Edition Sunday)",
+      "publishedAt": "2007-01-14T08:00:00-05:00",
+      "retrievedAt": "2026-10-22T03:41:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "에이델버그가 드리스콜이 어머니·자매에게 쓴 편지 묶음을 찾았고, 편지가 자연 주제 램프의 디자이너가 드리스콜임을 뒷받침한다는 점, 1904년 뉴욕 데일리 뉴스 기사가 1900년 파리 만국박람회 수상 잠자리 램프를 드리스콜 디자인으로 적었다는 점, 회사 자료에 드리스콜 언급이 없고 티파니가 자기 외에 누구에게도 크레딧을 주지 않았다는 점을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Clara Driscoll and the Tiffany Girls (Women & the American Story)",
+      "url": "https://wams.nyhistory.org/modernizing-america/modern-womanhood/clara-driscoll-and-the-tiffany-girls/",
+      "publisher": "New-York Historical Society",
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:43:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "잠자리 램프를 드리스콜이 디자인했고 1900년 파리 만국박람회에서 한 버전이 상을 받았다는 점, 드리스콜이 이끈 여성 부서가 자연 주제 납 유리 갓 램프 전체의 디자인·제작을 맡았다는 점, 2007년 뉴욕역사협회 전시 전까지 공개적으로 인정받지 못했다는 점을 확인했습니다.",
+      "usageNote": "게시일 미표기."
+    },
+    {
+      "title": "Tiffany Studio: Clara Driscoll",
+      "url": "https://www.ngv.vic.gov.au/essay/tiffany-studio-clara-driscoll/",
+      "publisher": "National Gallery of Victoria",
+      "publishedAt": "2021-04-29T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:40:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "2000년대 초 에이델버그·그레이·호퍼가 드리스콜 편지를 찾아 그가 Wisteria·Dragonfly·Peony 등 램프 약 30종의 디자이너임이 드러났다는 점, 여성 유리 재단부가 최대 50명을 고용했다는 점, 티파니가 창작 팀을 공개적으로 알리지 않았다는 점을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Who Were the Tiffany Girls?",
+      "url": "https://www.pbs.org/wgbh/roadshow/articles/who-were-the-tiffany-girls",
+      "publisher": "PBS Antiques Roadshow",
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:47:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "드리스콜이 Dragonfly·Wisteria·Poppy 등 대표 램프를 디자인했다는 점, 티파니가 자기 이름을 앞세웠다는 점, 편지가 2005년 그레이·에이델버그·호퍼에 의해 거의 동시에 퀸스 역사협회와 오하이오 쪽에서 발견됐다는 점을 확인했습니다.",
+      "usageNote": "게시일 미표기."
+    },
+    {
+      "title": "Tiffany Lamps, and the Women Who Created Them",
+      "url": "https://www.westsidespirit.com/newsletter-section/tiffany-lamps-and-the-women-who-created-them-BD731113",
+      "publisher": "West Side Spirit",
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:47:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "뉴욕역사협회 마거릿 호퍼의 말로, 드리스콜의 역할이 2005년 퀸스와 오하이오의 편지 묶음 두 곳이 발견되며 드러났다는 점과 잠자리 램프가 드리스콜 디자인이라는 점을 확인했습니다.",
+      "usageNote": "게시일 미표기."
+    },
+    {
+      "title": "Exhibition on Louis Comfort Tiffany's Studios to Open at The Met",
+      "url": "https://nationaljeweler.com/articles/15233-exhibition-on-louis-comfort-tiffany-s-studios-to-open-at-the-met",
+      "publisher": "National Jeweler",
+      "publishedAt": "2026-08-17T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:41:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "'Designing the Gilded Age: Drawings from the Studios of Louis C. Tiffany'가 2026-10-22~2027-02-07 메트 5번가 691~693 전시실, 입장료에 포함, 수채 도안 약 120점, 도안이 여성·이민자 디자이너들에 의해 그려졌다는 점, 메트가 'Poppy' 갓 도안을 드리스콜(또는 구비) 작품으로 본다는 점을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "The Brilliance of Tiffany Studios Gilded Age Interiors Will Go on View at The Met This Autumn",
+      "url": "https://galeriemagazine.com/the-brilliance-of-tiffany-co-s-gilded-age-interiors-will-go-on-view-at-the-met-this-autumn/",
+      "publisher": "Galerie Magazine",
+      "publishedAt": "2026-07-28T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:55:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "메트 'Designing the Gilded Age'가 2026-10-22~2027-02-07, 메트 소장 티파니 도안 120여 점, 램프를 원래 도안과 나란히 보여 준다는 점, 램프 공방에 숙련된 여성 디자이너들이 있었다는 점을 확인했습니다.",
+      "usageNote": "'over 120'으로 적혀 National Jeweler의 'nearly 120'과 달라 카드엔 '약 120점'으로 썼다."
+    },
+    {
+      "title": "The Met to Present Louis C. Tiffany Design Drawings Exhibition",
+      "url": "https://heni.com/news/article/the-met-to-present-louis-c-tiffany-design-drawings-exhibition",
+      "publisher": "HENI News",
+      "publishedAt": "2026-07-28T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:56:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "전시가 2026-10-22~2027-02-07 메트 5번가 691~693 전시실에서 열리고, 애그니스 노스럽·클라라 드리스콜·제이컵 홀저 등 디자이너들의 기여를 짚는다는 점을 확인했습니다(메트 보도자료 기반 기사).",
+      "usageNote": "게시일이 페이지에 명확히 없어 Galerie 기사와 같은 7월 말로 적었다. 메트 보도자료 원문은 사이트 차단(429)으로 직접 열지 못했다."
+    },
+    {
+      "title": "Design for Enamel \"Hawthorn\" Covered Jar — collection record",
+      "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/754088",
+      "publisher": "The Metropolitan Museum of Art (Collection API)",
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:46:00+09:00",
+      "kind": "data",
+      "evidenceSummary": "8장 사진인 줄리아 먼슨 추정 'Hawthorn' 도안이 isPublicDomain=true(CC0)이고 전시실 번호가 691(전시 공간 691~693 중 하나)이라는 점을 확인했습니다.",
+      "usageNote": "공식 IG @metmuseum은 메트 웨비상(2014) 보도 페이지 검색 결과에서 확인."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-21T18:53:25.582Z",
+      "attempt": 1,
+      "url": "https://www.smithsonianmag.com/smithsonian-institution/women-real-geniuses-behind-iconic-tiffany-lamps-180983699/",
+      "httpStatus": 206,
+      "outcome": "verified",
+      "detail": "Verified with public web-client fallback."
+    },
+    {
+      "attemptedAt": "2026-10-21T18:53:25.643Z",
+      "attempt": 1,
+      "url": "https://www.npr.org/2007/01/14/6854160/exhibition-honors-woman-behind-the-tiffany-lamp",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-21T18:53:26.393Z",
+      "attempt": 1,
+      "url": "https://wams.nyhistory.org/modernizing-america/modern-womanhood/clara-driscoll-and-the-tiffany-girls/",
+      "httpStatus": 200,
+      "outcome": "verified",
+      "detail": "Verified with public web-client fallback."
+    },
+    {
+      "attemptedAt": "2026-10-21T18:53:28.053Z",
+      "attempt": 1,
+      "url": "https://www.ngv.vic.gov.au/essay/tiffany-studio-clara-driscoll/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-21T18:53:30.385Z",
+      "attempt": 1,
+      "url": "https://www.pbs.org/wgbh/roadshow/articles/who-were-the-tiffany-girls",
+      "httpStatus": 200,
+      "outcome": "verified",
+      "detail": "Redirected to https://www.pbs.org/wgbh/roadshow/articles/who-were-the-tiffany-girls/"
+    },
+    {
+      "attemptedAt": "2026-10-21T18:53:31.428Z",
+      "attempt": 1,
+      "url": "https://www.westsidespirit.com/newsletter-section/tiffany-lamps-and-the-women-who-created-them-BD731113",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-21T18:53:32.703Z",
+      "attempt": 1,
+      "url": "https://nationaljeweler.com/articles/15233-exhibition-on-louis-comfort-tiffany-s-studios-to-open-at-the-met",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-21T18:53:32.827Z",
+      "attempt": 1,
+      "url": "https://galeriemagazine.com/the-brilliance-of-tiffany-co-s-gilded-age-interiors-will-go-on-view-at-the-met-this-autumn/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-21T18:53:33.356Z",
+      "attempt": 1,
+      "url": "https://heni.com/news/article/the-met-to-present-louis-c-tiffany-design-drawings-exhibition",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-21T18:53:34.007Z",
+      "attempt": 1,
+      "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/754088",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-21T18:53:34.051Z",
+  "draftApprovedContentHash": "1600edb565e710e89ed504bae0ef4d94922cdc702ef31fcea2623d12edc1922c",
+  "renderedAt": "2026-10-21T18:53:51.594Z",
+  "deployedAt": "2026-10-22T01:00:35.889Z"
+}

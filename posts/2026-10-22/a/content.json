@@ -1,0 +1,306 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-22",
+  "slot": "a",
+  "runMode": "scheduled",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-22T03:36:00+09:00",
+  "generatedAt": "2026-10-22T04:02:00+09:00",
+  "package": {
+    "contentVersion": "v3",
+    "category": "art",
+    "slug": "clara-driscoll-tiffany-dragonfly",
+    "topic": "티파니 잠자리·등나무 램프는 클라라 드리스콜의 디자인(2005년 편지로 알려짐), 메트 'Designing the Gilded Age' 10-22 개막",
+    "headline": [
+      "티파니 램프의 잠자리",
+      "그린 사람은 따로"
+    ],
+    "coverLayout": "caption",
+    "hook": "💡 티파니 램프의 잠자리 무늬, 디자인한 사람은 티파니가 아니었어요.",
+    "body": [
+      "1900년 파리 만국박람회에서 티파니 스튜디오의 잠자리 램프가 상을 받았어요. 회사는 광고마다 루이스 컴퍼트 티파니를 수석 디자이너로 내세웠고, 회사 자료 어디에도 다른 디자이너 이름은 없었어요. 그렇게 100년 가까이 이 램프들은 그냥 '티파니 램프'였죠.",
+      "사실 잠자리 램프를 그린 사람은 여성 유리 재단부를 이끈 클라라 드리스콜이에요. 2005년, 드리스콜이 어머니와 자매들에게 보낸 편지 수백 통이 뉴욕 퀸스와 오하이오에서 거의 동시에 나왔거든요. 편지에서 그는 잠자리와 등나무 램프를 자기가 디자인했다고 적었어요. 그 밑에선 여성 직원 수십 명이 유리 조각을 하나하나 골라 잘랐대요. 지금은 여러 미술관이 램프 설명에 드리스콜의 이름을 함께 적어요.",
+      "뉴욕 메트로폴리탄 미술관 @metmuseum 에서 오늘 10월 22일, 티파니 공방의 디자인 도안 약 120점을 모은 'Designing the Gilded Age'가 열려요. 드리스콜, 애그니스 노스럽, 줄리아 먼슨 같은 여성 디자이너들의 몫도 함께 짚는 전시예요. 메트 5번가 691~693 전시실에서 2027년 2월 7일까지이고, 미술관 입장권이면 따로 돈을 내지 않아요."
+    ],
+    "question": "내 아이디어가 상사 이름으로 나가면, 바로 말한다 vs 일단 넘긴다?",
+    "credits": "잠자리 램프 Dayton Art Institute 소장, 사진 Wmpearl (CC0), 'Dragonflies and Water Flowers' 램프 Corning Museum of Glass 소장, 사진 Andre Carrotflower (CC BY-SA 4.0), 루이스 C. 티파니 초상 Library of Congress (Public domain), 공작·우드바인 램프 Cleveland Museum of Art (CC0), 사과꽃 램프 사진 Opal_Art_Seekers_4 (CC BY 2.5), 등나무 램프 사진 Fopseh (CC BY-SA 4.0), 'Hawthorn' 도안 The Met (CC0), 금사슬나무 램프 사진 Sailko (CC BY 3.0)",
+    "editor": "Haein",
+    "hashtags": [
+      "#티파니램프",
+      "#TiffanyLamp",
+      "#클라라드리스콜",
+      "#메트로폴리탄미술관",
+      "#아르누보"
+    ],
+    "slides": [
+      {
+        "index": 1,
+        "text": "티파니 램프의 잠자리\n그린 사람은 따로",
+        "image": {
+          "file": "01-cover.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Corning_Museum_of_Glass_-_20220412_-_36_-_%22Dragonflies_and_Water_Flowers%22_reading_lamp_(Clara_Pierce_Wolcott_Driscoll,_1899).jpg",
+          "credit": "'Dragonflies and Water Flowers' reading lamp (Clara Driscoll, 1899), Corning Museum of Glass, photo Andre Carrotflower (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-22T03:44:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.06,
+              "y": 0.12,
+              "width": 0.88,
+              "height": 0.88
+            }
+          }
+        }
+      },
+      {
+        "index": 2,
+        "text": "1900년 파리 만국박람회에서 티파니의 잠자리 램프가 상을 받았어요.",
+        "image": {
+          "file": "02-dayton-dragonfly.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dragonfly_Lamp,_Tiffany_Studios,_Dayton_Art_Institute.jpg",
+          "credit": "Dragonfly Lamp, Tiffany Studios, Dayton Art Institute, photo Wmpearl (CC0)",
+          "license": "CC0 1.0",
+          "checkedAt": "2026-10-22T03:44:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.49,
+              "y": 0,
+              "width": 0.363,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 3,
+        "text": "회사는 광고마다 루이스 티파니를 디자이너로 내세웠어요.",
+        "image": {
+          "file": "03-tiffany-portrait.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Louis_C._Tiffany,_head-and-shoulders_portrait,_facing_front_LCCN96502630.jpg",
+          "credit": "Louis C. Tiffany, head-and-shoulders portrait, Library of Congress (Public domain)",
+          "license": "Public domain (Library of Congress, no known restrictions)",
+          "checkedAt": "2026-10-22T03:44:00+09:00",
+          "focus": "top",
+          "edit": {
+            "crop": {
+              "x": 0.06,
+              "y": 0.07,
+              "width": 0.88,
+              "height": 0.86
+            }
+          }
+        }
+      },
+      {
+        "index": 4,
+        "text": "실제로 그린 사람은 여성 유리 재단부를 이끈 클라라 드리스콜이에요.",
+        "image": {
+          "file": "04-peacock.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clara_Wolcott_Driscoll_(American,_1861-1944),_Tiffany_Studios_(American,_1902-1932)_-_Peacock_Table_Lamp_-_2018.281_-_Cleveland_Museum_of_Art.jpg",
+          "credit": "Clara Wolcott Driscoll, Tiffany Studios, Peacock Table Lamp, Cleveland Museum of Art (CC0)",
+          "license": "CC0 1.0 (Cleveland Museum of Art Open Access)",
+          "checkedAt": "2026-10-22T03:44:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 5,
+        "text": "그 밑에서 여성 직원 수십 명이 유리 조각을 하나하나 골라 잘랐어요.",
+        "image": {
+          "file": "10-apple-blossom.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:WLA_nyhistorical_Clara_Driscoll_Apple_Blossom_Table_lamp.jpg",
+          "credit": "Clara Driscoll, Apple Blossom table lamp, New-York Historical Society, photo Opal_Art_Seekers_4 (CC BY 2.5)",
+          "license": "CC BY 2.5",
+          "checkedAt": "2026-10-22T03:44:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 6,
+        "text": "사실 이 이야기는 2005년, 드리스콜의 편지 수백 통이 나오면서 알려졌어요.",
+        "image": {
+          "file": "06-woodbine.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clara_Wolcott_Driscoll_(American,_1861-1944),_Tiffany_Glass_%5E_Decorating_Co._(American,_1892-1900),_Tiffany_Studios_(American,_1902-1932)_-_Woodbine_Table_Lamp_-_2018.283_-_Cleveland_Museum_of_Art.jpg",
+          "credit": "Clara Wolcott Driscoll, Woodbine Table Lamp, Cleveland Museum of Art (CC0)",
+          "license": "CC0 1.0 (Cleveland Museum of Art Open Access)",
+          "checkedAt": "2026-10-22T03:44:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 7,
+        "text": "편지에 그는 잠자리와 등나무 램프를 자기가 디자인했다고 적었어요.",
+        "image": {
+          "file": "05-wisteria.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wisteria_Tiffany_Studios_Lamp.jpg",
+          "credit": "Wisteria lamp, Tiffany Studios, photo Fopseh (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-22T03:44:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 8,
+        "text": "뉴욕 메트에서 오늘부터 2월 7일까지 티파니 공방 도안 약 120점을 걸어요.",
+        "image": {
+          "file": "08-met-hawthorn.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://collectionapi.metmuseum.org/public/collection/v1/objects/754088",
+          "credit": "Design for Enamel \"Hawthorn\" Covered Jar, attributed to Julia Munson, The Met Open Access (CC0)",
+          "license": "Public domain (CC0)",
+          "checkedAt": "2026-10-22T03:46:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 9,
+        "text": "내 아이디어가 상사 이름으로 나가면, 바로 말한다 vs 일단 넘긴다?",
+        "image": {
+          "file": "11-laburnum.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clara_driscoll_per_tiffany_studios,_lampada_laburnum,_1910_ca._02.jpg",
+          "credit": "Clara Driscoll for Tiffany Studios, Laburnum lamp, c. 1910, photo Sailko (CC BY 3.0)",
+          "license": "CC BY 3.0",
+          "checkedAt": "2026-10-22T03:44:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.2,
+              "y": 0,
+              "width": 0.6,
+              "height": 1
+            }
+          }
+        }
+      }
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 2,
+      "evidenceAndImages": 2,
+      "availableNow": 1,
+      "rationale": "티파니 램프를 아는 친구, 인테리어·아르누보 좋아하는 친구, '내 아이디어 뺏긴' 경험이 있는 직장인 친구에게 바로 보낼 이야기다. 표지 두 줄로 '잠자리 램프 디자이너는 티파니가 아님'이 오해 없이 전달된다. 국내에선 거의 모르는 이야기라 새로움 2점. 핵심 사실(드리스콜 디자인, 2005년 편지, 1900년 파리 수상)은 스미소니언·NPR·NGV·PBS·뉴욕역사협회로, 전시는 메트 보도자료·National Jeweler로 교차 확인했고 사진 9장 모두 1등급(CC0·PD·CC BY/BY-SA). 뉴욕 전시라 지금 볼 수 있는가는 1점. 표지는 편성표 추천 2안 그대로이며 keyword 없이 자막 박스형. 처음엔 데이턴 잠자리 갓 클로즈업을 표지에 썼더니 자막 박스가 잠자리 날개를 가려, 코닝 미술관의 드리스콜 잠자리 램프(1899)로 바꾸고 클로즈업은 2장으로 옮겼다. 버린 후보: ① '티파니 램프를 디자인한 건 / 이름 없던 여직원' — '여직원'이 낡은 말이고 '이름 없던'은 회사 자료에 이름이 없었다는 뜻을 흐린다. ② '편지 수백 통이 밝힌 / 티파니 램프의 주인' — 과장 동사 '밝힌'과 숫자로 시작해 슬롭 판정표에 걸린다."
+    },
+    "unknowns": [
+      "드리스콜의 근무 연도는 출처마다 달라(1887/1888 입사, 1908/1909 퇴사) 쓰지 않았다.",
+      "메트 보도자료 원문은 사이트 차단(429)으로 직접 못 열어 HENI·Galerie·National Jeweler로 대신 확인. 전시 안 드리스콜 작품 수는 미확인.",
+      "편지의 직접 인용은 스미소니언('지난여름 낸 아이디어')과 PBS(호퍼 '오늘 아이디어')가 달라 따옴표 인용을 쓰지 않았다.",
+      "사망 기록 직업란 '주부'는 스미소니언 한 곳만 직접 확인돼 쓰지 않았다. 여성 직원 수(27·35·최대 50)도 출처마다 달라 '수십 명'으로만 썼다.",
+      "2002년 책이 이미 잠자리 갓을 드리스콜 디자인으로 적었다는 기록이 있어, '2005년 편지로 널리 알려짐' 수준으로만 썼다."
+    ]
+  },
+  "sources": [
+    {
+      "title": "These Women Were the Real Geniuses Behind the Iconic Tiffany Lamps",
+      "url": "https://www.smithsonianmag.com/smithsonian-institution/women-real-geniuses-behind-iconic-tiffany-lamps-180983699/",
+      "publisher": "Smithsonian Magazine",
+      "publishedAt": "2024-03-01T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:38:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "회사 광고가 티파니를 수석 디자이너로 내세웠고 공식 자료에 드리스콜을 언급하지 않았다는 점, 2005년 드리스콜 가족 편지 수백 통 발견, 편지에서 드리스콜이 Wisteria·Butterfly·Fern·Poppy·Dragonfly 램프 디자이너로 자신을 밝힌 점, 여성 유리 재단부를 이끈 점, 거의 한 세기 동안 크레딧이 없었다는 점(부제), 미술관들이 드리스콜 이름을 올리기 시작했다는 점을 확인했습니다.",
+      "usageNote": "2024년 3월호 기사라 게시일을 3월 1일로 적었다."
+    },
+    {
+      "title": "Exhibition Honors Woman Behind the Tiffany Lamp",
+      "url": "https://www.npr.org/2007/01/14/6854160/exhibition-honors-woman-behind-the-tiffany-lamp",
+      "publisher": "NPR (Weekend Edition Sunday)",
+      "publishedAt": "2007-01-14T08:00:00-05:00",
+      "retrievedAt": "2026-10-22T03:41:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "에이델버그가 드리스콜이 어머니·자매에게 쓴 편지 묶음을 찾았고, 편지가 자연 주제 램프의 디자이너가 드리스콜임을 뒷받침한다는 점, 1904년 뉴욕 데일리 뉴스 기사가 1900년 파리 만국박람회 수상 잠자리 램프를 드리스콜 디자인으로 적었다는 점, 회사 자료에 드리스콜 언급이 없고 티파니가 자기 외에 누구에게도 크레딧을 주지 않았다는 점을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Clara Driscoll and the Tiffany Girls (Women & the American Story)",
+      "url": "https://wams.nyhistory.org/modernizing-america/modern-womanhood/clara-driscoll-and-the-tiffany-girls/",
+      "publisher": "New-York Historical Society",
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:43:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "잠자리 램프를 드리스콜이 디자인했고 1900년 파리 만국박람회에서 한 버전이 상을 받았다는 점, 드리스콜이 이끈 여성 부서가 자연 주제 납 유리 갓 램프 전체의 디자인·제작을 맡았다는 점, 2007년 뉴욕역사협회 전시 전까지 공개적으로 인정받지 못했다는 점을 확인했습니다.",
+      "usageNote": "게시일 미표기."
+    },
+    {
+      "title": "Tiffany Studio: Clara Driscoll",
+      "url": "https://www.ngv.vic.gov.au/essay/tiffany-studio-clara-driscoll/",
+      "publisher": "National Gallery of Victoria",
+      "publishedAt": "2021-04-29T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:40:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "2000년대 초 에이델버그·그레이·호퍼가 드리스콜 편지를 찾아 그가 Wisteria·Dragonfly·Peony 등 램프 약 30종의 디자이너임이 드러났다는 점, 여성 유리 재단부가 최대 50명을 고용했다는 점, 티파니가 창작 팀을 공개적으로 알리지 않았다는 점을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Who Were the Tiffany Girls?",
+      "url": "https://www.pbs.org/wgbh/roadshow/articles/who-were-the-tiffany-girls",
+      "publisher": "PBS Antiques Roadshow",
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:47:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "드리스콜이 Dragonfly·Wisteria·Poppy 등 대표 램프를 디자인했다는 점, 티파니가 자기 이름을 앞세웠다는 점, 편지가 2005년 그레이·에이델버그·호퍼에 의해 거의 동시에 퀸스 역사협회와 오하이오 쪽에서 발견됐다는 점을 확인했습니다.",
+      "usageNote": "게시일 미표기."
+    },
+    {
+      "title": "Tiffany Lamps, and the Women Who Created Them",
+      "url": "https://www.westsidespirit.com/newsletter-section/tiffany-lamps-and-the-women-who-created-them-BD731113",
+      "publisher": "West Side Spirit",
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:47:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "뉴욕역사협회 마거릿 호퍼의 말로, 드리스콜의 역할이 2005년 퀸스와 오하이오의 편지 묶음 두 곳이 발견되며 드러났다는 점과 잠자리 램프가 드리스콜 디자인이라는 점을 확인했습니다.",
+      "usageNote": "게시일 미표기."
+    },
+    {
+      "title": "Exhibition on Louis Comfort Tiffany's Studios to Open at The Met",
+      "url": "https://nationaljeweler.com/articles/15233-exhibition-on-louis-comfort-tiffany-s-studios-to-open-at-the-met",
+      "publisher": "National Jeweler",
+      "publishedAt": "2026-08-17T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:41:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "'Designing the Gilded Age: Drawings from the Studios of Louis C. Tiffany'가 2026-10-22~2027-02-07 메트 5번가 691~693 전시실, 입장료에 포함, 수채 도안 약 120점, 도안이 여성·이민자 디자이너들에 의해 그려졌다는 점, 메트가 'Poppy' 갓 도안을 드리스콜(또는 구비) 작품으로 본다는 점을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "The Brilliance of Tiffany Studios Gilded Age Interiors Will Go on View at The Met This Autumn",
+      "url": "https://galeriemagazine.com/the-brilliance-of-tiffany-co-s-gilded-age-interiors-will-go-on-view-at-the-met-this-autumn/",
+      "publisher": "Galerie Magazine",
+      "publishedAt": "2026-07-28T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:55:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "메트 'Designing the Gilded Age'가 2026-10-22~2027-02-07, 메트 소장 티파니 도안 120여 점, 램프를 원래 도안과 나란히 보여 준다는 점, 램프 공방에 숙련된 여성 디자이너들이 있었다는 점을 확인했습니다.",
+      "usageNote": "'over 120'으로 적혀 National Jeweler의 'nearly 120'과 달라 카드엔 '약 120점'으로 썼다."
+    },
+    {
+      "title": "The Met to Present Louis C. Tiffany Design Drawings Exhibition",
+      "url": "https://heni.com/news/article/the-met-to-present-louis-c-tiffany-design-drawings-exhibition",
+      "publisher": "HENI News",
+      "publishedAt": "2026-07-28T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:56:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "전시가 2026-10-22~2027-02-07 메트 5번가 691~693 전시실에서 열리고, 애그니스 노스럽·클라라 드리스콜·제이컵 홀저 등 디자이너들의 기여를 짚는다는 점을 확인했습니다(메트 보도자료 기반 기사).",
+      "usageNote": "게시일이 페이지에 명확히 없어 Galerie 기사와 같은 7월 말로 적었다. 메트 보도자료 원문은 사이트 차단(429)으로 직접 열지 못했다."
+    },
+    {
+      "title": "Design for Enamel \"Hawthorn\" Covered Jar — collection record",
+      "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/754088",
+      "publisher": "The Metropolitan Museum of Art (Collection API)",
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:46:00+09:00",
+      "kind": "data",
+      "evidenceSummary": "8장 사진인 줄리아 먼슨 추정 'Hawthorn' 도안이 isPublicDomain=true(CC0)이고 전시실 번호가 691(전시 공간 691~693 중 하나)이라는 점을 확인했습니다.",
+      "usageNote": "공식 IG @metmuseum은 메트 웨비상(2014) 보도 페이지 검색 결과에서 확인."
+    }
+  ],
+  "collectionErrors": []
+}
