@@ -1,0 +1,273 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-22",
+  "slot": "c",
+  "postId": "2026-10-22-c",
+  "runMode": "scheduled",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "죽고 20년 숨겨 달란 그림 11월 경매에 나온다",
+  "slug": "hilma-af-klint-ser-iii-no5-bukowskis",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "v3",
+    "topic": "힐마 아프 클린트 'Ser III No. 5'(1920) 11월 19일 스톡홀름 부코브스키 경매 출품, 사후 20년 비공개 요청한 화가",
+    "category": "art",
+    "editor": "Haein",
+    "shareScore": 9,
+    "coverLayout": "keyword",
+    "imageTiers": {
+      "public_domain": 9
+    }
+  },
+  "generatedAt": "2026-10-22T03:52:00+09:00",
+  "scheduledStartAt": "2026-10-21T18:30:00.000Z",
+  "actualStartedAt": "2026-10-22T03:36:00+09:00",
+  "imageCount": 10,
+  "contentHash": "e9d10c4f9bfa39df96832ad8cbfdec1393cd9d90778ec9afb5e165eaf6b23a9c",
+  "idempotencyKey": "scenenode:2026-10-22-c:e9d10c4f9bfa39df",
+  "media": [
+    {
+      "path": "01.jpg",
+      "sha256": "b9a26fa2b42480627f78b3729e96718e93fddd4586c30fee2739dd3b3c2103a9",
+      "bytes": 636836,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "6e56e789c724dff6b7333bec054e7102a08a74f6f6116660f9ee9c78bd68686a"
+    },
+    {
+      "path": "02.jpg",
+      "sha256": "d043e78b0d0143970ca175e31166848e230489c403db1632cda7026f3f9f08d9",
+      "bytes": 297284,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "11cd8142dfda009211a559d09ef75059925537b0d6d02b987482990e786bde89"
+    },
+    {
+      "path": "03.jpg",
+      "sha256": "7ff315ce51eacf28fffda4b518c5e1a77ce3a7591ee7c4758e3c084088f235eb",
+      "bytes": 373083,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "23bb79556a671ab27295b1a1b98433b6e2154e08224c858742381925bc4812b1"
+    },
+    {
+      "path": "04.jpg",
+      "sha256": "aa370fca57b512fe0ade956a931ba138232a944f741c6c58cf363f2c2dab5542",
+      "bytes": 394487,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "4caa34d81b95f5f58db69b4128416afb95b8f9b1912b9d74a661916e40618acf"
+    },
+    {
+      "path": "05.jpg",
+      "sha256": "8a151fbe8176f3f4a54ffb86b3e8f3a218b37fc76563fddd8e752c81cb2eda5c",
+      "bytes": 236136,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "4373e3dc7bcf596e06f1f82f0de41ea365cf31a3a3feb86a7f8ec7eba66d69a5"
+    },
+    {
+      "path": "06.jpg",
+      "sha256": "f408456388aa5f259d0b3624b68c89defbf00c4a025e7ff5f7904fc40c9c08b1",
+      "bytes": 263832,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "ea47626d23a8211af3affb0f2b041cd943928c7f0d7f509ee40f89b405db7616"
+    },
+    {
+      "path": "07.jpg",
+      "sha256": "b5e17382eb0fe25ee41b0be57b7e8db07e653d0f001f5b059cb72405b8b68031",
+      "bytes": 318143,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "1df3a185226b0af4570bdf4f504321b853d9edaab4f3d8e955b134220f7d4215"
+    },
+    {
+      "path": "08.jpg",
+      "sha256": "030bbd32ae8e454712b983dab9def192bbd3f47387664fdeb1c025b92e981127",
+      "bytes": 412858,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "036fbd80ba5617bb4abc5cc7752e8b149d7bbaebc18196cbd995a72e1d0776ef"
+    },
+    {
+      "path": "09.jpg",
+      "sha256": "62b45c6d0ded048ea257973416eb1715046b23fe03ceb7bfc6ba98487b9f8d9c",
+      "bytes": 243838,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "f317e8204a95f2e7bc70053d248c805da2b57bdfd710bdbeda7b072db204267b"
+    },
+    {
+      "path": "10.jpg",
+      "sha256": "5512ec838895f195e6b6e0f8c72681b923842d950ab177321b27d601f2e3fc7e",
+      "bytes": 50591,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "5127ac84df266dbf3398ec9543149ff2da50207944dcb636c5d9b4c62154effa"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sensationellt abstrakt verk av Hilma af Klint ska klubbas på Bukowskis",
+      "url": "https://via.tt.se/pressmeddelande/4603083/sensationellt-abstrakt-verk-av-hilma-af-klint-ska-klubbas-pa-bukowskis?publisherId=3236798&lang=sv",
+      "publisher": "Bukowski Auktioner AB (via TT)",
+      "publishedAt": "2026-10-20T09:00:00+02:00",
+      "retrievedAt": "2026-10-22T03:40:00+09:00",
+      "kind": "official_announcement",
+      "evidenceSummary": "작품명 'Ser III No. 5', 1920년 1월 18일 서명·날짜, 캔버스에 유채·흑연, 38.5×29cm, Modern Art & Design 라이브 경매 11월 18~19일, 프리뷰 11월 12~17일, 추정가 600만~800만 크로나, 1995년 개인 수집가 매입 후 같은 집안 소장, 재단이 1990년대 초 몇 점을 판 점, 추상화 경매는 이전에 두 점뿐이고 둘 다 30여 년 전이라는 점을 확인했습니다.",
+      "usageNote": "부코브스키 공식 사이트는 연결되지 않아 TT 배포본을 읽었습니다."
+    },
+    {
+      "title": "Hilma af Klint painting could break artist's record next month in Stockholm",
+      "url": "https://www.theartnewspaper.com/2026/10/20/hilma-after-klint-painting-expected-to-make-800000-at-auction-in-stockholm",
+      "publisher": "The Art Newspaper (Anna Brady)",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:38:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "11월 19일 스톡홀름 부코브스키 경매, 추정가 600만~800만 크로나(약 60만~80만 달러), 1920년 1월작, 캔버스에 유채·흑연 38.5×29cm, 1995년 재단이 처분해 개인 수집가가 매입, 1920년 초 몇 달 사이 85점, 1862~1944 생몰년, 1986 LACMA·2018 구겐하임 전시, 이전 경매 기록(2019년 수채화 16만 5,825달러)을 확인했습니다.",
+      "usageNote": "기록 금액은 카드·캡션에 쓰지 않았습니다."
+    },
+    {
+      "title": "Hilma af Klint abstract painting to go to auction for first time in more than 30 years",
+      "url": "https://swedenherald.com/article/hilma-af-klint-abstract-painting-to-go-to-auction-for-first-time-in-more-than-30-years",
+      "publisher": "Sweden Herald (TT)",
+      "publishedAt": "2026-10-20T08:00:00+02:00",
+      "retrievedAt": "2026-10-22T03:39:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "'Ser III No. 5'가 1920년 1월 18일작이며 8개 연작 85점을 그린 시기에 속한다는 점, 재단이 1990년대 스톡홀름 화랑을 통해 몇 점을 팔았고 1995년 수집가가 샀다는 점, 추정가 600만~800만, 1986년 LACMA 전시를 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Hilma af Klint Breaks Records at the Guggenheim Museum",
+      "url": "https://hyperallergic.com/hilma-af-klint-breaks-records-at-the-guggenheim-museum",
+      "publisher": "Hyperallergic (Hakim Bishara)",
+      "publishedAt": "2019-04-22T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:41:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "그녀의 추상 작품은 사후 20년이 지나기 전에는 공개하지 말라고 했다는 점, 1944년 사망, 구겐하임 전시에 60만 명이 찾아 미술관 역사상 최다 관객 전시가 됐다는 점을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Modern Art's Lost Matriarch: Hilma af Klint at the Guggenheim",
+      "url": "https://artandobject.com/news/modern-arts-lost-matriarch-hilma-af-klint-guggenheim",
+      "publisher": "Art & Object (Chandra Noyes)",
+      "publishedAt": "2018-10-17T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:42:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "조카에게 작품 1,200점 가까이를 남기며 사후 20년까지 전시하지 말라고 했다는 점과 1944년 사망을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Hilma af Klint becomes most visited exhibition in Guggenheim's history (press release)",
+      "url": "https://artandobject.com/news/hilma-af-klint-becomes-most-visited-exhibition-guggenheims-history",
+      "publisher": "Art & Object (Guggenheim press release)",
+      "publishedAt": "2019-04-22T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:43:00+09:00",
+      "kind": "official_announcement",
+      "evidenceSummary": "'Paintings for the Future'(2018-10-12~2019-04-23)가 60만 명 넘게 찾아 구겐하임 역사상 최다 관객 전시가 됐다는 점을 검색 결과 요약으로 확인했습니다.",
+      "usageNote": "본문은 직접 열지 않았고 검색 요약으로 확인했습니다. Hyperallergic이 같은 내용을 독립적으로 적었습니다."
+    },
+    {
+      "title": "About Hilma af Klint",
+      "url": "https://hilmaafklint.se/about-hilma-af-klint/",
+      "publisher": "The Hilma af Klint Foundation",
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:42:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "1932년 공책들에 X 표시를 해 사후 20년간 열지 말라고 한 점, 1906년 1월 의뢰를 받아 11월 '원초적 혼돈'으로 '신전을 위한 그림'을 시작한 점, 1944년 10월 21일 사망, 1986년 LACMA 전시, 공식 Instagram(instagram.com/hilmaafklintofficial)을 확인했습니다.",
+      "usageNote": "페이지에 게시일이 없어 publishedAt은 확인일로 적었습니다."
+    },
+    {
+      "title": "The first abstract artist? (And it's not Kandinsky)",
+      "url": "https://www.tate.org.uk/tate-etc/issue-27-spring-2013/first-abstract-artist-and-its-not-kandinsky",
+      "publisher": "Tate Etc. (Julia Voss)",
+      "publishedAt": "2013-03-01T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:41:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "1906년 스톡홀름 작업실에서 첫 추상화를 그렸고 1906년 11월~1907년 3월 '원초적 혼돈' 연작을 그린 점, 1944년 사망을 확인했습니다.",
+      "usageNote": "'칸딘스키보다 먼저'는 이견이 있어 쓰지 않고 '1906년부터 추상'으로만 썼습니다. 게시일은 2013년 봄호라 3월 1일로 적었습니다."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-21T18:50:28.912Z",
+      "attempt": 1,
+      "url": "https://via.tt.se/pressmeddelande/4603083/sensationellt-abstrakt-verk-av-hilma-af-klint-ska-klubbas-pa-bukowskis?publisherId=3236798&lang=sv",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-21T18:50:29.585Z",
+      "attempt": 1,
+      "url": "https://www.theartnewspaper.com/2026/10/20/hilma-after-klint-painting-expected-to-make-800000-at-auction-in-stockholm",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-21T18:50:29.941Z",
+      "attempt": 1,
+      "url": "https://swedenherald.com/article/hilma-af-klint-abstract-painting-to-go-to-auction-for-first-time-in-more-than-30-years",
+      "httpStatus": 200,
+      "outcome": "verified",
+      "detail": "Verified with public web-client fallback."
+    },
+    {
+      "attemptedAt": "2026-10-21T18:50:30.032Z",
+      "attempt": 1,
+      "url": "https://hyperallergic.com/hilma-af-klint-breaks-records-at-the-guggenheim-museum",
+      "httpStatus": 206,
+      "outcome": "verified",
+      "detail": "Redirected to https://hyperallergic.com/hilma-af-klint-breaks-records-at-the-guggenheim-museum/"
+    },
+    {
+      "attemptedAt": "2026-10-21T18:50:31.237Z",
+      "attempt": 1,
+      "url": "https://artandobject.com/news/modern-arts-lost-matriarch-hilma-af-klint-guggenheim",
+      "httpStatus": 200,
+      "outcome": "verified",
+      "detail": "Redirected to https://www.artandobject.com/news/modern-arts-lost-matriarch-hilma-af-klint-guggenheim"
+    },
+    {
+      "attemptedAt": "2026-10-21T18:50:32.451Z",
+      "attempt": 1,
+      "url": "https://artandobject.com/news/hilma-af-klint-becomes-most-visited-exhibition-guggenheims-history",
+      "httpStatus": 200,
+      "outcome": "verified",
+      "detail": "Redirected to https://www.artandobject.com/press-release/hilma-af-klint-becomes-most-visited-exhibition-guggenheims-history"
+    },
+    {
+      "attemptedAt": "2026-10-21T18:50:34.232Z",
+      "attempt": 1,
+      "url": "https://hilmaafklint.se/about-hilma-af-klint/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-21T18:50:34.495Z",
+      "attempt": 1,
+      "url": "https://www.tate.org.uk/tate-etc/issue-27-spring-2013/first-abstract-artist-and-its-not-kandinsky",
+      "httpStatus": 206,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-21T18:50:34.549Z",
+  "draftApprovedContentHash": "e9d10c4f9bfa39df96832ad8cbfdec1393cd9d90778ec9afb5e165eaf6b23a9c",
+  "renderedAt": "2026-10-21T18:50:49.924Z",
+  "deployedAt": "2026-10-22T01:00:35.072Z"
+}

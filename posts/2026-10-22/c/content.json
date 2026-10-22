@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-22",
+  "slot": "c",
+  "runMode": "scheduled",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-22T03:36:00+09:00",
+  "generatedAt": "2026-10-22T03:52:00+09:00",
+  "package": {
+    "contentVersion": "v3",
+    "category": "art",
+    "slug": "hilma-af-klint-ser-iii-no5-bukowskis",
+    "topic": "힐마 아프 클린트 'Ser III No. 5'(1920) 11월 19일 스톡홀름 부코브스키 경매 출품, 사후 20년 비공개 요청한 화가",
+    "headline": [
+      "죽고 20년 숨겨 달란 그림",
+      "11월 경매에 나온다"
+    ],
+    "keyword": "20년",
+    "hook": "🖼️ 죽고 20년 동안 보여 주지 말라던 화가의 추상화가 경매에 나와요.",
+    "body": [
+      "스웨덴 화가 힐마 아프 클린트(1862~1944)는 1906년부터 추상화를 그렸어요. 살아서는 이 그림들을 거의 내보이지 않았고, 죽고 나서 20년 동안은 보여 주지 말라는 말을 남겼어요. 그녀가 세상을 떠난 날이 1944년 10월 21일, 어제가 82주기였어요.",
+      "사실 그녀의 추상화가 경매에 나온 건 지금까지 두 점뿐이고, 둘 다 30여 년 전이에요. 추상화 대부분을 재단이 갖고 있어서예요. 이번에 나오는 'Ser III No. 5'는 1920년 1월 18일에 그린 38.5×29cm 캔버스 유화예요. 재단이 1990년대 초에 판 몇 점 가운데 하나를 1995년 한 수집가가 샀고, 그 뒤로 같은 집안에 있었대요. 그해 초 몇 달 사이 그녀가 그린 추상화만 85점이었어요. 부코브스키가 밝힌 추정가는 600만~800만 크로나예요.",
+      "그림은 11월 19일 스톡홀름 부코브스키 경매에 나오고, 경매 전 11월 12~17일 프리뷰에서 실물을 볼 수 있어요. 2018년 뉴욕 구겐하임 회고전은 60만 명 넘게 찾아 그 미술관 역사상 가장 많은 관객이 든 전시가 됐어요. 재단 소식은 @hilmaafklintofficial 에서 볼 수 있어요."
+    ],
+    "question": "죽고 20년 뒤에 열어 볼 것 하나, 여러분은 뭘 남길 건가요?",
+    "credits": "힐마 아프 클린트 작품 사진: Gsimonov, Rhododendrites, 원본 스캔(퍼블릭 도메인) · 1901년 초상 사진: 작가 미상(퍼블릭 도메인) · 구겐하임 전시 전경: Ryan Dickey (CC BY 2.0) · 모두 Wikimedia Commons",
+    "editor": "Haein",
+    "hashtags": [
+      "#힐마아프클린트",
+      "#HilmaafKlint",
+      "#추상화",
+      "#미술경매",
+      "#미술이야기"
+    ],
+    "slides": [
+      {
+        "index": 1,
+        "text": "죽고 20년 숨겨 달란 그림\n11월 경매에 나온다",
+        "image": {
+          "file": "03-primordial-chaos.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hilma_af_Klint,_1906-07,_Primordial_Chaos_-_No_16.jpg",
+          "credit": "Hilma af Klint, Primordial Chaos No. 16 (1906-07), Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-22T03:44:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 2,
+        "text": "11월 19일 스톡홀름 경매에 나오는 그림, 이 사람이 그렸어요.",
+        "image": {
+          "file": "02-portrait.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hilma_af_Klint,_portrait_photograph_published_in_1901.jpg",
+          "credit": "Hilma af Klint, portrait photograph published 1901, photographer unknown, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-22T03:44:00+09:00",
+          "focus": "top"
+        }
+      },
+      {
+        "index": 3,
+        "text": "스웨덴 화가 힐마 아프 클린트, 1906년부터 추상화를 그렸어요.",
+        "image": {
+          "file": "01-cover.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hilma_af_Klint_%E2%80%94_The_Ten_Largest_%E2%80%94_Number_7_Adulthood.jpg",
+          "credit": "Hilma af Klint, The Ten Largest No. 7 (1907), photo Gsimonov, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-22T03:44:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 4,
+        "text": "그런데 추상화는 죽고 20년 동안 보여 주지 말라고 했어요.",
+        "image": {
+          "file": "04-altarpiece.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hilma_af_Klint_-_Altarpiece_No._1_Group_X_(13919).jpg",
+          "credit": "Hilma af Klint, Altarpiece No. 1, Group X (1915), photo Rhododendrites, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-22T03:44:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 5,
+        "text": "1920년 초 몇 달 새 그린 추상화만 85점, 경매작도 그중 하나예요.",
+        "image": {
+          "file": "05-buddha-1920.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hilma_af_Klint_-_1920_-_Buddha%27s_Standpoint_in_the_Earthly_Life_-_No_3a.jpg",
+          "credit": "Hilma af Klint, Buddha's Standpoint in the Earthly Life No. 3a (1920), Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-22T03:44:00+09:00",
+          "focus": "top"
+        }
+      },
+      {
+        "index": 6,
+        "text": "사실 그녀의 추상화가 경매에 나오는 건 30여 년 만이에요.",
+        "image": {
+          "file": "06-swan.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hilma_af_Klint_-_Group_IX_SUW,_The_Swan_No._1_(13947).jpg",
+          "credit": "Hilma af Klint, The Swan No. 1, Group IX/SUW (1915), photo Rhododendrites, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-22T03:44:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 7,
+        "text": "2018년 구겐하임 회고전은 그 미술관 역사상 최다 관객을 모았어요.",
+        "image": {
+          "file": "07-guggenheim.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hilma_af_Klint_-_exhibition_view_at_Guggenheim.jpg",
+          "credit": "Ryan Dickey, Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "checkedAt": "2026-10-22T03:44:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 8,
+        "text": "경매 전 11월 12~17일, 부코브스키 프리뷰에서 실물을 볼 수 있어요.",
+        "image": {
+          "file": "08-ten-largest-youth.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hilma_af_Klint_%E2%80%94_The_Ten_Largest_%E2%80%94_Number_3_Youth.jpg",
+          "credit": "Hilma af Klint, The Ten Largest No. 3 (1907), photo Gsimonov, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-22T03:44:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 9,
+        "text": "죽고 20년 뒤에 열어 볼 것 하나, 여러분은 뭘 남길 건가요?",
+        "image": {
+          "file": "09-dove.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hilma_af_Klint_-_Group_IX_UW_No._25,_The_Dove,_No._1_(13912).jpg",
+          "credit": "Hilma af Klint, The Dove No. 1, Group IX/UW No. 25 (1915), photo Rhododendrites, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-22T03:44:00+09:00",
+          "focus": "centre"
+        }
+      }
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 2,
+      "evidenceAndImages": 2,
+      "availableNow": 1,
+      "rationale": "구겐하임 최다 관객 기록을 세운 작가라 미술 좋아하는 친구가 바로 떠오르고, '죽고 20년 숨겨 달라던 그림이 경매에'는 표지 두 줄로 오해 없이 전달된다. 추상화 경매 출품이 30여 년 만이라는 점이 6장 반전. 경매일·장소·추정가·크기·연도·소장 이력은 부코브스키 보도자료(TT)·The Art Newspaper·Sweden Herald(TT)로, 20년 비공개 요청은 Hyperallergic·Art & Object·재단 공식 사이트로, 1906년 추상은 Tate Etc.로 확인했다. 사진 9장은 모두 퍼블릭 도메인 작품 또는 CC BY 2.0 전시 전경. 실물은 스톡홀름 프리뷰(11-12~17)에서만 볼 수 있어 지금 볼 수 있는가 1점. 표지는 편성표 추천 1안을 사실 재확인 뒤 그대로 썼다(Ser III No. 5는 1920년 추상 연작이라 20년 비공개 요청 대상인 추상화에 속한다). 버린 후보 1: '20년 숨겨 달라던 화가 / 경매 최고가는 2억대' — 2019년 달러 기록을 원화로 환산하려면 환율 날짜 출처가 더 필요하고 사실 둘(요청·최고가)을 한 표지에 넣는다. 버린 후보 2: '살아서 안 보여 준 추상화 / 11월 스톡홀름 경매에' — 구겐하임 2018 보도자료가 1928년 런던 전시를 생전 유일한 공개로 적어 '안 보여 줬다'가 단정이 된다. 레이아웃은 키워드형(keyword 20년). 같은 날 a·b 표지는 숫자 없음. 표지 사진은 첫 렌더(The Ten Largest No. 7)에서 노란 키워드가 노란 형상과 겹쳐 짙은 파랑의 원초적 혼돈 No. 16으로 바꿨다."
+    },
+    "unknowns": [
+      "20년 비공개 요청의 근거가 갈린다: Hyperallergic·Art & Object는 사후 20년 공개 금지, 재단은 1932년 공책 X 표시, 모데르나 미술관(검색 요약만)은 공책 기록이라 한다. 그래서 '유언'이라는 말은 쓰지 않았다.",
+      "경매작 'Ser III No. 5'의 PD 사진은 공용에 없다. 사진은 모두 다른 작품이고 5장은 같은 1920년 추상화를 '그중 하나'로 묶었다. 표지 사진(원초적 혼돈 No. 16, 1906-07)이 경매작으로 오해될 여지는 있다.",
+      "보도자료는 경매를 11월 18~19일 Modern Art & Design으로, The Art Newspaper는 이 그림을 19일로 적었다. 프리뷰 11월 12~17일은 보도자료에 있고 2026년 프리뷰 장소(예년 Berzelii Park 1)는 확인하지 못해 적지 않았다.",
+      "제작일은 Sweden Herald·보도자료 사진 설명이 1920년 1월 18일, The Art Newspaper는 1920년 1월로만 적었다. 85점은 TAN(몇 달 사이 85점)과 Sweden Herald(8개 연작 85점) 두 곳.",
+      "ARTnews 기사는 리디렉션(tollbit)으로 본문을 직접 읽지 못했고 검색 요약만 봤다. 구겐하임·모데르나 공식 페이지는 쿠키 화면·403으로 본문을 못 읽었다."
+    ]
+  },
+  "sources": [
+    {
+      "title": "Sensationellt abstrakt verk av Hilma af Klint ska klubbas på Bukowskis",
+      "url": "https://via.tt.se/pressmeddelande/4603083/sensationellt-abstrakt-verk-av-hilma-af-klint-ska-klubbas-pa-bukowskis?publisherId=3236798&lang=sv",
+      "publisher": "Bukowski Auktioner AB (via TT)",
+      "publishedAt": "2026-10-20T09:00:00+02:00",
+      "retrievedAt": "2026-10-22T03:40:00+09:00",
+      "kind": "official_announcement",
+      "evidenceSummary": "작품명 'Ser III No. 5', 1920년 1월 18일 서명·날짜, 캔버스에 유채·흑연, 38.5×29cm, Modern Art & Design 라이브 경매 11월 18~19일, 프리뷰 11월 12~17일, 추정가 600만~800만 크로나, 1995년 개인 수집가 매입 후 같은 집안 소장, 재단이 1990년대 초 몇 점을 판 점, 추상화 경매는 이전에 두 점뿐이고 둘 다 30여 년 전이라는 점을 확인했습니다.",
+      "usageNote": "부코브스키 공식 사이트는 연결되지 않아 TT 배포본을 읽었습니다."
+    },
+    {
+      "title": "Hilma af Klint painting could break artist's record next month in Stockholm",
+      "url": "https://www.theartnewspaper.com/2026/10/20/hilma-after-klint-painting-expected-to-make-800000-at-auction-in-stockholm",
+      "publisher": "The Art Newspaper (Anna Brady)",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:38:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "11월 19일 스톡홀름 부코브스키 경매, 추정가 600만~800만 크로나(약 60만~80만 달러), 1920년 1월작, 캔버스에 유채·흑연 38.5×29cm, 1995년 재단이 처분해 개인 수집가가 매입, 1920년 초 몇 달 사이 85점, 1862~1944 생몰년, 1986 LACMA·2018 구겐하임 전시, 이전 경매 기록(2019년 수채화 16만 5,825달러)을 확인했습니다.",
+      "usageNote": "기록 금액은 카드·캡션에 쓰지 않았습니다."
+    },
+    {
+      "title": "Hilma af Klint abstract painting to go to auction for first time in more than 30 years",
+      "url": "https://swedenherald.com/article/hilma-af-klint-abstract-painting-to-go-to-auction-for-first-time-in-more-than-30-years",
+      "publisher": "Sweden Herald (TT)",
+      "publishedAt": "2026-10-20T08:00:00+02:00",
+      "retrievedAt": "2026-10-22T03:39:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "'Ser III No. 5'가 1920년 1월 18일작이며 8개 연작 85점을 그린 시기에 속한다는 점, 재단이 1990년대 스톡홀름 화랑을 통해 몇 점을 팔았고 1995년 수집가가 샀다는 점, 추정가 600만~800만, 1986년 LACMA 전시를 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Hilma af Klint Breaks Records at the Guggenheim Museum",
+      "url": "https://hyperallergic.com/hilma-af-klint-breaks-records-at-the-guggenheim-museum",
+      "publisher": "Hyperallergic (Hakim Bishara)",
+      "publishedAt": "2019-04-22T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:41:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "그녀의 추상 작품은 사후 20년이 지나기 전에는 공개하지 말라고 했다는 점, 1944년 사망, 구겐하임 전시에 60만 명이 찾아 미술관 역사상 최다 관객 전시가 됐다는 점을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Modern Art's Lost Matriarch: Hilma af Klint at the Guggenheim",
+      "url": "https://artandobject.com/news/modern-arts-lost-matriarch-hilma-af-klint-guggenheim",
+      "publisher": "Art & Object (Chandra Noyes)",
+      "publishedAt": "2018-10-17T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:42:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "조카에게 작품 1,200점 가까이를 남기며 사후 20년까지 전시하지 말라고 했다는 점과 1944년 사망을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Hilma af Klint becomes most visited exhibition in Guggenheim's history (press release)",
+      "url": "https://artandobject.com/news/hilma-af-klint-becomes-most-visited-exhibition-guggenheims-history",
+      "publisher": "Art & Object (Guggenheim press release)",
+      "publishedAt": "2019-04-22T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:43:00+09:00",
+      "kind": "official_announcement",
+      "evidenceSummary": "'Paintings for the Future'(2018-10-12~2019-04-23)가 60만 명 넘게 찾아 구겐하임 역사상 최다 관객 전시가 됐다는 점을 검색 결과 요약으로 확인했습니다.",
+      "usageNote": "본문은 직접 열지 않았고 검색 요약으로 확인했습니다. Hyperallergic이 같은 내용을 독립적으로 적었습니다."
+    },
+    {
+      "title": "About Hilma af Klint",
+      "url": "https://hilmaafklint.se/about-hilma-af-klint/",
+      "publisher": "The Hilma af Klint Foundation",
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:42:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "1932년 공책들에 X 표시를 해 사후 20년간 열지 말라고 한 점, 1906년 1월 의뢰를 받아 11월 '원초적 혼돈'으로 '신전을 위한 그림'을 시작한 점, 1944년 10월 21일 사망, 1986년 LACMA 전시, 공식 Instagram(instagram.com/hilmaafklintofficial)을 확인했습니다.",
+      "usageNote": "페이지에 게시일이 없어 publishedAt은 확인일로 적었습니다."
+    },
+    {
+      "title": "The first abstract artist? (And it's not Kandinsky)",
+      "url": "https://www.tate.org.uk/tate-etc/issue-27-spring-2013/first-abstract-artist-and-its-not-kandinsky",
+      "publisher": "Tate Etc. (Julia Voss)",
+      "publishedAt": "2013-03-01T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:41:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "1906년 스톡홀름 작업실에서 첫 추상화를 그렸고 1906년 11월~1907년 3월 '원초적 혼돈' 연작을 그린 점, 1944년 사망을 확인했습니다.",
+      "usageNote": "'칸딘스키보다 먼저'는 이견이 있어 쓰지 않고 '1906년부터 추상'으로만 썼습니다. 게시일은 2013년 봄호라 3월 1일로 적었습니다."
+    }
+  ],
+  "collectionErrors": []
+}
