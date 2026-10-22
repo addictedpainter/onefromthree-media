@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "죽고 20년 숨겨 달란 그림 11월 경매에 나온다",
   "slug": "hilma-af-klint-ser-iii-no5-bukowskis",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "힐마 아프 클린트 'Ser III No. 5'(1920) 11월 19일 스톡홀름 부코브스키 경매 출품, 사후 20년 비공개 요청한 화가",
@@ -361,5 +361,8 @@
   "renderedAt": "2026-10-21T18:50:49.924Z",
   "deployedAt": "2026-10-22T01:00:35.072Z",
   "verifiedAt": "2026-10-22T01:02:51.979Z",
-  "publishAttemptedAt": "2026-10-22T06:00:00.026Z"
+  "publishAttemptedAt": "2026-10-22T06:00:00.026Z",
+  "publishedAt": "2026-10-22T06:01:09.867Z",
+  "externalPostId": "18096510626431585",
+  "externalUrl": "https://www.instagram.com/p/DeySluelXCG/"
 }
