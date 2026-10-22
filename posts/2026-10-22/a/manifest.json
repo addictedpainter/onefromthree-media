@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "티파니 램프의 잠자리 그린 사람은 따로",
   "slug": "clara-driscoll-tiffany-dragonfly",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "v3",
     "topic": "티파니 잠자리·등나무 램프는 클라라 드리스콜의 디자인(2005년 편지로 알려짐), 메트 'Designing the Gilded Age' 10-22 개막",
@@ -38,8 +38,8 @@
       "sourceSha256": "9fcc6590e58ff6867d6282ab29cf2e35e4638724e7c829364daf08d2187e0bb9",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/a/01.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:45.504Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-22T01:03:04.422Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 428698,
@@ -56,8 +56,8 @@
       "sourceSha256": "35570f5ebde9f12a1ed6a9ea86aeac31776be8426e15ae9071943f52b21b7cd0",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/a/02.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:45.853Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-22T01:03:04.422Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 462661,
@@ -74,8 +74,8 @@
       "sourceSha256": "199f9fdfef0f533b95a4f174f9c58322020af07e44eeb33790a53d78e4d6e857",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/a/03.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:46.132Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-22T01:03:04.422Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 233826,
@@ -92,8 +92,8 @@
       "sourceSha256": "ae59dbcd43556e551c5e82ffcefcdc2e58d5937411a76474d9bb1bc99e3457f6",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/a/04.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:46.383Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-22T01:03:04.422Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 274925,
@@ -110,8 +110,8 @@
       "sourceSha256": "de5a4dbd0adea400c104b6195b38c9d526032227238e4844343722158173812b",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/a/05.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:46.622Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-22T01:03:04.422Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 399983,
@@ -128,8 +128,8 @@
       "sourceSha256": "0a17e3c28f7e3f25e006c1b910fe46940ce7118001796f143aa07c7c715c8816",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/a/06.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:46.864Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-22T01:03:04.422Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 270341,
@@ -146,8 +146,8 @@
       "sourceSha256": "248cd75bec8793290621cd1fe6cb90cdb1ae55bd08dfa323f34ca54fe6148998",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/a/07.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:47.097Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-22T01:03:04.422Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 266465,
@@ -164,8 +164,8 @@
       "sourceSha256": "1463d106bc28996541154743037a8c3c9320c3cf60722075225c9cd249991bde",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/a/08.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:47.829Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-22T01:03:04.422Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 346915,
@@ -182,8 +182,8 @@
       "sourceSha256": "22bac2a80811b3d39de6b904158029caecbb296988bba4df6c36412e36cbc076",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/a/09.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:48.069Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-22T01:03:04.422Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 502221,
@@ -200,8 +200,8 @@
       "sourceSha256": "5127ac84df266dbf3398ec9543149ff2da50207944dcb636c5d9b4c62154effa",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/a/10.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:48.304Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-22T01:03:04.422Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 50591,
@@ -388,10 +388,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 9,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-21T18:53:34.051Z",
   "draftApprovedContentHash": "1600edb565e710e89ed504bae0ef4d94922cdc702ef31fcea2623d12edc1922c",
   "renderedAt": "2026-10-21T18:53:51.594Z",
   "deployedAt": "2026-10-22T01:00:35.889Z",
-  "verifiedAt": "2026-10-22T01:02:48.539Z"
+  "verifiedAt": "2026-10-22T01:02:48.539Z",
+  "publishAttemptedAt": "2026-10-22T01:03:04.422Z"
 }
