@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "GTA6를 오마주한 슈렉 2 리마스터",
   "slug": "shrek-2-remastered-gta6-trailer",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "reel",
     "topic": "2004년 게임 '슈렉 2' 리마스터가 GTA6 예고편 연출을 따라 한 발표 예고편으로 공개됨(PlayStation 공식, 11월 10일 출시)",
@@ -167,5 +167,8 @@
   "renderedAt": "2026-10-22T01:07:54.640Z",
   "deployedAt": "2026-10-22T01:09:50.232Z",
   "verifiedAt": "2026-10-22T01:10:50.622Z",
-  "publishAttemptedAt": "2026-10-22T09:00:00.027Z"
+  "publishAttemptedAt": "2026-10-22T09:00:00.027Z",
+  "publishedAt": "2026-10-22T09:00:46.539Z",
+  "externalPostId": "18131820970705150",
+  "externalUrl": "https://www.instagram.com/reel/DeynGRdjMPs/"
 }
