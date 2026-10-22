@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "티파니 램프의 잠자리 그린 사람은 따로",
   "slug": "clara-driscoll-tiffany-dragonfly",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "티파니 잠자리·등나무 램프는 클라라 드리스콜의 디자인(2005년 편지로 알려짐), 메트 'Designing the Gilded Age' 10-22 개막",
@@ -394,5 +394,8 @@
   "renderedAt": "2026-10-21T18:53:51.594Z",
   "deployedAt": "2026-10-22T01:00:35.889Z",
   "verifiedAt": "2026-10-22T01:02:48.539Z",
-  "publishAttemptedAt": "2026-10-22T01:03:04.422Z"
+  "publishAttemptedAt": "2026-10-22T01:03:04.422Z",
+  "publishedAt": "2026-10-22T01:04:11.836Z",
+  "externalPostId": "18111465083137075",
+  "externalUrl": "https://www.instagram.com/p/Dexwm_sjcN3/"
 }
