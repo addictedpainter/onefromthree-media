@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-22",
+  "slot": "d",
+  "runMode": "scheduled",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-22T03:36:00+09:00",
+  "generatedAt": "2026-10-22T03:48:00+09:00",
+  "package": {
+    "contentVersion": "reel",
+    "category": "culture",
+    "slug": "shrek-2-remastered-gta6-trailer",
+    "topic": "2004년 게임 '슈렉 2' 리마스터가 GTA6 예고편 연출을 따라 한 발표 예고편으로 공개됨(PlayStation 공식, 11월 10일 출시)",
+    "title": [
+      "GTA6 예고편을 따라 한",
+      "슈렉 2 리마스터"
+    ],
+    "window": "16:9",
+    "clips": [
+      {
+        "file": "clip-01.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=KtxiiD3IyAo",
+        "channel": "PlayStation",
+        "start": 5,
+        "end": 21.6,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "zoom": 1,
+        "audio": true
+      },
+      {
+        "file": "clip-02.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=KtxiiD3IyAo",
+        "channel": "PlayStation",
+        "start": 22,
+        "end": 45,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.3,
+        "zoom": 1.15,
+        "audio": true
+      }
+    ],
+    "subtitleMode": "none",
+    "subtitles": [],
+    "coverAt": 12,
+    "hook": "🟢 슈렉 2 게임이 GTA6 예고편을 그대로 따라 한 예고편을 냈어요. 출시는 GTA6보다 9일 빠른 11월 10일이에요.",
+    "body": [
+      "2004년에 나온 게임 '슈렉 2'가 리마스터로 돌아와요. 현지 시각 20일 공개된 발표 예고편은 야자수와 분홍 네온, \"The wait is almost over(기다림은 거의 끝났다)\" 문구, 캐릭터 사진을 격자로 붙인 표지까지 GTA6 홍보 영상 문법을 그대로 가져왔어요. 해외 게임 매체들도 대놓고 GTA6를 패러디했다고 짚었고요.",
+      "개발·배급은 Aspyr예요. 11월 10일 PS5·Xbox Series X|S·닌텐도 스위치 2·스위치·PC로 나오고, 4인 협동 플레이를 지원해요. GTA6는 록스타 공식 사이트 기준 11월 19일 출시라, 슈렉이 9일 먼저 나오는 셈이에요.",
+      "전체 예고편은 PlayStation 유튜브에서 볼 수 있어요."
+    ],
+    "question": "슈렉 2 게임, 해 보신 적 있나요?",
+    "credits": "PlayStation (YouTube)",
+    "editor": "Seol",
+    "hashtags": [
+      "#슈렉2",
+      "#GTA6",
+      "#게임예고편",
+      "#리마스터",
+      "#드림웍스"
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 1,
+      "evidenceAndImages": 2,
+      "availableNow": 2,
+      "rationale": "GTA6 기다리는 친구, 어릴 때 슈렉 게임 하던 친구에게 '슈렉 2가 GTA6 예고편 따라 했대'로 바로 보낼 이야기. 화면 제목 두 줄로 오해 없이 전달된다. 원본은 PlayStation 공식 유튜브(유튜브 인기 차트 GB 5위·US 14위)이고 출시일·플랫폼은 Aspyr 보도자료·Worthplaying·PlayStation Universe, GTA6 패러디는 GTABoom·tech-insider(TweakTown·Push Square 인용)로 확인했다. 10-21 새벽 공개라 해외에선 이미 알려져 새로움 1점. 예고편은 지금 유튜브에서 보고 사전 구매도 바로 된다. 화면 제목은 10-21 저녁 편성 1안. 2안 'GTA6보다 9일 먼저 나오는 / 슈렉 게임 예고편'은 '나오는'이 예고편을 꾸미는 것처럼 읽혀 버리고, 9일 사실은 캡션 첫 줄로 옮겼다."
+    },
+    "unknowns": [
+      "대사·내레이션이 없는 음악 예고편이라 자막을 달지 않았다(none). 자동 자막(ja)이 전 구간 [音楽]이고 화면에도 대사 장면이 없었다. 원음은 직접 듣지 못했다.",
+      "예고편 문구 'THE WAIT IS ALMOST OVER'와 슈렉 2 로고는 패러디 연출 자체라 창에 남겼다. 0~4.5초 ESRB·PS 로고, 45초 이후 법적 고지·엔딩은 잘라 냈다.",
+      "게임 화면 하단 고지문('Footage captured on PC…', 세로 약 93%)은 두 번째 클립 zoom 1.15·focusY 0.3으로 창 밖으로 뺐다. 게임 HUD 아이콘 일부가 잘릴 수 있다.",
+      "GTA6 11월 19일은 록스타 공식 사이트로 확인했고 독립 기사는 검색 요약 수준(TechRadar)이다. 예고편 음악의 라이선스 곡 여부는 확인하지 못했다.",
+      "주제 점수 9점: 화제 2(유튜브 차트 GB 5위·US 14위, 해외 매체 다수), 얼굴 2, 반전 2, 비교 1, 원본 2. 공개 10-21 03:15 KST, 18:00 게시면 약 38.75시간."
+    ]
+  },
+  "sources": [
+    {
+      "title": "Shrek 2 Remastered - Announce Trailer | PS5 Games",
+      "url": "https://www.youtube.com/watch?v=KtxiiD3IyAo",
+      "publisher": "PlayStation (YouTube, 공식 채널)",
+      "publishedAt": "2026-10-20T18:15:36Z",
+      "retrievedAt": "2026-10-22T03:40:00+09:00",
+      "kind": "official_social",
+      "evidenceSummary": "PlayStation 공식 유튜브의 53초 발표 예고편. 설명란에 'DreamWorks Shrek 2 Remastered is now available for PRE-ORDER on PS5!', PS+ 사전 구매 할인은 11월 9일까지라고 적혀 있다. 화면으로 0:05~0:21 야자수 사진 카드와 분홍·초록 네온, 'THE WAIT IS ALMOST OVER' 문구, 캐릭터 사진 격자 표지와 'Shrek 2 Remastered' 로고, 0:22~0:44 게임 화면을 확인했다. 대사는 없다(자동 자막 [音楽]). 2026-10-22 03:40 KST 조회 수 1,367,252, reel-scout 기준 유튜브 인기 차트 GB 5위·US 14위.",
+      "usageNote": "릴스 클립 원본: 5.0~21.6초, 22.0~45.0초. 원음 사용, 자막 없음."
+    },
+    {
+      "title": "Aspyr Reveals DreamWorks Shrek 2 Remastered, Launching on PC & Consoles November 10",
+      "url": "https://www.gamespress.com/Aspyr-Reveals-DreamWorks-Shrek-2-Remastered-Launching-on-PC-Consoles-N",
+      "publisher": "Aspyr (Gamespress 보도자료)",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:43:00+09:00",
+      "kind": "official_announcement",
+      "evidenceSummary": "Aspyr가 Universal과 함께 'the fan-favorite 2004 action-adventure game'의 리마스터를 2026년 11월 10일 PS5·Xbox Series X|S·Nintendo Switch 2·Nintendo Switch·PC(Steam·Epic)로 낸다고 발표. 사전 구매 10% 할인 26.99달러(정가 29.99달러).",
+      "usageNote": null
+    },
+    {
+      "title": "DreamWorks Shrek 2 Remastered Is Coming To Nintendo Switch 2, PS5, Xbox Series X|S And PC In November",
+      "url": "https://worthplaying.com/article/2026/10/20/news/151261-dreamworks-shrek-2-remastered-is-coming-to-nintendo-switch2-ps5-xbox-seriesxs-and-pc-in-november-screens-trailer/",
+      "publisher": "Worthplaying",
+      "publishedAt": "2026-10-20T19:32:00Z",
+      "retrievedAt": "2026-10-22T03:44:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2004년 액션 어드벤처 게임의 리마스터가 2026년 11월 10일 Switch·Switch 2·PC·PS5·Xbox Series X|S로 나온다는 것을 확인.",
+      "usageNote": null
+    },
+    {
+      "title": "DreamWorks Shrek 2 Remastered Brings The PS2-Era Adventure To PS5 On November 10",
+      "url": "https://www.psu.com/news/dreamworks-shrek-2-remastered-brings-the-ps2-era-adventure-to-ps5-on-november-10/",
+      "publisher": "PlayStation Universe",
+      "publishedAt": "2026-10-21T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:42:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "PS5·PC·Switch 2·Switch·Xbox Series X/S로 2026년 11월 10일 출시를 확인.",
+      "usageNote": null
+    },
+    {
+      "title": "Even a Shrek 2 remaster is copying the GTA 6 trailer now",
+      "url": "https://www.gtaboom.com/even-a-shrek-2-remaster-is-copying-the-gta-6-trailer-now-abd9",
+      "publisher": "GTABoom",
+      "publishedAt": "2026-10-18T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:41:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "Microsoft Store에 먼저 노출된 슈렉 2 리마스터 예고편이 GTA6 예고편을 'openly spoofs'한다고 보도(노을 색감, 라이선스 곡, 느린 타이틀 카드). 공식 예고편 화면에서 같은 연출을 직접 확인했다.",
+      "usageNote": "유출 시점 기사. 같은 패러디를 tech-insider.org(2026-10-21, TweakTown·Push Square 인용)도 보도: https://tech-insider.org/shrek-2-remastered-trailer-reveal-gta-6-style-2026/"
+    },
+    {
+      "title": "Grand Theft Auto VI",
+      "url": "https://www.rockstargames.com/VI",
+      "publisher": "Rockstar Games (공식 사이트)",
+      "publishedAt": "2026-10-22T03:45:00+09:00",
+      "retrievedAt": "2026-10-22T03:45:00+09:00",
+      "kind": "official_announcement",
+      "evidenceSummary": "GTA6 공식 페이지에 'Coming November 19, 2026'로 표기. 슈렉 2 리마스터(11월 10일)보다 9일 뒤.",
+      "usageNote": "페이지에 게시일이 없어 publishedAt에 조회 시각을 적었다."
+    }
+  ],
+  "collectionErrors": [
+    {
+      "source": "reel:transcript",
+      "message": "--lang en 자막 받기 실패(HTTP 429). yt-dlp 자동 자막(ja)만 받음: 전 구간 [音楽]"
+    }
+  ]
+}
