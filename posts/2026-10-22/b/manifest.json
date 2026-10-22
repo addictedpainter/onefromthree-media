@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "마이클 잭슨이 없애라고 한 '스릴러' 원본 필름",
   "slug": "michael-jackson-thriller-film-destroy",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "v3",
     "topic": "마이클 잭슨 '스릴러' 뮤직비디오(1983) 공개 전, 잭슨이 변호사 존 브랭카에게 필름통을 없애라고 한 일과 첫 화면 고지문. 핼러윈 열흘 전",
@@ -38,8 +38,8 @@
       "sourceSha256": "8486a17e4db5a014d1e8a0925753f6cb7cf661459431b68c5156542c26970266",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/b/01.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:47.988Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-22T03:30:00.093Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 216368,
@@ -56,8 +56,8 @@
       "sourceSha256": "ee944f450bfcd8dced1fc9336ddb758832142ba81e6cecb99fcacd8d4d96c0ca",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/b/02.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:48.273Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-22T03:30:00.093Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 403412,
@@ -74,8 +74,8 @@
       "sourceSha256": "e1ed3c9928851af70080cfb2b10b8acae316ab09c0dcd1231ba8cf7dcc02bc7c",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/b/03.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:48.702Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-22T03:30:00.093Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 116414,
@@ -92,8 +92,8 @@
       "sourceSha256": "1653b3a9c8548ac98338964135f4b03acedaefea2f8e11ad3f1c7bec81bf2530",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/b/04.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:48.952Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-22T03:30:00.093Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 261277,
@@ -110,8 +110,8 @@
       "sourceSha256": "0bc667b9eff1966699102d73b0e5ae8872164e40a960607d52a693d2cdb2e4f7",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/b/05.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:49.164Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-22T03:30:00.093Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 604558,
@@ -128,8 +128,8 @@
       "sourceSha256": "23bc3a739c2d8b941a4c04b68d1187c5c37d97acdffcc47b9b01f9ffde1303d7",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/b/06.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:49.390Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-22T03:30:00.093Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 453191,
@@ -146,8 +146,8 @@
       "sourceSha256": "c01ea95d4bdc4de61695f15be8e7a6b193dffe6627177fac1f16e80636aadc76",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/b/07.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:49.611Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-22T03:30:00.093Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 293845,
@@ -164,8 +164,8 @@
       "sourceSha256": "083bb6a1018cb8bd450387aef3b8a77b275a2c63139214b423a1d574f86c9635",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/b/08.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:49.830Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-22T03:30:00.093Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 353903,
@@ -182,8 +182,8 @@
       "sourceSha256": "6554042bb037e1ed0684763828b890e95d80fccc38e59bba70d6e62e19288956",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/b/09.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:50.120Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-22T03:30:00.093Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 112735,
@@ -200,8 +200,8 @@
       "sourceSha256": "d4f82d381b70d3b96f35df08607657dc7bc0352a2f6cdfa467ff093fe4f28f6c",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/b/10.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:50.338Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-22T03:30:00.093Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 50581,
@@ -338,10 +338,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 11,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-21T18:50:29.926Z",
   "draftApprovedContentHash": "eb7034ecac5ce2b8f8156d1b59b648a0e892abd1d5bcbbda56d78e9eb17f3c39",
   "renderedAt": "2026-10-21T18:50:44.725Z",
   "deployedAt": "2026-10-22T01:00:36.169Z",
-  "verifiedAt": "2026-10-22T01:02:50.570Z"
+  "verifiedAt": "2026-10-22T01:02:50.570Z",
+  "publishAttemptedAt": "2026-10-22T03:30:00.093Z"
 }
