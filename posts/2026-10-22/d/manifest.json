@@ -36,7 +36,16 @@
       "width": 1080,
       "height": 1920,
       "contentType": "video/mp4",
-      "durationSeconds": 39.6
+      "durationSeconds": 39.6,
+      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/d/reel.mp4",
+      "verification": {
+        "verifiedAt": "2026-10-22T01:10:49.603Z",
+        "attempts": 6,
+        "httpStatus": 200,
+        "contentType": "video/mp4",
+        "bytes": 12801729,
+        "sha256": "69185c4c197eac97552f6663cf1cc9b7db9176160e079fefd07440e7328e84b3"
+      }
     }
   ],
   "sources": [
@@ -151,10 +160,11 @@
       "message": "--lang en 자막 받기 실패(HTTP 429). yt-dlp 자동 자막(ja)만 받음: 전 구간 [音楽]"
     }
   ],
-  "deploymentAttempts": 14,
+  "deploymentAttempts": 19,
   "publishAttemptCount": 0,
   "draftApprovedAt": "2026-10-22T01:07:42.498Z",
   "draftApprovedContentHash": "54398d49a5b00914d5219e7012163b73489e2280dec706ce7d1ebf086c7d9c5c",
   "renderedAt": "2026-10-22T01:07:54.640Z",
-  "deployedAt": "2026-10-22T01:09:50.232Z"
+  "deployedAt": "2026-10-22T01:09:50.232Z",
+  "verifiedAt": "2026-10-22T01:10:50.622Z"
 }
