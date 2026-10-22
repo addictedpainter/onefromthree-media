@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-22",
+  "slot": "b",
+  "runMode": "scheduled",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-22T03:36:00+09:00",
+  "generatedAt": "2026-10-22T03:52:00+09:00",
+  "package": {
+    "contentVersion": "v3",
+    "category": "culture",
+    "slug": "michael-jackson-thriller-film-destroy",
+    "topic": "마이클 잭슨 '스릴러' 뮤직비디오(1983) 공개 전, 잭슨이 변호사 존 브랭카에게 필름통을 없애라고 한 일과 첫 화면 고지문. 핼러윈 열흘 전",
+    "headline": [
+      "마이클 잭슨이 없애라고 한",
+      "'스릴러' 원본 필름"
+    ],
+    "hook": "🎬 마이클 잭슨이 '스릴러' 필름을 통째로 없애 달라고 한 적이 있어요.",
+    "body": [
+      "1983년 12월 2일, 존 랜디스가 감독한 14분짜리 '스릴러' 뮤직비디오가 MTV에서 처음 공개됐어요. 그런데 공개 전, 당시 여호와의 증인 신자였던 잭슨은 교회의 압박을 받고 있었어요. 변호사 존 브랭카는 2018년 빌보드 인터뷰에서 잭슨이 필름통을 가져다 없애라고 했다고 기억해요. 세상이 이 영상을 못 볼 뻔했던 거죠.",
+      "사실 브랭카는 필름통을 며칠 동안 사무실에 둔 채 버텼대요. 잭슨은 매일 전화를 걸어 왔고요. 그러다 브랭카가 '드라큘라를 연기한 벨라 루고시도 신앙심이 깊었다'는 얘기를 꺼냈는데, 본인 말로는 지어낸 얘기였대요. 그리고 고지문을 붙이자고 했어요. 영상 첫 화면에 '나의 강한 개인적 신념에 따라, 이 영상이 결코 오컬트 신앙을 지지하지 않는다는 점을 강조하고 싶다'는 문구가 들어간 이유예요.",
+      "'스릴러'는 2009년 뮤직비디오로는 처음 미국 의회도서관 국립영화등기부에 올랐어요. 지금은 공식 유튜브 채널 michaeljacksonVEVO에서 13분 42초짜리 4K 영상으로 볼 수 있고, 조회수는 12억 회를 넘었어요. 핼러윈까지 열흘 남았어요."
+    ],
+    "question": "버리라고 한 물건, 몰래 간직해 본 적 있어요?",
+    "credits": "마이클 잭슨: Matthew Rolston, Epic Records (Public domain) · 존 브랭카: Archaeomoonwalker (CC0) · 팰리스 극장: Difference engine (CC BY-SA 4.0) · 스릴러 집: Codera23 (CC BY-SA 4.0) · '드라큘라'(1931) 포스터: Universal Pictures (Public domain) · 좀비 의상(MoPOP): Davide Costanzo (CC BY 2.0) · 미국 의회도서관: William Henry Jackson (Public domain) · 모두 Wikimedia Commons",
+    "editor": "Kang",
+    "hashtags": [
+      "#마이클잭슨",
+      "#MichaelJackson",
+      "#스릴러",
+      "#Thriller",
+      "#핼러윈"
+    ],
+    "slides": [
+      {
+        "index": 1,
+        "text": "마이클 잭슨이 없애라고 한\n'스릴러' 원본 필름",
+        "image": {
+          "file": "01-cover.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Michael_Jackson_1983.jpg",
+          "credit": "Michael Jackson (1983), Matthew Rolston, distributed by Epic Records, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-22T03:43:00+09:00",
+          "focus": "top"
+        }
+      },
+      {
+        "index": 2,
+        "text": "1983년 12월 2일, 14분짜리 '스릴러' 뮤직비디오가 MTV에 처음 나왔어요.",
+        "image": {
+          "file": "02-palace.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palace_Theatre,_Los_Angeles.jpg",
+          "credit": "Palace Theatre, Los Angeles, Difference engine, Wikimedia Commons (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-22T03:43:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 3,
+        "text": "잭슨은 당시 여호와의 증인 신자였어요. 교회는 이 영상을 문제 삼았어요.",
+        "image": {
+          "file": "03-mj1984.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Michael_Jackson_publicity_photo_1984.jpg",
+          "credit": "Michael Jackson publicity photo (1984), Matthew Rolston, distributed by Epic Records, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-22T03:43:00+09:00",
+          "focus": "top"
+        }
+      },
+      {
+        "index": 4,
+        "text": "공개 전, 잭슨은 변호사 존 브랭카에게 필름통을 없애라고 했어요.",
+        "image": {
+          "file": "04-branca.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:London_Premier_of_Bad_25_-_John_G._Branca.JPG",
+          "credit": "John G. Branca at the London premiere of Bad 25 (2012), Archaeomoonwalker, Wikimedia Commons (CC0)",
+          "license": "CC0",
+          "checkedAt": "2026-10-22T03:43:00+09:00",
+          "focus": "attention",
+          "edit": {
+            "crop": {
+              "x": 0,
+              "y": 0,
+              "width": 0.82,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 5,
+        "text": "브랭카는 필름통을 며칠씩 사무실에 둔 채 버텼대요. 잭슨은 매일 전화했고요.",
+        "image": {
+          "file": "05-house.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thriller_House.jpg",
+          "credit": "1345 Carroll Avenue, the house in the Thriller video, Codera23, Wikimedia Commons (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-22T03:43:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 6,
+        "text": "사실 브랭카는 '드라큘라 배우도 신앙이 깊었다'는 얘기를 지어냈대요.",
+        "image": {
+          "file": "06-dracula.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dracula_(1931_film_poster_-_Style_A).jpg",
+          "credit": "Dracula (1931) Style A poster, Universal Pictures, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-22T03:48:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0,
+              "y": 0.03,
+              "width": 1,
+              "height": 0.5
+            }
+          }
+        }
+      },
+      {
+        "index": 7,
+        "text": "그리고 첫 화면에 '오컬트 신앙을 지지하지 않는다'는 문구를 붙였어요.",
+        "image": {
+          "file": "06-zombie.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:EMP,_Seattle_-_Zombie_(9656220577).jpg",
+          "credit": "Zombie costume from Thriller at EMP (MoPOP), Seattle, Davide Costanzo, Wikimedia Commons (CC BY 2.0)",
+          "license": "CC BY 2.0",
+          "checkedAt": "2026-10-22T03:43:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 8,
+        "text": "2009년 미국 국립영화등기부에 올랐어요. 공식 유튜브 조회수는 12억 회.",
+        "image": {
+          "file": "07-loc.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Library_of_Congress,_Washington,_D.C._-_c._1902.jpg",
+          "credit": "Library of Congress, Washington, D.C. (c. 1902), William Henry Jackson, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-22T03:43:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 9,
+        "text": "버리라고 한 물건, 몰래 간직해 본 적 있어요?",
+        "image": {
+          "file": "09-mj1983.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:MJ_1983.jpg",
+          "credit": "Michael Jackson (1983), Matthew Rolston, Epic Records photoshoot, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-22T03:43:00+09:00",
+          "focus": "top",
+          "edit": {
+            "brightness": 0.85
+          }
+        }
+      }
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 1,
+      "evidenceAndImages": 2,
+      "availableNow": 2,
+      "rationale": "핼러윈 열흘 전, 마이클 잭슨·스릴러를 아는 친구나 핼러윈 파티 준비하는 친구에게 바로 보낼 이야기. 스릴러는 모두 알지만 필름을 없애라고 했던 일화는 팬·위키 정도만 알아 새로움 1점. 브랭카 본인 인터뷰(빌보드 2018)와 Mental Floss·TheWrap·AP(ABC13)·공식 유튜브로 교차 확인, 1등급 사진 9장, 공식 유튜브에서 지금 볼 수 있음. 표지는 편성표 추천 1안 '마이클 잭슨이 없애라고 한 / 스릴러 원본 필름'(브랭카의 'film canisters', Mental Floss의 'negatives'를 '원본 필름'으로 옮김). 버린 표지 후보: ① 핼러윈마다 보는 '스릴러' / 사라질 뻔한 이유 — '이유'로 끝나 추상 명사 종결에 가깝고 누가 없애려 했는지가 빠져 이름의 힘이 약함. ② \"필름을 없애 주세요\" / 마이클 잭슨의 부탁 — 잭슨의 실제 말이 아니라 브랭카의 회고라 큰따옴표 발언으로 쓸 수 없음."
+    },
+    "unknowns": [
+      "[핵심] 폐기 지시·필름통 보관은 브랭카 본인 회고(빌보드 2018)라 '~대요'로 귀속했다. 누가 숨겼는지는 출처마다 다르다(위키백과: 제작진이 브랭카 사무실에 보관, Atlanta Black Star: 감독·편집자).",
+      "교단의 제명 경고는 Mental Floss만 구체적으로 적어 카드엔 '문제 삼았다'로만 썼다. 루고시 이야기는 브랭카가 '지어냈다'고 직접 말함(TheWrap·Biography.com도 같은 취지).",
+      "고지문은 Mental Floss 인용 원문을 번역했다. 현재 공식 유튜브 영상에 고지문이 그대로 있는지는 직접 재생해 확인하지 못했다(위키백과는 남아 있다고 적음).",
+      "길이: 공식 API 13분 42초, 공식 설명·Mental Floss '14분'. 카드는 14분짜리, 캡션은 13분 42초로 구분. 조회수 1,208,156,856회(2026-10-22 03:4x KST, YouTube Data API).",
+      "2장 팰리스 극장은 촬영지로 알려졌으나 내부는 다른 극장이란 설이 있어 문장에 촬영지라 쓰지 않음. 잭슨 1983·84 사진은 Commons의 PD 분류를 따름. 4장은 오른쪽 타인 손을 잘라 냄."
+    ]
+  },
+  "sources": [
+    {
+      "title": "Michael Jackson's 'Thriller' at 35: A Look Back at the Iconic Music Video By Those Who Made It",
+      "url": "https://www.billboard.com/music/pop/michael-jacksons-thriller-35th-anniversary-interview-john-landis-john-branca-8487679",
+      "publisher": "Billboard (Karen Bliss)",
+      "publishedAt": "2018-12-02T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:42:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "브랭카 본인 인터뷰 원문 확인: 'when Michael felt pressure from the church, from Jehovah's Witnesses, he told me to get the film canisters and destroy them, before the Thriller video was ever released. So I held them in my office for many, many days and he would call everyday.' 루고시 이야기는 'I kinda made it up', 고지문은 'We'll put a disclaimer on it.' 12월 2일 MTV 첫 공개도 확인.",
+      "usageNote": "WebFetch는 402였으나 브라우저 UA로 원문을 받아 직접 읽음."
+    },
+    {
+      "title": "Why 'Thriller,' the Most Iconic Halloween Music Video Ever Made, Was Released in December",
+      "url": "https://mentalfloss.com/article/89292/why-thriller-most-iconic-halloween-music-video-ever-made-was-released-december",
+      "publisher": "Mental Floss (Kenneth Partridge)",
+      "publishedAt": "2016-12-02T11:00:00Z",
+      "retrievedAt": "2026-10-22T03:38:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "1983년 12월 2일 공개, 약 14분, 공개 몇 주 전 잭슨이 브랭카에게 원본(negatives)을 없애 달라고 함(교단이 영상을 알고 제명 경고), 브랭카가 고지문을 제안했고 문구는 'Due to my strong personal convictions, I wish to stress that this film in no way endorses a belief in the occult.', 2009년 국립영화등기부 선정을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "How a Music Superlawyer Goaded Michael Jackson Into 'Thriller'",
+      "url": "https://www.thewrap.com/media/article/michael-jackson-2-branca-leads-jacksons-charmed-career-22421",
+      "publisher": "TheWrap (Johnnie L. Roberts)",
+      "publishedAt": "2010-12-06T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:39:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "여호와의 증인이던 잭슨이 악마 숭배로 비칠까 공개를 망설였고, 브랭카가 벨라 루고시 이야기를 즉석에서 꾸며 설득해 자신이 쓴 고지문을 붙여 공개했다는 점을 확인했습니다. 폐기 지시 자체는 이 기사에 없습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "'Thriller,' Muppets among 25 in US film registry (AP)",
+      "url": "https://abc13.com/archive/7193921",
+      "publisher": "ABC13 / Associated Press",
+      "publishedAt": "2009-12-30T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:40:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "1983년 존 랜디스 감독의 '스릴러'가 2009년 국립영화등기부 25편에 들었고 '등기부에 오른 첫 뮤직비디오'라는 점을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Michael Jackson - Thriller (Official 4K Video)",
+      "url": "https://www.youtube.com/watch?v=sOnqjkJTMaA",
+      "publisher": "michaeljacksonVEVO (YouTube)",
+      "publishedAt": "2009-10-03T06:51:49Z",
+      "retrievedAt": "2026-10-22T03:41:00+09:00",
+      "kind": "official_social",
+      "evidenceSummary": "YouTube Data API로 공식 채널 michaeljacksonVEVO, 길이 PT13M42S, 조회수 1,208,156,856회, 설명문 '14-minute short film', 국립영화등기부에 선정된 유일한 뮤직비디오라는 문구를 확인했습니다.",
+      "usageNote": "지금 볼 수 있는 곳(8장·캡션 본문 3)."
+    },
+    {
+      "title": "Michael Jackson's Thriller (music video)",
+      "url": "https://en.wikipedia.org/wiki/Michael_Jackson%27s_Thriller_(music_video)",
+      "publisher": "Wikipedia",
+      "publishedAt": "2026-10-01T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:44:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "보조 대조용. 12월 2일 MTV 첫 공개, 촬영지(팰리스 극장, 1345 Carroll Ave.), 공개 몇 주 전 교단 경고와 브랭카에게 원본 폐기 요청·고지문(Vanity Fair 2010 인용), 2009년 첫 뮤직비디오 등기부 선정, 2024년 9월 유튜브 10억 회를 확인했습니다.",
+      "usageNote": "단독 근거로 쓰지 않음. 촬영지 확인용."
+    },
+    {
+      "title": "Who Is John Branca? How the Entertainment Lawyer Launched Michael Jackson to Pop Superstardom",
+      "url": "https://www.biography.com/movies-tv/a71074085/who-is-john-branca-michael-jackson-lawyer",
+      "publisher": "Biography.com (Tyler Piccotti)",
+      "publishedAt": "2026-04-23T00:00:00Z",
+      "retrievedAt": "2026-10-22T03:40:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "독실한 여호와의 증인이던 잭슨이 공포 테마를 걱정했고, 브랭카가 벨라 루고시의 신앙 이야기를 지어내 안심시켰다(HITS 인용)는 점을 확인했습니다.",
+      "usageNote": null
+    }
+  ],
+  "collectionErrors": []
+}
