@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "마이클 잭슨이 없애라고 한 '스릴러' 원본 필름",
   "slug": "michael-jackson-thriller-film-destroy",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "마이클 잭슨 '스릴러' 뮤직비디오(1983) 공개 전, 잭슨이 변호사 존 브랭카에게 필름통을 없애라고 한 일과 첫 화면 고지문. 핼러윈 열흘 전",
@@ -344,5 +344,8 @@
   "renderedAt": "2026-10-21T18:50:44.725Z",
   "deployedAt": "2026-10-22T01:00:36.169Z",
   "verifiedAt": "2026-10-22T01:02:50.570Z",
-  "publishAttemptedAt": "2026-10-22T03:30:00.093Z"
+  "publishAttemptedAt": "2026-10-22T03:30:00.093Z",
+  "publishedAt": "2026-10-22T03:31:09.850Z",
+  "externalPostId": "18128541712892276",
+  "externalUrl": "https://www.instagram.com/p/DeyBblVDZZv/"
 }
