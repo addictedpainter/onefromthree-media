@@ -7,7 +7,7 @@
   "account": "@scene.node",
   "generationProvider": "claude_code",
   "openAiPlatformCalls": 0,
-  "title": "GTA6 예고편을 따라 한 슈렉 2 리마스터",
+  "title": "GTA6를 오마주한 슈렉 2 리마스터",
   "slug": "shrek-2-remastered-gta6-trailer",
   "status": "awaiting_visual_review",
   "editorial": {
@@ -26,26 +26,17 @@
   "scheduledStartAt": "2026-10-21T18:30:00.000Z",
   "actualStartedAt": "2026-10-22T03:36:00+09:00",
   "imageCount": 1,
-  "contentHash": "233bb03386d53e057b9fc271da0eccc1f6d88ef66e675b2610b61dc09d6e9c5d",
-  "idempotencyKey": "scenenode:2026-10-22-d:233bb03386d53e05",
+  "contentHash": "54398d49a5b00914d5219e7012163b73489e2280dec706ce7d1ebf086c7d9c5c",
+  "idempotencyKey": "scenenode:2026-10-22-d:54398d49a5b00914",
   "media": [
     {
       "path": "reel.mp4",
-      "sha256": "463c00e621ae2c87af2007e009779e2d7052ac89e4ccf35fb7602c2fc5b1913b",
-      "bytes": 12839867,
+      "sha256": "69185c4c197eac97552f6663cf1cc9b7db9176160e079fefd07440e7328e84b3",
+      "bytes": 12801729,
       "width": 1080,
       "height": 1920,
       "contentType": "video/mp4",
-      "durationSeconds": 39.6,
-      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/d/reel.mp4",
-      "verification": {
-        "verifiedAt": "2026-10-22T01:02:49.857Z",
-        "attempts": 13,
-        "httpStatus": 200,
-        "contentType": "video/mp4",
-        "bytes": 12839867,
-        "sha256": "463c00e621ae2c87af2007e009779e2d7052ac89e4ccf35fb7602c2fc5b1913b"
-      }
+      "durationSeconds": 39.6
     }
   ],
   "sources": [
@@ -112,42 +103,42 @@
   ],
   "sourceVerification": [
     {
-      "attemptedAt": "2026-10-21T18:46:32.063Z",
+      "attemptedAt": "2026-10-22T01:07:38.894Z",
       "attempt": 1,
       "url": "https://www.youtube.com/watch?v=KtxiiD3IyAo",
       "httpStatus": 200,
       "outcome": "verified"
     },
     {
-      "attemptedAt": "2026-10-21T18:46:33.324Z",
+      "attemptedAt": "2026-10-22T01:07:40.322Z",
       "attempt": 1,
       "url": "https://www.gamespress.com/Aspyr-Reveals-DreamWorks-Shrek-2-Remastered-Launching-on-PC-Consoles-N",
       "httpStatus": 200,
       "outcome": "verified"
     },
     {
-      "attemptedAt": "2026-10-21T18:46:34.175Z",
+      "attemptedAt": "2026-10-22T01:07:41.159Z",
       "attempt": 1,
       "url": "https://worthplaying.com/article/2026/10/20/news/151261-dreamworks-shrek-2-remastered-is-coming-to-nintendo-switch2-ps5-xbox-seriesxs-and-pc-in-november-screens-trailer/",
       "httpStatus": 206,
       "outcome": "verified"
     },
     {
-      "attemptedAt": "2026-10-21T18:46:34.663Z",
+      "attemptedAt": "2026-10-22T01:07:41.597Z",
       "attempt": 1,
       "url": "https://www.psu.com/news/dreamworks-shrek-2-remastered-brings-the-ps2-era-adventure-to-ps5-on-november-10/",
       "httpStatus": 206,
       "outcome": "verified"
     },
     {
-      "attemptedAt": "2026-10-21T18:46:34.832Z",
+      "attemptedAt": "2026-10-22T01:07:41.966Z",
       "attempt": 1,
       "url": "https://www.gtaboom.com/even-a-shrek-2-remaster-is-copying-the-gta-6-trailer-now-abd9",
       "httpStatus": 200,
       "outcome": "verified"
     },
     {
-      "attemptedAt": "2026-10-21T18:46:35.186Z",
+      "attemptedAt": "2026-10-22T01:07:42.213Z",
       "attempt": 1,
       "url": "https://www.rockstargames.com/VI",
       "httpStatus": 200,
@@ -160,11 +151,10 @@
       "message": "--lang en 자막 받기 실패(HTTP 429). yt-dlp 자동 자막(ja)만 받음: 전 구간 [音楽]"
     }
   ],
-  "deploymentAttempts": 13,
+  "deploymentAttempts": 14,
   "publishAttemptCount": 0,
-  "draftApprovedAt": "2026-10-21T18:46:35.707Z",
-  "draftApprovedContentHash": "233bb03386d53e057b9fc271da0eccc1f6d88ef66e675b2610b61dc09d6e9c5d",
-  "renderedAt": "2026-10-21T18:46:52.819Z",
-  "deployedAt": "2026-10-22T01:00:33.748Z",
-  "verifiedAt": "2026-10-22T01:02:50.934Z"
+  "draftApprovedAt": "2026-10-22T01:07:42.498Z",
+  "draftApprovedContentHash": "54398d49a5b00914d5219e7012163b73489e2280dec706ce7d1ebf086c7d9c5c",
+  "renderedAt": "2026-10-22T01:07:54.640Z",
+  "deployedAt": "2026-10-22T01:09:50.232Z"
 }
