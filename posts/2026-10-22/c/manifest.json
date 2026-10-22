@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "죽고 20년 숨겨 달란 그림 11월 경매에 나온다",
   "slug": "hilma-af-klint-ser-iii-no5-bukowskis",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "v3",
     "topic": "힐마 아프 클린트 'Ser III No. 5'(1920) 11월 19일 스톡홀름 부코브스키 경매 출품, 사후 20년 비공개 요청한 화가",
@@ -38,8 +38,8 @@
       "sourceSha256": "6e56e789c724dff6b7333bec054e7102a08a74f6f6116660f9ee9c78bd68686a",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/c/01.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:49.603Z",
-        "attempts": 12,
+        "verifiedAt": "2026-10-22T06:00:00.026Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 636836,
@@ -56,8 +56,8 @@
       "sourceSha256": "11cd8142dfda009211a559d09ef75059925537b0d6d02b987482990e786bde89",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/c/02.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:49.976Z",
-        "attempts": 12,
+        "verifiedAt": "2026-10-22T06:00:00.026Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 297284,
@@ -74,8 +74,8 @@
       "sourceSha256": "23bb79556a671ab27295b1a1b98433b6e2154e08224c858742381925bc4812b1",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/c/03.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:50.189Z",
-        "attempts": 12,
+        "verifiedAt": "2026-10-22T06:00:00.026Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 373083,
@@ -92,8 +92,8 @@
       "sourceSha256": "4caa34d81b95f5f58db69b4128416afb95b8f9b1912b9d74a661916e40618acf",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/c/04.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:50.409Z",
-        "attempts": 12,
+        "verifiedAt": "2026-10-22T06:00:00.026Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 394487,
@@ -110,8 +110,8 @@
       "sourceSha256": "4373e3dc7bcf596e06f1f82f0de41ea365cf31a3a3feb86a7f8ec7eba66d69a5",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/c/05.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:50.690Z",
-        "attempts": 12,
+        "verifiedAt": "2026-10-22T06:00:00.026Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 236136,
@@ -128,8 +128,8 @@
       "sourceSha256": "ea47626d23a8211af3affb0f2b041cd943928c7f0d7f509ee40f89b405db7616",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/c/06.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:50.909Z",
-        "attempts": 12,
+        "verifiedAt": "2026-10-22T06:00:00.026Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 263832,
@@ -146,8 +146,8 @@
       "sourceSha256": "1df3a185226b0af4570bdf4f504321b853d9edaab4f3d8e955b134220f7d4215",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/c/07.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:51.131Z",
-        "attempts": 12,
+        "verifiedAt": "2026-10-22T06:00:00.026Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 318143,
@@ -164,8 +164,8 @@
       "sourceSha256": "036fbd80ba5617bb4abc5cc7752e8b149d7bbaebc18196cbd995a72e1d0776ef",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/c/08.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:51.340Z",
-        "attempts": 12,
+        "verifiedAt": "2026-10-22T06:00:00.026Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 412858,
@@ -182,8 +182,8 @@
       "sourceSha256": "f317e8204a95f2e7bc70053d248c805da2b57bdfd710bdbeda7b072db204267b",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/c/09.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:51.559Z",
-        "attempts": 12,
+        "verifiedAt": "2026-10-22T06:00:00.026Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 243838,
@@ -200,8 +200,8 @@
       "sourceSha256": "5127ac84df266dbf3398ec9543149ff2da50207944dcb636c5d9b4c62154effa",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-22/c/10.jpg",
       "verification": {
-        "verifiedAt": "2026-10-22T01:02:51.768Z",
-        "attempts": 12,
+        "verifiedAt": "2026-10-22T06:00:00.026Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 50591,
@@ -355,10 +355,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 12,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-21T18:50:34.549Z",
   "draftApprovedContentHash": "e9d10c4f9bfa39df96832ad8cbfdec1393cd9d90778ec9afb5e165eaf6b23a9c",
   "renderedAt": "2026-10-21T18:50:49.924Z",
   "deployedAt": "2026-10-22T01:00:35.072Z",
-  "verifiedAt": "2026-10-22T01:02:51.979Z"
+  "verifiedAt": "2026-10-22T01:02:51.979Z",
+  "publishAttemptedAt": "2026-10-22T06:00:00.026Z"
 }
