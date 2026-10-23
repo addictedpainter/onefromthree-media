@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "흑백으로 찍힌 사자 성운 색은 사람이 입힌 것",
   "slug": "webb-lion-nebula-color-processing",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "웹 망원경 사자 성운(NGC 2392) 사진의 색은 STScI 이미지 담당자가 흑백 필터 사진에 입힌 것",
@@ -359,6 +359,8 @@
   "renderedAt": "2026-10-22T18:39:16.124Z",
   "deployedAt": "2026-10-23T01:00:25.857Z",
   "verifiedAt": "2026-10-23T01:02:05.932Z",
-  "lastError": "Instagram post was not published; retry is safe: Instagram publish was not attempted: Instagram media is not publicly readable as image content: https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/c/01.jpg",
-  "publishAttemptedAt": "2026-10-23T06:35:01.726Z"
+  "publishAttemptedAt": "2026-10-23T06:35:01.726Z",
+  "publishedAt": "2026-10-23T06:36:01.873Z",
+  "externalPostId": "18111634028582860",
+  "externalUrl": "https://www.instagram.com/p/De07YNclVmk/"
 }
