@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "히스 레저가 불러 준 노래 27년 뒤 상대역의 춤",
   "slug": "julia-stiles-heath-ledger-dwts-tribute",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "v3",
     "topic": "줄리아 스타일스, DWTS 시즌 35(10-20)에서 히스 레저의 '10가지' 속 노래로 헌정 무대, 출연진 5명 합류",
@@ -38,8 +38,8 @@
       "sourceSha256": "0779bc2f8bab7f89083d79eca84eae884d4dfb6a6fb68a5360517b6ab05e89aa",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/b/01.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T01:02:03.035Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-23T04:00:00.024Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 268178,
@@ -56,8 +56,8 @@
       "sourceSha256": "ff9ed41c05ba3a14ad0756140ad7d8e890aa6aa33d08c4fe7f2c16633d6c9eb3",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/b/02.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T01:02:03.297Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-23T04:00:00.024Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 418978,
@@ -74,8 +74,8 @@
       "sourceSha256": "8281782e6fba77dee5409e242c9f9c47ec625d05e1b57d69521e14fc3768766e",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/b/03.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T01:02:03.536Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-23T04:00:00.024Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 318876,
@@ -92,8 +92,8 @@
       "sourceSha256": "3a1137fe12ff0b25def8659f358aab7138535912cf622b4b9de9e25ed4749bf8",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/b/04.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T01:02:03.758Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-23T04:00:00.024Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 341094,
@@ -110,8 +110,8 @@
       "sourceSha256": "0b4334554e597e07b42406ed2d9a49c495c99212ea0bb2e2ea8c6fbdaef1a52c",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/b/05.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T01:02:03.984Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-23T04:00:00.024Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 210984,
@@ -128,8 +128,8 @@
       "sourceSha256": "416edaf4110d3b67976226d591743074f8fe88903f3ccdd858e8c71a65a5660a",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/b/06.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T01:02:04.217Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-23T04:00:00.024Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 235874,
@@ -146,8 +146,8 @@
       "sourceSha256": "1474e10b1dc9eb4da23383ee6e2af2db33684e93759e77111380b8111413c8a4",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/b/07.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T01:02:04.427Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-23T04:00:00.024Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 435167,
@@ -164,8 +164,8 @@
       "sourceSha256": "eb3255502f60164c1c72ef05fb8307e971e852b3a01a5a96210cc56cce65f034",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/b/08.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T01:02:04.644Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-23T04:00:00.024Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 245490,
@@ -182,8 +182,8 @@
       "sourceSha256": "1d00afd2c534f75f223fb85e8c3eda63bb6f32abe0c190c24f94e5769d01169f",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/b/09.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T01:02:04.856Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-23T04:00:00.024Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 820416,
@@ -200,8 +200,8 @@
       "sourceSha256": "da13557164a4fec7c521de22037c1a45f2af2b46ab2848e7d0447885da1517fb",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/b/10.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T01:02:05.097Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-23T04:00:00.024Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 51037,
@@ -335,10 +335,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 9,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-22T18:39:59.051Z",
   "draftApprovedContentHash": "58d68e458ab8dee0dc138bd8951f43278b2f4f04ff6ec1cccbe69dd41437c510",
   "renderedAt": "2026-10-22T18:40:09.105Z",
   "deployedAt": "2026-10-23T01:00:25.818Z",
-  "verifiedAt": "2026-10-23T01:02:05.307Z"
+  "verifiedAt": "2026-10-23T01:02:05.307Z",
+  "publishAttemptedAt": "2026-10-23T04:00:00.024Z"
 }
