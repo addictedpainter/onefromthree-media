@@ -1,0 +1,271 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-23",
+  "slot": "c",
+  "postId": "2026-10-23-c",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "흑백으로 찍힌 사자 성운 색은 사람이 입힌 것",
+  "slug": "webb-lion-nebula-color-processing",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "v3",
+    "topic": "웹 망원경 사자 성운(NGC 2392) 사진의 색은 STScI 이미지 담당자가 흑백 필터 사진에 입힌 것",
+    "category": "cg",
+    "editor": "Juno",
+    "shareScore": 9,
+    "coverLayout": "caption",
+    "imageTiers": {
+      "public_domain": 9
+    }
+  },
+  "generatedAt": "2026-10-22T21:10:00+09:00",
+  "scheduledStartAt": "2026-10-22T18:30:00.000Z",
+  "actualStartedAt": "2026-10-22T20:58:00+09:00",
+  "imageCount": 10,
+  "contentHash": "75c9c3d25ea7f76f8d2bd8188b39eb1fcde85e4f609461e666ae257df4b18463",
+  "idempotencyKey": "scenenode:2026-10-23-c:75c9c3d25ea7f76f",
+  "media": [
+    {
+      "path": "01.jpg",
+      "sha256": "d1b678c4e7a5f43457e5ecd0074865e2fedaafd8c5b91d373cd7bfc65dfa756d",
+      "bytes": 175021,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "6769884cecf24f8fa6f1279a59ced355f5edb59d4f968943fc4ad152da62bd61"
+    },
+    {
+      "path": "02.jpg",
+      "sha256": "8ee74a4767bf938fa4427bc7b96a69d9e0e1f65e6f32865178d52dedbc09ee8f",
+      "bytes": 318798,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "9c6dfa11f0e907b6d52e78182fc563a2afa128ff1edb052bc2c720669b86197e"
+    },
+    {
+      "path": "03.jpg",
+      "sha256": "335f02e454545f1ca41332abe6143992d28933553879b0df455151832c3a584e",
+      "bytes": 232203,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "008542a999ed3f470fca70728163e7d2502c6a4242c060a8bda51af768eb3ac7"
+    },
+    {
+      "path": "04.jpg",
+      "sha256": "24f36deef2a6cb2de36f83fda0fb4b818df460e7a84d593e97cefa7774b10769",
+      "bytes": 192141,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "1cb6d57d504c1524ea7cdd13f26fedcce7e496f4fdbef4b4d37ad2b741309bc2"
+    },
+    {
+      "path": "05.jpg",
+      "sha256": "521efc78b6878de0f56e5d64e82a846384fd47b461fec36627460ac08136a7e9",
+      "bytes": 764165,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "db43d6653e108d0bdbcbe3756f9d1a180511a8d6c3889b269954d6043af1edaf"
+    },
+    {
+      "path": "06.jpg",
+      "sha256": "523f1cf2cb0d390ac03068af3169a02e7874c45a560a9ca8bcabcc04b2c12c2c",
+      "bytes": 251368,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "2556637fd6db65e1001ebf07100218c546588310dce2deb116d9e1c21cfd968e"
+    },
+    {
+      "path": "07.jpg",
+      "sha256": "4439e2875f9de64a1d3e93eff38a0f12f57fbaf0986762a3659cdcd634ca2dd3",
+      "bytes": 278700,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "93e82b4a097e651cbaaa47156b9fd275ab856e4698d80b7af43217ca8de9dff2"
+    },
+    {
+      "path": "08.jpg",
+      "sha256": "8ef55bd4ba59c9a4402c5a119ea35d19a3da648e37b7eddd9f7b35deee30e444",
+      "bytes": 360815,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "d0942c43388576189031737946fd97e63b2d0f1c731c768100e788eae74abfb6"
+    },
+    {
+      "path": "09.jpg",
+      "sha256": "7dca7d098098f28d5c88d8a81d4f2e56003050b91f10e9f0a322d5a0c1ca429a",
+      "bytes": 473045,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "423c2750b856397fc96e566da7b89f94739bb86708616bb70a63dd277e672911"
+    },
+    {
+      "path": "10.jpg",
+      "sha256": "7a203e9bbe7f47ca49a0ef42979c64b5f610374247db385810d107a0a910e593",
+      "bytes": 51044,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "866883b8120564067e816ec5f9097f54ad3568ee04748eec72559aa9f60b9df6"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Lion Nebula roars to life for Webb (weic2616)",
+      "url": "https://esawebb.org/news/weic2616/",
+      "publisher": "ESA/Webb",
+      "publishedAt": "2026-08-10T16:00:00+02:00",
+      "retrievedAt": "2026-10-22T11:38:00+09:00",
+      "kind": "official_announcement",
+      "evidenceSummary": "2026년 8월 10일 공개, 행성상 성운 NGC 2392 '사자 성운', 중심 백색왜성, NIRCam·MIRI, 허블이 2000년 가시광으로 찍음(heic9910), 크레딧 'NASA, ESA, CSA, STScI. Image Processing: A. Pagan (STScI)'를 확인했습니다. 이미지 페이지(weic2616a)에서 쌍둥이자리, 3505×3505px, 필터 다섯 개(1.15μm 파랑, 1.87μm 청록, 2.12μm 노랑, 3.35μm 주황, 10μm 빨강)를 확인했습니다.",
+      "usageNote": "ESA/Webb 자료는 CC BY 4.0(esawebb.org/copyright)."
+    },
+    {
+      "title": "Lion Nebula Roars to Life With NASA's Webb",
+      "url": "https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/",
+      "publisher": "NASA Science",
+      "publishedAt": "2026-08-10T00:00:00Z",
+      "retrievedAt": "2026-10-22T11:38:00+09:00",
+      "kind": "official_announcement",
+      "evidenceSummary": "공개일 8월 10일, NGC 2392, 행성상 성운과 백색왜성, 허블 2000년 가시광 관측, NIRCam+MIRI 합성과 MIRI 단독 두 장, 이미지 처리 Alyssa Pagan(STScI)을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "How Are Webb's Full-Color Images Made?",
+      "url": "https://science.nasa.gov/mission/webb/science-overview/science-explainers/how-are-webbs-full-color-images-made",
+      "publisher": "NASA Science",
+      "publishedAt": "2025-09-03T00:00:00Z",
+      "retrievedAt": "2026-10-22T11:44:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "원본은 처음 열면 거의 새까맣다는 점, 필터마다 한 장이며 픽셀마다 6만 5천 단계 넘는 회색, 웹은 사람 눈에 안 보이는 적외선을 본다는 점, 파장 순서(파랑·초록·빨강)로 색을 정한다는 점, STScI의 Joe DePasquale·Alyssa Pagan이 처리한다는 점, 모든 웹 데이터가 MAST에 있고 연구용 비공개 기간이 보통 1년이라는 점을 확인했습니다.",
+      "usageNote": "게시일은 페이지의 마지막 수정일(2025-09-03)입니다. 4장 사진(창조의 기둥 MIRI 빨강 필터)이 이 페이지 그림입니다."
+    },
+    {
+      "title": "How does NASA process JWST images?",
+      "url": "https://inverse.com/innovation/how-does-nasa-process-jwst-images",
+      "publisher": "Inverse (Georgina Torbet)",
+      "publishedAt": "2022-07-13T00:00:00Z",
+      "retrievedAt": "2026-10-22T11:42:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "STScI의 Joe DePasquale와 Alyssa Pagan이 첫 공개 이미지를 처리했다는 점, 원본은 흑백 파일이고 동적 범위가 커 '스트레치'로 밝힌다는 점, 짧은 파장은 푸른색·긴 파장은 붉은색으로 정해 합친다는 점, 적외선은 사람이 볼 수 없다는 점을 확인했습니다.",
+      "usageNote": "2024-02-20 수정판."
+    },
+    {
+      "title": "Astronomy Alum Brings Webb Telescope's Images to Light",
+      "url": "https://today.umd.edu/astronomy-alum-brings-webb-telescopes-images-to-light",
+      "publisher": "Maryland Today (Emily C. Nunez)",
+      "publishedAt": "2025-04-03T00:00:00Z",
+      "retrievedAt": "2026-10-22T11:43:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "Alyssa Pagan이 STScI 과학 시각화 개발자이며, 웹 원본은 단색이고 거의 까맣게 보여 밝기를 펴 낸 뒤 '파장 순서'로 짧은 적외선에 파랑, 긴 적외선에 빨강을 준다는 본인 설명을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Come Face-to-Face with the Lion Nebula in the James Webb Space Telescope's Portrait",
+      "url": "https://www.thisiscolossal.com/2026/10/nasa-james-webb-space-telescope-lion-nebula/",
+      "publisher": "Colossal (Kate Mothes)",
+      "publishedAt": "2026-10-19T00:00:00Z",
+      "retrievedAt": "2026-10-22T11:39:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "NGC 2392 '사자 성운', NIRCam·MIRI 촬영, 죽어 가는 별(백색왜성)의 잔해, 거품이 얼굴이고 껍질 안쪽이 갈기라는 점, 약 1만 년 뒤 흩어진다는 추정을 확인했습니다.",
+      "usageNote": "10월 19일 재소개 기사. 공개일은 적혀 있지 않습니다."
+    },
+    {
+      "title": "New images reveal the Lion Nebula in all its majestic glory",
+      "url": "https://www.scientificamerican.com/article/new-jwst-images-reveal-the-lion-nebula-in-all-its-glory/",
+      "publisher": "Scientific American (Mary Randolph)",
+      "publishedAt": "2026-08-12T00:00:00Z",
+      "retrievedAt": "2026-10-22T11:41:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "NGC 2392 사자 성운의 새 적외선 사진, 허블이 2000년에 찍었다는 점, 약 1만 년 뒤 마지막 단계를 확인했습니다.",
+      "usageNote": "거리(약 1만 광년)는 다른 출처와 달라 쓰지 않았습니다."
+    },
+    {
+      "title": "Eskimo Nebula NGC 2392 (heic9910a)",
+      "url": "https://esahubble.org/images/heic9910a/",
+      "publisher": "ESA/Hubble",
+      "publishedAt": "2000-01-24T15:00:00+01:00",
+      "retrievedAt": "2026-10-22T11:48:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "2000년 1월 24일 공개된 허블의 NGC 2392 사진, 1500×1500px, 크레딧 NASA, ESA, Andrew Fruchter (STScI), ERO team을 확인했습니다.",
+      "usageNote": "ESA/Hubble 자료는 CC BY 4.0."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-22T18:38:56.445Z",
+      "attempt": 1,
+      "url": "https://esawebb.org/news/weic2616/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-22T18:38:57.641Z",
+      "attempt": 1,
+      "url": "https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-22T18:38:59.195Z",
+      "attempt": 1,
+      "url": "https://science.nasa.gov/mission/webb/science-overview/science-explainers/how-are-webbs-full-color-images-made",
+      "httpStatus": 200,
+      "outcome": "verified",
+      "detail": "Redirected to https://science.nasa.gov/mission/webb/science-overview/science-explainers/how-are-webbs-full-color-images-made/"
+    },
+    {
+      "attemptedAt": "2026-10-22T18:38:59.609Z",
+      "attempt": 1,
+      "url": "https://inverse.com/innovation/how-does-nasa-process-jwst-images",
+      "httpStatus": 206,
+      "outcome": "verified",
+      "detail": "Redirected to https://www.inverse.com/innovation/how-does-nasa-process-jwst-images"
+    },
+    {
+      "attemptedAt": "2026-10-22T18:39:04.293Z",
+      "attempt": 1,
+      "url": "https://today.umd.edu/astronomy-alum-brings-webb-telescopes-images-to-light",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-22T18:39:04.607Z",
+      "attempt": 1,
+      "url": "https://www.thisiscolossal.com/2026/10/nasa-james-webb-space-telescope-lion-nebula/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-22T18:39:05.459Z",
+      "attempt": 1,
+      "url": "https://www.scientificamerican.com/article/new-jwst-images-reveal-the-lion-nebula-in-all-its-glory/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-22T18:39:06.065Z",
+      "attempt": 1,
+      "url": "https://esahubble.org/images/heic9910a/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-22T18:39:06.126Z",
+  "draftApprovedContentHash": "75c9c3d25ea7f76f8d2bd8188b39eb1fcde85e4f609461e666ae257df4b18463",
+  "renderedAt": "2026-10-22T18:39:16.124Z",
+  "deployedAt": "2026-10-23T01:00:25.857Z"
+}

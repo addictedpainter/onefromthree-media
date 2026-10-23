@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-23",
+  "slot": "c",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-22T20:58:00+09:00",
+  "generatedAt": "2026-10-22T21:10:00+09:00",
+  "package": {
+    "contentVersion": "v3",
+    "category": "cg",
+    "slug": "webb-lion-nebula-color-processing",
+    "topic": "웹 망원경 사자 성운(NGC 2392) 사진의 색은 STScI 이미지 담당자가 흑백 필터 사진에 입힌 것",
+    "headline": [
+      "흑백으로 찍힌 사자 성운",
+      "색은 사람이 입힌 것"
+    ],
+    "coverLayout": "caption",
+    "hook": "🔭 웹 망원경이 찍은 사자 성운, 원본은 흑백 사진 다섯 장이었어요.",
+    "body": [
+      "NASA·ESA·CSA가 8월 10일 공개한 제임스 웹 우주망원경의 사자 성운(NGC 2392) 사진이에요. 쌍둥이자리에 있는, 죽어 가는 별이 벗어 던진 가스 껍질이죠. 가운데가 얼굴, 바깥 껍질 안쪽이 갈기처럼 보여 사자라는 별명이 붙었어요. 10월 19일 디자인 매체 Colossal이 다시 소개하면서 또 한 번 돌고 있어요.",
+      "사실 웹 망원경은 사람 눈에 안 보이는 적외선을 찍어요. 원본은 필터마다 흑백 한 장이고, 픽셀마다 회색이 6만 5천 단계가 넘어요. 처음 열면 거의 새까맣대요. 이 흑백 사진들을 밝게 펴고 색을 하나씩 정하는 게 STScI 이미지 담당자들의 일이에요. 규칙은 파장 순서예요. 가장 짧은 파장에 파랑, 가장 긴 파장에 빨강. 사자 성운은 앨리사 파건이 다섯 필터(1.15~10마이크로미터)에 파랑·청록·노랑·주황·빨강을 줬어요. 2000년 허블이 가시광으로 찍은 같은 성운은 주황빛이 강했어요.",
+      "고해상도 원본은 ESA/Webb 사이트(esawebb.org)에서 무료로 받을 수 있어요. 공개된 망원경 데이터는 NASA 자료실 MAST에 있어서, 흑백 원본을 받아 직접 색을 입혀 볼 수도 있어요. 연구용 비공개 기간이 보통 1년이라 데이터마다 열리는 시점은 달라요."
+    ],
+    "question": "흑백 원본을 받으면, 여러분은 무슨 색부터 칠할 건가요?",
+    "credits": "사자 성운: NASA, ESA, CSA, STScI, Image Processing: A. Pagan (STScI) (CC BY 4.0) · 2000년 허블: NASA, ESA, Andrew Fruchter (STScI), ERO team (CC BY 4.0) · 창조의 기둥: NASA, ESA, CSA, STScI; J. DePasquale, A. Koekemoer, A. Pagan (STScI) (CC BY 4.0) · 남쪽 고리 성운·수레바퀴 은하: NASA, ESA, CSA, STScI (CC BY 4.0) · 망원경 사진·거울 셀피·필터 사진: NASA (퍼블릭 도메인)",
+    "editor": "Juno",
+    "hashtags": [
+      "#제임스웹우주망원경",
+      "#사자성운",
+      "#JWST",
+      "#우주사진",
+      "#이미지프로세싱"
+    ],
+    "slides": [
+      {
+        "index": 1,
+        "text": "흑백으로 찍힌 사자 성운\n색은 사람이 입힌 것",
+        "image": {
+          "file": "01-lion-webb.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://esawebb.org/images/weic2616a/",
+          "credit": "NASA, ESA, CSA, STScI. Image Processing: A. Pagan (STScI)",
+          "license": "CC BY 4.0 (ESA/Webb)",
+          "checkedAt": "2026-10-22T11:40:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 2,
+        "text": "8월 10일, 이 망원경이 찍은 사자 성운이 공개됐어요.",
+        "image": {
+          "file": "10-webb-revealed.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Revealed_(26226852114).jpg",
+          "credit": "NASA Goddard Space Flight Center, James Webb Space Telescope Revealed, Wikimedia Commons",
+          "license": "Public domain (NASA)",
+          "checkedAt": "2026-10-22T12:05:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 3,
+        "text": "웹은 사람 눈에 안 보이는 적외선을 흑백으로 찍어요.",
+        "image": {
+          "file": "08-webb-selfie.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_primary_mirror_captured_by_it_from_Lagrange_2_point.jpg",
+          "credit": "NASA, Webb primary mirror selfie taken with NIRCam (2022), Wikimedia Commons",
+          "license": "Public domain (NASA)",
+          "checkedAt": "2026-10-22T12:05:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0,
+              "y": 0.07,
+              "width": 1,
+              "height": 0.93
+            }
+          }
+        }
+      },
+      {
+        "index": 4,
+        "text": "필터마다 흑백 한 장, 긴 파장 필터엔 빨강을 줘요.",
+        "image": {
+          "file": "03-pillars-miri-red-filter.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://science.nasa.gov/mission/webb/science-overview/science-explainers/how-are-webbs-full-color-images-made",
+          "credit": "NASA, ESA, CSA, STScI, Pillars of Creation MIRI single filter assigned red",
+          "license": "Public domain (NASA/STScI)",
+          "checkedAt": "2026-10-22T11:45:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 5,
+        "text": "이 '창조의 기둥'도 같은 STScI 이미지 팀이 색을 입혔어요.",
+        "image": {
+          "file": "04-pillars-nircam.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://esawebb.org/images/weic2216b/",
+          "credit": "NASA, ESA, CSA, STScI; J. DePasquale, A. Koekemoer, A. Pagan (STScI)",
+          "license": "CC BY 4.0 (ESA/Webb)",
+          "checkedAt": "2026-10-22T11:47:00+09:00",
+          "focus": "top"
+        }
+      },
+      {
+        "index": 6,
+        "text": "사실 2000년 허블로 찍은 같은 사자는 주황빛이었어요.",
+        "image": {
+          "file": "05-lion-hubble-2000.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://esahubble.org/images/heic9910a/",
+          "credit": "NASA, ESA, Andrew Fruchter (STScI), and the ERO team (STScI + ST-ECF)",
+          "license": "CC BY 4.0 (ESA/Hubble)",
+          "checkedAt": "2026-10-22T11:48:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 7,
+        "text": "같은 기둥도 중적외선 필터로 칠하면 이렇게 달라요.",
+        "image": {
+          "file": "06-pillars-miri.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://esawebb.org/images/weic2218a/",
+          "credit": "NASA, ESA, CSA, STScI, J. DePasquale (STScI), A. Pagan (STScI)",
+          "license": "CC BY 4.0 (ESA/Webb)",
+          "checkedAt": "2026-10-22T11:47:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 8,
+        "text": "공개된 흑백 원본은 NASA 자료실 MAST에서 누구나 받아요.",
+        "image": {
+          "file": "09-southern-ring-nircam.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://esawebb.org/images/weic2207b/",
+          "credit": "NASA, ESA, CSA, STScI, and the Webb ERO Production Team, Southern Ring Nebula (NIRCam)",
+          "license": "CC BY 4.0 (ESA/Webb)",
+          "checkedAt": "2026-10-22T12:05:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 9,
+        "text": "흑백 원본을 받으면, 여러분은 무슨 색부터 칠할 건가요?",
+        "image": {
+          "file": "07-cartwheel.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://esawebb.org/images/weic2211a/",
+          "credit": "NASA, ESA, CSA, STScI, Cartwheel Galaxy (NIRCam and MIRI)",
+          "license": "CC BY 4.0 (ESA/Webb)",
+          "checkedAt": "2026-10-22T11:50:00+09:00",
+          "focus": "centre"
+        }
+      }
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 1,
+      "evidenceAndImages": 2,
+      "availableNow": 2,
+      "rationale": "우주 사진 좋아하는 친구, 3D·합성 하는 친구에게 '이거 원래 흑백이래'로 바로 보낼 만하다. 표지 한 문장(흑백으로 찍힌 사자 성운, 색은 사람이 입힌 것)이 오해 없이 전달되고 6장 허블 2000년 사진이 같은 천체의 다른 색으로 받친다. '가짜 색' 이야기는 아는 사람은 알아 의외성 1점. 공개일·NGC 2392·쌍둥이자리·NIRCam+MIRI·필터 다섯 개와 색 배정·처리 담당 A. Pagan은 ESA/Webb weic2616과 NASA 공식 기사로, 흑백 원본·파장 순서 색 배정·DePasquale/Pagan의 역할은 NASA 해설('How Are Webb's Full-Color Images Made?')·Inverse(2022)·Maryland Today(2025, Pagan 인터뷰)로 확인했다. 사진 9장 모두 CC BY 4.0(ESA/Webb·ESA/Hubble) 또는 NASA 퍼블릭 도메인. 원본은 지금 무료로 받을 수 있어 2점. 버린 후보 1(사물형): '웹 망원경의 사자 얼굴 / 갈기 색은 사람 손으로' — 줄2가 '손으로'에서 끊겨 입말이 어색하고 흑백이라는 핵심 사실이 빠진다. 버린 후보 2(숫자형): '웹 망원경 원본은 / 회색만 6만 5천 단계' — 숫자가 뚱딴지가 아니라 설명이고 사자가 빠져 표지 사진과 안 맞는다. 같은 날 a는 '188년', 숫자 겹침 없음. 키워드 없음 → 자막 박스형(caption)."
+    },
+    "unknowns": [
+      "공개일은 2026-08-10(ESA weic2616·NASA)이다. 주제 지시의 '10-19 무렵 공개'는 Colossal 재소개 날짜라 캡션에 그렇게 적었다. 시의성은 약하다.",
+      "거리는 출처마다 다르다(ESA/Hubble 2000 약 5,000광년, 일부 매체 약 6,000광년, Scientific American 약 10,000광년). 그래서 거리는 쓰지 않았다.",
+      "4장 사진은 창조의 기둥 MIRI 한 필터에 빨강을 준 NASA 해설 그림이다. 사자 성운의 필터별 흑백 원본은 공개 페이지에서 찾지 못했다.",
+      "사자 성운 MIRI 단독 사진(weic2616b)은 984×717px라 1080px 기준 미달로 쓰지 않았다.",
+      "Space.com·PetaPixel 해설은 본문을 읽지 못했다(구조 문제·403). NYT·Smithsonian은 확인하지 않았다."
+    ]
+  },
+  "sources": [
+    {
+      "title": "Lion Nebula roars to life for Webb (weic2616)",
+      "url": "https://esawebb.org/news/weic2616/",
+      "publisher": "ESA/Webb",
+      "publishedAt": "2026-08-10T16:00:00+02:00",
+      "retrievedAt": "2026-10-22T11:38:00+09:00",
+      "kind": "official_announcement",
+      "evidenceSummary": "2026년 8월 10일 공개, 행성상 성운 NGC 2392 '사자 성운', 중심 백색왜성, NIRCam·MIRI, 허블이 2000년 가시광으로 찍음(heic9910), 크레딧 'NASA, ESA, CSA, STScI. Image Processing: A. Pagan (STScI)'를 확인했습니다. 이미지 페이지(weic2616a)에서 쌍둥이자리, 3505×3505px, 필터 다섯 개(1.15μm 파랑, 1.87μm 청록, 2.12μm 노랑, 3.35μm 주황, 10μm 빨강)를 확인했습니다.",
+      "usageNote": "ESA/Webb 자료는 CC BY 4.0(esawebb.org/copyright)."
+    },
+    {
+      "title": "Lion Nebula Roars to Life With NASA's Webb",
+      "url": "https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/",
+      "publisher": "NASA Science",
+      "publishedAt": "2026-08-10T00:00:00Z",
+      "retrievedAt": "2026-10-22T11:38:00+09:00",
+      "kind": "official_announcement",
+      "evidenceSummary": "공개일 8월 10일, NGC 2392, 행성상 성운과 백색왜성, 허블 2000년 가시광 관측, NIRCam+MIRI 합성과 MIRI 단독 두 장, 이미지 처리 Alyssa Pagan(STScI)을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "How Are Webb's Full-Color Images Made?",
+      "url": "https://science.nasa.gov/mission/webb/science-overview/science-explainers/how-are-webbs-full-color-images-made",
+      "publisher": "NASA Science",
+      "publishedAt": "2025-09-03T00:00:00Z",
+      "retrievedAt": "2026-10-22T11:44:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "원본은 처음 열면 거의 새까맣다는 점, 필터마다 한 장이며 픽셀마다 6만 5천 단계 넘는 회색, 웹은 사람 눈에 안 보이는 적외선을 본다는 점, 파장 순서(파랑·초록·빨강)로 색을 정한다는 점, STScI의 Joe DePasquale·Alyssa Pagan이 처리한다는 점, 모든 웹 데이터가 MAST에 있고 연구용 비공개 기간이 보통 1년이라는 점을 확인했습니다.",
+      "usageNote": "게시일은 페이지의 마지막 수정일(2025-09-03)입니다. 4장 사진(창조의 기둥 MIRI 빨강 필터)이 이 페이지 그림입니다."
+    },
+    {
+      "title": "How does NASA process JWST images?",
+      "url": "https://inverse.com/innovation/how-does-nasa-process-jwst-images",
+      "publisher": "Inverse (Georgina Torbet)",
+      "publishedAt": "2022-07-13T00:00:00Z",
+      "retrievedAt": "2026-10-22T11:42:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "STScI의 Joe DePasquale와 Alyssa Pagan이 첫 공개 이미지를 처리했다는 점, 원본은 흑백 파일이고 동적 범위가 커 '스트레치'로 밝힌다는 점, 짧은 파장은 푸른색·긴 파장은 붉은색으로 정해 합친다는 점, 적외선은 사람이 볼 수 없다는 점을 확인했습니다.",
+      "usageNote": "2024-02-20 수정판."
+    },
+    {
+      "title": "Astronomy Alum Brings Webb Telescope's Images to Light",
+      "url": "https://today.umd.edu/astronomy-alum-brings-webb-telescopes-images-to-light",
+      "publisher": "Maryland Today (Emily C. Nunez)",
+      "publishedAt": "2025-04-03T00:00:00Z",
+      "retrievedAt": "2026-10-22T11:43:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "Alyssa Pagan이 STScI 과학 시각화 개발자이며, 웹 원본은 단색이고 거의 까맣게 보여 밝기를 펴 낸 뒤 '파장 순서'로 짧은 적외선에 파랑, 긴 적외선에 빨강을 준다는 본인 설명을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Come Face-to-Face with the Lion Nebula in the James Webb Space Telescope's Portrait",
+      "url": "https://www.thisiscolossal.com/2026/10/nasa-james-webb-space-telescope-lion-nebula/",
+      "publisher": "Colossal (Kate Mothes)",
+      "publishedAt": "2026-10-19T00:00:00Z",
+      "retrievedAt": "2026-10-22T11:39:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "NGC 2392 '사자 성운', NIRCam·MIRI 촬영, 죽어 가는 별(백색왜성)의 잔해, 거품이 얼굴이고 껍질 안쪽이 갈기라는 점, 약 1만 년 뒤 흩어진다는 추정을 확인했습니다.",
+      "usageNote": "10월 19일 재소개 기사. 공개일은 적혀 있지 않습니다."
+    },
+    {
+      "title": "New images reveal the Lion Nebula in all its majestic glory",
+      "url": "https://www.scientificamerican.com/article/new-jwst-images-reveal-the-lion-nebula-in-all-its-glory/",
+      "publisher": "Scientific American (Mary Randolph)",
+      "publishedAt": "2026-08-12T00:00:00Z",
+      "retrievedAt": "2026-10-22T11:41:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "NGC 2392 사자 성운의 새 적외선 사진, 허블이 2000년에 찍었다는 점, 약 1만 년 뒤 마지막 단계를 확인했습니다.",
+      "usageNote": "거리(약 1만 광년)는 다른 출처와 달라 쓰지 않았습니다."
+    },
+    {
+      "title": "Eskimo Nebula NGC 2392 (heic9910a)",
+      "url": "https://esahubble.org/images/heic9910a/",
+      "publisher": "ESA/Hubble",
+      "publishedAt": "2000-01-24T15:00:00+01:00",
+      "retrievedAt": "2026-10-22T11:48:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "2000년 1월 24일 공개된 허블의 NGC 2392 사진, 1500×1500px, 크레딧 NASA, ESA, Andrew Fruchter (STScI), ERO team을 확인했습니다.",
+      "usageNote": "ESA/Hubble 자료는 CC BY 4.0."
+    }
+  ],
+  "collectionErrors": []
+}
