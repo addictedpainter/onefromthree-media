@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "아이들 변기 물도 못 내리게 하는 도경완",
   "slug": "do-kyungwan-maintenance-fee",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "reel",
     "topic": "KBS 2TV '신상출시 편스토랑' 10-22 선공개 영상에서 도경완이 집 관리비 고지서를 보고 한숨, 아이들에게 변기 물도 한 번에 모아서 내리게 한다고 말한 장면",
@@ -112,5 +112,8 @@
   "renderedAt": "2026-10-22T18:43:37.715Z",
   "deployedAt": "2026-10-23T01:00:25.777Z",
   "verifiedAt": "2026-10-23T01:02:03.140Z",
-  "publishAttemptedAt": "2026-10-23T09:30:00.059Z"
+  "publishAttemptedAt": "2026-10-23T09:30:00.059Z",
+  "publishedAt": "2026-10-23T09:30:42.459Z",
+  "externalPostId": "18113033816159525",
+  "externalUrl": "https://www.instagram.com/reel/De1PVH_lWxm/"
 }
