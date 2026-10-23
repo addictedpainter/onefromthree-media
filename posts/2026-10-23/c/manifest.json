@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "흑백으로 찍힌 사자 성운 색은 사람이 입힌 것",
   "slug": "webb-lion-nebula-color-processing",
-  "status": "awaiting_publish_approval",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "v3",
     "topic": "웹 망원경 사자 성운(NGC 2392) 사진의 색은 STScI 이미지 담당자가 흑백 필터 사진에 입힌 것",
@@ -38,7 +38,7 @@
       "sourceSha256": "6769884cecf24f8fa6f1279a59ced355f5edb59d4f968943fc4ad152da62bd61",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/c/01.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T06:30:00.138Z",
+        "verifiedAt": "2026-10-23T06:35:01.726Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
@@ -56,7 +56,7 @@
       "sourceSha256": "9c6dfa11f0e907b6d52e78182fc563a2afa128ff1edb052bc2c720669b86197e",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/c/02.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T06:30:00.138Z",
+        "verifiedAt": "2026-10-23T06:35:01.726Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
@@ -74,7 +74,7 @@
       "sourceSha256": "008542a999ed3f470fca70728163e7d2502c6a4242c060a8bda51af768eb3ac7",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/c/03.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T06:30:00.138Z",
+        "verifiedAt": "2026-10-23T06:35:01.726Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
@@ -92,7 +92,7 @@
       "sourceSha256": "1cb6d57d504c1524ea7cdd13f26fedcce7e496f4fdbef4b4d37ad2b741309bc2",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/c/04.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T06:30:00.138Z",
+        "verifiedAt": "2026-10-23T06:35:01.726Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
@@ -110,7 +110,7 @@
       "sourceSha256": "db43d6653e108d0bdbcbe3756f9d1a180511a8d6c3889b269954d6043af1edaf",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/c/05.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T06:30:00.138Z",
+        "verifiedAt": "2026-10-23T06:35:01.726Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
@@ -128,7 +128,7 @@
       "sourceSha256": "2556637fd6db65e1001ebf07100218c546588310dce2deb116d9e1c21cfd968e",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/c/06.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T06:30:00.138Z",
+        "verifiedAt": "2026-10-23T06:35:01.726Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
@@ -146,7 +146,7 @@
       "sourceSha256": "93e82b4a097e651cbaaa47156b9fd275ab856e4698d80b7af43217ca8de9dff2",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/c/07.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T06:30:00.138Z",
+        "verifiedAt": "2026-10-23T06:35:01.726Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
@@ -164,7 +164,7 @@
       "sourceSha256": "d0942c43388576189031737946fd97e63b2d0f1c731c768100e788eae74abfb6",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/c/08.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T06:30:00.138Z",
+        "verifiedAt": "2026-10-23T06:35:01.726Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
@@ -182,7 +182,7 @@
       "sourceSha256": "423c2750b856397fc96e566da7b89f94739bb86708616bb70a63dd277e672911",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/c/09.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T06:30:00.138Z",
+        "verifiedAt": "2026-10-23T06:35:01.726Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
@@ -200,7 +200,7 @@
       "sourceSha256": "866883b8120564067e816ec5f9097f54ad3568ee04748eec72559aa9f60b9df6",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/c/10.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T06:30:00.138Z",
+        "verifiedAt": "2026-10-23T06:35:01.726Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
@@ -353,11 +353,12 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 8,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-22T18:39:06.126Z",
   "draftApprovedContentHash": "75c9c3d25ea7f76f8d2bd8188b39eb1fcde85e4f609461e666ae257df4b18463",
   "renderedAt": "2026-10-22T18:39:16.124Z",
   "deployedAt": "2026-10-23T01:00:25.857Z",
   "verifiedAt": "2026-10-23T01:02:05.932Z",
-  "lastError": "Instagram post was not published; retry is safe: Instagram publish was not attempted: Instagram media is not publicly readable as image content: https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/c/01.jpg"
+  "lastError": "Instagram post was not published; retry is safe: Instagram publish was not attempted: Instagram media is not publicly readable as image content: https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/c/01.jpg",
+  "publishAttemptedAt": "2026-10-23T06:35:01.726Z"
 }
