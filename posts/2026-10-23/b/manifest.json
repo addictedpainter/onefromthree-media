@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-23",
+  "slot": "b",
+  "postId": "2026-10-23-b",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "히스 레저가 불러 준 노래 27년 뒤 상대역의 춤",
+  "slug": "julia-stiles-heath-ledger-dwts-tribute",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "v3",
+    "topic": "줄리아 스타일스, DWTS 시즌 35(10-20)에서 히스 레저의 '10가지' 속 노래로 헌정 무대, 출연진 5명 합류",
+    "category": "culture",
+    "editor": "Kang",
+    "shareScore": 8,
+    "coverLayout": "keyword",
+    "imageTiers": {
+      "public_domain": 9
+    }
+  },
+  "generatedAt": "2026-10-22T21:05:00+09:00",
+  "scheduledStartAt": "2026-10-22T18:30:00.000Z",
+  "actualStartedAt": "2026-10-22T20:38:00+09:00",
+  "imageCount": 10,
+  "contentHash": "58d68e458ab8dee0dc138bd8951f43278b2f4f04ff6ec1cccbe69dd41437c510",
+  "idempotencyKey": "scenenode:2026-10-23-b:58d68e458ab8dee0",
+  "media": [
+    {
+      "path": "01.jpg",
+      "sha256": "8023fe1c9a9ee8c56ae851ebf1de34eb9e26898a6856d82fad945b61124f414b",
+      "bytes": 268178,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "0779bc2f8bab7f89083d79eca84eae884d4dfb6a6fb68a5360517b6ab05e89aa"
+    },
+    {
+      "path": "02.jpg",
+      "sha256": "6926ce91cfc950e69e70a456007a96b3c81d8087cc59646f1320da0e2ed88fce",
+      "bytes": 418978,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "ff9ed41c05ba3a14ad0756140ad7d8e890aa6aa33d08c4fe7f2c16633d6c9eb3"
+    },
+    {
+      "path": "03.jpg",
+      "sha256": "2ce9aeed32c0c3788bf3a96979711f3a5e8e5cdb1725958d7e9c1a1a7be1fd20",
+      "bytes": 318876,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "8281782e6fba77dee5409e242c9f9c47ec625d05e1b57d69521e14fc3768766e"
+    },
+    {
+      "path": "04.jpg",
+      "sha256": "aaa6d2847ee401585817f4dadb67c56a672dc18be4882a998a51bf947872d44a",
+      "bytes": 341094,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "3a1137fe12ff0b25def8659f358aab7138535912cf622b4b9de9e25ed4749bf8"
+    },
+    {
+      "path": "05.jpg",
+      "sha256": "c6f0fcb70c86b70d3818db0c6ff56b29c9a5bbd232196df019eaafc850a38f7f",
+      "bytes": 210984,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "0b4334554e597e07b42406ed2d9a49c495c99212ea0bb2e2ea8c6fbdaef1a52c"
+    },
+    {
+      "path": "06.jpg",
+      "sha256": "61f92b8551c1ddc505433e50e85a811823f3a96f1d5674ee9207c7a22457d286",
+      "bytes": 235874,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "416edaf4110d3b67976226d591743074f8fe88903f3ccdd858e8c71a65a5660a"
+    },
+    {
+      "path": "07.jpg",
+      "sha256": "9e4021cba93a25701f57db401d846e18bae6c12259c09e635d7f58dc1dd5711c",
+      "bytes": 435167,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "1474e10b1dc9eb4da23383ee6e2af2db33684e93759e77111380b8111413c8a4"
+    },
+    {
+      "path": "08.jpg",
+      "sha256": "59f3eebcbbb7c4a02bdd848db8d3ae1c2e69934b6c3e7c3d460ef637d4155f20",
+      "bytes": 245490,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "eb3255502f60164c1c72ef05fb8307e971e852b3a01a5a96210cc56cce65f034"
+    },
+    {
+      "path": "09.jpg",
+      "sha256": "f0d1b35ec3669572d05eff7a5ed624b2ff890a326ae982804e0e67646908bd4a",
+      "bytes": 820416,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "1d00afd2c534f75f223fb85e8c3eda63bb6f32abe0c190c24f94e5769d01169f"
+    },
+    {
+      "path": "10.jpg",
+      "sha256": "b9cfdd3835808c025c67e7eab364763c9254d39d5c6ab77f95edfedf7a31aab3",
+      "bytes": 51037,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "da13557164a4fec7c521de22037c1a45f2af2b46ab2848e7d0447885da1517fb"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Julia Stiles 'Bawled' Before Heath Ledger Tribute, Breaks Down '10 Things I Hate About You' Cast Reunion on 'Dancing With the Stars'",
+      "url": "https://variety.com/2026/film/news/julia-stiles-10-things-i-hate-about-you-reunion-heath-ledger-tribute-dwts-1236916762/",
+      "publisher": "Variety",
+      "publishedAt": "2026-10-21T04:05:00Z",
+      "retrievedAt": "2026-10-22T20:40:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "화요일 Dedication Night에 스타일스가 파트너 에즈라 소사와 'Can't Take My Eyes Off You'로 컨템퍼러리 춤을 췄고, 1999년 영화에서 레저의 패트릭이 축구 연습 중인 캣에게 관중석에서 이 노래를 불렀다는 점, 스타일스 발언 \"it had to be the whole cast. I begged them, each and every one of them, and they all rallied\", 영화 속 파란 드레스와 비슷한 옷, 레저가 2008년 1월 28세로 사망했다는 점을 확인했습니다.",
+      "usageNote": "기사 게시 2026-10-20 9:05pm PT."
+    },
+    {
+      "title": "Dancing with the Stars: Julia Stiles honours Heath Ledger with live tribute",
+      "url": "https://www.cbc.ca/news/entertainment/dancing-with-the-stars-julia-stiles-10-things-heath-ledger-9.7390034",
+      "publisher": "CBC News",
+      "publishedAt": "2026-10-21T17:20:33Z",
+      "retrievedAt": "2026-10-22T20:41:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "화요일 생방송 헌정 무대에 조셉 고든레빗·가브리엘 유니언·라리사 올레이닉·수전 메이 프랫·앤드루 키건이 함께했다는 점, 곡이 프랭키 밸리의 'Can't Take My Eyes Off You'라는 점, 영화 속 캣의 독백이 흐르는 동안 장미를 놓았다는 점, 1999년 영화, 레저 2008년 사망·28세, 시즌 35 출연진 발표 기사 링크를 확인했습니다.",
+      "usageNote": "심사 점수(전원 9점)는 이 기사에만 있어 쓰지 않았다."
+    },
+    {
+      "title": "Julia Stiles' Heath Ledger Tribute On 'DWTS' Ends With 1 Surprise So Sweet, You'll Sob",
+      "url": "https://www.huffpost.com/entry/julia-stiles-heath-ledger-tribute-dwts_n_6ad8bbf6e4b0ba084e139b50",
+      "publisher": "HuffPost",
+      "publishedAt": "2026-10-21T15:53:53Z",
+      "retrievedAt": "2026-10-22T20:41:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "파란 드레스, 레저의 춤 동작을 닮은 안무, 소사가 장미 한 송이를 건네고 퇴장한 뒤 스타일스가 시 낭독 음성 속에 장미를 계단에 놓았다는 점, 유니언·올레이닉·고든레빗·키건·프랫이 함께 섰다는 점, 레저 2008년 1월 28세 사망을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Why David Krumholtz Was Absent From '10 Things I Hate About You' Reunion on 'DWTS'",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/david-krumholtz-absent-10-things-i-hate-about-you-reunion-dwts-1236737892/",
+      "publisher": "The Hollywood Reporter",
+      "publishedAt": "2026-10-22T01:49:07Z",
+      "retrievedAt": "2026-10-22T20:44:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "크럼홀츠가 수요일 Instagram 영상에서 뉴욕주 캐츠킬산에서 영화를 찍고 있어 LA에 갈 수 없었다고 밝힌 점, 원문 \"I would have loved loved loved to have been there\", \"Julia's tribute to my dear friend, who I miss every single day, was amazing and stunning\", 합류 배우 다섯 명의 이름과 배역, 패트릭이 고교 경기장 관중석을 뛰어다니며 노래한 장면 설명을 확인했습니다.",
+      "usageNote": "'매일 그리운 친구'는 \"my dear friend, who I miss every single day\"의 번역."
+    },
+    {
+      "title": "David Krumholtz Explains Absence From Julia Stiles' '10 Things I Hate About You' Reunion",
+      "url": "https://www.thewrap.com/culture-lifestyle/culture/10-things-i-hate-about-you-david-krumholtz-dancing-with-the-stars-tribute/",
+      "publisher": "TheWrap",
+      "publishedAt": "2026-10-21T16:47:55Z",
+      "retrievedAt": "2026-10-22T20:44:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "크럼홀츠가 캐츠킬산 촬영 때문에 LA에 못 갔다는 점과 같은 발언 원문(\"Julia's tribute to my dear friend [Heath Ledger] who I miss every single day was amazing and stunning\")을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Wikimedia pageviews: Heath_Ledger, Julia_Stiles, 10_Things_I_Hate_About_You (en.wikipedia, 2026-10-15~21)",
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/en.wikipedia/all-access/2026/10/21",
+      "publisher": "Wikimedia REST API",
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "retrievedAt": "2026-10-22T20:50:00+09:00",
+      "kind": "data",
+      "evidenceSummary": "2026-10-21(UTC) 영어판 많이 본 문서에서 Heath_Ledger 177,482회 8위, Julia_Stiles 92,740회 21위, 10_Things_I_Hate_About_You 72,237회 30위. 전날(10-20) Heath_Ledger는 16,119회(사용자 조회 기준)라는 점을 확인했습니다.",
+      "usageNote": "캡션에는 '17만 번 넘게', '8위', '열 배가 넘는'으로만 썼다."
+    },
+    {
+      "title": "You Can Visit These 8 Spots In Seattle Where '10 Things I Hate About You' Filmed",
+      "url": "https://www.narcity.com/travel/us/wa/seattle/10-things-i-hate-about-you-seattle-filming-locations-you-need-to-visit",
+      "publisher": "Narcity",
+      "publishedAt": "2020-06-01T22:58:28Z",
+      "retrievedAt": "2026-10-22T20:52:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "타코마 스타디움 고교가 영화 속 파두아 고교였고, 패트릭이 캣에게 노래한 관중석이 학교 옆 경기장(Stadium Bowl)이라는 점을 확인했습니다(위키백과 Stadium High School 문서와 일치).",
+      "usageNote": "카드 3·4 사진 배경 설명용 보조 출처."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-22T18:39:58.160Z",
+      "attempt": 1,
+      "url": "https://variety.com/2026/film/news/julia-stiles-10-things-i-hate-about-you-reunion-heath-ledger-tribute-dwts-1236916762/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-22T18:39:58.446Z",
+      "attempt": 1,
+      "url": "https://www.cbc.ca/news/entertainment/dancing-with-the-stars-julia-stiles-10-things-heath-ledger-9.7390034",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-22T18:39:58.473Z",
+      "attempt": 1,
+      "url": "https://www.huffpost.com/entry/julia-stiles-heath-ledger-tribute-dwts_n_6ad8bbf6e4b0ba084e139b50",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-22T18:39:58.593Z",
+      "attempt": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/david-krumholtz-absent-10-things-i-hate-about-you-reunion-dwts-1236737892/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-22T18:39:58.615Z",
+      "attempt": 1,
+      "url": "https://www.thewrap.com/culture-lifestyle/culture/10-things-i-hate-about-you-david-krumholtz-dancing-with-the-stars-tribute/",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-22T18:39:58.950Z",
+      "attempt": 1,
+      "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/en.wikipedia/all-access/2026/10/21",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-22T18:39:58.994Z",
+      "attempt": 1,
+      "url": "https://www.narcity.com/travel/us/wa/seattle/10-things-i-hate-about-you-seattle-filming-locations-you-need-to-visit",
+      "httpStatus": 206,
+      "outcome": "verified",
+      "detail": "Redirected to https://www.narcity.com/seattle/10-things-i-hate-about-you-seattle-filming-locations-you-need-to-visit"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-22T18:39:59.051Z",
+  "draftApprovedContentHash": "58d68e458ab8dee0dc138bd8951f43278b2f4f04ff6ec1cccbe69dd41437c510",
+  "renderedAt": "2026-10-22T18:40:09.105Z",
+  "deployedAt": "2026-10-23T01:00:25.818Z"
+}
