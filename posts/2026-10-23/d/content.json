@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-23",
+  "slot": "d",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-22T20:42:00+09:00",
+  "generatedAt": "2026-10-22T20:55:00+09:00",
+  "package": {
+    "contentVersion": "reel",
+    "category": "culture",
+    "slug": "do-kyungwan-maintenance-fee",
+    "topic": "KBS 2TV '신상출시 편스토랑' 10-22 선공개 영상에서 도경완이 집 관리비 고지서를 보고 한숨, 아이들에게 변기 물도 한 번에 모아서 내리게 한다고 말한 장면",
+    "title": [
+      "아이들 변기 물도",
+      "못 내리게 하는 도경완"
+    ],
+    "window": "1.37:1",
+    "clips": [
+      {
+        "file": "clip-01.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=ruLRQx4NH0k",
+        "channel": "KBS Entertain",
+        "start": 34.3,
+        "end": 37.4,
+        "fit": "cover",
+        "focusX": 0.8,
+        "focusY": 0.25,
+        "zoom": 2,
+        "audio": true
+      },
+      {
+        "file": "clip-02.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=ruLRQx4NH0k",
+        "channel": "KBS Entertain",
+        "start": 37.4,
+        "end": 58.8,
+        "fit": "cover",
+        "focusX": 0.6,
+        "focusY": 0.25,
+        "zoom": 2,
+        "audio": true
+      },
+      {
+        "file": "clip-03.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=ruLRQx4NH0k",
+        "channel": "KBS Entertain",
+        "start": 58.8,
+        "end": 61.7,
+        "fit": "cover",
+        "focusX": 0.7,
+        "focusY": 0.25,
+        "zoom": 2,
+        "audio": true
+      },
+      {
+        "file": "clip-04.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=ruLRQx4NH0k",
+        "channel": "KBS Entertain",
+        "start": 130.7,
+        "end": 138.84,
+        "fit": "cover",
+        "focusX": 0.25,
+        "focusY": 0.25,
+        "zoom": 2,
+        "audio": true
+      },
+      {
+        "file": "clip-05.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=ruLRQx4NH0k",
+        "channel": "KBS Entertain",
+        "start": 138.84,
+        "end": 142,
+        "fit": "cover",
+        "focusX": 0,
+        "focusY": 0.33,
+        "zoom": 2,
+        "audio": true
+      }
+    ],
+    "subtitleMode": "ours",
+    "subtitles": [
+      {
+        "text": "수도를 5만 8천 원 더 써서\n뭘 한 거야?",
+        "start": 0.1,
+        "end": 2.5
+      },
+      {
+        "text": "그러니까 씻지 말라니까",
+        "start": 2.6,
+        "end": 5.1
+      },
+      {
+        "text": "씻지 말라니, 무슨 소리야\n어떻게 안 씻어요?",
+        "start": 5.2,
+        "end": 9.6
+      },
+      {
+        "text": "이거 봐, 전기를\n1,700kW나 더 썼어",
+        "start": 10,
+        "end": 13.5
+      },
+      {
+        "text": "아, 나 진짜 열받는 게",
+        "start": 13.6,
+        "end": 16
+      },
+      {
+        "text": "왜 각자 방에서\n시원하려고 그래?",
+        "start": 16.1,
+        "end": 18.5
+      },
+      {
+        "text": "왜 각자 씻어?",
+        "start": 18.6,
+        "end": 21
+      },
+      {
+        "text": "같이 담그고",
+        "start": 22.5,
+        "end": 24.9
+      },
+      {
+        "text": "한 방에서 시원하면 되잖아",
+        "start": 25,
+        "end": 27.4
+      },
+      {
+        "text": "저는 저희 아이들\n변기 물도 못 내리게 해요",
+        "start": 27.5,
+        "end": 31
+      },
+      {
+        "text": "아이, 왜 그래\n그건 아니잖아",
+        "start": 31.9,
+        "end": 35.4
+      },
+      {
+        "text": "아예 안 내리는 게 아니고\n한 번 모아서",
+        "start": 35.5,
+        "end": 38.7
+      }
+    ],
+    "coverAt": 28.5,
+    "hook": "🚽 도경완이 관리비 때문에 아이들한테 변기 물도 못 내리게 한대요.",
+    "body": [
+      "10월 22일 KBS 2TV '신상출시 편스토랑' 선공개 영상에서 도경완이 집 관리비 고지서를 열었어요. 관리비만큼은 자기가 낸다는데, 지난달보다 수도는 5만 8천 원, 전기는 1,700kW를 더 썼다며 한숨부터 쉬었어요.",
+      "제작진이 에어컨도 안 틀어 주는 거냐고 묻자 나온 말이 변기 물이었어요. 아예 안 내리는 건 아니고 한 번에 모아서 내린대요. 지켜보던 이연복 셰프는 \"이 집 관리비 가랑이 찢어지겠다\"고 했고요.",
+      "도경완은 2013년 가수 장윤정과 결혼해 1남 1녀를 두고 있어요. 전체 장면은 22일 방송된 '편스토랑'에서 볼 수 있어요."
+    ],
+    "question": "관리비 아끼려고 집에서 정한 규칙, 있으세요?",
+    "credits": "KBS Entertain (YouTube)",
+    "editor": "Kang",
+    "hashtags": [
+      "#도경완",
+      "#편스토랑",
+      "#장윤정",
+      "#관리비",
+      "#KBS예능"
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 1,
+      "evidenceAndImages": 2,
+      "availableNow": 2,
+      "rationale": "관리비 무서운 사람, 아이 키우는 친구에게 '도경완이 애들 변기 물도 못 내리게 한대'로 바로 보낼 이야기. 원본은 KBS Entertain 공식 유튜브 선공개(10-22, 조회 속도 채널 중앙값의 26.5배), 다음 연예 많이 본 뉴스 5위. 발언은 TV리포트·스포츠조선·스타뉴스 기사로 대조했다. 게시 시점 공개 약 32시간 뒤라 새로움 1점. 버린 제목 후보: ① '120억 펜트하우스 도경완 / 변기 물도 한 번에' — 120억은 영상에 없는 2024년 매입가 보도이고 재산 숫자를 훅으로 쓰면 사생활 소재라 뺐다. ② '관리비 고지서 연 도경완 / 아이들 변기 물까지' — 줄1이 사실 없는 상황 설명이고 줄2가 반만 말해 힘이 약하다."
+    },
+    "unknowns": [
+      "자막은 유튜브 한국어 자동 자막(ruLRQx4NH0k.ko.vtt)의 단어 시각과 기사 인용(TV리포트·스포츠조선·스타뉴스)을 대조해 썼다. 영상 화면은 직접 보지 못했다. 자동 자막 '같이 빡 담그고'는 기사('같이 물에 담그고')와 달라 '같이 담그고'로만 썼다.",
+      "원본에 박힌 자막은 창(1.37:1, zoom 2, focusY 0.25)과 토막별 focusX로 대부분 뺐으나, 3.4초쯤 '그러니까 씻지 말라니깐'이 날아 들어오는 0.2초와 37~38초 스튜디오 '질색' 효과 글자는 창에 걸칠 수 있다. 렌더 뒤 contact sheet 확인 필요.",
+      "관리비 총액은 영상에서 삐 처리돼 안 나오고 기사도 안 써서 쓰지 않음. 자동 자막의 '왕관의 무게가 150만 원'은 화자·대상 미확인이라 뺌. '120억'은 기사가 쓴 2024년 펜트하우스 매입가 이전 보도로 영상에 없어 화면·캡션에 쓰지 않음.",
+      "방송일은 매일경제(스타투데이)·TV리포트 모두 '22일(목) 오후 8시 30분 KBS 2TV'. 23일 18:30 게시는 본방송 뒤.",
+      "주제 점수 8: 화제 증거 2(다음 연예 많이 본 뉴스 5위, 유튜브 조회 속도 26.54배), 아는 얼굴 2(도경완·장윤정 부부), 반전 2(아이들 변기 물), 참여 장치 0, 원본 2(KBS Entertain 공식)."
+    ]
+  },
+  "sources": [
+    {
+      "title": "[선공개] 도경완관리비는 내가 낸다 관리비 확인 후 비상! 통장 잔고는..? [신상출시 편스토랑/Fun_Staurant] | KBS 방송",
+      "url": "https://www.youtube.com/watch?v=ruLRQx4NH0k",
+      "publisher": "KBS Entertain (YouTube, 공식 채널)",
+      "publishedAt": "2026-10-22T01:28:26Z",
+      "retrievedAt": "2026-10-22T20:45:00+09:00",
+      "kind": "official_social",
+      "evidenceSummary": "KBS 공식 채널의 '편스토랑' 선공개 영상(2분 46초). 0:34~1:01 도경완이 고지서를 보며 \"수도를 58,000원을 더 써서 뭘 한 거야\", \"전기를 1700kW나 더 썼어\", \"왜 각자 방에서 시원하려 그래? 왜 각자 씻어?\"라고 말하고, 2:10~2:30 \"저는 저희 아이들 변기 물도 못 내리게 해요\", \"아예 안 내리는 게 아니고 그래도 한번 모아서\"라고 한다(한국어 자동 자막).",
+      "usageNote": "릴스 클립 원본: 34.3~61.7초(원본 자막 위치에 맞춰 세 토막으로 나눠 좌우 위치만 다르게), 130.7~142.0초. 2:22 이후는 스튜디오의 다른 출연자 발언과 섞여 화자가 불분명해 뺐다."
+    },
+    {
+      "title": "'120억 펜트하우스' 도경완, 관리비에 비명…\"아이들 변기 물도 못 내리게 해\" ('편스토랑')",
+      "url": "https://v.daum.net/v/20261022165036469",
+      "publisher": "TV리포트",
+      "publishedAt": "2026-10-22T16:50:00+09:00",
+      "retrievedAt": "2026-10-22T20:46:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "선공개 영상 내용: 수도 요금 5만 8,000원 증가, 전기 1,700kW 추가 사용, 이연복 \"이 집 관리비 가랑이 찢어지겠다\", 제작진이 에어컨 질문을 하자 \"아이들한테 변기 물도 못 내리게 한다. 아예 안 내리는 건 아니고 한 번에 모은다\". 방송 22일(목) 오후 8시 30분 KBS 2TV. 120억은 '2024년 용산구 펜트하우스 120억 원 현금 매입' 이전 보도로 언급.",
+      "usageNote": "다음 연예 많이 본 뉴스 5위 기사."
+    },
+    {
+      "title": "'120억家' 도경완, 관리비에 충격 받더니..\"애들 변기 물 못 내리게 한다\" ('편스토랑')",
+      "url": "https://n.news.naver.com/article/076/0004458526",
+      "publisher": "스포츠조선",
+      "publishedAt": "2026-10-22T11:37:14+09:00",
+      "retrievedAt": "2026-10-22T20:48:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "같은 선공개 영상에서 \"수도를 58000원이나 더 썼어. 씻지 말라니까\", \"전기를 1700KW나 더 썼다\", 이연복 반응, \"저는 아이들한테 변기 물도 못 내리게 한다. 아예 안 내리는 건 아니고 한 번에 모은다\"를 인용. 도경완은 2013년 장윤정과 결혼, 1남 1녀.",
+      "usageNote": "스타뉴스(https://n.news.naver.com/article/108/0003480780)도 같은 발언과 '한 번에 모아서 내리게 한다'를 보도했다. 방송일은 매일경제 스타투데이(https://n.news.naver.com/article/009/0005751924) '22일 목요일 오후 8시 30분'."
+    }
+  ],
+  "collectionErrors": []
+}
