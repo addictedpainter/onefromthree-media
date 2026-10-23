@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "히스 레저가 불러 준 노래 27년 뒤 상대역의 춤",
   "slug": "julia-stiles-heath-ledger-dwts-tribute",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "줄리아 스타일스, DWTS 시즌 35(10-20)에서 히스 레저의 '10가지' 속 노래로 헌정 무대, 출연진 5명 합류",
@@ -341,5 +341,8 @@
   "renderedAt": "2026-10-22T18:40:09.105Z",
   "deployedAt": "2026-10-23T01:00:25.818Z",
   "verifiedAt": "2026-10-23T01:02:05.307Z",
-  "publishAttemptedAt": "2026-10-23T04:00:00.024Z"
+  "publishAttemptedAt": "2026-10-23T04:00:00.024Z",
+  "publishedAt": "2026-10-23T04:01:11.123Z",
+  "externalPostId": "18376096999244572",
+  "externalUrl": "https://www.instagram.com/p/De0pqMfgBvd/"
 }
