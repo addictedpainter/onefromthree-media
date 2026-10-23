@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "김국진이 들고 다니던 꼬마 아시안게임 메달리스트",
   "slug": "kim-gukjin-joel-jin-bungeoppang",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "reel",
     "topic": "라디오스타(10-21)에서 아시안게임 동메달리스트 조엘 진이 12년 전 '붕어빵'의 김국진과 재회, 김국진 \"내가 들고 다녔다\"",
@@ -128,5 +128,8 @@
   "renderedAt": "2026-10-22T18:39:48.079Z",
   "deployedAt": "2026-10-23T01:00:25.778Z",
   "verifiedAt": "2026-10-23T01:01:58.337Z",
-  "publishAttemptedAt": "2026-10-23T12:30:00.823Z"
+  "publishAttemptedAt": "2026-10-23T12:30:00.823Z",
+  "publishedAt": "2026-10-23T12:31:08.060Z",
+  "externalPostId": "18159808327506097",
+  "externalUrl": "https://www.instagram.com/reel/De1j71xjGIx/"
 }
