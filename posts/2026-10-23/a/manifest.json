@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-23",
+  "slot": "a",
+  "postId": "2026-10-23-a",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "사진에 처음 찍힌 두 사람 188년 만에 찾은 자리",
+  "slug": "daguerre-boulevard-du-temple-first-people",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "v3",
+    "topic": "다게르 1838 '탕플 대로' 속 첫 사람(구두닦이와 손님) 서 있던 자리 확인, 2026-10-15 레퓌블리크 광장 동판",
+    "category": "art",
+    "editor": "Haein",
+    "shareScore": 9,
+    "coverLayout": "caption",
+    "imageTiers": {
+      "public_domain": 9
+    }
+  },
+  "generatedAt": "2026-10-22T21:10:00+09:00",
+  "scheduledStartAt": "2026-10-22T18:30:00.000Z",
+  "actualStartedAt": "2026-10-22T20:47:00+09:00",
+  "imageCount": 10,
+  "contentHash": "c21e58e3b52415270fc77af9430b685cd564424e109fd0634a81c18815bebb50",
+  "idempotencyKey": "scenenode:2026-10-23-a:c21e58e3b5241527",
+  "media": [
+    {
+      "path": "01.jpg",
+      "sha256": "9ae4ec9b2a22d9b513519e3f5823a3e52052ffecc286e65901d83e3e5dd6b865",
+      "bytes": 286965,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "3198a67238daa3a5a116657c17971bd6f0dfb2fe61fae3ee880c657617062195"
+    },
+    {
+      "path": "02.jpg",
+      "sha256": "ab3e9d2a80ac31cfea346095d757d6d0b925ffd56a190b4aa1935ff32eeb4511",
+      "bytes": 485849,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "ab832405cbe755f3c251f771911db874e622d269240721ff55a83f2518aaf424"
+    },
+    {
+      "path": "03.jpg",
+      "sha256": "b80504e45d9625547e6940244181c8c7deb1c162d8d4a14b3507ec863d45dc5f",
+      "bytes": 407719,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "58bac102c479f1991421ce69282fd0627801818d25ce560d06761537127ba5fc"
+    },
+    {
+      "path": "04.jpg",
+      "sha256": "863f673eafd1dd0e72bf2d5d9c904197236fb531d9ffd55d333bd9b9e418b300",
+      "bytes": 226923,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "133520895c61dd7e489a4d393ff6f9fc9c7eb86b2f425596f55f820852ce6ed2"
+    },
+    {
+      "path": "05.jpg",
+      "sha256": "f469527c30e3a4ab4cdfdc45610c42918f6dc1da3bec2d2b3b769280ec6076ce",
+      "bytes": 282880,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "11c55b2773debf80f683141ad8983cb5f8c3e2d3b0fe9995d6a05388248e05ba"
+    },
+    {
+      "path": "06.jpg",
+      "sha256": "1b52571dd6eea6a0fe9186d06f991d5cf12a7d5d324f102249f9e9cb0fc86e6a",
+      "bytes": 288515,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "b4d1d92d7a54573521603103868fffe6bd846a3893b221300c1433050d565da7"
+    },
+    {
+      "path": "07.jpg",
+      "sha256": "11a08840d0fdb27284f665ae8e05f530ee225ac117194a014ea27bcbcbe780d5",
+      "bytes": 345362,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "55b9ed700ddc8b3f102605c104ad694ff204387ee86ba64e9e610e945c689c14"
+    },
+    {
+      "path": "08.jpg",
+      "sha256": "8d00d2b66bd46404c656b7b4e21ae0d7324fdb713bcd6e697ae15dbd921daa46",
+      "bytes": 221127,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "c7f811bbf9aded2d4c67925ea24e88d15ad1f28842299b03f44556edf424ee4e"
+    },
+    {
+      "path": "09.jpg",
+      "sha256": "c5658b67f38b01e4e77aa424d0bc08348b9f297491ab809e16f9c5056ec851c8",
+      "bytes": 323821,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "bae239d694b2332d3e3d3d1eecf6881bc8b53c013555c9b94615550e02ff686e"
+    },
+    {
+      "path": "10.jpg",
+      "sha256": "f0b89263b80d4e86f35d144bc9579d5427b6c334a309e203b839e70125ad79bc",
+      "bytes": 51053,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "456fac6457a2babf437c99b1c4540bf3d311196a7df35322218fc7c7f894fd42"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Près de 200 ans après, la Ville de Paris dévoile une plaque en hommage à la toute première photo d'êtres humains",
+      "url": "https://presse.paris.fr/agenda/pres-de-200-ans-apres-la-ville-de-paris-devoile-une-plaque-en-hommage-a-la-toute-premiere-photo-d-etres-humains",
+      "publisher": "Ville de Paris (presse)",
+      "publishedAt": "2026-10-14T00:00:00Z",
+      "retrievedAt": "2026-10-22T20:50:00+09:00",
+      "kind": "official_announcement",
+      "evidenceSummary": "2026-10-15 16:30 레퓌블리크 광장·포부르뒤탕플 거리 모퉁이에서 동판 'Un détail imprévu' 공개, 1838년 봄 다게르 작업실 창문에서 찍은 사진 속 구두닦이와 손님(첫 사람으로 여겨짐), Kalle Boman·Axel Danielson·Maximilien Van Aertryck(Plattform Produktion)이 2년 연구로 둘이 서 있던 정확한 자리를 찾았다는 점, 작가들이 동판을 시에 기증한다는 점을 확인했다.",
+      "usageNote": "일정 공지 페이지라 게시일은 추정(행사 전날)."
+    },
+    {
+      "title": "Place de la République : l'histoire de la photographie sous vos pieds",
+      "url": "https://mairie10.paris.fr/pages/place-de-la-republique-l-histoire-de-la-photographie-sous-vos-pieds-36948",
+      "publisher": "Mairie du 10e arrondissement de Paris",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "retrievedAt": "2026-10-22T20:52:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "2026-10-15부터 광장 바닥(포부르뒤탕플 거리 연장선)에 동판, 두 인물과 이야기를 새김, 영화감독 세 명이 약 2년간 옛 지도·판화·기록·3D 재구성으로 위치 확인, 남아 있는 건물 세 채가 기준점, 사진이 좌우 반전돼 뒤집어 맞춤, 노출에 몇 분이 걸려 행인·마차가 찍히지 않음, 두 사람은 이름 모를 인물이라는 점을 확인했다.",
+      "usageNote": "페이지에 '2026-10-20 갱신'만 표기."
+    },
+    {
+      "title": "Paris : l'endroit retrouvé de deux inconnus photographiés en 1838",
+      "url": "https://laclepublique.fr/paris/articles/2026/2026-10-16-daguerre-plaque-republique/",
+      "publisher": "La Clé Publique",
+      "publishedAt": "2026-10-16T00:00:00Z",
+      "retrievedAt": "2026-10-22T20:51:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "10-15 동판 설치, 두 사람 이름은 여전히 모른다('Leurs noms sont inconnus'), 감독 세 명이 2024년 6월부터 지적도·판화·옛 풍경과 3D 측량을 맞췄고 남은 건물 세 채가 기준이 됐다는 점, 노출에 몇 분이 걸렸다는 점을 확인했다.",
+      "usageNote": null
+    },
+    {
+      "title": "Bronze plaque unveiled in Paris to honor image believed to be first to show people",
+      "url": "https://english.news.cn/europe/20261017/448b61abdf4d4b8fa7bcdb0b983c382d/c.html",
+      "publisher": "Xinhua",
+      "publishedAt": "2026-10-17T00:00:00Z",
+      "retrievedAt": "2026-10-22T20:49:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "레퓌블리크 광장에 동판 'An Unexpected Detail'이 공개됐고 1838년 다게르의 'Boulevard du Temple'이 사람이 찍힌 첫 사진으로 여겨진다는 점을 확인했다.",
+      "usageNote": "사진은 신화통신 저작물이라 쓰지 않음."
+    },
+    {
+      "title": "Boulevard du Temple (photograph)",
+      "url": "https://en.wikipedia.org/wiki/Boulevard_du_Temple_(photograph)",
+      "publisher": "Wikipedia",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "retrievedAt": "2026-10-22T20:53:00+09:00",
+      "kind": "data",
+      "evidenceSummary": "1838년(또는 1837년) 4월 말~5월 초 촬영, 다게르 판은 모두 좌우 반전, 일대가 오스만 파리 대개조로 크게 바뀜, 2026-10-15 스웨덴 감독 세 명의 위치 재구성과 동판 공개를 보조 확인했다.",
+      "usageNote": "보조 자료. 핵심 사실은 위 공식·기사 출처로 확인."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-22T18:38:21.163Z",
+      "attempt": 1,
+      "url": "https://presse.paris.fr/agenda/pres-de-200-ans-apres-la-ville-de-paris-devoile-une-plaque-en-hommage-a-la-toute-premiere-photo-d-etres-humains",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-22T18:38:22.898Z",
+      "attempt": 1,
+      "url": "https://mairie10.paris.fr/pages/place-de-la-republique-l-histoire-de-la-photographie-sous-vos-pieds-36948",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-22T18:38:23.998Z",
+      "attempt": 1,
+      "url": "https://laclepublique.fr/paris/articles/2026/2026-10-16-daguerre-plaque-republique/",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-22T18:38:24.973Z",
+      "attempt": 1,
+      "url": "https://english.news.cn/europe/20261017/448b61abdf4d4b8fa7bcdb0b983c382d/c.html",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-22T18:38:25.884Z",
+      "attempt": 1,
+      "url": "https://en.wikipedia.org/wiki/Boulevard_du_Temple_(photograph)",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-22T18:38:25.943Z",
+  "draftApprovedContentHash": "c21e58e3b52415270fc77af9430b685cd564424e109fd0634a81c18815bebb50",
+  "renderedAt": "2026-10-22T18:38:36.262Z",
+  "deployedAt": "2026-10-23T01:00:25.814Z"
+}

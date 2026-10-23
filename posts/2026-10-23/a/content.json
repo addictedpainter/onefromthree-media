@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-23",
+  "slot": "a",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-22T20:47:00+09:00",
+  "generatedAt": "2026-10-22T21:10:00+09:00",
+  "package": {
+    "contentVersion": "v3",
+    "category": "art",
+    "slug": "daguerre-boulevard-du-temple-first-people",
+    "topic": "다게르 1838 '탕플 대로' 속 첫 사람(구두닦이와 손님) 서 있던 자리 확인, 2026-10-15 레퓌블리크 광장 동판",
+    "headline": [
+      "사진에 처음 찍힌 두 사람",
+      "188년 만에 찾은 자리"
+    ],
+    "coverLayout": "caption",
+    "hook": "👞 사람이 처음 찍힌 사진 속 두 명은 길에서 구두를 닦던 손님과 구두닦이였어요.",
+    "body": [
+      "1838년 봄, 루이 다게르가 파리 탕플 대로 작업실 창문에서 거리를 찍었어요. 그때 다게레오타입은 판 한 장에 몇 분씩 빛을 받아야 해서, 그사이 오간 마차와 행인은 하나도 남지 않았어요. 그래서 사진 속 대로는 텅 빈 것처럼 보여요. 그런데 길모퉁이 한쪽에, 구두를 닦느라 한참 서 있던 손님과 구두닦이가 찍혔어요.",
+      "사실 이 두 사람이 누구인지는 지금도 몰라요. 이번에 풀린 건 둘이 서 있던 자리예요. 스웨덴 영화감독 세 명이 2년 동안 옛 지도와 판화, 기록을 뒤지고 3D 측량까지 맞춰 봤대요. 사진에 나온 건물 가운데 세 채가 아직 남아 있어서 기준점이 됐고요. 다게레오타입은 좌우가 뒤집혀 찍혀서 사진을 다시 뒤집어 맞춰야 했어요. 그 길모퉁이는 파리 대개조를 거치며 지금의 레퓌블리크 광장 안으로 들어갔어요.",
+      "지난 10월 15일, 파리시가 레퓌블리크 광장과 포부르뒤탕플 거리가 만나는 모퉁이 바닥에 동판 'Un détail imprévu(예상 못 한 디테일)'를 공개했어요. 두 사람의 모습과 이야기를 새긴 동판으로, 감독들이 만들어 시에 기증했어요. 광장 바닥이라 파리에 가면 누구나 그냥 가서 볼 수 있어요."
+    ],
+    "question": "내 사진 뒤에 찍힌 낯선 사람, 지운다 vs 그냥 둔다?",
+    "credits": "Louis Daguerre, Boulevard du Temple (1838, Public domain), Daguerre 초상 Pierre-Ambroise Richebourg, The Met (CC0), E. Thiesson, Paris Musées (CC0), Susse Frères 카메라(1839) photo Liudmila & Nelson (Public domain), Caserne du Prince Eugène, Paris Musées (CC0), Caserne Vérines photo GFreihalter (CC BY-SA 4.0), Place de la République photo Pierre-Selim Huard (CC BY 4.0)",
+    "editor": "Haein",
+    "hashtags": [
+      "#다게르",
+      "#다게레오타입",
+      "#사진의역사",
+      "#레퓌블리크광장",
+      "#BoulevardDuTemple"
+    ],
+    "slides": [
+      {
+        "index": 1,
+        "text": "사진에 처음 찍힌 두 사람\n188년 만에 찾은 자리",
+        "image": {
+          "file": "01-cover.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daguerre_2.jpg",
+          "credit": "Louis Daguerre, Boulevard du Temple (detail), 1838 (Public domain)",
+          "license": "Public domain",
+          "checkedAt": "2026-10-22T20:55:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0,
+              "y": 0.33,
+              "width": 1,
+              "height": 0.67
+            }
+          }
+        }
+      },
+      {
+        "index": 2,
+        "text": "1838년 봄, 다게르는 지금 이 건물 자리에 있던 작업실 창문으로 거리를 찍었어요.",
+        "image": {
+          "file": "02-caserne-verines.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paris_10e_Place_de_la_R%C3%A9publique_Caserne_V%C3%A9rines_654.jpg",
+          "credit": "Caserne Vérines, Place de la République, Paris, 2024, photo GFreihalter (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-22T21:10:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0,
+              "y": 0,
+              "width": 0.6,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 3,
+        "text": "찍은 사람은 다게레오타입을 만든 루이 다게르예요.",
+        "image": {
+          "file": "03-daguerre-met.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Louis-Jacques-Mand%C3%A9_Daguerre_MET_DT268544.jpg",
+          "credit": "Louis-Jacques-Mandé Daguerre, Pierre-Ambroise Richebourg, c. 1844, The Met (CC0)",
+          "license": "CC0 1.0 (The Met Open Access)",
+          "checkedAt": "2026-10-22T20:55:00+09:00",
+          "focus": "top"
+        }
+      },
+      {
+        "index": 4,
+        "text": "그때 사진기는 판 한 장에 빛을 몇 분씩 받아야 했어요.",
+        "image": {
+          "file": "04-camera.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Susse_Fr%C3%A8res_Daguerreotype_camera_1839.jpg",
+          "credit": "Susse Frères daguerreotype camera, 1839, WestLicht, photo Liudmila & Nelson (Public domain)",
+          "license": "Public domain (released by the photographers)",
+          "checkedAt": "2026-10-22T20:55:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.12,
+              "y": 0,
+              "width": 0.65,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 5,
+        "text": "그사이 지나간 마차와 행인은 하나도 남지 않았어요.",
+        "image": {
+          "file": "02-boulevard.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boulevard_du_Temple_by_Daguerre.jpg",
+          "credit": "Louis Daguerre, Boulevard du Temple, 1838 (Public domain)",
+          "license": "Public domain",
+          "checkedAt": "2026-10-22T21:10:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0,
+              "y": 0,
+              "width": 0.55,
+              "height": 0.72
+            }
+          }
+        }
+      },
+      {
+        "index": 6,
+        "text": "사실 남은 건 멈춰 서 있던 구두닦이와 손님, 둘뿐이에요.",
+        "image": {
+          "file": "09-unmirrored.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boulevard_du_Temple_by_Daguerre_(unmirrored).jpg",
+          "credit": "Louis Daguerre, Boulevard du Temple, 1838, unmirrored (Public domain)",
+          "license": "Public domain",
+          "checkedAt": "2026-10-22T21:10:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.62,
+              "y": 0.4,
+              "width": 0.33,
+              "height": 0.6
+            }
+          }
+        }
+      },
+      {
+        "index": 7,
+        "text": "스웨덴 감독 세 명이 2년 동안 옛 지도와 3D 측량으로 그 자리를 찾아 나섰어요.",
+        "image": {
+          "file": "07-caserne-1850s.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caserne_du_Prince_Eug%C3%A8ne_%C3%A0_Paris,_PH11353.jpg",
+          "credit": "Caserne du Prince Eugène à Paris, stereograph 1850-1900, Paris Musées (CC0)",
+          "license": "CC0 1.0 (Paris Musées)",
+          "checkedAt": "2026-10-22T20:55:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.125,
+              "y": 0.06,
+              "width": 0.365,
+              "height": 0.85
+            }
+          }
+        }
+      },
+      {
+        "index": 8,
+        "text": "지난 15일, 레퓌블리크 광장 바닥 그 자리에 동판이 놓였어요.",
+        "image": {
+          "file": "08-republique.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paris_-_2017-12-01_-_Place_de_la_R%C3%A9publique_-_5517.jpg",
+          "credit": "Place de la République, Paris, 2017, photo Pierre-Selim Huard (CC BY 4.0)",
+          "license": "CC BY 4.0",
+          "checkedAt": "2026-10-22T20:55:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 9,
+        "text": "내 사진 뒤에 찍힌 낯선 사람, 지운다 vs 그냥 둔다?",
+        "image": {
+          "file": "10-daguerre-thiesson.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_de_Louis_Jacques_Mand%C3%A9_Daguerre_(1787-1851),_inventeur_du_daguerr%C3%A9otype,_PH172_(1_of_6).jpg",
+          "credit": "Portrait de Louis Daguerre, daguerreotype by E. Thiesson, 1844, Paris Musées (CC0)",
+          "license": "CC0 1.0 (Paris Musées)",
+          "checkedAt": "2026-10-22T21:10:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.105,
+              "y": 0.18,
+              "width": 0.295,
+              "height": 0.65
+            }
+          }
+        }
+      }
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 2,
+      "evidenceAndImages": 2,
+      "availableNow": 1,
+      "rationale": "사진 좋아하는 친구, 파리 여행 갈 친구에게 '사진에 처음 찍힌 사람이 구두 닦던 손님이래, 그 자리를 이제 찾았대'로 바로 보낼 이야기다. 위치 확인과 동판(10-15)은 파리시 보도 일정·10구청·La Clé Publique·신화통신·위키백과로 교차 확인했고, 두 사람 신원은 여전히 모른다(10구청·La Clé Publique)는 점까지 확인해 '풀린 것은 자리'로만 썼다. 사진 9장 모두 1등급(PD·CC0·CC BY 4.0). 파리 광장 바닥이라 지금 볼 수 있는가는 1점. 표지는 원판 확대(Daguerre 2.jpg)를 아래쪽만 남겨 두 사람이 자막 박스 위로 오게 했고, keyword 없이 자막 박스형. 버린 후보: ① '텅 빈 줄 알았던 거리 / 구두 닦던 두 사람' — 반전은 세지만 이번 소식(자리 확인)이 빠지고 줄2가 답을 다 보여 준다. ② '구두 닦던 손님 / 사진에 찍힌 첫 사람' — 답을 표지에서 다 말해 2장을 넘길 이유가 약하다."
+    },
+    "unknowns": [
+      "노출 시간은 출처마다 4~5분·5~10분·10분 이상으로 달라 '몇 분'으로만 썼다. 촬영 시각(오전 8시)은 위키백과 한 곳이라 쓰지 않았다.",
+      "구두닦이가 아이였을 것이라는 설명은 10구청 한 곳의 추정이라 쓰지 않았다. Pont Neuf 사진에 더 이른 사람이 있을 수 있다는 설이 있어 캡션은 '사람이 처음 찍힌 사진'으로 알려진 수준으로 썼다.",
+      "동판 사진은 파리시 크레딧(Jean-Baptiste Gurliat)만 있고 보도용 허락이 확인되지 않아 쓰지 않았다. 8장은 2017년 광장 사진이다.",
+      "artnet 기사(2026-10-20)는 403으로 직접 열지 못했다. '영화 제작팀' 표현은 파리시·10구청이 '예술가 집단 Plattform Produktion'·'cinéastes'로 적어 '스웨덴 감독'으로 썼다.",
+      "Susse Frères 카메라는 다게르가 이 사진을 찍은 바로 그 기계가 아니라 1839년 같은 방식의 상용 카메라다(카드 문장은 '그때 사진기')."
+    ]
+  },
+  "sources": [
+    {
+      "title": "Près de 200 ans après, la Ville de Paris dévoile une plaque en hommage à la toute première photo d'êtres humains",
+      "url": "https://presse.paris.fr/agenda/pres-de-200-ans-apres-la-ville-de-paris-devoile-une-plaque-en-hommage-a-la-toute-premiere-photo-d-etres-humains",
+      "publisher": "Ville de Paris (presse)",
+      "publishedAt": "2026-10-14T00:00:00Z",
+      "retrievedAt": "2026-10-22T20:50:00+09:00",
+      "kind": "official_announcement",
+      "evidenceSummary": "2026-10-15 16:30 레퓌블리크 광장·포부르뒤탕플 거리 모퉁이에서 동판 'Un détail imprévu' 공개, 1838년 봄 다게르 작업실 창문에서 찍은 사진 속 구두닦이와 손님(첫 사람으로 여겨짐), Kalle Boman·Axel Danielson·Maximilien Van Aertryck(Plattform Produktion)이 2년 연구로 둘이 서 있던 정확한 자리를 찾았다는 점, 작가들이 동판을 시에 기증한다는 점을 확인했다.",
+      "usageNote": "일정 공지 페이지라 게시일은 추정(행사 전날)."
+    },
+    {
+      "title": "Place de la République : l'histoire de la photographie sous vos pieds",
+      "url": "https://mairie10.paris.fr/pages/place-de-la-republique-l-histoire-de-la-photographie-sous-vos-pieds-36948",
+      "publisher": "Mairie du 10e arrondissement de Paris",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "retrievedAt": "2026-10-22T20:52:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "2026-10-15부터 광장 바닥(포부르뒤탕플 거리 연장선)에 동판, 두 인물과 이야기를 새김, 영화감독 세 명이 약 2년간 옛 지도·판화·기록·3D 재구성으로 위치 확인, 남아 있는 건물 세 채가 기준점, 사진이 좌우 반전돼 뒤집어 맞춤, 노출에 몇 분이 걸려 행인·마차가 찍히지 않음, 두 사람은 이름 모를 인물이라는 점을 확인했다.",
+      "usageNote": "페이지에 '2026-10-20 갱신'만 표기."
+    },
+    {
+      "title": "Paris : l'endroit retrouvé de deux inconnus photographiés en 1838",
+      "url": "https://laclepublique.fr/paris/articles/2026/2026-10-16-daguerre-plaque-republique/",
+      "publisher": "La Clé Publique",
+      "publishedAt": "2026-10-16T00:00:00Z",
+      "retrievedAt": "2026-10-22T20:51:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "10-15 동판 설치, 두 사람 이름은 여전히 모른다('Leurs noms sont inconnus'), 감독 세 명이 2024년 6월부터 지적도·판화·옛 풍경과 3D 측량을 맞췄고 남은 건물 세 채가 기준이 됐다는 점, 노출에 몇 분이 걸렸다는 점을 확인했다.",
+      "usageNote": null
+    },
+    {
+      "title": "Bronze plaque unveiled in Paris to honor image believed to be first to show people",
+      "url": "https://english.news.cn/europe/20261017/448b61abdf4d4b8fa7bcdb0b983c382d/c.html",
+      "publisher": "Xinhua",
+      "publishedAt": "2026-10-17T00:00:00Z",
+      "retrievedAt": "2026-10-22T20:49:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "레퓌블리크 광장에 동판 'An Unexpected Detail'이 공개됐고 1838년 다게르의 'Boulevard du Temple'이 사람이 찍힌 첫 사진으로 여겨진다는 점을 확인했다.",
+      "usageNote": "사진은 신화통신 저작물이라 쓰지 않음."
+    },
+    {
+      "title": "Boulevard du Temple (photograph)",
+      "url": "https://en.wikipedia.org/wiki/Boulevard_du_Temple_(photograph)",
+      "publisher": "Wikipedia",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "retrievedAt": "2026-10-22T20:53:00+09:00",
+      "kind": "data",
+      "evidenceSummary": "1838년(또는 1837년) 4월 말~5월 초 촬영, 다게르 판은 모두 좌우 반전, 일대가 오스만 파리 대개조로 크게 바뀜, 2026-10-15 스웨덴 감독 세 명의 위치 재구성과 동판 공개를 보조 확인했다.",
+      "usageNote": "보조 자료. 핵심 사실은 위 공식·기사 출처로 확인."
+    }
+  ],
+  "collectionErrors": []
+}
