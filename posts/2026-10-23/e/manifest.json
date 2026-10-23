@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "김국진이 들고 다니던 꼬마 아시안게임 메달리스트",
   "slug": "kim-gukjin-joel-jin-bungeoppang",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "reel",
     "topic": "라디오스타(10-21)에서 아시안게임 동메달리스트 조엘 진이 12년 전 '붕어빵'의 김국진과 재회, 김국진 \"내가 들고 다녔다\"",
@@ -39,8 +39,8 @@
       "durationSeconds": 31.8,
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/e/reel.mp4",
       "verification": {
-        "verifiedAt": "2026-10-23T01:01:57.551Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-23T12:30:00.823Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "video/mp4",
         "bytes": 8560920,
@@ -122,10 +122,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 9,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-22T18:39:37.729Z",
   "draftApprovedContentHash": "4c6b063ee7ee5fa6b9488199836a21869c266de6d7230b57d59ed6f63087aa0f",
   "renderedAt": "2026-10-22T18:39:48.079Z",
   "deployedAt": "2026-10-23T01:00:25.778Z",
-  "verifiedAt": "2026-10-23T01:01:58.337Z"
+  "verifiedAt": "2026-10-23T01:01:58.337Z",
+  "publishAttemptedAt": "2026-10-23T12:30:00.823Z"
 }
