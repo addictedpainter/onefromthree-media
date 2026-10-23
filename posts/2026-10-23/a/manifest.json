@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "사진에 처음 찍힌 두 사람 188년 만에 찾은 자리",
   "slug": "daguerre-boulevard-du-temple-first-people",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "다게르 1838 '탕플 대로' 속 첫 사람(구두닦이와 손님) 서 있던 자리 확인, 2026-10-15 레퓌블리크 광장 동판",
@@ -306,5 +306,8 @@
   "renderedAt": "2026-10-22T18:38:36.262Z",
   "deployedAt": "2026-10-23T01:00:25.814Z",
   "verifiedAt": "2026-10-23T01:02:00.574Z",
-  "publishAttemptedAt": "2026-10-23T01:02:05.560Z"
+  "publishAttemptedAt": "2026-10-23T01:02:05.560Z",
+  "publishedAt": "2026-10-23T01:03:10.087Z",
+  "externalPostId": "18097183682538279",
+  "externalUrl": "https://www.instagram.com/p/De0VSaridC8/"
 }
