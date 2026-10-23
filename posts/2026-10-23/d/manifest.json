@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "아이들 변기 물도 못 내리게 하는 도경완",
   "slug": "do-kyungwan-maintenance-fee",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "reel",
     "topic": "KBS 2TV '신상출시 편스토랑' 10-22 선공개 영상에서 도경완이 집 관리비 고지서를 보고 한숨, 아이들에게 변기 물도 한 번에 모아서 내리게 한다고 말한 장면",
@@ -39,8 +39,8 @@
       "durationSeconds": 38.7,
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/d/reel.mp4",
       "verification": {
-        "verifiedAt": "2026-10-23T01:02:02.098Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-23T09:30:00.059Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "video/mp4",
         "bytes": 7081312,
@@ -106,10 +106,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 10,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-22T18:43:26.563Z",
   "draftApprovedContentHash": "300708792697341469c9798a4649efa8420876ea75c606154c438cadb68c111f",
   "renderedAt": "2026-10-22T18:43:37.715Z",
   "deployedAt": "2026-10-23T01:00:25.777Z",
-  "verifiedAt": "2026-10-23T01:02:03.140Z"
+  "verifiedAt": "2026-10-23T01:02:03.140Z",
+  "publishAttemptedAt": "2026-10-23T09:30:00.059Z"
 }
