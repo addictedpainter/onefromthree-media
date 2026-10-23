@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-23",
+  "slot": "e",
+  "postId": "2026-10-23-e",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "김국진이 들고 다니던 꼬마 아시안게임 메달리스트",
+  "slug": "kim-gukjin-joel-jin-bungeoppang",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "reel",
+    "topic": "라디오스타(10-21)에서 아시안게임 동메달리스트 조엘 진이 12년 전 '붕어빵'의 김국진과 재회, 김국진 \"내가 들고 다녔다\"",
+    "category": "culture",
+    "editor": "Seol",
+    "shareScore": 9,
+    "durationSeconds": 31.8,
+    "clipCount": 7,
+    "channels": [
+      "MBCentertainment"
+    ]
+  },
+  "generatedAt": "2026-10-22T21:05:00+09:00",
+  "scheduledStartAt": "2026-10-22T18:30:00.000Z",
+  "actualStartedAt": "2026-10-22T20:44:00+09:00",
+  "imageCount": 1,
+  "contentHash": "4c6b063ee7ee5fa6b9488199836a21869c266de6d7230b57d59ed6f63087aa0f",
+  "idempotencyKey": "scenenode:2026-10-23-e:4c6b063ee7ee5fa6",
+  "media": [
+    {
+      "path": "reel.mp4",
+      "sha256": "03e8027975a08d8dfb0fdcfdafbd7293c3efb4bdfcde17bfd2498d8794a6f0ab",
+      "bytes": 8560920,
+      "width": 1080,
+      "height": 1920,
+      "contentType": "video/mp4",
+      "durationSeconds": 31.8
+    }
+  ],
+  "sources": [
+    {
+      "title": "[라디오스타] 김국진 삼촌이 품에 들고 다녔는데...😮 어느덧 훌쩍 자란 나마디 조엘 진, MBC 261021 방송",
+      "url": "https://www.youtube.com/watch?v=4WJmZ_DigQY",
+      "publisher": "MBCentertainment (YouTube, 공식 채널)",
+      "publishedAt": "2026-10-21T14:32:55Z",
+      "retrievedAt": "2026-10-22T20:46:00+09:00",
+      "kind": "official_social",
+      "evidenceSummary": "MBC 공식 클립(3분 49초). 1:09 조엘 진 '12년 전이죠, 붕어빵이라는 프로그램에서', 1:44 김국진 '내가 엄청 잘해줬지', 1:47 '고정 출연이었나요? 그럼 그럼', 1:50 '이렇게 내가 들고 다녔다니까', 2:06 '아홉 살인데 작았네 진짜', 2:33 '그러니까 내가 들고 다녔지', 2:35 '지금 키가 어떻게 되는 거야' '지금 186'. 방송 자막 '<붕어빵> 시절 조엘 진 (9세)', '당시 고정 출연자였던 조엘 진', '지금 키는 186cm'.",
+      "usageNote": "릴스 클립 원본 71.0~72.3, 73.6~78.6, 88.8~96.4, 103.6~110.9, 114.9~116.8, 125.3~127.2, 151.8~158.6초(합 31.8초)."
+    },
+    {
+      "title": "'아시안게임 메달리스트' 나마디 조엘 진, '붕어빵' 아역 출신…김국진과 12년 만의 재회",
+      "url": "https://www.osen.co.kr/article/G1112896496",
+      "publisher": "OSEN",
+      "publishedAt": "2026-10-21T23:56:00+09:00",
+      "retrievedAt": "2026-10-22T20:50:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "10월 21일 라디오스타에서 조엘 진이 12년 전 '붕어빵' 고정 출연 인연을 밝혔고, 키 186cm, 김국진 그림을 선물했으며 김국진이 '평생 간직하겠다'고 답했다(박근희 기자).",
+      "usageNote": null
+    },
+    {
+      "title": "\"12년 전 `붕어빵` 그 꼬마?\"…김국진, `AG 육상 스타` 조엘진 인연에 깜짝 [라스]",
+      "url": "https://www.mydaily.co.kr/page/view/2026102205354387443",
+      "publisher": "마이데일리",
+      "publishedAt": "2026-10-22T05:44:00+09:00",
+      "retrievedAt": "2026-10-22T20:50:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "당시 9살, 지금 186cm, 아시안게임 육상 동메달. 김국진이 손으로 입을 가리며 자리에서 일어났고 '요만했어! 내가 엄청 잘해줬다'고 회상했다(서기찬 기자).",
+      "usageNote": "인사이트(https://www.insight.co.kr/news/578702)도 9세·186cm·'내가 들고 다녔다'·그림 선물·'평생 간직'을 보도."
+    },
+    {
+      "title": "'황당 실격→극적 부활' 韓 육상… 남자 400m 계주 한국신기록+AG 2연속 포디움",
+      "url": "https://osen.co.kr/article/G1112883905",
+      "publisher": "OSEN",
+      "publishedAt": "2026-09-28T00:00:00+09:00",
+      "retrievedAt": "2026-10-22T20:55:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "9월 28일 아이치·나고야 아시안게임 남자 400m 계주 결선에서 조엘 진 등 한국 대표팀이 38초43 한국 신기록으로 동메달. 한국사회복지저널(https://www.ksw-news.com/news/articleView.html?idxno=3050169)도 같은 종목 동메달·한국 신기록을 보도.",
+      "usageNote": "캡션 둘째 문단의 날짜·종목·기록 근거. 경기일 9월 28일과 38초43은 검색 요약(OSEN·일간스포츠·서플)으로 확인했고 OSEN 원문을 직접 열어 보지는 못했다."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-22T18:39:36.940Z",
+      "attempt": 1,
+      "url": "https://www.youtube.com/watch?v=4WJmZ_DigQY",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-22T18:39:36.993Z",
+      "attempt": 1,
+      "url": "https://www.osen.co.kr/article/G1112896496",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-22T18:39:37.194Z",
+      "attempt": 1,
+      "url": "https://www.mydaily.co.kr/page/view/2026102205354387443",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-22T18:39:37.294Z",
+      "attempt": 1,
+      "url": "https://osen.co.kr/article/G1112883905",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-22T18:39:37.729Z",
+  "draftApprovedContentHash": "4c6b063ee7ee5fa6b9488199836a21869c266de6d7230b57d59ed6f63087aa0f",
+  "renderedAt": "2026-10-22T18:39:48.079Z",
+  "deployedAt": "2026-10-23T01:00:25.778Z"
+}
