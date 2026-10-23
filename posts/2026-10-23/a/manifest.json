@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "사진에 처음 찍힌 두 사람 188년 만에 찾은 자리",
   "slug": "daguerre-boulevard-du-temple-first-people",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "v3",
     "topic": "다게르 1838 '탕플 대로' 속 첫 사람(구두닦이와 손님) 서 있던 자리 확인, 2026-10-15 레퓌블리크 광장 동판",
@@ -38,8 +38,8 @@
       "sourceSha256": "3198a67238daa3a5a116657c17971bd6f0dfb2fe61fae3ee880c657617062195",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/a/01.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T01:01:58.158Z",
-        "attempts": 8,
+        "verifiedAt": "2026-10-23T01:02:05.560Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 286965,
@@ -56,8 +56,8 @@
       "sourceSha256": "ab832405cbe755f3c251f771911db874e622d269240721ff55a83f2518aaf424",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/a/02.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T01:01:58.458Z",
-        "attempts": 8,
+        "verifiedAt": "2026-10-23T01:02:05.560Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 485849,
@@ -74,8 +74,8 @@
       "sourceSha256": "58bac102c479f1991421ce69282fd0627801818d25ce560d06761537127ba5fc",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/a/03.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T01:01:58.695Z",
-        "attempts": 8,
+        "verifiedAt": "2026-10-23T01:02:05.560Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 407719,
@@ -92,8 +92,8 @@
       "sourceSha256": "133520895c61dd7e489a4d393ff6f9fc9c7eb86b2f425596f55f820852ce6ed2",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/a/04.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T01:01:58.930Z",
-        "attempts": 8,
+        "verifiedAt": "2026-10-23T01:02:05.560Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 226923,
@@ -110,8 +110,8 @@
       "sourceSha256": "11c55b2773debf80f683141ad8983cb5f8c3e2d3b0fe9995d6a05388248e05ba",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/a/05.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T01:01:59.172Z",
-        "attempts": 8,
+        "verifiedAt": "2026-10-23T01:02:05.560Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 282880,
@@ -128,8 +128,8 @@
       "sourceSha256": "b4d1d92d7a54573521603103868fffe6bd846a3893b221300c1433050d565da7",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/a/06.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T01:01:59.409Z",
-        "attempts": 8,
+        "verifiedAt": "2026-10-23T01:02:05.560Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 288515,
@@ -146,8 +146,8 @@
       "sourceSha256": "55b9ed700ddc8b3f102605c104ad694ff204387ee86ba64e9e610e945c689c14",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/a/07.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T01:01:59.645Z",
-        "attempts": 8,
+        "verifiedAt": "2026-10-23T01:02:05.560Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 345362,
@@ -164,8 +164,8 @@
       "sourceSha256": "c7f811bbf9aded2d4c67925ea24e88d15ad1f28842299b03f44556edf424ee4e",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/a/08.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T01:01:59.875Z",
-        "attempts": 8,
+        "verifiedAt": "2026-10-23T01:02:05.560Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 221127,
@@ -182,8 +182,8 @@
       "sourceSha256": "bae239d694b2332d3e3d3d1eecf6881bc8b53c013555c9b94615550e02ff686e",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/a/09.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T01:02:00.101Z",
-        "attempts": 8,
+        "verifiedAt": "2026-10-23T01:02:05.560Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 323821,
@@ -200,8 +200,8 @@
       "sourceSha256": "456fac6457a2babf437c99b1c4540bf3d311196a7df35322218fc7c7f894fd42",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-23/a/10.jpg",
       "verification": {
-        "verifiedAt": "2026-10-23T01:02:00.344Z",
-        "attempts": 8,
+        "verifiedAt": "2026-10-23T01:02:05.560Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 51053,
@@ -300,10 +300,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 8,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-22T18:38:25.943Z",
   "draftApprovedContentHash": "c21e58e3b52415270fc77af9430b685cd564424e109fd0634a81c18815bebb50",
   "renderedAt": "2026-10-22T18:38:36.262Z",
   "deployedAt": "2026-10-23T01:00:25.814Z",
-  "verifiedAt": "2026-10-23T01:02:00.574Z"
+  "verifiedAt": "2026-10-23T01:02:00.574Z",
+  "publishAttemptedAt": "2026-10-23T01:02:05.560Z"
 }
