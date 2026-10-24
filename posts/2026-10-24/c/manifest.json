@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "아이폰 첫 화면 속 지구 위성 사진 1만 장 합성",
   "slug": "iphone-blue-marble-2002-composite",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "v3",
     "topic": "아이폰 기본 화면의 지구(NASA 블루 마블 2002)는 위성 사진 약 1만 장을 이어 붙여 3D 프로그램으로 렌더한 합성",
@@ -38,8 +38,8 @@
       "sourceSha256": "772947c0cbba7e8322d69f83e481290603d67f8f74a2fe25b1d95e2b4ba1383a",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/c/01.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:10:02.308Z",
-        "attempts": 6,
+        "verifiedAt": "2026-10-24T03:30:00.044Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 415688,
@@ -56,8 +56,8 @@
       "sourceSha256": "2d1e3a02e2c4f971991f8f96fd16550aff5c9f75f056c2eb148baea4ee0b1e59",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/c/02.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:10:02.558Z",
-        "attempts": 6,
+        "verifiedAt": "2026-10-24T03:30:00.044Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 140980,
@@ -74,8 +74,8 @@
       "sourceSha256": "ac26d10582e0c5b183f5aa5daa121ec53c3c2427eaf392040f08a51ada91f334",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/c/03.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:10:02.783Z",
-        "attempts": 6,
+        "verifiedAt": "2026-10-24T03:30:00.044Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 331106,
@@ -92,8 +92,8 @@
       "sourceSha256": "6ef89e221235f30dac05ea95eafd57db99fe2c5450682def2b3f07446dda875f",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/c/04.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:10:02.988Z",
-        "attempts": 6,
+        "verifiedAt": "2026-10-24T03:30:00.044Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 216238,
@@ -110,8 +110,8 @@
       "sourceSha256": "7614cee6273328de7a8c7acf9ab734b88a6ecdf957403261e9f969ccb6b41323",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/c/05.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:10:03.188Z",
-        "attempts": 6,
+        "verifiedAt": "2026-10-24T03:30:00.044Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 306972,
@@ -128,8 +128,8 @@
       "sourceSha256": "bfa562e0407e2ae5735c562ce23ad89a085c8933dad2c9bef51bc6a72d3dfb74",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/c/06.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:10:03.412Z",
-        "attempts": 6,
+        "verifiedAt": "2026-10-24T03:30:00.044Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 402943,
@@ -146,8 +146,8 @@
       "sourceSha256": "cec17b47fc9b85a860574393c35d0ec3eddb2b84493d71597fe27cec8460fdfb",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/c/07.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:10:03.643Z",
-        "attempts": 6,
+        "verifiedAt": "2026-10-24T03:30:00.044Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 573261,
@@ -164,8 +164,8 @@
       "sourceSha256": "206ba14a4d74da28e5b4006f00c2f15aad85956b38c7608dabc4c9a76dfada71",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/c/08.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:10:03.852Z",
-        "attempts": 6,
+        "verifiedAt": "2026-10-24T03:30:00.044Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 497339,
@@ -182,8 +182,8 @@
       "sourceSha256": "efd698ded74d5f9ea738c2ed4d7c73c0a4d46fd3740eda1582e9bedc3e7751b8",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/c/09.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:10:04.073Z",
-        "attempts": 6,
+        "verifiedAt": "2026-10-24T03:30:00.044Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 522440,
@@ -200,8 +200,8 @@
       "sourceSha256": "a694679449aa7e22f06013724aab79ee38f8af0c9ef1b43944c852a81c503cdb",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/c/10.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:10:04.294Z",
-        "attempts": 6,
+        "verifiedAt": "2026-10-24T03:30:00.044Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 47381,
@@ -284,10 +284,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 6,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-23T19:28:05.732Z",
   "draftApprovedContentHash": "ad40b0dfcb3e53c36eab0de3aa0f5f867673572cddf8d4a2fd525ed1fbc30c3c",
   "renderedAt": "2026-10-23T19:28:13.899Z",
   "deployedAt": "2026-10-24T01:08:59.303Z",
-  "verifiedAt": "2026-10-24T01:10:04.493Z"
+  "verifiedAt": "2026-10-24T01:10:04.493Z",
+  "publishAttemptedAt": "2026-10-24T03:30:00.044Z"
 }
