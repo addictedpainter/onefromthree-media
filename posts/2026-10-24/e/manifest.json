@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-24",
+  "slot": "e",
+  "postId": "2026-10-24-e",
+  "runMode": "scheduled",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "소리 지르는 줄 알았던 뭉크 '절규' 속 그 사람",
+  "slug": "munch-scream-hearing-not-screaming",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "v3",
+    "topic": "뭉크 '절규' 속 인물은 소리 지르는 게 아니라 자연의 비명을 듣는 것이라는 대영박물관 해석(2019, 흑백 판화의 뭉크 글귀 근거)",
+    "category": "art",
+    "editor": "Haein",
+    "shareScore": 9,
+    "coverLayout": "caption",
+    "imageTiers": {
+      "public_domain": 9
+    }
+  },
+  "generatedAt": "2026-10-24T04:15:00+09:00",
+  "scheduledStartAt": "2026-10-23T18:30:00.000Z",
+  "actualStartedAt": "2026-10-24T03:37:00+09:00",
+  "imageCount": 10,
+  "contentHash": "b76b5424771b593e27f060badfc65d28427c03596e1f021646cf25f45fd8a06b",
+  "idempotencyKey": "scenenode:2026-10-24-e:b76b5424771b593e",
+  "media": [
+    {
+      "path": "01.jpg",
+      "sha256": "631c4eb5b8f5692b9a910d25c1059f032de513143a9467b4e484e6a08c879385",
+      "bytes": 597521,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "0b107dbf4bace6eb8f015805431a12040985420d6046b3c3f6578d98ffa16a87"
+    },
+    {
+      "path": "02.jpg",
+      "sha256": "433f4821bddf1ef2fa79429dc9bce1a77d29783b648d56df4a1a1dd12293b763",
+      "bytes": 215797,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "614c564a2baa75963e740829687aa67ac4eee17377f7c0fe7b11955bf6f39ffb"
+    },
+    {
+      "path": "03.jpg",
+      "sha256": "f6050d26096f1b8acfacab773e273cd41f0f0b621513c64612e9e7c62709934e",
+      "bytes": 299275,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "2dc0e954db49cb12ef59f4aa5d01630eab7cb8be66c67928f91af419c33b7109"
+    },
+    {
+      "path": "04.jpg",
+      "sha256": "d6eb7c1373f9ddbc58b396e5715e3295399d0fefc4b83ecb8125c1ae36242b4b",
+      "bytes": 163981,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "9469e16a482d8a355f895bccd4fc41132d8f2cf3451741115f52fef2874da08c"
+    },
+    {
+      "path": "05.jpg",
+      "sha256": "3755a0342691d499a1865e20e95bffc557054390940814752a6a4489813f4291",
+      "bytes": 518511,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "026abd5a23b086ea3c6d1868db43b77505a468281ce3af15a193b136e8eaa16b"
+    },
+    {
+      "path": "06.jpg",
+      "sha256": "6c63109c6a83f00351de9221987a289ee516eec1398e67c7b3714b81534309ef",
+      "bytes": 604937,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "5fdd3dc33b77a3c8b9f73fe85d308b7107217c51bad9ee1df94f760a91b91de7"
+    },
+    {
+      "path": "07.jpg",
+      "sha256": "4348be7d20a6e92207279930dbc189cf1bc8a69b0e0bbe12f4e276a8fb27a69e",
+      "bytes": 861474,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "56a9426e60439a910565aa985e5c307500d9865375985eb875b8b1ada4cc1af7"
+    },
+    {
+      "path": "08.jpg",
+      "sha256": "3dd5431c7508627b988cc25b47f808e1f6d663d76e3c6cee785cf6d3fa6b8711",
+      "bytes": 290899,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "386e15dd146d651540d92f51c736070e68103c71ebf28bfec62c96f2b80d8472"
+    },
+    {
+      "path": "09.jpg",
+      "sha256": "d82cde7388d3e0de4cfea753257c2539720a7d8536f384c447869aa733346fa9",
+      "bytes": 681624,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "b435c5d826936dd92ebee73a07ff7e95d079466feea900d0a825e1e29a697ce7"
+    },
+    {
+      "path": "10.jpg",
+      "sha256": "084e6a4f868d1d78d92074f19c89713660c4f8aa789da36f2a609f658cd7d792",
+      "bytes": 47403,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "ef84c944d28a065c093a8e0c86ee172285104d764889d7af01802c6bfec1d3fa"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Scream installed at the British Museum",
+      "url": "https://www.chronicle.gi/scream-installed-british-museum/",
+      "publisher": "Gibraltar Chronicle (Press Association)",
+      "publishedAt": "2019-03-20T00:00:00Z",
+      "retrievedAt": "2026-10-24T04:08:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "PA 기사. 전시 'Edvard Munch: Love And Angst'(대영박물관, 2019-04-11~07-21), 큐레이터 줄리아 바트럼의 말 'It is not Munch screaming, it's Munch hearing the scream of nature resonating around him'을 확인했습니다.",
+      "usageNote": "PA 배급 기사. Evening Times 게재본은 403으로 열지 못했다."
+    },
+    {
+      "title": "'The Scream' may not actually be screaming, museum says",
+      "url": "https://www.fox6now.com/news/the-scream-may-not-actually-be-screaming-museum-says",
+      "publisher": "FOX6 (Tribune Media Wire)",
+      "publishedAt": "2019-03-22T15:46:00-05:00",
+      "retrievedAt": "2026-10-24T04:06:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "흑백 판화 아래 뭉크가 'I felt the great scream throughout nature'라고 썼다는 점, 바트럼의 말 'makes clear that Munch's most famous artwork depicts a person hearing a scream'·'People think this is a screaming person, but that's not what is going on', 전 뭉크미술관장의 'It is a question of interpretation'을 확인했습니다.",
+      "usageNote": "Tribune Media Wire 배급, PA와 별개."
+    },
+    {
+      "title": "The Scream (lithograph), Edvard Munch",
+      "url": "https://commons.wikimedia.org/wiki/File:The_Scream_MET_DP860367.jpg",
+      "publisher": "The Metropolitan Museum of Art (Open Access, Wikimedia Commons)",
+      "publishedAt": "2026-10-24T03:58:00+09:00",
+      "retrievedAt": "2026-10-24T03:58:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "판화 실물 사진에서 제목 'Geschrei'와 아래 글귀 'Ich fühlte das grosse Geschrei durch die Natur'를 직접 읽었습니다(CC0).",
+      "usageNote": "3장 사진. 페이지에 게시일 표기가 없어 확인 시각을 적었다."
+    },
+    {
+      "title": "I felt the great scream through nature (Munch by Himself)",
+      "url": "https://www.modernamuseet.se/stockholm/en/exhibitions/munch-by-himself/i-felt-the-great-scream-through-nature",
+      "publisher": "Moderna Museet",
+      "publishedAt": "2026-10-24T04:12:00+09:00",
+      "retrievedAt": "2026-10-24T04:12:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "1892-01-22 니스에서 쓴 일기(크리스티아니아 해 질 녘 산책, 친구 둘, 핏빛 하늘, 'I felt a great, infinite scream through nature'), '절망'(1892)이 '절규'의 첫 판이라는 점을 확인했습니다.",
+      "usageNote": "5장 문장의 근거. 페이지에 게시일 표기가 없어 확인 시각을 적었다."
+    },
+    {
+      "title": "Where can I see The Scream?",
+      "url": "https://www.munch.no/en/The-Scream/where-can-i-see-the-scream/",
+      "publisher": "MUNCH",
+      "publishedAt": "2026-10-24T04:10:00+09:00",
+      "retrievedAt": "2026-10-24T04:10:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "뭉크미술관 소장 '절규' 8점(그림 1·드로잉 1·판화 6), 4층 'Edvard Munch Infinite'에서 한 번에 한 점만 교대로 전시, 모티프는 1891년 친구들과 오슬로 피오르 해 질 녘 산책에서 나왔다는 점, 공식 Instagram @munchmuseum을 확인했습니다.",
+      "usageNote": "8장·캡션 본문 3. 페이지에 게시일 표기가 없어 확인 시각을 적었다."
+    },
+    {
+      "title": "Edvard Munch and The Scream in the National Museum",
+      "url": "https://nasjonalmuseet.no/en/stories/explore-the-collection/edvard-munch-and-the-scream-in-the-national-museum",
+      "publisher": "Nasjonalmuseet",
+      "publishedAt": "2026-10-24T04:10:00+09:00",
+      "retrievedAt": "2026-10-24T04:10:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "1893년 '절규'가 오슬로 국립미술관 뭉크 방에 상설 전시된다는 점(검색 요약과 미술관 가이드 투어 페이지로 확인)을 확인했습니다.",
+      "usageNote": "캡션 본문 3. 페이지에 게시일 표기가 없어 확인 시각을 적었다."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-23T19:51:14.095Z",
+      "attempt": 1,
+      "url": "https://www.chronicle.gi/scream-installed-british-museum/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-23T19:51:17.632Z",
+      "attempt": 1,
+      "url": "https://www.fox6now.com/news/the-scream-may-not-actually-be-screaming-museum-says",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-23T19:51:17.999Z",
+      "attempt": 1,
+      "url": "https://commons.wikimedia.org/wiki/File:The_Scream_MET_DP860367.jpg",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-23T19:51:20.284Z",
+      "attempt": 1,
+      "url": "https://www.modernamuseet.se/stockholm/en/exhibitions/munch-by-himself/i-felt-the-great-scream-through-nature",
+      "httpStatus": 200,
+      "outcome": "verified",
+      "detail": "Redirected to https://www.modernamuseet.se/en/stockholm/exhibitions/munch-by-himself/i-felt-the-great-scream-through-nature/"
+    },
+    {
+      "attemptedAt": "2026-10-23T19:51:20.876Z",
+      "attempt": 1,
+      "url": "https://www.munch.no/en/The-Scream/where-can-i-see-the-scream/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-23T19:51:21.906Z",
+      "attempt": 1,
+      "url": "https://nasjonalmuseet.no/en/stories/explore-the-collection/edvard-munch-and-the-scream-in-the-national-museum",
+      "httpStatus": 200,
+      "outcome": "verified",
+      "detail": "Redirected to https://www.nasjonalmuseet.no/en/stories/explore-the-collection/edvard-munch-and-the-scream-in-the-national-museum"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-23T19:51:21.934Z",
+  "draftApprovedContentHash": "b76b5424771b593e27f060badfc65d28427c03596e1f021646cf25f45fd8a06b",
+  "renderedAt": "2026-10-23T19:51:31.901Z",
+  "deployedAt": "2026-10-24T01:08:59.327Z"
+}

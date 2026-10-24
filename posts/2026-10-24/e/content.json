@@ -1,0 +1,245 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-24",
+  "slot": "e",
+  "runMode": "scheduled",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-24T03:37:00+09:00",
+  "generatedAt": "2026-10-24T04:15:00+09:00",
+  "package": {
+    "contentVersion": "v3",
+    "category": "art",
+    "slug": "munch-scream-hearing-not-screaming",
+    "topic": "뭉크 '절규' 속 인물은 소리 지르는 게 아니라 자연의 비명을 듣는 것이라는 대영박물관 해석(2019, 흑백 판화의 뭉크 글귀 근거)",
+    "headline": [
+      "소리 지르는 줄 알았던",
+      "뭉크 '절규' 속 그 사람"
+    ],
+    "coverLayout": "caption",
+    "hook": "😱 대영박물관은 뭉크 '절규' 속 그 사람이 비명을 듣고 있다고 봤어요.",
+    "body": [
+      "2019년 봄, 대영박물관은 뭉크 판화전 '사랑과 불안'을 열면서 흑백 판화 '절규'를 걸었어요. 그림 아래에는 뭉크가 써 넣은 독일어 한 줄이 있는데요, '자연을 꿰뚫는 거대한 비명을 느꼈다'는 뜻이에요.",
+      "큐레이터 줄리아 바트럼은 이 글귀를 보면 그림 속 사람은 비명을 듣고 있는 거라고 했어요. 뭉크도 1892년 일기에 친구 둘과 해 질 녘 길을 걷다 하늘이 핏빛으로 물들었고, 자연을 지나가는 거대한 비명을 느꼈다고 적었거든요. 반대 의견도 있어요. 뭉크미술관 전 관장은 '해석의 문제'라고 했어요.",
+      "1893년에 그린 첫 '절규'는 오슬로 국립미술관 뭉크 방에 걸려 있어요. 오슬로 뭉크미술관(@munchmuseum)은 그림·드로잉·판화로 된 '절규'를 4층 전시실에 한 번에 한 점씩 바꿔 가며 걸어요."
+    ],
+    "question": "요즘 여러분은 소리 지르는 쪽인가요, 듣는 쪽인가요?",
+    "credits": "Edvard Munch 작품: Wikimedia Commons (Public domain) · 흑백 판화: The Metropolitan Museum of Art (CC0) · 뭉크 사진: Anders Beer Wilse (Public domain) · 대영박물관: Elliott Brown (CC BY-SA 2.0) · 뭉크미술관: Gunnar Klack (CC BY-SA 4.0)",
+    "editor": "Haein",
+    "hashtags": [
+      "#뭉크",
+      "#절규",
+      "#에드바르뭉크",
+      "#대영박물관",
+      "#명화"
+    ],
+    "slides": [
+      {
+        "index": 1,
+        "text": "소리 지르는 줄 알았던\n뭉크 '절규' 속 그 사람",
+        "image": {
+          "file": "01-cover.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_The_Scream_-_Google_Art_Project.jpg",
+          "credit": "Edvard Munch, The Scream (1893), National Museum of Norway, Google Art Project (Public domain)",
+          "license": "Public domain",
+          "checkedAt": "2026-10-24T03:58:00+09:00",
+          "focus": "top"
+        }
+      },
+      {
+        "index": 2,
+        "text": "2019년 대영박물관은 그림 속 사람이 비명을 듣는 중이라고 했어요.",
+        "image": {
+          "file": "05-british-museum.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:British_Museum_(20497855643).jpg",
+          "credit": "British Museum, photo Elliott Brown (CC BY-SA 2.0)",
+          "license": "CC BY-SA 2.0",
+          "checkedAt": "2026-10-24T04:02:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0,
+              "y": 0,
+              "width": 0.56,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 3,
+        "text": "근거는 흑백 판화 아래 뭉크가 직접 써 넣은 독일어 한 줄이에요.",
+        "image": {
+          "file": "02-lithograph.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Scream_MET_DP860367.jpg",
+          "credit": "Edvard Munch, The Scream (lithograph), The Metropolitan Museum of Art (CC0)",
+          "license": "CC0",
+          "checkedAt": "2026-10-24T03:58:00+09:00",
+          "focus": "top",
+          "edit": {
+            "brightness": 0.78
+          }
+        }
+      },
+      {
+        "index": 4,
+        "text": "'자연을 꿰뚫는 거대한 비명을 느꼈다.'",
+        "image": {
+          "file": "04-munch-1933.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_1933-2.jpg",
+          "credit": "Edvard Munch, 1933, photo Anders Beer Wilse (Public domain)",
+          "license": "Public domain",
+          "checkedAt": "2026-10-24T04:02:00+09:00",
+          "focus": "top"
+        }
+      },
+      {
+        "index": 5,
+        "text": "뭉크는 해 질 녘 친구 둘과 걷다 하늘이 핏빛으로 물드는 걸 봤대요.",
+        "image": {
+          "file": "03-despair.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fortvivlan.jpg",
+          "credit": "Edvard Munch, Despair (1892) (Public domain)",
+          "license": "Public domain",
+          "checkedAt": "2026-10-24T03:58:00+09:00",
+          "focus": "top"
+        }
+      },
+      {
+        "index": 6,
+        "text": "사실 이 해석에서 비명을 지르는 쪽은 자연이에요.",
+        "image": {
+          "file": "06-scream-1910.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_The_Scream,_1910_(Munch_Museum).jpg",
+          "credit": "Edvard Munch, The Scream (1910), Munch Museum (Public domain)",
+          "license": "Public domain",
+          "checkedAt": "2026-10-24T03:58:00+09:00",
+          "focus": "top"
+        }
+      },
+      {
+        "index": 7,
+        "text": "뭉크미술관 전 관장은 '해석의 문제'라며 다른 의견을 냈어요.",
+        "image": {
+          "file": "07-pastel-1895.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Scream_Pastel.jpg",
+          "credit": "Edvard Munch, The Scream (1895, pastel) (Public domain)",
+          "license": "Public domain",
+          "checkedAt": "2026-10-24T03:58:00+09:00",
+          "focus": "top"
+        }
+      },
+      {
+        "index": 8,
+        "text": "오슬로 뭉크미술관은 '절규'를 한 번에 한 점씩 바꿔 가며 걸어요.",
+        "image": {
+          "file": "08-munch-museum.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2025-09-28-Munch-Museum-Bjorvika-Nye-Munchmuseet-Oslo.jpg",
+          "credit": "MUNCH, Oslo, photo Gunnar Klack (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-24T04:02:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 9,
+        "text": "요즘 여러분은 소리 지르는 쪽인가요, 듣는 쪽인가요?",
+        "image": {
+          "file": "09-anxiety.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Anxiety_-_Google_Art_Project.jpg",
+          "credit": "Edvard Munch, Anxiety (1894), Munch Museum, Google Art Project (Public domain)",
+          "license": "Public domain",
+          "checkedAt": "2026-10-24T04:02:00+09:00",
+          "focus": "top"
+        }
+      }
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 1,
+      "evidenceAndImages": 2,
+      "availableNow": 2,
+      "rationale": "'절규' 모르는 사람이 없어 '그 사람 소리 지르는 거 아니래'로 누구에게나 보낼 만하다. 2019년 대영박물관 발표라 아는 사람은 알아 의외성 1점. 핵심(큐레이터 바트럼의 '듣는 사람' 해석, 판화 아래 뭉크 글귀, 전시 '사랑과 불안' 2019-04-11~07-21, 전 뭉크미술관장 '해석의 문제')은 PA(지브롤터 크로니클 게재)와 Tribune Media Wire(FOX6 게재) 두 곳, 글귀 실물은 메트 소장 판화 사진으로 직접 확인. 일기(1892-01-22 니스, 친구 둘·핏빛 하늘·자연의 비명)는 모데르나 무세트 전시 페이지와 뭉크미술관 공식 페이지(친구들과 저녁 산책, 오슬로 피오르 해 질 녘)로 확인. 지금 오슬로 국립미술관(1893년 판)·뭉크미술관(교대 전시)에서 볼 수 있어 2점. 사진 9장 모두 1등급(PD 6, CC0 1, CC BY-SA 2). 버린 후보 1: '뭉크 '절규' 속 그 사람 / 사실은 듣는 중' — 답을 표지에서 다 말해 열 이유가 없다(작법 2절 4). 버린 후보 2: '\"소리 지르는 게 아니에요\" / 대영박물관의 '절규'' — 기관명으로 끝나고 부정 대구에 가깝다. 고흐(a, 같은 주 두 번째)를 대신한 주제. 같은 날 b·c·d와 숫자 겹침 없음, 표지는 키워드 없이 자막 박스형."
+    },
+    "unknowns": [
+      "판화 제작 연도는 보도마다 1895년·1896년으로 달라(메트 소장본은 1895년, 1896년 서명) 카드와 캡션에 연도를 쓰지 않았다.",
+      "글귀 'Ich fühlte das grosse Geschrei durch die Natur'는 영어 보도의 'I felt the great scream throughout nature'를 '자연을 꿰뚫는 거대한 비명을 느꼈다'로 옮겼다. 'durch'를 '꿰뚫는'으로 옮긴 것은 번역 선택이다.",
+      "'듣는 사람' 해석은 대영박물관 큐레이터의 견해이고 정설이 아니다. 반론(전 뭉크미술관장)을 7장과 캡션에 넣었다. 전 관장 이름은 보도마다 표기가 없거나 달라 쓰지 않았다.",
+      "뭉크미술관 교대 간격(한 시간)은 공식 페이지에 없어 쓰지 않았다.",
+      "3장 판화 글귀는 종이 아래쪽에 있어 카드 문장 바로 아래로 보인다. 흰 종이 위 글자 가독성을 위해 밝기 0.78로 낮췄다."
+    ]
+  },
+  "sources": [
+    {
+      "title": "The Scream installed at the British Museum",
+      "url": "https://www.chronicle.gi/scream-installed-british-museum/",
+      "publisher": "Gibraltar Chronicle (Press Association)",
+      "publishedAt": "2019-03-20T00:00:00Z",
+      "retrievedAt": "2026-10-24T04:08:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "PA 기사. 전시 'Edvard Munch: Love And Angst'(대영박물관, 2019-04-11~07-21), 큐레이터 줄리아 바트럼의 말 'It is not Munch screaming, it's Munch hearing the scream of nature resonating around him'을 확인했습니다.",
+      "usageNote": "PA 배급 기사. Evening Times 게재본은 403으로 열지 못했다."
+    },
+    {
+      "title": "'The Scream' may not actually be screaming, museum says",
+      "url": "https://www.fox6now.com/news/the-scream-may-not-actually-be-screaming-museum-says",
+      "publisher": "FOX6 (Tribune Media Wire)",
+      "publishedAt": "2019-03-22T15:46:00-05:00",
+      "retrievedAt": "2026-10-24T04:06:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "흑백 판화 아래 뭉크가 'I felt the great scream throughout nature'라고 썼다는 점, 바트럼의 말 'makes clear that Munch's most famous artwork depicts a person hearing a scream'·'People think this is a screaming person, but that's not what is going on', 전 뭉크미술관장의 'It is a question of interpretation'을 확인했습니다.",
+      "usageNote": "Tribune Media Wire 배급, PA와 별개."
+    },
+    {
+      "title": "The Scream (lithograph), Edvard Munch",
+      "url": "https://commons.wikimedia.org/wiki/File:The_Scream_MET_DP860367.jpg",
+      "publisher": "The Metropolitan Museum of Art (Open Access, Wikimedia Commons)",
+      "publishedAt": "2026-10-24T03:58:00+09:00",
+      "retrievedAt": "2026-10-24T03:58:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "판화 실물 사진에서 제목 'Geschrei'와 아래 글귀 'Ich fühlte das grosse Geschrei durch die Natur'를 직접 읽었습니다(CC0).",
+      "usageNote": "3장 사진. 페이지에 게시일 표기가 없어 확인 시각을 적었다."
+    },
+    {
+      "title": "I felt the great scream through nature (Munch by Himself)",
+      "url": "https://www.modernamuseet.se/stockholm/en/exhibitions/munch-by-himself/i-felt-the-great-scream-through-nature",
+      "publisher": "Moderna Museet",
+      "publishedAt": "2026-10-24T04:12:00+09:00",
+      "retrievedAt": "2026-10-24T04:12:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "1892-01-22 니스에서 쓴 일기(크리스티아니아 해 질 녘 산책, 친구 둘, 핏빛 하늘, 'I felt a great, infinite scream through nature'), '절망'(1892)이 '절규'의 첫 판이라는 점을 확인했습니다.",
+      "usageNote": "5장 문장의 근거. 페이지에 게시일 표기가 없어 확인 시각을 적었다."
+    },
+    {
+      "title": "Where can I see The Scream?",
+      "url": "https://www.munch.no/en/The-Scream/where-can-i-see-the-scream/",
+      "publisher": "MUNCH",
+      "publishedAt": "2026-10-24T04:10:00+09:00",
+      "retrievedAt": "2026-10-24T04:10:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "뭉크미술관 소장 '절규' 8점(그림 1·드로잉 1·판화 6), 4층 'Edvard Munch Infinite'에서 한 번에 한 점만 교대로 전시, 모티프는 1891년 친구들과 오슬로 피오르 해 질 녘 산책에서 나왔다는 점, 공식 Instagram @munchmuseum을 확인했습니다.",
+      "usageNote": "8장·캡션 본문 3. 페이지에 게시일 표기가 없어 확인 시각을 적었다."
+    },
+    {
+      "title": "Edvard Munch and The Scream in the National Museum",
+      "url": "https://nasjonalmuseet.no/en/stories/explore-the-collection/edvard-munch-and-the-scream-in-the-national-museum",
+      "publisher": "Nasjonalmuseet",
+      "publishedAt": "2026-10-24T04:10:00+09:00",
+      "retrievedAt": "2026-10-24T04:10:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "1893년 '절규'가 오슬로 국립미술관 뭉크 방에 상설 전시된다는 점(검색 요약과 미술관 가이드 투어 페이지로 확인)을 확인했습니다.",
+      "usageNote": "캡션 본문 3. 페이지에 게시일 표기가 없어 확인 시각을 적었다."
+    }
+  ],
+  "collectionErrors": []
+}
