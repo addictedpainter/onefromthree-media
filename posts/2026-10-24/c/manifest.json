@@ -38,7 +38,7 @@
       "sourceSha256": "772947c0cbba7e8322d69f83e481290603d67f8f74a2fe25b1d95e2b4ba1383a",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/c/01.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T03:30:00.044Z",
+        "verifiedAt": "2026-10-24T07:13:30.812Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
@@ -56,7 +56,7 @@
       "sourceSha256": "2d1e3a02e2c4f971991f8f96fd16550aff5c9f75f056c2eb148baea4ee0b1e59",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/c/02.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T03:30:00.044Z",
+        "verifiedAt": "2026-10-24T07:13:30.812Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
@@ -74,7 +74,7 @@
       "sourceSha256": "ac26d10582e0c5b183f5aa5daa121ec53c3c2427eaf392040f08a51ada91f334",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/c/03.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T03:30:00.044Z",
+        "verifiedAt": "2026-10-24T07:13:30.812Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
@@ -92,7 +92,7 @@
       "sourceSha256": "6ef89e221235f30dac05ea95eafd57db99fe2c5450682def2b3f07446dda875f",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/c/04.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T03:30:00.044Z",
+        "verifiedAt": "2026-10-24T07:13:30.812Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
@@ -110,7 +110,7 @@
       "sourceSha256": "7614cee6273328de7a8c7acf9ab734b88a6ecdf957403261e9f969ccb6b41323",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/c/05.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T03:30:00.044Z",
+        "verifiedAt": "2026-10-24T07:13:30.812Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
@@ -128,7 +128,7 @@
       "sourceSha256": "bfa562e0407e2ae5735c562ce23ad89a085c8933dad2c9bef51bc6a72d3dfb74",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/c/06.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T03:30:00.044Z",
+        "verifiedAt": "2026-10-24T07:13:30.812Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
@@ -146,7 +146,7 @@
       "sourceSha256": "cec17b47fc9b85a860574393c35d0ec3eddb2b84493d71597fe27cec8460fdfb",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/c/07.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T03:30:00.044Z",
+        "verifiedAt": "2026-10-24T07:13:30.812Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
@@ -164,7 +164,7 @@
       "sourceSha256": "206ba14a4d74da28e5b4006f00c2f15aad85956b38c7608dabc4c9a76dfada71",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/c/08.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T03:30:00.044Z",
+        "verifiedAt": "2026-10-24T07:13:30.812Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
@@ -182,7 +182,7 @@
       "sourceSha256": "efd698ded74d5f9ea738c2ed4d7c73c0a4d46fd3740eda1582e9bedc3e7751b8",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/c/09.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T03:30:00.044Z",
+        "verifiedAt": "2026-10-24T07:13:30.812Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
@@ -200,7 +200,7 @@
       "sourceSha256": "a694679449aa7e22f06013724aab79ee38f8af0c9ef1b43944c852a81c503cdb",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/c/10.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T03:30:00.044Z",
+        "verifiedAt": "2026-10-24T07:13:30.812Z",
         "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
@@ -290,5 +290,6 @@
   "renderedAt": "2026-10-23T19:28:13.899Z",
   "deployedAt": "2026-10-24T01:08:59.303Z",
   "verifiedAt": "2026-10-24T01:10:04.493Z",
-  "publishAttemptedAt": "2026-10-24T03:30:00.044Z"
+  "lastError": "Recovered 2026-10-24T07:13:21.241Z: PC crashed at 13:18 KST during the 12:30 publish; account grid checked, post not live.",
+  "publishAttemptedAt": "2026-10-24T07:13:30.812Z"
 }
