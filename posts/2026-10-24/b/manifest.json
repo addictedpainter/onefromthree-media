@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "리사 신곡 제목은 '킬 빌' 감독 이름",
   "slug": "lisa-tarantino-press-play",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "v3",
     "topic": "리사 새 EP '프레스 플레이'(10-23) 타이틀곡 '타란티노', 뮤직비디오에서 타란티노에게 편지를 전하러 가는 리사",
@@ -38,8 +38,8 @@
       "sourceSha256": "6e1abbc85cca09bf48b5c8a7c4eac2f0e6c85bc7df41bbab41e5b734ea841700",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/b/01.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:10:03.308Z",
-        "attempts": 5,
+        "verifiedAt": "2026-10-24T01:10:12.356Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 272520,
@@ -56,8 +56,8 @@
       "sourceSha256": "cd91ff9f4cfca8ee07480bb0cb2cb36c80439ee43d7817b477c46a4ee282649f",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/b/02.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:10:03.560Z",
-        "attempts": 5,
+        "verifiedAt": "2026-10-24T01:10:12.356Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 333598,
@@ -74,8 +74,8 @@
       "sourceSha256": "6adf55597be9b0089bb1169a0e5d6fc6d2864a48e896021c0da1a8cf1f1f9519",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/b/03.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:10:03.785Z",
-        "attempts": 5,
+        "verifiedAt": "2026-10-24T01:10:12.356Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 264346,
@@ -92,8 +92,8 @@
       "sourceSha256": "ef4421bbb1bf8fc7026fe9231f9d961cfc4e9641e79f7d0957bb031c5682ca33",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/b/04.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:10:03.989Z",
-        "attempts": 5,
+        "verifiedAt": "2026-10-24T01:10:12.356Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 338721,
@@ -110,8 +110,8 @@
       "sourceSha256": "0267509763dffe894c222d73cc11fa8b92355cddc2dab6c2cf94deb170e1aeff",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/b/05.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:10:04.201Z",
-        "attempts": 5,
+        "verifiedAt": "2026-10-24T01:10:12.356Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 294047,
@@ -128,8 +128,8 @@
       "sourceSha256": "261c7979a061c461fffc7c66b7e0f4aba51ade5a58061e8ab716a89833833758",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/b/06.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:10:04.418Z",
-        "attempts": 5,
+        "verifiedAt": "2026-10-24T01:10:12.356Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 332821,
@@ -146,8 +146,8 @@
       "sourceSha256": "2c91e4691241aeb96edbe0cce8795c7251a061f9cba2e6a68f271b0f4da4084c",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/b/07.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:10:04.760Z",
-        "attempts": 5,
+        "verifiedAt": "2026-10-24T01:10:12.356Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 333617,
@@ -164,8 +164,8 @@
       "sourceSha256": "ffa1c5ff741ccc28ef7e9448471447dc1942ee45226465fade7397fb9f92797d",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/b/08.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:10:04.990Z",
-        "attempts": 5,
+        "verifiedAt": "2026-10-24T01:10:12.356Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 248125,
@@ -182,8 +182,8 @@
       "sourceSha256": "03dc5ae4a0d4d92a9b72baf390ee5a26ce00050bbfe95e41fffca5c2c2912589",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/b/09.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:10:05.197Z",
-        "attempts": 5,
+        "verifiedAt": "2026-10-24T01:10:12.356Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 654117,
@@ -200,8 +200,8 @@
       "sourceSha256": "dbda8ee50be153cc3b1725d3ea1fe522e314c73b787fed9f6f43e9b4e5f4db60",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/b/10.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:10:05.412Z",
-        "attempts": 5,
+        "verifiedAt": "2026-10-24T01:10:12.356Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 47371,
@@ -300,10 +300,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 5,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-23T18:50:13.196Z",
   "draftApprovedContentHash": "d54a48d36fd306f3aa62e18fcbf68e09dcbc86f0ede668da965512c11f1e8b2a",
   "renderedAt": "2026-10-23T18:50:24.469Z",
   "deployedAt": "2026-10-24T01:08:59.297Z",
-  "verifiedAt": "2026-10-24T01:10:05.609Z"
+  "verifiedAt": "2026-10-24T01:10:05.609Z",
+  "publishAttemptedAt": "2026-10-24T01:10:12.356Z"
 }
