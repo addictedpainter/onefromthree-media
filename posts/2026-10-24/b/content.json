@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-24",
+  "slot": "b",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-23T20:37:00+09:00",
+  "generatedAt": "2026-10-23T20:55:00+09:00",
+  "package": {
+    "contentVersion": "v3",
+    "category": "culture",
+    "slug": "lisa-tarantino-press-play",
+    "topic": "리사 새 EP '프레스 플레이'(10-23) 타이틀곡 '타란티노', 뮤직비디오에서 타란티노에게 편지를 전하러 가는 리사",
+    "headline": [
+      "리사 신곡 제목은",
+      "'킬 빌' 감독 이름"
+    ],
+    "coverLayout": "caption",
+    "hook": "🎬 리사가 새 타이틀곡에 '킬 빌' 감독 이름 '타란티노'를 붙였어요.",
+    "body": [
+      "10월 23일 0시, 블랙핑크 리사가 여섯 곡짜리 새 EP '프레스 플레이(PRESS PLAY)'를 냈어요. 타이틀곡 제목이 '타란티노'인데요. '킬 빌'을 만든 쿠엔틴 타란티노 감독 이름 그대로예요. 같은 날 오후 1시에 나온 뮤직비디오에서 리사는 호텔을 지나 가장 좋아하는 감독 타란티노에게 편지를 전하러 가요. 길을 막는 사람들은 주먹과 발차기로 쓰러뜨리면서요.",
+      "사실 가사에도 '킬 빌' 같은 타란티노 영화 제목이 들어 있어요. 앨범 전체를 재생 버튼을 누르고 보는 영화 한 편처럼 꾸몄대요. 뮤직비디오는 공개 하루도 안 돼 유튜브 조회수 1,100만 회를 넘었고, 미국과 영국 유튜브 인기 급상승 1위에 올랐어요. 9월에 먼저 낸 'SaWaDiKa'는 고향 방콕에서 찍은 뮤직비디오로 24시간 만에 7,000만 회를 넘겼고요.",
+      "'타란티노' 뮤직비디오는 LLOUD 공식 유튜브 채널에서, EP 여섯 곡은 각 음원 앱에서 바로 들을 수 있어요. @lalalalisa_m"
+    ],
+    "question": "좋아하는 감독에게 편지 한 장 쓴다면, 누구에게 보낼래요?",
+    "credits": "리사 사진 Outhere505 (CC BY-SA 4.0), @aanglerrr (CC BY 4.0) · 쿠엔틴 타란티노 사진 Gage Skidmore (CC BY-SA 3.0), Siebbi (CC BY 3.0) · 할리우드 명예의 거리 사진 DotXK (CC0) · 모두 Wikimedia Commons",
+    "editor": "Kang",
+    "hashtags": [
+      "#리사",
+      "#LISA",
+      "#타란티노",
+      "#PRESSPLAY",
+      "#블랙핑크"
+    ],
+    "slides": [
+      {
+        "index": 1,
+        "text": "리사 신곡 제목은\n'킬 빌' 감독 이름",
+        "image": {
+          "file": "lisa-biff-02.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lalisa_Manobal_at_the_Busan_International_Film_Festival_2025_02.jpg",
+          "credit": "Lalisa Manobal at the 30th Busan International Film Festival, 2025, photo Outhere505 (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-23T20:43:00+09:00",
+          "focus": "top",
+          "edit": {
+            "crop": {
+              "x": 0.36,
+              "y": 0.04,
+              "width": 0.3,
+              "height": 0.6
+            }
+          }
+        }
+      },
+      {
+        "index": 2,
+        "text": "10월 23일, 리사가 여섯 곡짜리 새 EP '프레스 플레이'를 냈어요.",
+        "image": {
+          "file": "lisa-biff-03.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lalisa_Manobal_at_the_Busan_International_Film_Festival_2025_03.jpg",
+          "credit": "Lalisa Manobal at the 30th Busan International Film Festival, 2025, photo Outhere505 (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-23T20:43:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.27,
+              "y": 0,
+              "width": 0.5,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 3,
+        "text": "타이틀곡 '타란티노'는 '킬 빌'의 쿠엔틴 타란티노 감독 이름이에요.",
+        "image": {
+          "file": "qt-skidmore.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quentin_Tarantino_by_Gage_Skidmore.jpg",
+          "credit": "Quentin Tarantino at the 2015 San Diego Comic-Con, photo Gage Skidmore (CC BY-SA 3.0)",
+          "license": "CC BY-SA 3.0",
+          "checkedAt": "2026-10-23T20:46:00+09:00",
+          "focus": "top"
+        }
+      },
+      {
+        "index": 4,
+        "text": "뮤직비디오 속 리사는 호텔을 지나 타란티노에게 편지를 전하러 가요.",
+        "image": {
+          "file": "lisa-biff-05.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lalisa_Manobal_at_the_Busan_International_Film_Festival_2025_05.jpg",
+          "credit": "Lalisa Manobal at the 30th Busan International Film Festival, 2025, photo Outhere505 (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-23T20:43:00+09:00",
+          "focus": "top",
+          "edit": {
+            "crop": {
+              "x": 0.4,
+              "y": 0.17,
+              "width": 0.35,
+              "height": 0.7
+            }
+          }
+        }
+      },
+      {
+        "index": 5,
+        "text": "공개 하루도 안 돼 유튜브 조회수 1,100만 회를 넘었어요.",
+        "image": {
+          "file": "lisa-biff-04.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lalisa_Manobal_at_the_Busan_International_Film_Festival_2025_04.jpg",
+          "credit": "Lalisa Manobal at the 30th Busan International Film Festival, 2025, photo Outhere505 (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-23T20:43:00+09:00",
+          "focus": "top",
+          "edit": {
+            "crop": {
+              "x": 0.45,
+              "y": 0.25,
+              "width": 0.35,
+              "height": 0.7
+            }
+          }
+        }
+      },
+      {
+        "index": 6,
+        "text": "사실 가사에도 '킬 빌' 같은 타란티노 영화 제목이 들어 있어요.",
+        "image": {
+          "file": "qt-berlin.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quentin_Tarantino_(Berlin_Film_Festival_2009).jpg",
+          "credit": "Quentin Tarantino at the Berlin Film Festival 2009, photo Siebbi (CC BY 3.0)",
+          "license": "CC BY 3.0",
+          "checkedAt": "2026-10-23T20:46:00+09:00",
+          "focus": "top"
+        }
+      },
+      {
+        "index": 7,
+        "text": "미국과 영국 유튜브 인기 급상승 1위에도 올랐어요.",
+        "image": {
+          "file": "lisa-coachella-01.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blackpink_Coachella_2023_01.jpg",
+          "credit": "Blackpink performing at Coachella, April 15, 2023, photo @aanglerrr (aang) (CC BY 4.0)",
+          "license": "CC BY 4.0",
+          "checkedAt": "2026-10-23T20:50:00+09:00",
+          "focus": "top",
+          "edit": {
+            "crop": {
+              "x": 0.68,
+              "y": 0.25,
+              "width": 0.3,
+              "height": 0.6
+            }
+          }
+        }
+      },
+      {
+        "index": 8,
+        "text": "뮤직비디오는 유튜브, 여섯 곡은 음원 앱에서 바로 들을 수 있어요.",
+        "image": {
+          "file": "lisa-biff-01.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lalisa_Manobal_at_the_Busan_International_Film_Festival_2025_01.jpg",
+          "credit": "Lalisa Manobal at the 30th Busan International Film Festival, 2025, photo Outhere505 (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-23T20:43:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.23,
+              "y": 0,
+              "width": 0.5,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 9,
+        "text": "좋아하는 감독에게 편지 한 장 쓴다면, 누구에게 보낼래요?",
+        "image": {
+          "file": "qt-star.png",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quentin_Tarantino_Hollywood_Walk_of_Fame_2026.png",
+          "credit": "Quentin Tarantino's star on the Hollywood Walk of Fame, 2026, photo DotXK (CC0)",
+          "license": "CC0",
+          "checkedAt": "2026-10-23T20:46:00+09:00",
+          "focus": "centre"
+        }
+      }
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 1,
+      "evidenceAndImages": 2,
+      "availableNow": 2,
+      "rationale": "블랙핑크·리사를 좋아하는 친구, 타란티노 영화 좋아하는 친구 양쪽에 바로 보낼 이야기다. 'K팝 스타 신곡 제목이 할리우드 감독 이름'이 표지 두 줄로 오해 없이 전달된다. 10-23 발매 당일 국내 일간지·통신사가 일제히 다뤘고 유튜브 미국·영국 인기 급상승 1위라 화제성은 확인되지만, 이미 국내 기사로 퍼진 소식이라 새로움 1점. EP 발매(10-23 0시, 6곡), 타이틀곡명, 뮤직비디오 줄거리(호텔, 타란티노에게 편지), 가사 속 '킬 빌'은 뉴시스·이데일리·스포츠경향·Dork로, 조회수와 공개 시각은 유튜브 공식 영상 페이지로 확인했다. 사진 9장은 모두 위키미디어 공용 CC 사진(부산국제영화제 2025 레드카펫 5장, 코첼라 2023 공연 1장, 타란티노 2장, 명예의 거리 별 1장, 1등급). 뮤직비디오·음원을 지금 바로 볼 수 있어 2점. 표지는 숫자·반전 단어가 없어 자막 박스형. 버린 후보 1(반전형): '킬 빌 감독에게 / 편지 들고 간 리사' — 뮤직비디오 속 설정인데 실제로 편지를 들고 간 일처럼 읽혀 사실을 비틀 수 있다. 버린 후보 2(숫자형): '공개 하루 만에 1,100만 / 리사의 타란티노' — 자랑하는 숫자를 첫 줄에 올린 형(작법 5)이고 '타란티노'가 누군지 몰라도 열리지 않는다."
+    },
+    "unknowns": [
+      "'미국·영국 유튜브 인기 급상승 1위'는 2026-10-23 20:35 KST(11:35 UTC)에 YouTube Data API 인기 차트(mostPopular, US·GB)에서 본 스냅샷이다. 게시 시점에는 순위가 바뀌었을 수 있다.",
+      "조회수 11,521,687회는 2026-10-23 약 20:45 KST 유튜브 영상 페이지 값이다(공개 13:00 KST). 카드·캡션에는 '하루도 안 돼 1,100만 회'로만 썼다.",
+      "'가장 좋아하는 감독'은 스포츠경향·Kbizoom 표현이고, 리사 본인 발언 원문은 확인하지 못했다. 뮤직비디오 끝에 편지가 전해지는지, 타란티노 본인이 반응했는지는 확인하지 못해 쓰지 않았다.",
+      "뮤직비디오 감독 James Mackel은 유튜브 영상 설명란 크레디트로 확인했으나 캡션에는 쓰지 않았다.",
+      "'SaWaDiKa' 24시간 조회수는 기사마다 7,000만·7,080만으로 적혀 '7,000만 회를 넘겼고'로만 썼다. 사진 7장(코첼라)은 블랙핑크 단체 공연 사진에서 오른쪽 리사 부분만 잘랐고 원본 아래 가운데의 촬영자 표기 'aang'은 잘린 영역 밖이다."
+    ]
+  },
+  "sources": [
+    {
+      "title": "타란티노 향한 러브레터…리사, 영화가 된 음악 '프레스 플레이'",
+      "url": "https://v.daum.net/v/20261023161424928",
+      "publisher": "뉴시스",
+      "publishedAt": "2026-10-23T07:14:00Z",
+      "retrievedAt": "2026-10-23T20:41:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "10월 23일 0시 EP '프레스 플레이' 전 세계 동시 발매, 수록곡 6곡(타이틀곡 '타란티노', 'SaWaDiKa', 'V12', 'Cobra', 'Cut U Off', 'Sweat'), 재생 버튼을 누르고 영화 한 편을 보듯 기획한 음반, 뮤직비디오가 호텔을 배경으로 쿠엔틴 타란티노 감독에게 편지를 전하려는 여정과 액션을 담았다는 점, 'SaWaDiKa' 뮤직비디오 24시간 7,080만 회를 확인했습니다.",
+      "usageNote": "다음 뉴스 제휴 페이지에서 읽음. 게시 시각은 다음 검색 결과의 '4시간 전' 표기로 추정."
+    },
+    {
+      "title": "뮤비서 액션 연기…블랙핑크 리사, '타란티노' 담은 새 솔로 앨범 발매",
+      "url": "https://v.daum.net/v/20261023162317245",
+      "publisher": "이데일리",
+      "publishedAt": "2026-10-23T07:23:00Z",
+      "retrievedAt": "2026-10-23T20:42:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "10월 23일 6곡짜리 미니앨범 발매, 타이틀곡 가사에 타란티노 영화 '킬 빌'·'데스 프루프' 제목을 녹였다는 점, 뮤직비디오에서 호텔을 지나며 타란티노에게 편지를 전하러 가는 액션, 'SaWaDiKa'를 고향 방콕에서 찍었고 24시간 7,000만 회를 넘겼다는 점을 확인했습니다.",
+      "usageNote": "게시 시각은 다음 검색 결과의 '4시간 전' 표기로 추정."
+    },
+    {
+      "title": "Lisa lands a global smash with new EP 'PRESS PLAY'",
+      "url": "https://sports.khan.co.kr/en/article/202610231540007/",
+      "publisher": "Sports Kyunghyang",
+      "publishedAt": "2026-10-23T06:40:00Z",
+      "retrievedAt": "2026-10-23T20:44:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "10월 23일 0시(KST) 발매, 6곡 목록, 뮤직비디오에서 리사가 가장 좋아하는 감독 쿠엔틴 타란티노에게 편지를 전하러 호텔을 지나며 길을 막는 사람들을 물리친다는 줄거리, 'SaWaDiKa' 방콕 촬영·24시간 7,080만 회를 확인했습니다.",
+      "usageNote": "게시 시각은 기사 주소의 15:40 KST 표기로 추정."
+    },
+    {
+      "title": "LISA has released new EP 'PRESS PLAY' alongside an action-packed 'Tarantino' video",
+      "url": "https://readdork.com/news/lisa-releases-press-play-tarantino-video-a111adbb39",
+      "publisher": "Dork",
+      "publishedAt": "2026-10-23T08:00:00Z",
+      "retrievedAt": "2026-10-23T20:45:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "EP가 LLOUD Co.와 RCA Records로 나왔고, 뮤직비디오에서 리사가 호텔을 지나 타란티노 감독에게 쪽지를 전하러 가며 길을 막는 사람들에게 주먹을 날린다는 점을 확인했습니다(국내 기사와 독립된 해외 매체).",
+      "usageNote": "게시 시각은 확인하지 못해 발매일 기준으로 적었다."
+    },
+    {
+      "title": "LISA - Tarantino (Official Music Video)",
+      "url": "https://www.youtube.com/watch?v=-5ZXrO_lYSA",
+      "publisher": "LLOUD Official (YouTube)",
+      "publishedAt": "2026-10-23T04:00:07Z",
+      "retrievedAt": "2026-10-23T20:45:00+09:00",
+      "kind": "official_social",
+      "evidenceSummary": "공식 채널 LLOUD Official 업로드, 공개 2026-10-23 04:00 UTC(13:00 KST), 조회수 11,521,687회(약 20:45 KST), 설명란 가사에 'Kill Bill' 표기, 감독 James Mackel 크레디트, 리사 계정 @lalalalisa_m 표기를 확인했습니다. 같은 영상이 reel:scout(YouTube Data API 인기 차트, 2026-10-23 11:35 UTC 수집, generated/reel-scout/2026-10-23.json)에서 US 1위·GB 1위·KR 15위(조회수 11,407,203회)였음을 확인했습니다.",
+      "usageNote": "가사 문장은 옮기지 않았다. 캡션의 @lalalalisa_m은 이 공식 설명란 표기 근거. 카드 7·캡션의 '미국과 영국 유튜브 인기 급상승 1위'는 차트 스냅샷 근거."
+    }
+  ],
+  "collectionErrors": []
+}
