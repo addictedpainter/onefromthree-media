@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-24",
+  "slot": "g",
+  "postId": "2026-10-24-g",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "13년 만에 깜짝 내한한 저스틴 비버 입국 현장",
+  "slug": "justin-bieber-seoul-13-years",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "reel",
+    "topic": "저스틴 비버, 2013년 공연 이후 13년 만에 헤일리 비버와 내한. 성수동 자기 브랜드 스카이라크 팝업(10/22~25)에 나타나 탁구까지",
+    "category": "culture",
+    "editor": "Kang",
+    "shareScore": 10,
+    "durationSeconds": 32.5,
+    "clipCount": 3,
+    "channels": [
+      "RNX TV Korea Ent"
+    ]
+  },
+  "generatedAt": "2026-10-24T19:45:00+09:00",
+  "scheduledStartAt": "2026-10-23T18:30:00.000Z",
+  "actualStartedAt": "2026-10-24T19:20:00+09:00",
+  "imageCount": 1,
+  "contentHash": "8378d2ce4ebf4005e3261d5976c5c092f0e9d54e20d6b7904b07303fc83f5ef5",
+  "idempotencyKey": "scenenode:2026-10-24-g:8378d2ce4ebf4005",
+  "media": [
+    {
+      "path": "reel.mp4",
+      "sha256": "8396d377dbe40bb97e521adf7d5a8deae615dc375ce38a525a0f35d835db14cd",
+      "bytes": 15453662,
+      "width": 1080,
+      "height": 1920,
+      "contentType": "video/mp4",
+      "durationSeconds": 32.5
+    }
+  ],
+  "sources": [
+    {
+      "title": "261023 비버 부부, 다정하게 대한민국으로 - RNX tv #공항패션",
+      "url": "https://www.youtube.com/watch?v=FzryWvBefkM",
+      "publisher": "RNX TV Korea Ent (YouTube)",
+      "publishedAt": "2026-10-22T21:23:06Z",
+      "retrievedAt": "2026-10-24T19:30:00+09:00",
+      "kind": "official_social",
+      "evidenceSummary": "연예 영상 매체 RNX TV가 직접 찍은 인천공항 입국 현장(3분 4초). 회색 후드에 배낭을 멘 저스틴 비버와 파란 코트의 헤일리 비버가 경호원들과 도착장을 지나 차량으로 이동한다. 말소리 없음.",
+      "usageNote": "릴스 클립 원본: 7.5~19초, 55~66초, 136~146초. 2분 50초 이후 후원 안내 카드와 오른쪽 위 로고는 쓰지 않는다."
+    },
+    {
+      "title": "Justin Bieber makes surprise visit to Korea after 13 years",
+      "url": "https://koreajoongangdaily.joins.com/news/2026-10-23/entertainment/justin-bieber-makes-surprise-visit-to-korea-after-13-years/12935805",
+      "publisher": "Korea JoongAng Daily",
+      "publishedAt": "2026-10-23T19:30:00+09:00",
+      "retrievedAt": "2026-10-24T19:40:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "23일(금) 새벽 헤일리 비버와 인천공항 도착. SNS에 \"Made it to Seoul\". 공동 설립한 브랜드 SKYLRK 팝업이 목요일 성수동에서 열려 일요일까지 운영, 본인이 매장에서 찍은 사진을 SNS에 올렸다. 마지막 한국 공연은 2013년.",
+      "usageNote": "입국·팝업 기간·2013년 공연 대조. URL은 koreajoongangdaily.com/world/justin-bieber-makes-surprise-visit-to-korea-after-13-years/12935805로 확인."
+    },
+    {
+      "title": "저스틴 비버, 13년 만에 한국 왔다…성수동 팝업 인증·탁구까지",
+      "url": "https://www.insight.co.kr/news/579009",
+      "publisher": "인사이트",
+      "publishedAt": "2026-10-24T09:53:00+09:00",
+      "retrievedAt": "2026-10-24T19:40:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "23일 헤일리 비버와 입국. 본인 SNS에 22~25일 운영하는 성수동 팝업 방문 인증 사진, 팝업 야외 테라스 탁구대에서 브랜드 관계자들과 탁구 치는 모습. 2013년 첫 내한 공연 이후 처음.",
+      "usageNote": "팝업 방문·탁구·팝업 기간 대조. 머니투데이(https://www.mt.co.kr/en/entertainment/2026/10/23/2026102322320230626)도 입국을 보도했다."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-24T10:48:18.907Z",
+      "attempt": 1,
+      "url": "https://www.youtube.com/watch?v=FzryWvBefkM",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-24T10:48:19.018Z",
+      "attempt": 1,
+      "url": "https://koreajoongangdaily.joins.com/news/2026-10-23/entertainment/justin-bieber-makes-surprise-visit-to-korea-after-13-years/12935805",
+      "httpStatus": 200,
+      "outcome": "verified",
+      "detail": "Redirected to https://www.koreajoongangdaily.com/world/justin-bieber-makes-surprise-visit-to-korea-after-13-years/12935805"
+    },
+    {
+      "attemptedAt": "2026-10-24T10:48:19.068Z",
+      "attempt": 1,
+      "url": "https://www.insight.co.kr/news/579009",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-24T10:48:19.227Z",
+  "draftApprovedContentHash": "8378d2ce4ebf4005e3261d5976c5c092f0e9d54e20d6b7904b07303fc83f5ef5",
+  "renderedAt": "2026-10-24T10:48:26.033Z",
+  "deployedAt": "2026-10-24T10:48:37.747Z"
+}
