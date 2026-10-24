@@ -35,7 +35,16 @@
       "width": 1080,
       "height": 1440,
       "contentType": "image/jpeg",
-      "sourceSha256": "0b107dbf4bace6eb8f015805431a12040985420d6046b3c3f6578d98ffa16a87"
+      "sourceSha256": "0b107dbf4bace6eb8f015805431a12040985420d6046b3c3f6578d98ffa16a87",
+      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/e/01.jpg",
+      "verification": {
+        "verifiedAt": "2026-10-24T01:09:57.941Z",
+        "attempts": 5,
+        "httpStatus": 200,
+        "contentType": "image/jpeg",
+        "bytes": 597521,
+        "sha256": "631c4eb5b8f5692b9a910d25c1059f032de513143a9467b4e484e6a08c879385"
+      }
     },
     {
       "path": "02.jpg",
@@ -44,7 +53,16 @@
       "width": 1080,
       "height": 1440,
       "contentType": "image/jpeg",
-      "sourceSha256": "614c564a2baa75963e740829687aa67ac4eee17377f7c0fe7b11955bf6f39ffb"
+      "sourceSha256": "614c564a2baa75963e740829687aa67ac4eee17377f7c0fe7b11955bf6f39ffb",
+      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/e/02.jpg",
+      "verification": {
+        "verifiedAt": "2026-10-24T01:09:58.197Z",
+        "attempts": 5,
+        "httpStatus": 200,
+        "contentType": "image/jpeg",
+        "bytes": 215797,
+        "sha256": "433f4821bddf1ef2fa79429dc9bce1a77d29783b648d56df4a1a1dd12293b763"
+      }
     },
     {
       "path": "03.jpg",
@@ -53,7 +71,16 @@
       "width": 1080,
       "height": 1440,
       "contentType": "image/jpeg",
-      "sourceSha256": "2dc0e954db49cb12ef59f4aa5d01630eab7cb8be66c67928f91af419c33b7109"
+      "sourceSha256": "2dc0e954db49cb12ef59f4aa5d01630eab7cb8be66c67928f91af419c33b7109",
+      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/e/03.jpg",
+      "verification": {
+        "verifiedAt": "2026-10-24T01:09:58.778Z",
+        "attempts": 5,
+        "httpStatus": 200,
+        "contentType": "image/jpeg",
+        "bytes": 299275,
+        "sha256": "f6050d26096f1b8acfacab773e273cd41f0f0b621513c64612e9e7c62709934e"
+      }
     },
     {
       "path": "04.jpg",
@@ -62,7 +89,16 @@
       "width": 1080,
       "height": 1440,
       "contentType": "image/jpeg",
-      "sourceSha256": "9469e16a482d8a355f895bccd4fc41132d8f2cf3451741115f52fef2874da08c"
+      "sourceSha256": "9469e16a482d8a355f895bccd4fc41132d8f2cf3451741115f52fef2874da08c",
+      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/e/04.jpg",
+      "verification": {
+        "verifiedAt": "2026-10-24T01:09:59.014Z",
+        "attempts": 5,
+        "httpStatus": 200,
+        "contentType": "image/jpeg",
+        "bytes": 163981,
+        "sha256": "d6eb7c1373f9ddbc58b396e5715e3295399d0fefc4b83ecb8125c1ae36242b4b"
+      }
     },
     {
       "path": "05.jpg",
@@ -71,7 +107,16 @@
       "width": 1080,
       "height": 1440,
       "contentType": "image/jpeg",
-      "sourceSha256": "026abd5a23b086ea3c6d1868db43b77505a468281ce3af15a193b136e8eaa16b"
+      "sourceSha256": "026abd5a23b086ea3c6d1868db43b77505a468281ce3af15a193b136e8eaa16b",
+      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/e/05.jpg",
+      "verification": {
+        "verifiedAt": "2026-10-24T01:09:59.228Z",
+        "attempts": 5,
+        "httpStatus": 200,
+        "contentType": "image/jpeg",
+        "bytes": 518511,
+        "sha256": "3755a0342691d499a1865e20e95bffc557054390940814752a6a4489813f4291"
+      }
     },
     {
       "path": "06.jpg",
@@ -80,7 +125,16 @@
       "width": 1080,
       "height": 1440,
       "contentType": "image/jpeg",
-      "sourceSha256": "5fdd3dc33b77a3c8b9f73fe85d308b7107217c51bad9ee1df94f760a91b91de7"
+      "sourceSha256": "5fdd3dc33b77a3c8b9f73fe85d308b7107217c51bad9ee1df94f760a91b91de7",
+      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/e/06.jpg",
+      "verification": {
+        "verifiedAt": "2026-10-24T01:09:59.439Z",
+        "attempts": 5,
+        "httpStatus": 200,
+        "contentType": "image/jpeg",
+        "bytes": 604937,
+        "sha256": "6c63109c6a83f00351de9221987a289ee516eec1398e67c7b3714b81534309ef"
+      }
     },
     {
       "path": "07.jpg",
@@ -89,7 +143,16 @@
       "width": 1080,
       "height": 1440,
       "contentType": "image/jpeg",
-      "sourceSha256": "56a9426e60439a910565aa985e5c307500d9865375985eb875b8b1ada4cc1af7"
+      "sourceSha256": "56a9426e60439a910565aa985e5c307500d9865375985eb875b8b1ada4cc1af7",
+      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/e/07.jpg",
+      "verification": {
+        "verifiedAt": "2026-10-24T01:09:59.680Z",
+        "attempts": 5,
+        "httpStatus": 200,
+        "contentType": "image/jpeg",
+        "bytes": 861474,
+        "sha256": "4348be7d20a6e92207279930dbc189cf1bc8a69b0e0bbe12f4e276a8fb27a69e"
+      }
     },
     {
       "path": "08.jpg",
@@ -98,7 +161,16 @@
       "width": 1080,
       "height": 1440,
       "contentType": "image/jpeg",
-      "sourceSha256": "386e15dd146d651540d92f51c736070e68103c71ebf28bfec62c96f2b80d8472"
+      "sourceSha256": "386e15dd146d651540d92f51c736070e68103c71ebf28bfec62c96f2b80d8472",
+      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/e/08.jpg",
+      "verification": {
+        "verifiedAt": "2026-10-24T01:09:59.906Z",
+        "attempts": 5,
+        "httpStatus": 200,
+        "contentType": "image/jpeg",
+        "bytes": 290899,
+        "sha256": "3dd5431c7508627b988cc25b47f808e1f6d663d76e3c6cee785cf6d3fa6b8711"
+      }
     },
     {
       "path": "09.jpg",
@@ -107,7 +179,16 @@
       "width": 1080,
       "height": 1440,
       "contentType": "image/jpeg",
-      "sourceSha256": "b435c5d826936dd92ebee73a07ff7e95d079466feea900d0a825e1e29a697ce7"
+      "sourceSha256": "b435c5d826936dd92ebee73a07ff7e95d079466feea900d0a825e1e29a697ce7",
+      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/e/09.jpg",
+      "verification": {
+        "verifiedAt": "2026-10-24T01:10:00.123Z",
+        "attempts": 5,
+        "httpStatus": 200,
+        "contentType": "image/jpeg",
+        "bytes": 681624,
+        "sha256": "d82cde7388d3e0de4cfea753257c2539720a7d8536f384c447869aa733346fa9"
+      }
     },
     {
       "path": "10.jpg",
@@ -116,7 +197,16 @@
       "width": 1080,
       "height": 1440,
       "contentType": "image/jpeg",
-      "sourceSha256": "ef84c944d28a065c093a8e0c86ee172285104d764889d7af01802c6bfec1d3fa"
+      "sourceSha256": "ef84c944d28a065c093a8e0c86ee172285104d764889d7af01802c6bfec1d3fa",
+      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/e/10.jpg",
+      "verification": {
+        "verifiedAt": "2026-10-24T01:10:00.343Z",
+        "attempts": 5,
+        "httpStatus": 200,
+        "contentType": "image/jpeg",
+        "bytes": 47403,
+        "sha256": "084e6a4f868d1d78d92074f19c89713660c4f8aa789da36f2a609f658cd7d792"
+      }
     }
   ],
   "sources": [
@@ -228,10 +318,11 @@
     }
   ],
   "collectionErrors": [],
-  "deploymentAttempts": 1,
+  "deploymentAttempts": 5,
   "publishAttemptCount": 0,
   "draftApprovedAt": "2026-10-23T19:51:21.934Z",
   "draftApprovedContentHash": "b76b5424771b593e27f060badfc65d28427c03596e1f021646cf25f45fd8a06b",
   "renderedAt": "2026-10-23T19:51:31.901Z",
-  "deployedAt": "2026-10-24T01:08:59.327Z"
+  "deployedAt": "2026-10-24T01:08:59.327Z",
+  "verifiedAt": "2026-10-24T01:10:00.553Z"
 }
