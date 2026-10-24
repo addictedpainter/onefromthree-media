@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "소리 지르는 줄 알았던 뭉크 '절규' 속 그 사람",
   "slug": "munch-scream-hearing-not-screaming",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "뭉크 '절규' 속 인물은 소리 지르는 게 아니라 자연의 비명을 듣는 것이라는 대영박물관 해석(2019, 흑백 판화의 뭉크 글귀 근거)",
@@ -325,5 +325,8 @@
   "renderedAt": "2026-10-23T19:51:31.901Z",
   "deployedAt": "2026-10-24T01:08:59.327Z",
   "verifiedAt": "2026-10-24T01:10:00.553Z",
-  "publishAttemptedAt": "2026-10-24T10:30:00.008Z"
+  "publishAttemptedAt": "2026-10-24T10:30:00.008Z",
+  "publishedAt": "2026-10-24T10:31:04.910Z",
+  "externalPostId": "18338386318276636",
+  "externalUrl": "https://www.instagram.com/p/De37E2JFYvG/"
 }
