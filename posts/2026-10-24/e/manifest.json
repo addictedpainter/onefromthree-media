@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "소리 지르는 줄 알았던 뭉크 '절규' 속 그 사람",
   "slug": "munch-scream-hearing-not-screaming",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "v3",
     "topic": "뭉크 '절규' 속 인물은 소리 지르는 게 아니라 자연의 비명을 듣는 것이라는 대영박물관 해석(2019, 흑백 판화의 뭉크 글귀 근거)",
@@ -38,8 +38,8 @@
       "sourceSha256": "0b107dbf4bace6eb8f015805431a12040985420d6046b3c3f6578d98ffa16a87",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/e/01.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:09:57.941Z",
-        "attempts": 5,
+        "verifiedAt": "2026-10-24T10:30:00.008Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 597521,
@@ -56,8 +56,8 @@
       "sourceSha256": "614c564a2baa75963e740829687aa67ac4eee17377f7c0fe7b11955bf6f39ffb",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/e/02.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:09:58.197Z",
-        "attempts": 5,
+        "verifiedAt": "2026-10-24T10:30:00.008Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 215797,
@@ -74,8 +74,8 @@
       "sourceSha256": "2dc0e954db49cb12ef59f4aa5d01630eab7cb8be66c67928f91af419c33b7109",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/e/03.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:09:58.778Z",
-        "attempts": 5,
+        "verifiedAt": "2026-10-24T10:30:00.008Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 299275,
@@ -92,8 +92,8 @@
       "sourceSha256": "9469e16a482d8a355f895bccd4fc41132d8f2cf3451741115f52fef2874da08c",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/e/04.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:09:59.014Z",
-        "attempts": 5,
+        "verifiedAt": "2026-10-24T10:30:00.008Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 163981,
@@ -110,8 +110,8 @@
       "sourceSha256": "026abd5a23b086ea3c6d1868db43b77505a468281ce3af15a193b136e8eaa16b",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/e/05.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:09:59.228Z",
-        "attempts": 5,
+        "verifiedAt": "2026-10-24T10:30:00.008Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 518511,
@@ -128,8 +128,8 @@
       "sourceSha256": "5fdd3dc33b77a3c8b9f73fe85d308b7107217c51bad9ee1df94f760a91b91de7",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/e/06.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:09:59.439Z",
-        "attempts": 5,
+        "verifiedAt": "2026-10-24T10:30:00.008Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 604937,
@@ -146,8 +146,8 @@
       "sourceSha256": "56a9426e60439a910565aa985e5c307500d9865375985eb875b8b1ada4cc1af7",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/e/07.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:09:59.680Z",
-        "attempts": 5,
+        "verifiedAt": "2026-10-24T10:30:00.008Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 861474,
@@ -164,8 +164,8 @@
       "sourceSha256": "386e15dd146d651540d92f51c736070e68103c71ebf28bfec62c96f2b80d8472",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/e/08.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:09:59.906Z",
-        "attempts": 5,
+        "verifiedAt": "2026-10-24T10:30:00.008Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 290899,
@@ -182,8 +182,8 @@
       "sourceSha256": "b435c5d826936dd92ebee73a07ff7e95d079466feea900d0a825e1e29a697ce7",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/e/09.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:10:00.123Z",
-        "attempts": 5,
+        "verifiedAt": "2026-10-24T10:30:00.008Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 681624,
@@ -200,8 +200,8 @@
       "sourceSha256": "ef84c944d28a065c093a8e0c86ee172285104d764889d7af01802c6bfec1d3fa",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/e/10.jpg",
       "verification": {
-        "verifiedAt": "2026-10-24T01:10:00.343Z",
-        "attempts": 5,
+        "verifiedAt": "2026-10-24T10:30:00.008Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 47403,
@@ -319,10 +319,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 5,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-23T19:51:21.934Z",
   "draftApprovedContentHash": "b76b5424771b593e27f060badfc65d28427c03596e1f021646cf25f45fd8a06b",
   "renderedAt": "2026-10-23T19:51:31.901Z",
   "deployedAt": "2026-10-24T01:08:59.327Z",
-  "verifiedAt": "2026-10-24T01:10:00.553Z"
+  "verifiedAt": "2026-10-24T01:10:00.553Z",
+  "publishAttemptedAt": "2026-10-24T10:30:00.008Z"
 }
