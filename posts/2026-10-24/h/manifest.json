@@ -37,7 +37,16 @@
       "width": 1080,
       "height": 1920,
       "contentType": "video/mp4",
-      "durationSeconds": 32
+      "durationSeconds": 32,
+      "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/h/reel.mp4",
+      "verification": {
+        "verifiedAt": "2026-10-24T11:55:50.813Z",
+        "attempts": 4,
+        "httpStatus": 200,
+        "contentType": "video/mp4",
+        "bytes": 12897856,
+        "sha256": "0a172fe932c91c132652b831c4154e38a2b7a9b64c5a3a880f6eb9ae77fcd310"
+      }
     }
   ],
   "sources": [
@@ -114,10 +123,11 @@
     }
   ],
   "collectionErrors": [],
-  "deploymentAttempts": 1,
+  "deploymentAttempts": 4,
   "publishAttemptCount": 0,
   "draftApprovedAt": "2026-10-24T11:54:49.600Z",
   "draftApprovedContentHash": "d8974b1316e27972dc6057fc98d8533549cf921a8b30771bc52fec39af666a10",
   "renderedAt": "2026-10-24T11:54:57.623Z",
-  "deployedAt": "2026-10-24T11:55:13.789Z"
+  "deployedAt": "2026-10-24T11:55:13.789Z",
+  "verifiedAt": "2026-10-24T11:55:51.729Z"
 }
