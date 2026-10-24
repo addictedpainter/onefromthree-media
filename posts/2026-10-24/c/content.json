@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-24",
+  "slot": "c",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-23T20:38:00+09:00",
+  "generatedAt": "2026-10-23T20:55:00+09:00",
+  "package": {
+    "contentVersion": "v3",
+    "category": "cg",
+    "slug": "iphone-blue-marble-2002-composite",
+    "topic": "아이폰 기본 화면의 지구(NASA 블루 마블 2002)는 위성 사진 약 1만 장을 이어 붙여 3D 프로그램으로 렌더한 합성",
+    "headline": [
+      "아이폰 첫 화면 속 지구",
+      "위성 사진 1만 장 합성"
+    ],
+    "keyword": "합성",
+    "hook": "🌍 아이폰을 켜면 뜨던 그 파란 지구, 한 번에 찍은 사진이 아니었어요.",
+    "body": [
+      "아이폰 기본 화면에 떠 있던 지구는 NASA가 2002년에 공개한 '블루 마블'이에요. 레토 슈퇴클리가 땅과 구름 지도를, 로버트 시먼이 바다 색과 합성, 3D 지구를 맡았어요. 시먼은 새 아이폰을 개통도 하기 전에 켰다가 화면에서 자기 그림을 봤대요. 애플이 이 그림을 고른 걸 미리 몰랐거든요.",
+      "사실 이 지구는 위성 사진 약 1만 장을 이어 붙인 합성이에요. 위성 테라가 2001년 6~9월에 찍은 장면(한 장에 300MB가 넘어요)에서 구름을 걷어 내고 가로 4만 3200픽셀짜리 평평한 지도를 만들었어요. 구름은 위성 사진 200장으로 따로 만들었고요. 이 지도를 3D 프로그램 일렉트릭 이미지에서 공에 씌워 렌더하고, 포토샵에서 몇 시간씩 층을 맞췄대요. 시먼은 구름을 회색 말고 하얗게 보이게 하는 게 제일 어려웠다고 했어요. 원조 '블루 마블'은 1972년 12월 7일 아폴로 17호 승무원이 찍은 사진 한 장이에요.",
+      "2002년 블루 마블 원본은 지금도 NASA 지구관측소(Earth Observatory) 사이트에서 누구나 무료로 받을 수 있어요. 서반구·동반구 지구 사진과 함께, 구름이 있는 지도와 구름만 있는 지도도 따로 올라와 있어요."
+    ],
+    "question": "지금 여러분 폰 배경화면은 직접 찍은 사진인가요?",
+    "credits": "블루 마블 2002: NASA Goddard Space Flight Center, Reto Stöckli, Robert Simmon (퍼블릭 도메인) · 테라 위성 그림: NASA Goddard SVS (퍼블릭 도메인) · 아폴로 17호 '블루 마블': NASA/Apollo 17 crew (퍼블릭 도메인) · 2012 블루 마블: NASA/NOAA/GSFC/Suomi NPP/VIIRS/Norman Kuring (퍼블릭 도메인) · 아이폰 사진: Andrew from London, Wikimedia Commons (CC BY-SA 2.0)",
+    "editor": "Juno",
+    "hashtags": [
+      "#블루마블",
+      "#아이폰배경화면",
+      "#NASA",
+      "#지구사진",
+      "#3D그래픽"
+    ],
+    "slides": [
+      {
+        "index": 1,
+        "text": "아이폰 첫 화면 속 지구\n위성 사진 1만 장 합성",
+        "image": {
+          "file": "01-blue-marble-west.png",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Earth_Western_Hemisphere_2002.png",
+          "credit": "NASA Goddard Space Flight Center, Reto Stöckli, Robert Simmon (Blue Marble 2002, Western Hemisphere)",
+          "license": "Public domain (NASA)",
+          "checkedAt": "2026-10-23T20:47:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 2,
+        "text": "아이폰을 처음 켜면 기본 화면에 이 지구가 떴어요.",
+        "image": {
+          "file": "02-original-iphone.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Original_iPhone_docked.jpg",
+          "credit": "Andrew from London, UK, Original iPhone docked (2008), Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "checkedAt": "2026-10-23T20:47:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 3,
+        "text": "만든 사람은 NASA의 레토 슈퇴클리와 로버트 시먼이에요.",
+        "image": {
+          "file": "03-blue-marble-australia.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney,_Australia_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg",
+          "credit": "NASA/Robert Simmon and Reto Stöckli (Blue Marble 2002, Australia view)",
+          "license": "Public domain (NASA)",
+          "checkedAt": "2026-10-23T20:47:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 4,
+        "text": "재료는 위성 테라가 2001년 여름에 찍은 사진이었어요.",
+        "image": {
+          "file": "04-terra-scan.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:EOS_-_AM1_Beauty_Shot_(SVS183_-_EOS_AM1_scan).jpg",
+          "credit": "NASA Goddard Scientific Visualization Studio, EOS-AM1(Terra) Beauty Shot (SVS183)",
+          "license": "Public domain (NASA)",
+          "checkedAt": "2026-10-23T20:52:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 5,
+        "text": "사진 약 1만 장에서 구름을 걷어 내고 평평한 지도로 이었어요.",
+        "image": {
+          "file": "05-flat-map.png",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_Marble_2002.png",
+          "credit": "NASA Goddard Space Flight Center, Reto Stöckli, Robert Simmon (Blue Marble 2002 land surface map)",
+          "license": "Public domain (NASA)",
+          "checkedAt": "2026-10-23T20:52:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.6,
+              "y": 0,
+              "width": 0.375,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 6,
+        "text": "사실 그 지도를 3D 프로그램에서 공에 씌워 렌더한 거예요.",
+        "image": {
+          "file": "06-blue-marble-east.png",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Earth_Eastern_Hemisphere_2002.png",
+          "credit": "NASA Goddard Space Flight Center, Reto Stöckli, Robert Simmon (Blue Marble 2002, Eastern Hemisphere)",
+          "license": "Public domain (NASA)",
+          "checkedAt": "2026-10-23T20:52:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 7,
+        "text": "구름은 위성 사진 200장으로 따로 만들어 얹었대요.",
+        "image": {
+          "file": "07-cloud-map.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Land_ocean_ice_cloud_hires.jpg",
+          "credit": "NASA Goddard Space Flight Center, Reto Stöckli, Robert Simmon (Blue Marble 2002 land, ocean, ice and clouds map)",
+          "license": "Public domain (NASA)",
+          "checkedAt": "2026-10-23T20:52:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.6,
+              "y": 0,
+              "width": 0.375,
+              "height": 1
+            },
+            "brightness": 0.8
+          }
+        }
+      },
+      {
+        "index": 8,
+        "text": "원조 '블루 마블'은 1972년 아폴로 17호가 찍은 한 장이에요.",
+        "image": {
+          "file": "08-apollo17.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg",
+          "credit": "NASA/Apollo 17 crew, The Blue Marble (AS17-148-22727, 1972)",
+          "license": "Public domain (NASA)",
+          "checkedAt": "2026-10-23T20:52:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 9,
+        "text": "지금 여러분 폰 배경화면은 직접 찍은 사진인가요?",
+        "image": {
+          "file": "09-blue-marble-2012.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:North_America_from_low_orbiting_satellite_Suomi_NPP.jpg",
+          "credit": "NASA/NOAA/GSFC/Suomi NPP/VIIRS/Norman Kuring (Blue Marble 2012)",
+          "license": "Public domain (NASA)",
+          "checkedAt": "2026-10-23T20:52:00+09:00",
+          "focus": "centre"
+        }
+      }
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 1,
+      "evidenceAndImages": 2,
+      "availableNow": 2,
+      "rationale": "아이폰 쓰는 누구에게나 '그 지구 합성이래'로 보낼 만하고, 3D 하는 친구에겐 '평면 지도를 공에 씌워 렌더'가 직업 얘기다. 표지 한 문장이 오해 없이 전달된다. 'NASA 지구 사진은 합성'은 일부에 알려져 의외성 1점. 아이폰 채택과 제작 과정(약 1만 장·장당 300MB·43,200px 지도·구름 200장·Electric Image 렌더·포토샵 합성)은 제작자 본인 NASA 글과 iCulture로, 합성·빈틈 손질은 NPR로, 자료 기간·역할 분담·무료 공개는 NASA 지구관측소 공식 페이지로 확인. 사진 9장 NASA 퍼블릭 도메인 + 아이폰 사진 CC BY-SA 2.0. 원본 무료 내려받기 가능 2점. 버린 후보 1(반전형): '사진인 줄 알았던 / 아이폰 화면 속 지구' — 줄2에 사실이 없어 낚시처럼 읽힌다. 버린 후보 2(사물형): '아이폰 첫 화면의 지구 / 3D 프로그램 렌더' — '렌더'는 일반 독자가 모르는 용어(작법 2절 8). 키워드 '합성'(반전 단어) → 키워드형. 10-23 c(사자 성운, 색은 사람이 입힌 것)와 'NASA 이미지는 사람 손' 결이 겹치는지 검수 때 판단 필요."
+    },
+    "unknowns": [
+      "아이폰 채택은 시먼 본인 글(NASA)과 iCulture 근거. 어느 모델·iOS부터 언제까지였는지, 서반구 판인지는 확인 못 해 '처음 켜면 기본 화면'으로만 썼다. iOS 14.2 베타에서 빠졌다는 보도는 한 곳뿐이라 안 씀.",
+      "자료 기간은 공식 페이지 '2001년 6~9월'과 시먼 글 '100일'이 달라 공식 쪽(4장 '2001년 여름')을 썼다. 구름은 시먼 글 '200장', 공식 페이지 '가시광 이틀+극지 적외선 하루'라 장수만 썼다.",
+      "지도 크기는 시먼 글·iCulture 43,200×21,600, 공식 페이지는 '가로 최대 21,600px 판 제공'. 캡션엔 제작 지도 크기만 썼다. 공개 시점은 위키미디어(2002-02)와 NASA 페이지(2002-05-26)가 달라 '2002년'만 썼다.",
+      "2장 아이폰 사진은 재부팅 중인 초대 아이폰(2008 촬영)이라 화면에 지구가 없다. 지구가 뜬 화면 사진은 쓸 수 있는 라이선스로 못 찾았다. 4장은 테라 위성 NASA 시각화 그림(사진 아님).",
+      "5·7장 평면 지도는 아시아·태평양 쪽(가로 60~97.5%)을 세로로 잘랐다. 렌더 뒤 한반도가 들어오는지, 7장 남극 흰 띠가 어떻게 보이는지 확인 필요."
+    ]
+  },
+  "sources": [
+    {
+      "title": "Crafting the Blue Marble",
+      "url": "https://science.nasa.gov/blogs/earth-matters/2011/10/06/crafting-the-blue-marble",
+      "publisher": "NASA Earth Observatory (Robert Simmon, Elegant Figures)",
+      "publishedAt": "2011-10-06T17:20:00-04:00",
+      "retrievedAt": "2026-10-23T20:41:00+09:00",
+      "kind": "official_announcement",
+      "evidenceSummary": "제작자 본인의 1인칭 글. 2002년 레토 슈퇴클리와 함께 만듦, 테라 위성 장면 약 1만 장(장당 300MB 이상, 100일)에서 구름을 걷어 43,200×21,600픽셀 지도, 구름은 위성 장면 200장, 3D 프로그램 Electric Image로 공에 씌워 렌더, 포토샵에서 몇 시간 합성, 구름을 회색 아닌 흰색으로 보이게 하는 것이 가장 어려웠다는 점, 애플이 아이폰 기본 환영 화면·배경화면으로 NASA 블루 마블을 골랐고 개통 전 새 아이폰을 켰다가 알았다는 점, 아폴로 17호 사진(AS17-148-22727)을 의식했다는 점을 확인했습니다.",
+      "usageNote": "earthobservatory.nasa.gov/blogs/elegantfigures 주소가 science.nasa.gov로 리디렉션됨. 페이지에 작성자 이름 표기는 없고 1인칭 제작자 글이며, 작성자가 Robert Simmon인 것은 NPR·iCulture·위키미디어 크레딧으로 대조했습니다."
+    },
+    {
+      "title": "The Blue Marble: True-color global imagery at 1km resolution",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-blue-marble-true-color-global-imagery-at-1km-resolution/",
+      "publisher": "NASA Earth Observatory",
+      "publishedAt": "2002-05-26T00:00:00Z",
+      "retrievedAt": "2026-10-23T20:50:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "땅·연안 자료는 2001년 6~9월 MODIS(테라) 관측을 8일 단위로 합성, 크레딧(슈퇴클리: 땅·얕은 바다·구름 / 시먼: 바다 색·합성·3D 지구·애니메이션), '교육자·과학자·박물관·대중에게 무료', 서반구·동반구 2048px TIFF와 구름 포함·구름만 지도 등 내려받기 판이 있다는 점을 확인했습니다.",
+      "usageNote": "게시일은 페이지 날짜 표기(2002-05-26), 마지막 수정 2025-12-18."
+    },
+    {
+      "title": "Blue Marble: The Making Of",
+      "url": "https://www.npr.org/2012/02/03/146350505/blue-marble-the-making-of",
+      "publisher": "NPR (Talk of the Nation, Flora Lichtman)",
+      "publishedAt": "2012-02-03T13:00:00-05:00",
+      "retrievedAt": "2026-10-23T20:43:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "현대의 블루 마블은 사진이 아니라 위성 자료의 합성이라는 점, 2002년 Rob Simmon이 만든 판, 테라 위성 자료 띠 사이의 빈틈을 포토샵으로 메웠다는 점, 1972년 아폴로 17호가 지구 전체를 찍었다는 점을 확인했습니다.",
+      "usageNote": "방송 대본."
+    },
+    {
+      "title": "Wereldberoemde iPhone-wereldbol is een gefantaseerde fotomontage",
+      "url": "https://www.iculture.nl/nieuws/wereldberoemde-iphone-wereldbol-is-een-gefantaseerde-fotomontage/",
+      "publisher": "iCulture (Gonny van der Zwaag)",
+      "publishedAt": "2011-10-31T14:43:29Z",
+      "retrievedAt": "2026-10-23T20:45:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "아이폰 홈 화면 기본 이미지로 쓰인 지구가 Robert Simmon의 합성이라는 점, 레토 슈퇴클리가 300MB짜리 위성 사진 1만 장으로 43,200×21,600 지도를 만든 점, 구름 200장, 포토샵 작업, 시먼이 새 아이폰을 꺼냈다가 자기 그림을 봤다는 점을 확인했습니다.",
+      "usageNote": "네덜란드어 기사. NASA 글을 바탕으로 한 보도라 독립성은 NPR·NASA 공식 페이지로 보완했습니다."
+    }
+  ],
+  "collectionErrors": []
+}
