@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "아이폰 첫 화면 속 지구 위성 사진 1만 장 합성",
   "slug": "iphone-blue-marble-2002-composite",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "아이폰 기본 화면의 지구(NASA 블루 마블 2002)는 위성 사진 약 1만 장을 이어 붙여 3D 프로그램으로 렌더한 합성",
@@ -290,6 +290,8 @@
   "renderedAt": "2026-10-23T19:28:13.899Z",
   "deployedAt": "2026-10-24T01:08:59.303Z",
   "verifiedAt": "2026-10-24T01:10:04.493Z",
-  "lastError": "Recovered 2026-10-24T07:13:21.241Z: PC crashed at 13:18 KST during the 12:30 publish; account grid checked, post not live.",
-  "publishAttemptedAt": "2026-10-24T07:13:30.812Z"
+  "publishAttemptedAt": "2026-10-24T07:13:30.812Z",
+  "publishedAt": "2026-10-24T07:14:30.893Z",
+  "externalPostId": "17886793398622480",
+  "externalUrl": "https://www.instagram.com/p/De3klBElTq8/"
 }
