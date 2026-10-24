@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "아카데미상 줘도 안 한다던 이서진, 1억 달러엔 \"당연히\"",
   "slug": "lee-seojin-100-million-dollars",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "reel",
     "topic": "SBS 비서진 손석구 편 선공개: 이서진, 남자와 키스는 아카데미상 줘도 안 한다더니 1억 달러엔 \"당연히 해야지\"",
@@ -39,8 +39,8 @@
       "durationSeconds": 51.7,
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-24/d/reel.mp4",
       "verification": {
-        "verifiedAt": "2026-10-24T01:09:56.589Z",
-        "attempts": 6,
+        "verifiedAt": "2026-10-24T09:36:54.710Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "video/mp4",
         "bytes": 12998886,
@@ -105,10 +105,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 6,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-23T19:15:07.169Z",
   "draftApprovedContentHash": "4ff24ccac6d198dc85954e9ee93df963acfbefd50a390d56f2dbc4e924b33fab",
   "renderedAt": "2026-10-23T19:15:38.421Z",
   "deployedAt": "2026-10-24T01:08:59.269Z",
-  "verifiedAt": "2026-10-24T01:09:57.661Z"
+  "verifiedAt": "2026-10-24T01:09:57.661Z",
+  "publishAttemptedAt": "2026-10-24T09:36:54.710Z"
 }
