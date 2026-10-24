@@ -7,39 +7,50 @@
   "account": "@scene.node",
   "generationProvider": "claude_code",
   "openAiPlatformCalls": 0,
-  "title": "13년 만에 깜짝 내한한 저스틴 비버 입국 현장",
+  "title": "13년 만에 깜짝 내한한 저스틴 비버의 성수동",
   "slug": "justin-bieber-seoul-13-years",
   "status": "awaiting_visual_review",
   "editorial": {
     "contentVersion": "reel",
-    "topic": "저스틴 비버, 2013년 공연 이후 13년 만에 헤일리 비버와 내한. 성수동 자기 브랜드 스카이라크 팝업(10/22~25)에 나타나 탁구까지",
+    "topic": "저스틴 비버, 13년 만에 내한해 성수동 자기 브랜드 스카이라크 첫 한국 팝업(10/22~25)에 직접 나타나 사진 공개",
     "category": "culture",
     "editor": "Kang",
     "shareScore": 10,
-    "durationSeconds": 32.5,
-    "clipCount": 3,
+    "durationSeconds": 32,
+    "clipCount": 9,
     "channels": [
-      "RNX TV Korea Ent"
+      "RNX TV Korea Ent",
+      "YTN"
     ]
   },
-  "generatedAt": "2026-10-24T19:45:00+09:00",
+  "generatedAt": "2026-10-24T19:58:00+09:00",
   "scheduledStartAt": "2026-10-23T18:30:00.000Z",
   "actualStartedAt": "2026-10-24T19:20:00+09:00",
   "imageCount": 1,
-  "contentHash": "8378d2ce4ebf4005e3261d5976c5c092f0e9d54e20d6b7904b07303fc83f5ef5",
-  "idempotencyKey": "scenenode:2026-10-24-g:8378d2ce4ebf4005",
+  "contentHash": "1ce4b836353e397435c7f50e209c10e8fed535b6eddbb23129dc16985fa9b8a5",
+  "idempotencyKey": "scenenode:2026-10-24-g:1ce4b836353e3974",
   "media": [
     {
       "path": "reel.mp4",
-      "sha256": "8396d377dbe40bb97e521adf7d5a8deae615dc375ce38a525a0f35d835db14cd",
-      "bytes": 15453662,
+      "sha256": "d1cff3ea30b0333c75a579f561410b97132c83ae6dddfe014e0b19e0a017e718",
+      "bytes": 13735615,
       "width": 1080,
       "height": 1920,
       "contentType": "video/mp4",
-      "durationSeconds": 32.5
+      "durationSeconds": 32
     }
   ],
   "sources": [
+    {
+      "title": "성수동에서 포착된 '저스틴 비버'…13년 만에 깜짝 내한 [지금이뉴스] / YTN",
+      "url": "https://www.youtube.com/watch?v=rprXpLtCVSc",
+      "publisher": "YTN (YouTube, 공식 채널)",
+      "publishedAt": "2026-10-23T17:02:44+09:00",
+      "retrievedAt": "2026-10-24T19:55:00+09:00",
+      "kind": "official_social",
+      "evidenceSummary": "YTN 보도 영상(70초). 23일 예고 없이 방한, SNS에 'Made it to Seoul', 2013년 첫 내한 공연 이후 13년 만, 헤일리 비버 동행, SNS에 스카이라크 성수동 팝업 방문 사진 공개, 22일 개장한 팝업은 25일까지. 사진 출처 표기 '저스틴비버 SNS'.",
+      "usageNote": "릴스 클립 원본: 13~16.5초, 32.3~35.8초(신발 진열대 사진), 40.3~43.8초. YTN 자막·로고는 잘라 냈다."
+    },
     {
       "title": "261023 비버 부부, 다정하게 대한민국으로 - RNX tv #공항패션",
       "url": "https://www.youtube.com/watch?v=FzryWvBefkM",
@@ -48,7 +59,7 @@
       "retrievedAt": "2026-10-24T19:30:00+09:00",
       "kind": "official_social",
       "evidenceSummary": "연예 영상 매체 RNX TV가 직접 찍은 인천공항 입국 현장(3분 4초). 회색 후드에 배낭을 멘 저스틴 비버와 파란 코트의 헤일리 비버가 경호원들과 도착장을 지나 차량으로 이동한다. 말소리 없음.",
-      "usageNote": "릴스 클립 원본: 7.5~19초, 55~66초, 136~146초. 2분 50초 이후 후원 안내 카드와 오른쪽 위 로고는 쓰지 않는다."
+      "usageNote": "릴스 클립 원본: 6~9.5, 12~15, 27~30, 54.5~58, 66~69.5, 136~141초. 오른쪽 위 로고는 잘라 냈다."
     },
     {
       "title": "Justin Bieber makes surprise visit to Korea after 13 years",
@@ -73,14 +84,21 @@
   ],
   "sourceVerification": [
     {
-      "attemptedAt": "2026-10-24T10:48:18.907Z",
+      "attemptedAt": "2026-10-24T10:57:41.002Z",
+      "attempt": 1,
+      "url": "https://www.youtube.com/watch?v=rprXpLtCVSc",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-24T10:57:41.287Z",
       "attempt": 1,
       "url": "https://www.youtube.com/watch?v=FzryWvBefkM",
       "httpStatus": 200,
       "outcome": "verified"
     },
     {
-      "attemptedAt": "2026-10-24T10:48:19.018Z",
+      "attemptedAt": "2026-10-24T10:57:41.406Z",
       "attempt": 1,
       "url": "https://koreajoongangdaily.joins.com/news/2026-10-23/entertainment/justin-bieber-makes-surprise-visit-to-korea-after-13-years/12935805",
       "httpStatus": 200,
@@ -88,7 +106,7 @@
       "detail": "Redirected to https://www.koreajoongangdaily.com/world/justin-bieber-makes-surprise-visit-to-korea-after-13-years/12935805"
     },
     {
-      "attemptedAt": "2026-10-24T10:48:19.068Z",
+      "attemptedAt": "2026-10-24T10:57:41.506Z",
       "attempt": 1,
       "url": "https://www.insight.co.kr/news/579009",
       "httpStatus": 200,
@@ -96,10 +114,10 @@
     }
   ],
   "collectionErrors": [],
-  "deploymentAttempts": 1,
+  "deploymentAttempts": 2,
   "publishAttemptCount": 0,
-  "draftApprovedAt": "2026-10-24T10:48:19.227Z",
-  "draftApprovedContentHash": "8378d2ce4ebf4005e3261d5976c5c092f0e9d54e20d6b7904b07303fc83f5ef5",
-  "renderedAt": "2026-10-24T10:48:26.033Z",
-  "deployedAt": "2026-10-24T10:48:37.747Z"
+  "draftApprovedAt": "2026-10-24T10:57:41.989Z",
+  "draftApprovedContentHash": "1ce4b836353e397435c7f50e209c10e8fed535b6eddbb23129dc16985fa9b8a5",
+  "renderedAt": "2026-10-24T10:57:50.896Z",
+  "deployedAt": "2026-10-24T10:58:04.974Z"
 }

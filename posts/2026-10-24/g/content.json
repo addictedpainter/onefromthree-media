@@ -6,24 +6,24 @@
   "account": "@scene.node",
   "generationProvider": "claude_code",
   "actualStartedAt": "2026-10-24T19:20:00+09:00",
-  "generatedAt": "2026-10-24T19:45:00+09:00",
+  "generatedAt": "2026-10-24T19:58:00+09:00",
   "package": {
     "contentVersion": "reel",
     "category": "culture",
     "slug": "justin-bieber-seoul-13-years",
-    "topic": "저스틴 비버, 2013년 공연 이후 13년 만에 헤일리 비버와 내한. 성수동 자기 브랜드 스카이라크 팝업(10/22~25)에 나타나 탁구까지",
+    "topic": "저스틴 비버, 13년 만에 내한해 성수동 자기 브랜드 스카이라크 첫 한국 팝업(10/22~25)에 직접 나타나 사진 공개",
     "title": [
       "13년 만에 깜짝 내한한",
-      "저스틴 비버 입국 현장"
+      "저스틴 비버의 성수동"
     ],
     "window": "1.37:1",
     "clips": [
       {
-        "file": "clip-01.mp4",
+        "file": "c1-air.mp4",
         "sourceUrl": "https://www.youtube.com/watch?v=FzryWvBefkM",
         "channel": "RNX TV Korea Ent",
-        "start": 7.5,
-        "end": 19,
+        "start": 6,
+        "end": 9.5,
         "fit": "cover",
         "focusX": 0.5,
         "focusY": 0.6,
@@ -31,11 +31,11 @@
         "audio": true
       },
       {
-        "file": "clip-02.mp4",
+        "file": "c2-air.mp4",
         "sourceUrl": "https://www.youtube.com/watch?v=FzryWvBefkM",
         "channel": "RNX TV Korea Ent",
-        "start": 55,
-        "end": 66,
+        "start": 12,
+        "end": 15,
         "fit": "cover",
         "focusX": 0.5,
         "focusY": 0.6,
@@ -43,11 +43,83 @@
         "audio": true
       },
       {
-        "file": "clip-03.mp4",
+        "file": "c3-ytn.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=rprXpLtCVSc",
+        "channel": "YTN",
+        "start": 32.3,
+        "end": 35.8,
+        "fit": "cover",
+        "focusX": 0.45,
+        "focusY": 0.3,
+        "zoom": 1.35,
+        "audio": true
+      },
+      {
+        "file": "c4-air.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=FzryWvBefkM",
+        "channel": "RNX TV Korea Ent",
+        "start": 66,
+        "end": 69.5,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.6,
+        "zoom": 1.2,
+        "audio": true
+      },
+      {
+        "file": "c5-ytn.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=rprXpLtCVSc",
+        "channel": "YTN",
+        "start": 40.3,
+        "end": 43.8,
+        "fit": "cover",
+        "focusX": 0.75,
+        "focusY": 0.2,
+        "zoom": 1.5,
+        "audio": true
+      },
+      {
+        "file": "c6-air.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=FzryWvBefkM",
+        "channel": "RNX TV Korea Ent",
+        "start": 54.5,
+        "end": 58,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.6,
+        "zoom": 1.2,
+        "audio": true
+      },
+      {
+        "file": "c7-ytn.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=rprXpLtCVSc",
+        "channel": "YTN",
+        "start": 13,
+        "end": 16.5,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.2,
+        "zoom": 1.45,
+        "audio": true
+      },
+      {
+        "file": "c8-air.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=FzryWvBefkM",
+        "channel": "RNX TV Korea Ent",
+        "start": 27,
+        "end": 30,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.6,
+        "zoom": 1.2,
+        "audio": true
+      },
+      {
+        "file": "c9-air.mp4",
         "sourceUrl": "https://www.youtube.com/watch?v=FzryWvBefkM",
         "channel": "RNX TV Korea Ent",
         "start": 136,
-        "end": 146,
+        "end": 141,
         "fit": "cover",
         "focusX": 0.5,
         "focusY": 0.6,
@@ -55,9 +127,30 @@
         "audio": true
       }
     ],
-    "subtitleMode": "none",
-    "subtitles": [],
-    "coverAt": 5,
+    "subtitleMode": "ours",
+    "subtitles": [
+      {
+        "text": "23일 헤일리 비버와 함께\n인천공항으로 깜짝 입국",
+        "start": 0,
+        "end": 6.3
+      },
+      {
+        "text": "SNS에 올린 건\n성수동 팝업 사진",
+        "start": 6.5,
+        "end": 16.8
+      },
+      {
+        "text": "자기 브랜드 스카이라크의\n첫 한국 팝업이에요",
+        "start": 17,
+        "end": 26.8
+      },
+      {
+        "text": "13년 만의 한국 방문,\n팝업은 25일까지 열려요",
+        "start": 27,
+        "end": 31.8
+      }
+    ],
+    "coverAt": 8,
     "hook": "🛬 13년 만에 한국 온 저스틴 비버, 성수동 자기 브랜드 팝업에 직접 나타났어요.",
     "body": [
       "10월 23일 새벽 아내 헤일리 비버와 함께 인천공항으로 들어왔어요. 2013년 내한 공연 이후 13년 만의 한국 방문이에요.",
@@ -65,7 +158,7 @@
       "스카이라크 팝업은 성수동에서 10월 25일(일)까지 열려요."
     ],
     "question": "13년 만의 내한, 다음엔 공연으로 와 줄까요?",
-    "credits": "RNX TV Korea Ent (YouTube)",
+    "credits": "YTN · RNX TV Korea Ent (YouTube)",
     "editor": "Kang",
     "hashtags": [
       "#저스틴비버",
@@ -83,12 +176,23 @@
       "rationale": "'저스틴 비버가 지금 성수동에 왔대'는 서울 사는 친구에게 바로 보낼 한 문장이다. 팝업이 25일까지라 지금 가 볼 수 있는 이야기. 사실은 코리아중앙데일리(입국·팝업 사진·2013년 공연·팝업 기간)와 인사이트(본인 SNS 팝업 인증·탁구·22~25일)로 확인했다. 영상은 RNX TV가 직접 찍은 인천공항 입국 원본(10-22 21:23 UTC 공개). 성수동 현장 영상은 공식·언론 원본을 찾지 못해 공항 영상을 쓰고 성수동 이야기는 캡션에 담았다. 버린 제목: ① '성수동에 몰래 온 / 저스틴 비버' — 영상이 공항이라 화면과 제목이 어긋난다. ② '경호원만 열댓 명 / 저스틴 비버 입국' — 인원을 세어 확인하지 못했다."
     },
     "unknowns": [
-      "말이 없는 공항 현장 영상이라 subtitleMode none. 원본 오른쪽 위 'RNX TV' 로고는 zoom 1.2 · focusY 0.6으로 위쪽 10%를 잘라 뺐다(렌더 뒤 확인 필요).",
-      "방문 목적은 공식 발표가 없다. 코리아중앙데일리도 팝업 사진 때문에 '연관 추측'이라고만 썼다. 캡션은 팝업에 나타났다는 사실만 쓴다.",
-      "안국동 삼계탕 목격담은 '서울가이드' SNS 영상이 출처라 쓰지 않았다."
+      "성수동 현장을 직접 찍은 공식·언론 영상은 20:00 기준 찾지 못했다. 성수동·SNS 장면은 YTN 보도(비버 본인 SNS 사진, 화면 출처 표기 '저스틴비버 SNS')를 창 비율·확대로 YTN 자막과 로고를 빼고 썼고, RNX TV 공항 원본과 3~5초씩 번갈아 붙였다(사용자 의견: 사진만 이어지면 멈춘 느낌).",
+      "YTN 13~16.5초(파란 바닥에 누운 사진)와 40.3~43.8초(선글라스, 관계자들과) 사진은 촬영 장소 표기가 없어 자막에 장소를 쓰지 않았다.",
+      "말소리가 없는 영상이지만 장면 설명이 필요해 우리 자막(ours)을 달았다.",
+      "방문 목적 공식 발표 없음. 안국동 삼계탕 목격담은 '서울가이드' SNS 영상 출처라 쓰지 않았다."
     ]
   },
   "sources": [
+    {
+      "title": "성수동에서 포착된 '저스틴 비버'…13년 만에 깜짝 내한 [지금이뉴스] / YTN",
+      "url": "https://www.youtube.com/watch?v=rprXpLtCVSc",
+      "publisher": "YTN (YouTube, 공식 채널)",
+      "publishedAt": "2026-10-23T17:02:44+09:00",
+      "retrievedAt": "2026-10-24T19:55:00+09:00",
+      "kind": "official_social",
+      "evidenceSummary": "YTN 보도 영상(70초). 23일 예고 없이 방한, SNS에 'Made it to Seoul', 2013년 첫 내한 공연 이후 13년 만, 헤일리 비버 동행, SNS에 스카이라크 성수동 팝업 방문 사진 공개, 22일 개장한 팝업은 25일까지. 사진 출처 표기 '저스틴비버 SNS'.",
+      "usageNote": "릴스 클립 원본: 13~16.5초, 32.3~35.8초(신발 진열대 사진), 40.3~43.8초. YTN 자막·로고는 잘라 냈다."
+    },
     {
       "title": "261023 비버 부부, 다정하게 대한민국으로 - RNX tv #공항패션",
       "url": "https://www.youtube.com/watch?v=FzryWvBefkM",
@@ -97,7 +201,7 @@
       "retrievedAt": "2026-10-24T19:30:00+09:00",
       "kind": "official_social",
       "evidenceSummary": "연예 영상 매체 RNX TV가 직접 찍은 인천공항 입국 현장(3분 4초). 회색 후드에 배낭을 멘 저스틴 비버와 파란 코트의 헤일리 비버가 경호원들과 도착장을 지나 차량으로 이동한다. 말소리 없음.",
-      "usageNote": "릴스 클립 원본: 7.5~19초, 55~66초, 136~146초. 2분 50초 이후 후원 안내 카드와 오른쪽 위 로고는 쓰지 않는다."
+      "usageNote": "릴스 클립 원본: 6~9.5, 12~15, 27~30, 54.5~58, 66~69.5, 136~141초. 오른쪽 위 로고는 잘라 냈다."
     },
     {
       "title": "Justin Bieber makes surprise visit to Korea after 13 years",
