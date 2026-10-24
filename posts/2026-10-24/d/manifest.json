@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-24",
+  "slot": "d",
+  "postId": "2026-10-24-d",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "아카데미상 줘도 안 한다던 이서진, 1억 달러엔 \"당연히\"",
+  "slug": "lee-seojin-100-million-dollars",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "reel",
+    "topic": "SBS 비서진 손석구 편 선공개: 이서진, 남자와 키스는 아카데미상 줘도 안 한다더니 1억 달러엔 \"당연히 해야지\"",
+    "category": "culture",
+    "editor": "Kang",
+    "shareScore": 9,
+    "durationSeconds": 51.7,
+    "clipCount": 11,
+    "channels": [
+      "SBS"
+    ]
+  },
+  "generatedAt": "2026-10-23T21:10:00+09:00",
+  "scheduledStartAt": "2026-10-23T18:30:00.000Z",
+  "actualStartedAt": "2026-10-23T20:38:00+09:00",
+  "imageCount": 1,
+  "contentHash": "4ff24ccac6d198dc85954e9ee93df963acfbefd50a390d56f2dbc4e924b33fab",
+  "idempotencyKey": "scenenode:2026-10-24-d:4ff24ccac6d198dc",
+  "media": [
+    {
+      "path": "reel.mp4",
+      "sha256": "af43c355018cc04e24785e1f6aa9d4ff2ba34cfc8e18c8bc275e2b725bb6e93f",
+      "bytes": 12998886,
+      "width": 1080,
+      "height": 1920,
+      "contentType": "video/mp4",
+      "durationSeconds": 51.7
+    }
+  ],
+  "sources": [
+    {
+      "title": "[선공개] 한때 게통령 왕좌 차지했던 손석구ㅋㅋㅋ💦 과연 1억 달러 주면 비서진은 키스 가능?🫦 | 무엇이든 해줄지니 - 비서진 | SBS",
+      "url": "https://www.youtube.com/watch?v=NZ9iKI3rcXs",
+      "publisher": "SBS (YouTube, 공식 채널)",
+      "publishedAt": "2026-10-22T23:00:36Z",
+      "retrievedAt": "2026-10-23T20:40:00+09:00",
+      "kind": "official_social",
+      "evidenceSummary": "SBS 공식 채널의 '비서진' 선공개 영상(3분 20초). 1:51~1:55 \"너는 해 본 적 있어? 남자랑\", 2:06~2:11 \"아카데미 받고 싶지도 않아\", \"응. 안 해\", 2:16~2:21 \"1억 달러\", \"당연히 해야지\", 2:26 \"역시 자본주의야\", 2:40~2:43 \"1,500억 주면 광규형이랑도 키스할 수 있어요?\", 2:54 \"1500이면 해야지\", 3:00~3:03 \"안 해 안 해 안 해\", \"나랑 형이 ... 뭐 있어? 나랑 하는데\"(한국어 자동 자막). 같은 영상이 SBS Entertainment 채널(https://www.youtube.com/watch?v=WzKGIDXHACE)에도 올라와 있다.",
+      "usageNote": "릴스 클립 원본: 111.2~149.6초, 160.8~164.4초, 173.9~183.6초. 컷 경계(117.01·126.28·134.42·137.33·145.67·148.04·179.54·181.61초)에서 나눠 창 위치만 다르게."
+    },
+    {
+      "title": "“남자랑 절대 안해”…이서진, 1500억 제안엔 돌변 “김광규와도 키스”",
+      "url": "https://www.sportsseoul.com/news/read/1643579",
+      "publisher": "스포츠서울",
+      "publishedAt": "2026-10-23T15:33:24+09:00",
+      "retrievedAt": "2026-10-23T20:47:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "23일(금) 오후 11시 10분 방송 SBS '무엇이든 해줄지니-비서진'. 손석구 \"무려 7분간 롱테이크로 촬영했는데, 완성본을 보니 20초 정도 나왔더라\". 김광규가 남자와 키스할 수 있느냐 묻자 이서진 \"아카데미상을 준다고 해도 안 한다\", \"1억 달러를 주면 할 거냐\"에 \"당연히 해야지\". 제작진이 1500억 원이면 김광규와도 키스할 수 있느냐 묻자 \"해야지\", 김광규 거절에 \"형이 나랑 하는데 잃을 게 뭐 있어?\". 1억 달러는 약 1500억 원.",
+      "usageNote": "발언·질문자·방송 시각 대조."
+    },
+    {
+      "title": "이서진, 아카데미상도 싫다더니 돈 앞에선 솔직…1500억에 김광규와 키스? “해야지”",
+      "url": "https://www.mksports.co.kr/news/entertain/12184506",
+      "publisher": "MK스포츠",
+      "publishedAt": "2026-10-23T19:48:04+09:00",
+      "retrievedAt": "2026-10-23T20:46:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "손석구 \"나는 남자와 베드신도 찍어봤다\", \"무려 7분간 롱테이크로 촬영했는데 완성본을 보니 20초 정도 나왔더라\". 이서진 \"아카데미상을 준다고 해도 안 한다\" → 김광규 \"1억 달러를 주면 할 거냐\"에 \"당연히 해야지\", \"형이 나랑 하는데 잃을 게 뭐 있어?\". \"우리 돈 약 1500억원\".",
+      "usageNote": "머니투데이(https://www.mt.co.kr/entertainment/2026/10/23/2026102316457253825)·마이데일리(https://www.mydaily.co.kr/page/view/2026102313044194635)도 같은 장면을 보도했다(제목만 확인)."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-23T19:15:05.827Z",
+      "attempt": 1,
+      "url": "https://www.youtube.com/watch?v=NZ9iKI3rcXs",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-23T19:15:05.935Z",
+      "attempt": 1,
+      "url": "https://www.sportsseoul.com/news/read/1643579",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-23T19:15:06.042Z",
+      "attempt": 1,
+      "url": "https://www.mksports.co.kr/news/entertain/12184506",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-23T19:15:07.169Z",
+  "draftApprovedContentHash": "4ff24ccac6d198dc85954e9ee93df963acfbefd50a390d56f2dbc4e924b33fab",
+  "renderedAt": "2026-10-23T19:15:38.421Z",
+  "deployedAt": "2026-10-24T01:08:59.269Z"
+}
