@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "다들 스케이트 타는 그림 구석엔 맨엉덩이",
   "slug": "avercamp-winter-landscape-lavatory",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "reel",
     "topic": "아베르캄프 「스케이트 타는 사람들이 있는 겨울 풍경」 왼쪽 작은 화장실의 맨엉덩이",
@@ -41,8 +41,8 @@
       "durationSeconds": 20,
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/f/reel.mp4",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:16.714Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-25T08:00:08.521Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "video/mp4",
         "bytes": 6979436,
@@ -91,10 +91,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 10,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-24T18:43:39.555Z",
   "draftApprovedContentHash": "faede2b819e52b9ea3489023ce60c7d615b051a29a64c2b5e3cc4a5499d716df",
   "renderedAt": "2026-10-24T18:44:03.919Z",
   "deployedAt": "2026-10-25T01:00:24.715Z",
-  "verifiedAt": "2026-10-25T01:02:17.419Z"
+  "verifiedAt": "2026-10-25T01:02:17.419Z",
+  "publishAttemptedAt": "2026-10-25T08:00:08.521Z"
 }
