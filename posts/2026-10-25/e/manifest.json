@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "파마 실기 떨어졌던 박보검 재도전 끝에 미용사 합격",
   "slug": "park-bogum-hairdresser-retake",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "reel",
     "topic": "박보검, 보검 매직컬 시즌1에서 고백한 미용사 실기 탈락 뒤 재도전해 미용사 국가기술자격 합격(tvN 10-23 발표)",
@@ -162,5 +162,8 @@
   "renderedAt": "2026-10-24T18:44:49.867Z",
   "deployedAt": "2026-10-25T01:00:24.652Z",
   "verifiedAt": "2026-10-25T01:02:11.748Z",
-  "publishAttemptedAt": "2026-10-25T12:30:01.794Z"
+  "publishAttemptedAt": "2026-10-25T12:30:01.794Z",
+  "publishedAt": "2026-10-25T12:30:41.725Z",
+  "externalPostId": "17871779304647640",
+  "externalUrl": "https://www.instagram.com/reel/De6thD_AfeZ/"
 }
