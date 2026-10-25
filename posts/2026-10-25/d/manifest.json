@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "윌리엄 왕세자의 흑역사 DJ 예명",
   "slug": "prince-william-dj-xara",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "reel",
     "topic": "윌리엄 왕세자, BBC One 그레이엄 노턴 쇼(2026-10-23)에서 어릴 때 경찰관과 DJ를 꿈꿨고 DJ 예명이 'DJ Xara'(X로 쓰는 자라)였다고 밝힘",
@@ -111,5 +111,8 @@
   "renderedAt": "2026-10-24T18:41:07.757Z",
   "deployedAt": "2026-10-25T01:00:24.690Z",
   "verifiedAt": "2026-10-25T01:02:14.078Z",
-  "publishAttemptedAt": "2026-10-25T09:30:01.622Z"
+  "publishAttemptedAt": "2026-10-25T09:30:01.622Z",
+  "publishedAt": "2026-10-25T09:31:37.467Z",
+  "externalPostId": "17956158558268679",
+  "externalUrl": "https://www.instagram.com/reel/De6ZBhgF9bK/"
 }
