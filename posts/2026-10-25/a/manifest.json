@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "피해자인데 고문받은 400년 전 여성 화가",
   "slug": "artemisia-gentileschi-florence-2026",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "성폭행 재판에서 손가락 고문을 받은 피해자 아르테미시아 젠틸레스키, 피렌체 아카데미 첫 여성 회원. 인노첸티 미술관 전시(~2027-04-04)",
@@ -289,5 +289,8 @@
   "renderedAt": "2026-10-24T18:41:25.338Z",
   "deployedAt": "2026-10-25T01:00:24.677Z",
   "verifiedAt": "2026-10-25T01:02:18.087Z",
-  "publishAttemptedAt": "2026-10-25T01:02:58.119Z"
+  "publishAttemptedAt": "2026-10-25T01:02:58.119Z",
+  "publishedAt": "2026-10-25T01:03:59.992Z",
+  "externalPostId": "18234236932324558",
+  "externalUrl": "https://www.instagram.com/p/De5e-TSCQfo/"
 }
