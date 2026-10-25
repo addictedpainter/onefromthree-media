@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "카메라가 1분 멈췄더니 마차가 영구차로",
   "slug": "melies-stop-trick-omnibus-hearse",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "v3",
     "topic": "멜리에스가 오페라 광장을 찍다 카메라가 1분 멈췄고, 다시 찍은 필름 속 승합 마차가 영구차로 바뀌어 멈춤 트릭을 찾았다는 본인 회고",
@@ -38,8 +38,8 @@
       "sourceSha256": "8524540223d3cb1242ae71821fba6ce1dfe22bbd5f2459fe9e1855d4fa5a4c5c",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/c/01.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:18.697Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-25T06:30:08.898Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 150491,
@@ -56,8 +56,8 @@
       "sourceSha256": "556efb85f8eca72164d37c6986f57c7c32c55fe60f0d129dc6fd5981c27c53ad",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/c/02.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:18.938Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-25T06:30:08.898Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 306831,
@@ -74,8 +74,8 @@
       "sourceSha256": "23e68f7c55f84b65d817191fcaa98c49a41209a7f547b257390b9ebdf6c6b418",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/c/03.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:19.161Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-25T06:30:08.898Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 316492,
@@ -92,8 +92,8 @@
       "sourceSha256": "277d353f0506ff47a854918492da5fa00d24ad2d8d87d5ac2c3dd04bfa546aa2",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/c/04.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:19.374Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-25T06:30:08.898Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 244425,
@@ -110,8 +110,8 @@
       "sourceSha256": "f313785a8e72ec00ff6a4197776a91eef0d50b81ca41ebec1d9713524933af82",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/c/05.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:19.603Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-25T06:30:08.898Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 389732,
@@ -128,8 +128,8 @@
       "sourceSha256": "ed7b59b2ed052e96b5d774aefc79f4a265f42e7cdb60a634145ea2e571eb3466",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/c/06.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:19.811Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-25T06:30:08.898Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 237400,
@@ -146,8 +146,8 @@
       "sourceSha256": "99e49d324fb883aac9875e41eda45149565587b5bd088438de62a5bb6997d21e",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/c/07.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:20.082Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-25T06:30:08.898Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 241618,
@@ -164,8 +164,8 @@
       "sourceSha256": "c34cbac81b307db819d1ec634846b4fd256954b66b69aba6e2adeb593509c7e2",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/c/08.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:20.309Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-25T06:30:08.898Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 323185,
@@ -182,8 +182,8 @@
       "sourceSha256": "4fbfd3a8970ccc3a4270539287e1b985e257837eadad95f8ec232895629289a9",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/c/09.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:20.521Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-25T06:30:08.898Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 178887,
@@ -200,8 +200,8 @@
       "sourceSha256": "f1514b7001b680884ba8d2dbad2ade22deb253324e20aaf50e87fbcef9fb0fb4",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/c/10.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:20.722Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-25T06:30:08.898Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 45088,
@@ -326,10 +326,11 @@
     }
   ],
   "deploymentAttempts": 9,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-24T18:42:04.622Z",
   "draftApprovedContentHash": "d92c7e750c8796db7285204d3421ac850c6d9ba87cf307738dbcbe925ed96dbb",
   "renderedAt": "2026-10-24T18:42:13.169Z",
   "deployedAt": "2026-10-25T01:00:24.694Z",
-  "verifiedAt": "2026-10-25T01:02:20.925Z"
+  "verifiedAt": "2026-10-25T01:02:20.925Z",
+  "publishAttemptedAt": "2026-10-25T06:30:08.898Z"
 }
