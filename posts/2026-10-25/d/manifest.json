@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "윌리엄 왕세자의 흑역사 DJ 예명",
   "slug": "prince-william-dj-xara",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "reel",
     "topic": "윌리엄 왕세자, BBC One 그레이엄 노턴 쇼(2026-10-23)에서 어릴 때 경찰관과 DJ를 꿈꿨고 DJ 예명이 'DJ Xara'(X로 쓰는 자라)였다고 밝힘",
@@ -39,8 +39,8 @@
       "durationSeconds": 32.8,
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/d/reel.mp4",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:13.295Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-25T09:30:01.622Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "video/mp4",
         "bytes": 9844236,
@@ -105,10 +105,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 9,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-24T18:40:56.034Z",
   "draftApprovedContentHash": "3c9da5b6893efeb0b17256ef78d6ee1efce1965e81f492da437fbce63305a483",
   "renderedAt": "2026-10-24T18:41:07.757Z",
   "deployedAt": "2026-10-25T01:00:24.690Z",
-  "verifiedAt": "2026-10-25T01:02:14.078Z"
+  "verifiedAt": "2026-10-25T01:02:14.078Z",
+  "publishAttemptedAt": "2026-10-25T09:30:01.622Z"
 }
