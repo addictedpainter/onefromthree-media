@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-25",
+  "slot": "b",
+  "postId": "2026-10-25-b",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "핼러윈 호박의 원조 무섭게 생긴 순무",
+  "slug": "turnip-jack-o-lantern-ghost-turnip",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "v3",
+    "topic": "핼러윈 호박 등불의 원조는 아일랜드 순무 등불, 1943년 도니골 핀타운에서 온 '유령 순무' 석고 본이 아일랜드 국립박물관 시골생활관에 전시 중",
+    "category": "culture",
+    "editor": "Seol",
+    "shareScore": 8,
+    "coverLayout": "caption",
+    "imageTiers": {
+      "public_domain": 9
+    }
+  },
+  "generatedAt": "2026-10-24T21:05:00+09:00",
+  "scheduledStartAt": "2026-10-24T18:30:00.000Z",
+  "actualStartedAt": "2026-10-24T20:41:00+09:00",
+  "imageCount": 10,
+  "contentHash": "ee9cd1a845b5c6f8a35fc8b161b902d3dd18c4f588cf8715c3d6860fb1e748f6",
+  "idempotencyKey": "scenenode:2026-10-25-b:ee9cd1a845b5c6f8",
+  "media": [
+    {
+      "path": "01.jpg",
+      "sha256": "d0a846dbc0332c00b756ba91da2383597cfbdee0758221b74831504899aa2d77",
+      "bytes": 299441,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "04978b768fff2fe6e1d386e7ace6fd41ca9ec2f48b1ca9cf0ea4ae7dd9d7ee48"
+    },
+    {
+      "path": "02.jpg",
+      "sha256": "ef86d8c35a7b9bdc0e29d2b6364d4b628f8b9bd3d3c57efaad445d5e70a18935",
+      "bytes": 299706,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "4f34543aa486f6637ac8a4de551c385236fd8dc3bd377ee12e8554acf569880b"
+    },
+    {
+      "path": "03.jpg",
+      "sha256": "2b8d8b29c20960c56d9bcae7a1b0e0d899faddd4bc6fa7d73e4d89f011c07426",
+      "bytes": 316057,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "97dc63989a9880e710710bdbb6e8a0be6e50edffaaa8e73b74dad7516d28c3c0"
+    },
+    {
+      "path": "04.jpg",
+      "sha256": "c12f4cccc434ab98f0cfba937889fea3b16328ce17dfb2bca6a677fd0d257b75",
+      "bytes": 283839,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "9db7ad0ba84572cb36d4c49c6f2901f885a3789bd4f72b5f69cdd5a0422e7491"
+    },
+    {
+      "path": "05.jpg",
+      "sha256": "4e6fc1124401325e68cc6883bd1ba1b2b8522752d969eba57427f52063f98deb",
+      "bytes": 301119,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "b222903ae7199244ca40a703b8f76a1e5d28c9a5edfa0a6a167e7535c412f737"
+    },
+    {
+      "path": "06.jpg",
+      "sha256": "afe04342bc898f7e96e1b5998cf18165b21aa1b934c06bf285efa120fd665a9f",
+      "bytes": 1108992,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "05147f9aca82dfa5751c9e2fa27c59cb6e8beba127eaa5eed6508c09a584775b"
+    },
+    {
+      "path": "07.jpg",
+      "sha256": "e7409dbb9f11217167f6c404b65475337f167f8c80abc45d09af371eec2f1c63",
+      "bytes": 509869,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "8ebd3f7b9d037f8b06bb6b65bf143f633410794da62bf95e617f203713fea0dc"
+    },
+    {
+      "path": "08.jpg",
+      "sha256": "0a81609e3fd38ecdcec9cd7110e54926e44ace2d0087079ca061e616ac984869",
+      "bytes": 528622,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "58b83bdd518ad43be214e00c2f66821e19d868ac945df4f7ad9f99c77c129484"
+    },
+    {
+      "path": "09.jpg",
+      "sha256": "a5c9e2e17d76da606b12a69bf35985f9959859c89e5b2c672a39ce6aca46df09",
+      "bytes": 201474,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "288cf49f83b5ef715d9e5f4d66673cf3419f0f8d3b22ab02c21085d5f6e1ee54"
+    },
+    {
+      "path": "10.jpg",
+      "sha256": "7569b0f0fd85f1e9070a6e773ef62d6ceabb20f529f32f19ecfa20ee32d75c02",
+      "bytes": 45069,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "fb93eda7974355981bc85719bf013a60013630c170a9e60a5c4c15556b0c0adb"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ghost turnip (F1943.350)",
+      "url": "https://www.museum.ie/en-IE/Collections-Research/Collection/Top-things-to-see-in-the-Irish-Folklife-Collection/Artefact/Ghost-turnip/b202e8ea-0728-4b3d-b0f1-82660fe45ce9",
+      "publisher": "National Museum of Ireland",
+      "publishedAt": "2026-10-24T20:50:00+09:00",
+      "retrievedAt": "2026-10-24T20:50:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "소장품 번호 F1943.350. 1943년 핀타운 근처에서 가르치던 교사 Rois Ní Braonáin이 순무 등불을 박물관에 보냈고 그 동네에서 1900년 무렵 늘 만들던 형태라고 했다는 점, 전시물은 박물관 화가 Eileen Barnes가 만들고 칠한 석고 본이라는 점, 촛불을 넣어 10월 31일 밤 사람을 놀래는 데 썼다는 점, 오늘날 호박은 이 아일랜드 전통이 미국에서 발전한 것이라는 점, 잭오랜턴 이름이 천국·지옥 어디에도 못 가고 등불 하나로 떠도는 잭 민담에서 왔다는 점, 위치 'On Display'를 확인했습니다.",
+      "usageNote": "게시일 표기가 없어 publishedAt은 확인 시각으로 넣었습니다. WebFetch는 403, 브라우저 UA curl로 본문을 읽었습니다."
+    },
+    {
+      "title": "Opening Hours, Location and Facilities (Country Life)",
+      "url": "https://museum.ie/en-IE/Museums/Country-Life/Visitor-Information/Opening-Hours,-Location-and-Facilities",
+      "publisher": "National Museum of Ireland (visitor information)",
+      "publishedAt": "2026-10-24T20:55:00+09:00",
+      "retrievedAt": "2026-10-24T20:55:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "시골생활관 주소(Turlough Park, Castlebar, Co. Mayo), 운영 시간(화~토 10:00~17:00, 일·월 13:00~17:00), 박물관 메인 페이지의 'Free admission', 공식 Instagram 링크(instagram.com/nationalmuseumofireland)를 확인했습니다.",
+      "usageNote": "첫 출처와 같은 기관이라 독립 출처로 세지 않습니다. 게시일 표기 없음."
+    },
+    {
+      "title": "The twisted transatlantic tale of American jack-o'-lanterns",
+      "url": "https://www.nationalgeographic.com/history/article/the-twisted-transatlantic-tale-of-american-jack-o-lanterns",
+      "publisher": "National Geographic (Blane Bachelor)",
+      "publishedAt": "2020-10-27T00:00:00Z",
+      "retrievedAt": "2026-10-24T20:45:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "메이요주 시골생활관이 1900년대 초 '유령 순무' 등불의 석고 본을 상설 전시한다는 점, 켈트 지역에서 순무·감자·비트에 얼굴을 깎았다는 점, 금속 등불이 비싸 뿌리채소를 파냈다는 점(EPIC 큐레이터 Mannion), 19~20세기 초 아일랜드 이민자들이 미국에서 순무·감자보다 깎기 좋은 호박을 만났다는 점, 스팅지 잭 민담을 확인했습니다.",
+      "usageNote": "게시일은 검색 결과 표기(2020-10-27). 이름 유래에 야경꾼 'Jack-of-the-Lantern'과 도깨비불 설도 함께 적혀 있습니다."
+    },
+    {
+      "title": "When People Carved Turnips Instead of Pumpkins for Halloween",
+      "url": "https://www.smithsonianmag.com/smart-news/when-people-carved-turnips-instead-pumpkins-halloween-180978922/",
+      "publisher": "Smithsonian Magazine (Jennifer Nalewicki)",
+      "publishedAt": "2021-10-22T00:00:00Z",
+      "retrievedAt": "2026-10-24T20:47:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "원본 등불이 도니골에서 왔고 1943년 핀타운 마을 교사가 기증했다는 점, 20세기 초 무렵 것이며 썩어 가서 석고 본을 떴다는 점, 시골생활관 소장, 19~20세기 초 아일랜드 등 켈트 지역에서 순무 등불이 호박보다 흔했다는 점, 촛불을 넣었다는 점을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Irish folklife expert says Halloween traditions began in Ireland",
+      "url": "https://www.americamagazine.org/faith/2017/10/19/irish-folklife-expert-says-halloween-traditions-began-ireland/",
+      "publisher": "America Magazine (Catholic News Service, Sarah Mac Donald)",
+      "publishedAt": "2017-10-19T00:00:00Z",
+      "retrievedAt": "2026-10-24T20:48:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "아일랜드 국립박물관 민속부 Clodagh Doyle 인터뷰. 19세기 아일랜드 핼러윈 등불은 주로 순무, 가끔 큰 감자로 만들었다는 점, 1943년 핀타운 교사 기증, 썩어 가던 원본의 석고 본, 약 40년 된 것으로 추정(세기 전환기), 시골생활관 사윈 풍습 전시, 이민자와의 직접 연결은 찾기 어렵다는 발언을 확인했습니다.",
+      "usageNote": "사진 설명은 '19세기'로 적어 연대가 기사 본문과 다릅니다."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-24T18:40:02.071Z",
+      "attempt": 1,
+      "url": "https://www.museum.ie/en-IE/Collections-Research/Collection/Top-things-to-see-in-the-Irish-Folklife-Collection/Artefact/Ghost-turnip/b202e8ea-0728-4b3d-b0f1-82660fe45ce9",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-24T18:40:05.815Z",
+      "attempt": 1,
+      "url": "https://museum.ie/en-IE/Museums/Country-Life/Visitor-Information/Opening-Hours,-Location-and-Facilities",
+      "httpStatus": 206,
+      "outcome": "verified",
+      "detail": "Redirected to https://www.museum.ie/en-IE/Museums/Country-Life/Visitor-Information/Opening-Hours,-Location-and-Facilities"
+    },
+    {
+      "attemptedAt": "2026-10-24T18:40:06.432Z",
+      "attempt": 1,
+      "url": "https://www.nationalgeographic.com/history/article/the-twisted-transatlantic-tale-of-american-jack-o-lanterns",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-24T18:40:07.155Z",
+      "attempt": 1,
+      "url": "https://www.smithsonianmag.com/smart-news/when-people-carved-turnips-instead-pumpkins-halloween-180978922/",
+      "httpStatus": 206,
+      "outcome": "verified",
+      "detail": "Redirected to https://www.smithsonianmag.com/smart-news/when-people-carved-turnips-instead-of-pumpkins-for-halloween-180978922/"
+    },
+    {
+      "attemptedAt": "2026-10-24T18:40:07.711Z",
+      "attempt": 1,
+      "url": "https://www.americamagazine.org/faith/2017/10/19/irish-folklife-expert-says-halloween-traditions-began-ireland/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-24T18:40:07.776Z",
+  "draftApprovedContentHash": "ee9cd1a845b5c6f8a35fc8b161b902d3dd18c4f588cf8715c3d6860fb1e748f6",
+  "renderedAt": "2026-10-24T18:40:20.167Z",
+  "deployedAt": "2026-10-25T01:00:24.702Z"
+}
