@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-25",
+  "slot": "e",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-24T20:25:00+09:00",
+  "generatedAt": "2026-10-24T21:05:00+09:00",
+  "package": {
+    "contentVersion": "reel",
+    "category": "culture",
+    "slug": "park-bogum-hairdresser-retake",
+    "topic": "박보검, 보검 매직컬 시즌1에서 고백한 미용사 실기 탈락 뒤 재도전해 미용사 국가기술자격 합격(tvN 10-23 발표)",
+    "title": [
+      "파마 실기 떨어졌던 박보검",
+      "재도전 끝에 미용사 합격"
+    ],
+    "window": "1.37:1",
+    "clips": [
+      {
+        "file": "clip-01.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=99mru7kQ7hw",
+        "channel": "tvN Joy",
+        "start": 473.6,
+        "end": 476.2,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.36,
+        "zoom": 1.6,
+        "audio": true
+      },
+      {
+        "file": "clip-02.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=99mru7kQ7hw",
+        "channel": "tvN Joy",
+        "start": 523.9,
+        "end": 531,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.23,
+        "zoom": 1.82,
+        "audio": true
+      },
+      {
+        "file": "clip-03.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=99mru7kQ7hw",
+        "channel": "tvN Joy",
+        "start": 535.4,
+        "end": 538.7,
+        "fit": "cover",
+        "focusX": 0.15,
+        "focusY": 0.23,
+        "zoom": 1.82,
+        "audio": true
+      },
+      {
+        "file": "clip-04.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=99mru7kQ7hw",
+        "channel": "tvN Joy",
+        "start": 538.7,
+        "end": 546.6,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.23,
+        "zoom": 1.82,
+        "audio": true
+      },
+      {
+        "file": "clip-05.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=QplEL8OEq94",
+        "channel": "tvN Joy",
+        "start": 4,
+        "end": 12.5,
+        "fit": "cover",
+        "focusX": 0.55,
+        "focusY": 0.33,
+        "zoom": 1.6,
+        "audio": true
+      }
+    ],
+    "subtitleMode": "ours",
+    "subtitles": [
+      {
+        "text": "결론은 사실 떨어졌어",
+        "start": 0.05,
+        "end": 2.6
+      },
+      {
+        "text": "한 머리당 로드가\n55개 이상이어야 돼",
+        "start": 2.65,
+        "end": 5.75
+      },
+      {
+        "text": "근데 그걸 세시는데",
+        "start": 5.8,
+        "end": 8.1
+      },
+      {
+        "text": "\"45개입니다\"",
+        "start": 8.15,
+        "end": 9.7
+      },
+      {
+        "text": "\"손 놓으세요\" 하는데",
+        "start": 9.75,
+        "end": 12.1
+      },
+      {
+        "text": "다들 고개를 돌려서\n모든 사람이 다 나만 봤거든",
+        "start": 12.15,
+        "end": 15
+      },
+      {
+        "text": "내가 누군지도 아실 테고",
+        "start": 19.1,
+        "end": 20.9
+      },
+      {
+        "text": "그리고 재도전 끝에\n미용사 시험 최종 합격",
+        "start": 21,
+        "end": 24.6
+      },
+      {
+        "text": "11월 tvN\n'보검 매직컬2'로 돌아온다",
+        "start": 24.7,
+        "end": 28.4
+      }
+    ],
+    "coverAt": 1,
+    "hook": "✂️ 파마 로드 10개가 모자라 떨어졌던 박보검이 결국 미용사 시험에 붙었어요.",
+    "body": [
+      "올해 1월 tvN '보검 매직컬' 첫 방송에서 박보검은 미용사 실기 시험에 떨어졌다고 털어놨어요. 한 머리에 로드를 55개 이상 말아야 하는데 45개에서 시간이 끝났고, \"손 놓으세요\" 소리에 시험장 사람들이 모두 자기만 봤대요.",
+      "tvN은 10월 23일 박보검이 재도전 끝에 미용사(일반) 국가기술자격 시험에 최종 합격했다고 전했어요. 제작진은 이 시험의 평균 합격률이 20~30%대라고 했고요.",
+      "이상이, 고경표와 함께하는 '보검 매직컬2'는 11월 tvN에서 첫 방송해요. 이번 헤어샵은 작은 바다 마을에 있어요."
+    ],
+    "question": "여러분이 한 번 떨어지고 다시 도전해서 딴 자격증, 있나요?",
+    "credits": "tvN Joy (YouTube)",
+    "editor": "Kang",
+    "hashtags": [
+      "#박보검",
+      "#보검매직컬2",
+      "#미용사",
+      "#국가기술자격증",
+      "#이상이"
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 1,
+      "evidenceAndImages": 2,
+      "availableNow": 1,
+      "rationale": "박보검 팬, 자격증 시험을 준비하거나 떨어져 본 친구에게 \"박보검도 미용사 실기 떨어졌었대, 근데 결국 붙었대\"로 바로 보낼 이야기. 원본은 tvN Joy 공식 유튜브(시즌1 1화 클립과 시즌2 티저), 합격은 이투데이·텐아시아·아이즈가 tvN 발표로 보도, 탈락 발언은 스포츠경향·일간스포츠가 1월에 보도. 합격 소식이 10-23 나와 새로움 1점, 방송은 11월이라 지금 볼 수 있음 1점. 화면 제목 후보 셋 중 반전형을 골랐다. 버린 후보: '로드 10개 모자라 / 떨어졌던 박보검'(로드가 낯선 용어이고 합격이라는 결말이 빠짐), '1분 남기고 손 놓은 / 박보검의 미용사 시험'(라벨형 끝맺음, 무슨 일인지 흐림)."
+    },
+    "unknowns": [
+      "원음을 전사 모델로 듣지 못했다. 시즌1 클립 자막은 유튜브 자동 자막(ko) 단어 시각, tvN이 화면에 박은 자막, 스포츠경향·isplus 인용을 대조해 썼다.",
+      "자동 자막 '롯데가'·'나라만 바'는 tvN 화면 자막('로드 55개', '다 나만 봤거든')과 기사 인용으로 바로잡았다. '근데 그걸 세시는데'는 자동 자막 '어 세시는데'를 따랐고 앞 두 단어는 우리가 붙인 말이다.",
+      "시즌2 티저(4~12.8초)는 자동 자막을 받지 못했다(yt-dlp 429). 화면 글씨는 '윤슬이 빛나는 작은 바다 마을에서 시작될 / 보검 매직컬의 두 번째 이야기'이고 내레이션 여부는 확인하지 못했다. 마지막 두 자막은 우리 문장이다.",
+      "합격 시점은 기사에 '최근'으로만 나온다. 평균 합격률 20~30%대는 제작진 설명을 기사가 옮긴 것이고 Q-Net 통계로 직접 확인하지 않았다.",
+      "경쟁 계정이 같은 장면을 먼저 올렸는지는 확인하지 못했다(Instagram 비로그인 차단)."
+    ]
+  },
+  "sources": [
+    {
+      "title": "모이기만 했는데 벌써 설렘🫢 '검동이' 삼 형제의 소소한〈보검 매직컬〉개업식 현장🎉 #보검매직컬 EP.1 | tvN 260130 방송",
+      "url": "https://www.youtube.com/watch?v=99mru7kQ7hw",
+      "publisher": "tvN Joy (YouTube, tvN 공식 채널)",
+      "publishedAt": "2026-01-30T12:00:00Z",
+      "retrievedAt": "2026-10-24T20:35:00+09:00",
+      "kind": "official_social",
+      "evidenceSummary": "tvN Joy(UC78PMQprrZTbU0IlMDsYZPw) 공식 클립(9분 39초). 7:54 박보검 '결론은 사실 떨어졌어'(tvN 자막 '결론은 사실 실기시험 떨어졌어…'), 8:44 '한 머리당 로드가 55개 이상이어야 돼'(자막 '35분 제한 시간 / 한 머리당 로드 55개가 필수'), 8:49 '45개입니다'(자막 같음), 8:55 '손 놓으세요 하는데 고개를 돌려서 모든 사람 다 나만 봐'(자막 ''손 놓으세요!' 하는데 다들 고개를 돌리셔서… 모든 사람이 다 나만 봤거든…'), 9:05 '내가 누군지도 아실 테고'를 자동 자막(ko)과 화면 자막으로 확인했다.",
+      "usageNote": "릴스 클립 원본: 473.6~476.2초, 523.9~531.0초, 535.4~546.6초(538.7초에서 나눠 좌우 위치만 다름)."
+    },
+    {
+      "title": "[티저] 작은 바다 마을에서 펼쳐질 특별한 마법🪄 보검 매직컬 두 번째 영업 시작합니다💈 #보검매직컬2 EP.0",
+      "url": "https://www.youtube.com/watch?v=QplEL8OEq94",
+      "publisher": "tvN Joy (YouTube) 시즌2 티저",
+      "publishedAt": "2026-10-23T02:00:40Z",
+      "retrievedAt": "2026-10-24T20:35:00+09:00",
+      "kind": "official_social",
+      "evidenceSummary": "tvN Joy 공식 시즌2 티저(20초). 박보검이 바닷가 마을을 걸어 새 헤어샵으로 가는 장면, 화면 글씨 '윤슬이 빛나는 작은 바다 마을에서 시작될 / 보검 매직컬의 두 번째 이야기', 끝 화면 '보검매직컬2 11월 첫 방송 tvN'. 설명란 '11월 첫 방송 tvN #박보검 #이상이 #고경표'.",
+      "usageNote": "릴스 클립 원본: 4.0~12.5초."
+    },
+    {
+      "title": "'보검 매직컬2' 박보검, 미용사 자격증 최종 합격⋯11월 첫 방송",
+      "url": "https://www.etoday.co.kr/news/view/2639404",
+      "publisher": "이투데이",
+      "publishedAt": "2026-10-23T04:38:00Z",
+      "retrievedAt": "2026-10-24T20:38:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "'23일 tvN에 따르면 박보검은 최근 미용사(일반) 국가기술자격 시험에 최종 합격했다.' 제작진에 따르면 평균 합격률 20~30%대, 시즌1에서 실기 시험 불합격, 11월 첫 방송을 확인했다.",
+      "usageNote": null
+    },
+    {
+      "title": "'보검 매직컬2' 박보검, 미용사 국가기술자격증 취득...업그레이드 '박 원장'",
+      "url": "https://www.ize.co.kr/news/articleView.html?idxno=81904",
+      "publisher": "아이즈",
+      "publishedAt": "2026-10-24T05:59:00Z",
+      "retrievedAt": "2026-10-25T03:50:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "박보검이 미용사 국가기술자격에 최종 합격했고 이용사에 이어 미용사 자격까지 갖췄다는 보도를 확인했다(텐아시아 원 기사는 03:30 작업 시점에 서버 500 오류라 같은 내용을 보도한 아이즈로 바꿈).",
+      "usageNote": "원래 출처 텐아시아 https://www.tenasia.co.kr/article/2026102307664"
+    },
+    {
+      "title": "“모든 사람이 쳐다봐” 박보검, 미용사 자격증 필기 합격→실기 탈락 (보검 매직컬)",
+      "url": "https://sports.khan.co.kr/article/202601302132013",
+      "publisher": "스포츠경향",
+      "publishedAt": "2026-01-30T12:32:00Z",
+      "retrievedAt": "2026-10-24T20:40:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2026-01-30 tvN 보검 매직컬 1화에서 박보검이 어르신 파마를 위해 미용사 자격에 도전해 필기는 붙고 실기에서 떨어졌으며, '결론은 사실 떨어졌다', '나만 시간 내에 완성하지 못했다'고 말한 것을 확인했다.",
+      "usageNote": null
+    },
+    {
+      "title": "박보검, 미용사 ‘실기 탈락’…“시험장 안 모두 날 바라봐” (보검매직컬) [TVis]",
+      "url": "https://isplus.com/article/view/isp202601300160",
+      "publisher": "일간스포츠",
+      "publishedAt": "2026-01-30T12:40:00Z",
+      "retrievedAt": "2026-10-24T20:42:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "'머리 당 로드가 55개 이상이어야 하는데 나는 45개였다. 10개가 모자랐다', '손 놓으세요 하는데 모든 사람이 나만 봤다. 내가 누군지도 아실테고' 인용을 확인했다.",
+      "usageNote": null
+    }
+  ],
+  "collectionErrors": []
+}
