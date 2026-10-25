@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "피해자인데 고문받은 400년 전 여성 화가",
   "slug": "artemisia-gentileschi-florence-2026",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "v3",
     "topic": "성폭행 재판에서 손가락 고문을 받은 피해자 아르테미시아 젠틸레스키, 피렌체 아카데미 첫 여성 회원. 인노첸티 미술관 전시(~2027-04-04)",
@@ -38,8 +38,8 @@
       "sourceSha256": "3c2f1ecdcce67a44756d51e508e37329c1db41c9c0706e12b52a1206b09ddf0d",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/a/01.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:15.918Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-25T01:02:58.119Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 379823,
@@ -56,8 +56,8 @@
       "sourceSha256": "827274bd25e100cbe4abb404776c669bc9d3a10d8448dc27ae7878fe1c937c25",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/a/02.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:16.172Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-25T01:02:58.119Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 364190,
@@ -74,8 +74,8 @@
       "sourceSha256": "cc8ab83ef89d3f4eeefb001015dd7003f611c19b70f980db2c3c00bf8aaeb186",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/a/03.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:16.385Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-25T01:02:58.119Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 352616,
@@ -92,8 +92,8 @@
       "sourceSha256": "2a53b5c81fd3b9b806d286e3be7362fa4df578a9c35b68e1a702c9d770340a74",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/a/04.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:16.606Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-25T01:02:58.119Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 338791,
@@ -110,8 +110,8 @@
       "sourceSha256": "caa035a713a637134caf5b691acb90e46e14cd4b1d3395ebc6bfc13f738c109f",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/a/05.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:16.837Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-25T01:02:58.119Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 267059,
@@ -128,8 +128,8 @@
       "sourceSha256": "93b72042f9d8f9f4e4e73880a07cdedaf880ecd76b794c166a1ef561b8e479f4",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/a/06.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:17.036Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-25T01:02:58.119Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 331399,
@@ -146,8 +146,8 @@
       "sourceSha256": "da5d0c81b1622994f7c3111a8f8d517cbd6b0aa60a32f6c11d11549f87264757",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/a/07.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:17.239Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-25T01:02:58.119Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 563586,
@@ -164,8 +164,8 @@
       "sourceSha256": "52fd9c10270bce740400fab35cd8adbe4bfc6f1430ae36b0ab4f711a863dfbbc",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/a/08.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:17.448Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-25T01:02:58.119Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 430951,
@@ -182,8 +182,8 @@
       "sourceSha256": "d655cc8366837ca7161ec5fed8d79e23bb4711c075b0f69c3935e7e0d5535bcd",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/a/09.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:17.658Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-25T01:02:58.119Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 290882,
@@ -200,8 +200,8 @@
       "sourceSha256": "049d837fb7cf56e32d507e821adfc64abd63d037f683589ff4f039907241dee9",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/a/10.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:17.868Z",
-        "attempts": 11,
+        "verifiedAt": "2026-10-25T01:02:58.119Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 45084,
@@ -283,10 +283,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 11,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-24T18:41:15.558Z",
   "draftApprovedContentHash": "1d12cf8cfe15ddbc5d4f62de7bce57f789d9fd518c85caacfa6d4a8f0ab53298",
   "renderedAt": "2026-10-24T18:41:25.338Z",
   "deployedAt": "2026-10-25T01:00:24.677Z",
-  "verifiedAt": "2026-10-25T01:02:18.087Z"
+  "verifiedAt": "2026-10-25T01:02:18.087Z",
+  "publishAttemptedAt": "2026-10-25T01:02:58.119Z"
 }
