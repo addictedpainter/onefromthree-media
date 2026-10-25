@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "핼러윈 호박의 원조 무섭게 생긴 순무",
   "slug": "turnip-jack-o-lantern-ghost-turnip",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "v3",
     "topic": "핼러윈 호박 등불의 원조는 아일랜드 순무 등불, 1943년 도니골 핀타운에서 온 '유령 순무' 석고 본이 아일랜드 국립박물관 시골생활관에 전시 중",
@@ -38,8 +38,8 @@
       "sourceSha256": "04978b768fff2fe6e1d386e7ace6fd41ca9ec2f48b1ca9cf0ea4ae7dd9d7ee48",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/b/01.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:11.278Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-25T04:00:03.171Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 299441,
@@ -56,8 +56,8 @@
       "sourceSha256": "4f34543aa486f6637ac8a4de551c385236fd8dc3bd377ee12e8554acf569880b",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/b/02.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:11.553Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-25T04:00:03.171Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 299706,
@@ -74,8 +74,8 @@
       "sourceSha256": "97dc63989a9880e710710bdbb6e8a0be6e50edffaaa8e73b74dad7516d28c3c0",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/b/03.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:11.774Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-25T04:00:03.171Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 316057,
@@ -92,8 +92,8 @@
       "sourceSha256": "9db7ad0ba84572cb36d4c49c6f2901f885a3789bd4f72b5f69cdd5a0422e7491",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/b/04.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:11.999Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-25T04:00:03.171Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 283839,
@@ -110,8 +110,8 @@
       "sourceSha256": "b222903ae7199244ca40a703b8f76a1e5d28c9a5edfa0a6a167e7535c412f737",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/b/05.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:12.261Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-25T04:00:03.171Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 301119,
@@ -128,8 +128,8 @@
       "sourceSha256": "05147f9aca82dfa5751c9e2fa27c59cb6e8beba127eaa5eed6508c09a584775b",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/b/06.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:12.478Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-25T04:00:03.171Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 1108992,
@@ -146,8 +146,8 @@
       "sourceSha256": "8ebd3f7b9d037f8b06bb6b65bf143f633410794da62bf95e617f203713fea0dc",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/b/07.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:12.726Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-25T04:00:03.171Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 509869,
@@ -164,8 +164,8 @@
       "sourceSha256": "58b83bdd518ad43be214e00c2f66821e19d868ac945df4f7ad9f99c77c129484",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/b/08.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:12.949Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-25T04:00:03.171Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 528622,
@@ -182,8 +182,8 @@
       "sourceSha256": "288cf49f83b5ef715d9e5f4d66673cf3419f0f8d3b22ab02c21085d5f6e1ee54",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/b/09.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:13.166Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-25T04:00:03.171Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 201474,
@@ -200,8 +200,8 @@
       "sourceSha256": "fb93eda7974355981bc85719bf013a60013630c170a9e60a5c4c15556b0c0adb",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-25/b/10.jpg",
       "verification": {
-        "verifiedAt": "2026-10-25T01:02:13.375Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-25T04:00:03.171Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 45069,
@@ -302,10 +302,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 10,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-24T18:40:07.776Z",
   "draftApprovedContentHash": "ee9cd1a845b5c6f8a35fc8b161b902d3dd18c4f588cf8715c3d6860fb1e748f6",
   "renderedAt": "2026-10-24T18:40:20.167Z",
   "deployedAt": "2026-10-25T01:00:24.702Z",
-  "verifiedAt": "2026-10-25T01:02:13.591Z"
+  "verifiedAt": "2026-10-25T01:02:13.591Z",
+  "publishAttemptedAt": "2026-10-25T04:00:03.171Z"
 }
