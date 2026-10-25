@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-25",
+  "slot": "f",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-24T20:33:00+09:00",
+  "generatedAt": "2026-10-24T20:45:00+09:00",
+  "package": {
+    "contentVersion": "reel",
+    "category": "art",
+    "slug": "avercamp-winter-landscape-lavatory",
+    "topic": "아베르캄프 「스케이트 타는 사람들이 있는 겨울 풍경」 왼쪽 작은 화장실의 맨엉덩이",
+    "title": [
+      "다들 스케이트 타는 그림",
+      "구석엔 맨엉덩이"
+    ],
+    "window": "16:9",
+    "clips": [
+      {
+        "kind": "image",
+        "image": {
+          "file": "avercamp-winter-landscape.jpg",
+          "provider": "rijksmuseum",
+          "sourceUrl": "https://www.rijksmuseum.nl/en/collection/SK-A-1718",
+          "imageUrl": "https://iiif.micr.io/aXnzA/full/max/0/default.jpg",
+          "license": "Public domain",
+          "artist": "헨드릭 아베르캄프",
+          "title": "스케이트 타는 사람들이 있는 겨울 풍경",
+          "year": "1608년경"
+        },
+        "from": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "to": {
+          "x": 0.0757,
+          "y": 0.6739,
+          "w": 0.1199,
+          "h": 0.1165
+        },
+        "duration": 14.6,
+        "moveStart": 1.5,
+        "moveEnd": 11.4
+      },
+      {
+        "kind": "image",
+        "image": {
+          "file": "avercamp-winter-landscape.jpg",
+          "provider": "rijksmuseum",
+          "sourceUrl": "https://www.rijksmuseum.nl/en/collection/SK-A-1718",
+          "imageUrl": "https://iiif.micr.io/aXnzA/full/max/0/default.jpg",
+          "license": "Public domain",
+          "artist": "헨드릭 아베르캄프",
+          "title": "스케이트 타는 사람들이 있는 겨울 풍경",
+          "year": "1608년경"
+        },
+        "from": {
+          "x": 0.0757,
+          "y": 0.6739,
+          "w": 0.1199,
+          "h": 0.1165
+        },
+        "to": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "duration": 5.4,
+        "moveStart": 0.4,
+        "moveEnd": 3.8
+      }
+    ],
+    "subtitleMode": "ours",
+    "subtitles": [
+      {
+        "text": "네덜란드 화가가 그린\n겨울 얼음판",
+        "start": 0,
+        "end": 2.8
+      },
+      {
+        "text": "어른도 아이도\n스케이트를 탄다",
+        "start": 3,
+        "end": 5.8
+      },
+      {
+        "text": "그런데 왼쪽 구석",
+        "start": 6,
+        "end": 8.6
+      },
+      {
+        "text": "작은 화장실 하나",
+        "start": 8.8,
+        "end": 11.2
+      },
+      {
+        "text": "누군가 맨엉덩이를 내놓고\n볼일 보는 중",
+        "start": 11.4,
+        "end": 14.4
+      },
+      {
+        "text": "이 그림엔 이런 장면이\n곳곳에 숨어 있다",
+        "start": 14.6,
+        "end": 17.2
+      },
+      {
+        "text": "헨드릭 아베르캄프, 1608년경\n암스테르담 국립미술관",
+        "start": 17.4,
+        "end": 20
+      }
+    ],
+    "music": {
+      "file": "avercamp-winter-music.m4a",
+      "title": "Ambient bed",
+      "artist": "MiniMax-Music3",
+      "license": "Generated",
+      "sourceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+      "volume": 1
+    },
+    "coverAt": 13,
+    "hook": "🧊 다들 스케이트 타는 겨울 그림인데, 왼쪽 구석 화장실에서 누가 볼일을 보고 있어요.",
+    "body": [
+      "헨드릭 아베르캄프가 1608년경 그린 「스케이트 타는 사람들이 있는 겨울 풍경」이에요. 얼어붙은 물 위에서 어른도 아이도 스케이트와 썰매를 타요.",
+      "왼쪽 앞 작은 화장실 아래로 맨엉덩이가 보여요. 소장처인 암스테르담 국립미술관도 작품 해설에서 이 장면을 짚어요. 나무 옆에서 소변 보는 남자처럼, 아베르캄프는 이런 장면을 그림 곳곳에 넣었어요."
+    ],
+    "question": "그림 속에서 또 뭘 찾으셨어요?",
+    "editor": "Haein",
+    "hashtags": [
+      "#아베르캄프",
+      "#명화",
+      "#그림속디테일",
+      "#네덜란드미술",
+      "#레이크스미술관"
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 1,
+      "evidenceAndImages": 2,
+      "availableNow": 2,
+      "rationale": "'다들 스케이트 타는 그림 구석에 맨엉덩이'라는 한 문장이 그대로 DM이 된다. Rijksmuseum 작품 해설('bare buttocks on the lavatory on the left')과 독립 자료 WebMuseum('bare behind', 'man relieving himself against a tree')이 같은 장면을 적는다. 이미지는 Rijksmuseum Public Domain Mark 1.0, IIIF aXnzA 6337×3674. 영어권에서는 닳은 소재라 새로움 1점. 버린 제목 후보: ① '평화로운 겨울 얼음판 / 구석엔 맨엉덩이'(보고서 초안) — '평화로운'이 장면을 설명하는 형용사라 힘이 약하고, 얼음판이 그림이라는 게 줄1에서 안 서서 확대 릴스의 '그림 속' 재미가 늦게 온다. ② '400년 전 얼음판 그림 속 / 볼일 보는 사람' — 첫 글자 숫자 금지(작법 4절)이고, 줄2가 동사구로 풀어 쓴 형태(판정표 ★)다."
+    },
+    "unknowns": [
+      "확대 끝 상자는 원본 6337×3674에서 직접 잡았다(x 480~1240, y 2476~2904, 화장실 문 아래 맨엉덩이가 가운데).",
+      "Rijksmuseum은 'lavatory', WebMuseum은 'small boat'로 적어 화장실 모양 표현이 갈린다. 그래서 자막은 '작은 화장실'로만 쓰고 배·강가 같은 말은 넣지 않았다.",
+      "같은 왼쪽 앞의 얼어 죽은 말과 까마귀·개 장면은 Rijksmuseum 한 곳에서만 확인해 넣지 않았다."
+    ]
+  },
+  "sources": [
+    {
+      "title": "Winter Landscape with Ice Skaters, Hendrick Avercamp, c. 1608",
+      "url": "https://www.rijksmuseum.nl/en/collection/SK-A-1718",
+      "publisher": "Rijksmuseum",
+      "publishedAt": "2026-10-24T00:00:00+09:00",
+      "retrievedAt": "2026-10-24T20:36:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "소장 기관 작품 페이지. 작가 Hendrick Avercamp, 연대 c. 1608, 소장번호 SK-A-1718, Public Domain Mark 1.0. 작품 해설: 'a mass of narrative detail, such as the bare buttocks on the lavatory on the left'. 얼음판 왼쪽 앞의 다른 장면(얼어 죽은 말을 까마귀와 개가 뜯는 장면)도 적는다.",
+      "usageNote": "이미지 원본(IIIF aXnzA)과 사실 확인 1."
+    },
+    {
+      "title": "Avercamp, Winter Landscape with Ice Skaters",
+      "url": "https://www.ibiblio.org/wm/paint/auth/avercamp/rijks-winter-landscape/",
+      "publisher": "WebMuseum",
+      "publishedAt": "2026-10-24T00:00:00+09:00",
+      "retrievedAt": "2026-10-25T03:50:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "독립 미술 자료 WebMuseum의 작품 해설. 'several daring details, such as the couple making love, the bare buttocks and the man urinating', 'a bare behind emerging from a small boat, as well as the figure of a man relieving himself against a tree'.",
+      "usageNote": "사실 확인 2. 맨엉덩이 장면과 '이런 장면이 곳곳에' 자막·본문의 근거. (sunsite2 미러 접속 실패로 같은 WebMuseum의 ibiblio 미러로 바꿈)"
+    }
+  ],
+  "collectionErrors": []
+}
