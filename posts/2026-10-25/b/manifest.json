@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "핼러윈 호박의 원조 무섭게 생긴 순무",
   "slug": "turnip-jack-o-lantern-ghost-turnip",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "핼러윈 호박 등불의 원조는 아일랜드 순무 등불, 1943년 도니골 핀타운에서 온 '유령 순무' 석고 본이 아일랜드 국립박물관 시골생활관에 전시 중",
@@ -308,5 +308,8 @@
   "renderedAt": "2026-10-24T18:40:20.167Z",
   "deployedAt": "2026-10-25T01:00:24.702Z",
   "verifiedAt": "2026-10-25T01:02:13.591Z",
-  "publishAttemptedAt": "2026-10-25T04:00:03.171Z"
+  "publishAttemptedAt": "2026-10-25T04:00:03.171Z",
+  "publishedAt": "2026-10-25T04:01:12.453Z",
+  "externalPostId": "18210358687366768",
+  "externalUrl": "https://www.instagram.com/p/De5zQWeDTRr/"
 }
