@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-25",
+  "slot": "d",
+  "postId": "2026-10-25-d",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "윌리엄 왕세자의 흑역사 DJ 예명",
+  "slug": "prince-william-dj-xara",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "reel",
+    "topic": "윌리엄 왕세자, BBC One 그레이엄 노턴 쇼(2026-10-23)에서 어릴 때 경찰관과 DJ를 꿈꿨고 DJ 예명이 'DJ Xara'(X로 쓰는 자라)였다고 밝힘",
+    "category": "culture",
+    "editor": "Kang",
+    "shareScore": 9,
+    "durationSeconds": 32.8,
+    "clipCount": 3,
+    "channels": [
+      "The Graham Norton Show"
+    ]
+  },
+  "generatedAt": "2026-10-24T20:45:00+09:00",
+  "scheduledStartAt": "2026-10-24T18:30:00.000Z",
+  "actualStartedAt": "2026-10-24T20:32:00+09:00",
+  "imageCount": 1,
+  "contentHash": "3c9da5b6893efeb0b17256ef78d6ee1efce1965e81f492da437fbce63305a483",
+  "idempotencyKey": "scenenode:2026-10-25-d:3c9da5b6893efeb0",
+  "media": [
+    {
+      "path": "reel.mp4",
+      "sha256": "3425261374ee695902c324ab21a301bbcaf9dfe1cb30e988be3f25a15518ac11",
+      "bytes": 9844236,
+      "width": 1080,
+      "height": 1920,
+      "contentType": "video/mp4",
+      "durationSeconds": 32.8
+    }
+  ],
+  "sources": [
+    {
+      "title": "Prince William Could Have Been A DJ | The Graham Norton Show",
+      "url": "https://www.youtube.com/watch?v=T9j41hjfjaI",
+      "publisher": "The Graham Norton Show (YouTube, 공식 채널)",
+      "publishedAt": "2026-10-23T18:00:00Z",
+      "retrievedAt": "2026-10-24T20:35:00+09:00",
+      "kind": "official_social",
+      "evidenceSummary": "공식 채널 클립(1분 15초). 영어 자동 생성 자막 원문: \"I did want to be a policeman when I was younger. I thought I could make a good policeman.\" / \"You're tall.\" \"I'm tall, exactly. Um, so that'd be the idea.\" \"There's a bit more to it than that.\" / \"Being a policeman I thought was quite cool. And then I went through a phase where I wanted to be a DJ, which didn't go very well. And I came up with a name. I was called DJ Xara with an X. It wasn't good.\" / \"DJ Xara?\" \"With an X, yeah.\" \"Where's the X?\" \"The X is at the front.\" / \"Did you DJ at school parties?\" \"Uh, no, I didn't. I never got that good.\" 캡션 따옴표 \"꽤 멋있다\" = \"I thought was quite cool\", \"잘 안 풀렸다\" = \"which didn't go very well\", \"그 정도로 잘하진 못했다\" = \"I never got that good\".",
+      "usageNote": "릴스 클립 원본: 23.5~33.6초, 39.8~58.1초, 64.2~68.6초."
+    },
+    {
+      "title": "Prince William Used DJ Xara as Music Career Stage Name",
+      "url": "https://www.eonline.com/news/1437436/prince-william-used-dj-xara-as-music-career-stage-name",
+      "publisher": "E! News",
+      "publishedAt": "2026-10-23T23:33:00Z",
+      "retrievedAt": "2026-10-24T20:38:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "10월 23일 방송분에서 윌리엄 왕세자가 \"I went through a phase where I wanted to be a DJ, which didn't go very well\", \"I was called 'DJ Xara' with an X\", \"Being a policeman, I thought was quite cool\"라고 말했다고 보도(작성 Sabba Rahbar). 시각은 페이지 표기 11:33 PM 기준, 시간대 미확인.",
+      "usageNote": null
+    },
+    {
+      "title": "Prince William says he once dreamed of being a policeman or a DJ",
+      "url": "https://www.1news.co.nz/2026/10/24/prince-william-says-he-once-dreamed-of-being-a-policeman-or-a-dj/",
+      "publisher": "1News (TVNZ)",
+      "publishedAt": "2026-10-24T05:35:00Z",
+      "retrievedAt": "2026-10-24T20:38:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "BBC One 금요일 밤 방송에서 윌리엄 왕세자가 경찰관이 \"quite cool\"하다고 생각했고 DJ Xara 시절엔 \"wasn't very good\"였다고 말했으며, 어스샷 상을 알리러 나와 케이트 블란쳇·해나 워딩엄·로버트 어윈과 함께 출연했다고 보도. 정치 발언은 보도되지 않음.",
+      "usageNote": "GB News(https://www.gbnews.com/royal/prince-william-dj-name), Stuff(https://www.stuff.co.nz/world-news/361050626/prince-william-reveals-he-once-wanted-be-dj-or-policeman)도 같은 내용을 보도했다(검색 결과로만 확인)."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-24T18:40:53.751Z",
+      "attempt": 1,
+      "url": "https://www.youtube.com/watch?v=T9j41hjfjaI",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-24T18:40:55.000Z",
+      "attempt": 1,
+      "url": "https://www.eonline.com/news/1437436/prince-william-used-dj-xara-as-music-career-stage-name",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-24T18:40:55.843Z",
+      "attempt": 1,
+      "url": "https://www.1news.co.nz/2026/10/24/prince-william-says-he-once-dreamed-of-being-a-policeman-or-a-dj/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-24T18:40:56.034Z",
+  "draftApprovedContentHash": "3c9da5b6893efeb0b17256ef78d6ee1efce1965e81f492da437fbce63305a483",
+  "renderedAt": "2026-10-24T18:41:07.757Z",
+  "deployedAt": "2026-10-25T01:00:24.690Z"
+}
