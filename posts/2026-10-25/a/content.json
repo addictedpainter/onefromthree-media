@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-25",
+  "slot": "a",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-24T20:25:00+09:00",
+  "generatedAt": "2026-10-24T20:50:00+09:00",
+  "package": {
+    "contentVersion": "v3",
+    "category": "art",
+    "slug": "artemisia-gentileschi-florence-2026",
+    "topic": "성폭행 재판에서 손가락 고문을 받은 피해자 아르테미시아 젠틸레스키, 피렌체 아카데미 첫 여성 회원. 인노첸티 미술관 전시(~2027-04-04)",
+    "headline": [
+      "피해자인데 고문받은",
+      "400년 전 여성 화가"
+    ],
+    "hook": "🗡️ 성폭행 재판에서 고문을 받은 건 가해자가 아니라 피해자였어요.",
+    "body": [
+      "아르테미시아 젠틸레스키는 1593년 로마에서 화가 오라치오 젠틸레스키의 딸로 태어났어요. 1611년 아버지의 동료 화가 아고스티노 타시에게 성폭행을 당했고, 이듬해 열린 재판은 8개월 넘게 이어졌어요. 그 과정에서 증언이 참말인지 확인하겠다며 손가락에 끈을 감아 조이는 고문 '시빌레'를 받은 사람은 피해자인 아르테미시아였어요. 타시는 유죄 판결을 받았어요.",
+      "재판 뒤 결혼해 피렌체로 옮긴 그는 1616년 피렌체 미술 아카데미(아카데미아 델레 아르티 델 디세뇨)의 첫 여성 회원이 됐어요. 메디치 가문의 주문을 받았고, 칼을 쥔 유디트, 못을 든 야엘처럼 직접 움직이는 여성을 여러 번 그렸어요. 표지의 '홀로페르네스의 목을 베는 유디트'는 지금 피렌체 우피치 미술관에 있어요.",
+      "그의 피렌체 시절을 다룬 전시 'Artemisia Gentileschi a Firenze'가 피렌체 인노첸티 미술관(Museo degli Innocenti)에서 2027년 4월 4일까지 열려요. 카라바조 그림 두 점과 같은 시대 피렌체 화가들의 작품도 함께 걸렸어요. 매일 9시 30분~19시, 일반 입장권은 16유로예요."
+    ],
+    "question": "400년 전 그림인데, 어느 장면이 제일 오래 남나요?",
+    "credits": "작품: Artemisia Gentileschi (퍼블릭 도메인) · 우피치 '유디트': Google Art Project · 카포디몬테 '유디트' 부분 사진: IlSistemone (CC BY-SA 4.0) · '야엘과 시스라' 사진: Yair Haklai (CC BY-SA 4.0) · 피티 궁 '유디트와 하녀' 사진: Francesco Bini (CC BY-SA 4.0), Wikimedia Commons",
+    "editor": "Haein",
+    "hashtags": [
+      "#아르테미시아젠틸레스키",
+      "#바로크미술",
+      "#피렌체전시",
+      "#명화",
+      "#미술사"
+    ],
+    "slides": [
+      {
+        "index": 1,
+        "text": "피해자인데 고문받은\n400년 전 여성 화가",
+        "image": {
+          "file": "01-cover.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Artemisia_Gentileschi_-_Giuditta_decapita_Oloferne_-_Google_Art_Project.jpg",
+          "credit": "Artemisia Gentileschi, Judith Slaying Holofernes (c. 1620), Uffizi, Florence. Google Art Project",
+          "license": "Public domain",
+          "checkedAt": "2026-10-24T20:45:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 2,
+        "text": "1593년 로마에서 태어난 화가 아르테미시아 젠틸레스키예요.",
+        "image": {
+          "file": "02-lute-self-portrait.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Artemisia_Gentileschi_-_Autoritratto_come_suonatrice_di_liuto_(ca._1615-18).jpg",
+          "credit": "Artemisia Gentileschi, Self-Portrait as a Lute Player (c. 1615-18), Wadsworth Atheneum",
+          "license": "Public domain",
+          "checkedAt": "2026-10-24T20:45:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 3,
+        "text": "1611년, 아버지의 동료 화가에게 성폭행을 당했어요.",
+        "image": {
+          "file": "03-la-pittura.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Self-portrait_as_the_Allegory_of_Painting_(La_Pittura)_-_Artemisia_Gentileschi.jpg",
+          "credit": "Artemisia Gentileschi, Self-Portrait as the Allegory of Painting (c. 1638-39), Royal Collection",
+          "license": "Public domain",
+          "checkedAt": "2026-10-24T20:45:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 4,
+        "text": "이듬해 열린 재판은 8개월 넘게 이어졌어요.",
+        "image": {
+          "file": "04-saint-catherine.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Artemisia_Gentileschi_-_Self-Portrait_as_Saint_Catherine_of_Alexandria_-_NMK.LAAN.2021.0013_-_National_Museum_of_Art,_Architecture_and_Design_(cropped).jpg",
+          "credit": "Artemisia Gentileschi, Self-Portrait as Saint Catherine of Alexandria (c. 1615-17), National Museum of Art, Architecture and Design, Oslo",
+          "license": "Public domain",
+          "checkedAt": "2026-10-24T21:00:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 5,
+        "text": "증언이 참말인지 보겠다며 피해자의 손가락에 끈을 감아 조였어요.",
+        "image": {
+          "file": "05-capodimonte-detail.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giuditta_che_decapita_Oloferne_-_Artemisia_Gentileschi_(Capodimonte,_dettaglio).jpg",
+          "credit": "Artemisia Gentileschi, Judith Slaying Holofernes (detail, c. 1612-13), Museo di Capodimonte. Photo: IlSistemone, Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-24T20:45:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 6,
+        "text": "화가의 손이었어요. 재판은 가해자 타시의 유죄로 끝났어요.",
+        "image": {
+          "file": "06-jael-sisera.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jael_and_Sisera_by_Artemisia_Gentileschi-.jpg",
+          "credit": "Artemisia Gentileschi, Jael and Sisera (1620), Museum of Fine Arts, Budapest. Photo: Yair Haklai, Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-24T20:45:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 7,
+        "text": "피렌체로 옮긴 그는 1616년 미술 아카데미 첫 여성 회원이 됐어요.",
+        "image": {
+          "file": "07-magdalene-pitti.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Artemisia_Gentileschi_Mary_Magdalene_Pitti.jpg",
+          "credit": "Artemisia Gentileschi, The Penitent Magdalene (c. 1617-20), Palazzo Pitti, Florence",
+          "license": "Public domain",
+          "checkedAt": "2026-10-24T20:45:00+09:00",
+          "focus": "attention"
+        }
+      },
+      {
+        "index": 8,
+        "text": "그 피렌체 시절 전시가 내년 4월까지 인노첸티 미술관에서 열려요.",
+        "image": {
+          "file": "08-judith-pitti.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Artemisia_gentileschi,_giuditta_con_la_testa_di_oloferne,_1613-18_ca._03.jpg",
+          "credit": "Artemisia Gentileschi, Judith and Her Maidservant (c. 1613-18), Palazzo Pitti, Florence. Photo: Francesco Bini, Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-24T21:00:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.12,
+              "y": 0,
+              "width": 0.56,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 9,
+        "text": "400년 전 그림인데, 어느 장면이 제일 오래 남나요?",
+        "image": {
+          "file": "09-judith-capodimonte.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Judit_decapitando_a_Holofernes,_por_Artemisia_Gentileschi.jpg",
+          "credit": "Artemisia Gentileschi, Judith Slaying Holofernes (c. 1612-13), Museo di Capodimonte, Naples",
+          "license": "Public domain",
+          "checkedAt": "2026-10-24T20:45:00+09:00",
+          "focus": "attention"
+        }
+      }
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 1,
+      "evidenceAndImages": 2,
+      "availableNow": 2,
+      "rationale": "'피해자가 고문받았다'는 한 문장이 표지에서 바로 이해되고, 미술·역사를 좋아하는 친구나 피렌체 여행 계획 있는 사람에게 보낼 만하다. 아르테미시아 이야기는 미술 팬 사이에 알려져 있어 의외성 1점. 재판 기간·시빌레 고문·아카데미 첫 여성은 내셔널지오그래픽과 런던 내셔널 갤러리 도록 글(Google Arts & Culture)로, 전시 정보는 Finestre sull'Arte와 Wanted in Rome으로 확인. 작품 사진은 모두 퍼블릭 도메인 또는 CC BY-SA. 버린 표지: '손가락에 끈 감고 증언한 / 화가 아르테미시아'(이름을 모르면 안 읽힘), '피렌체 아카데미 첫 여자 / 아르테미시아 전시'(전시 안내로 읽혀 약함)."
+    },
+    "unknowns": []
+  },
+  "sources": [
+    {
+      "title": "Artemisia Gentileschi: the artist who shocked 17th-century Italy",
+      "url": "https://www.nationalgeographic.com/history/history-magazine/article/artist-artemisia-gentileschi-shocked-17th-century-italy",
+      "publisher": "National Geographic",
+      "publishedAt": "2020-02-13T00:00:00Z",
+      "retrievedAt": "2026-10-24T20:20:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "1593년 로마 출생, 1611년 타시의 성폭행, 1612년 재판과 유죄, 결혼 후 피렌체 이주, 1616년 피렌체 아카데미 첫 여성 회원.",
+      "usageNote": "생애 사실의 첫 번째 출처."
+    },
+    {
+      "title": "Artemisia (The National Gallery exhibition story)",
+      "url": "https://artsandculture.google.com/story/eQUhZsqIhuxf4g",
+      "publisher": "The National Gallery, London (Google Arts & Culture)",
+      "publishedAt": "2026-10-24T20:20:00+09:00",
+      "retrievedAt": "2026-10-24T20:20:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "재판이 8개월 넘게 이어짐, 손가락에 끈을 감아 조이는 고문(sibille)을 아르테미시아가 받음, 아카데미아 델레 아르티 델 디세뇨 첫 여성 회원.",
+      "usageNote": "재판 기간·고문·아카데미 사실의 두 번째 출처. 게시일 표기가 없어 확인 시각을 적음."
+    },
+    {
+      "title": "An exhibition in Florence on Artemisia Gentileschi and her time in Florence",
+      "url": "https://www.finestresullarte.info/en/exhibitions/an-exhibition-in-florence-on-artemisia-gentileschi-and-her-time-in-florence",
+      "publisher": "Finestre sull'Arte",
+      "publishedAt": "2026-10-24T20:20:00+09:00",
+      "retrievedAt": "2026-10-24T20:20:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "'Artemisia Gentileschi a Firenze', 인노첸티 미술관, 2026-10-21~2027-04-04, 카라바조 두 점과 피렌체 동시대 화가 작품.",
+      "usageNote": "전시 정보 첫 번째 출처. 게시일 표기가 없어 확인 시각을 적음."
+    },
+    {
+      "title": "Florence exhibition explores Artemisia Gentileschi's Tuscan years",
+      "url": "https://www.wantedinrome.com/whatson/florence-exhibition-explores-artemisia-gentileschis-tuscan-years.html",
+      "publisher": "Wanted in Rome",
+      "publishedAt": "2026-09-14T00:00:00+02:00",
+      "retrievedAt": "2026-10-24T20:20:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "전시 기간·장소, 매일 9:30~19:00, 입장권 16유로(할인 14, 오픈 19).",
+      "usageNote": "전시 정보·운영 시간·요금의 두 번째 출처."
+    }
+  ],
+  "collectionErrors": []
+}

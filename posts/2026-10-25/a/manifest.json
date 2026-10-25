@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-25",
+  "slot": "a",
+  "postId": "2026-10-25-a",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "피해자인데 고문받은 400년 전 여성 화가",
+  "slug": "artemisia-gentileschi-florence-2026",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "v3",
+    "topic": "성폭행 재판에서 손가락 고문을 받은 피해자 아르테미시아 젠틸레스키, 피렌체 아카데미 첫 여성 회원. 인노첸티 미술관 전시(~2027-04-04)",
+    "category": "art",
+    "editor": "Haein",
+    "shareScore": 9,
+    "coverLayout": "caption",
+    "imageTiers": {
+      "public_domain": 9
+    }
+  },
+  "generatedAt": "2026-10-24T20:50:00+09:00",
+  "scheduledStartAt": "2026-10-24T18:30:00.000Z",
+  "actualStartedAt": "2026-10-24T20:25:00+09:00",
+  "imageCount": 10,
+  "contentHash": "1d12cf8cfe15ddbc5d4f62de7bce57f789d9fd518c85caacfa6d4a8f0ab53298",
+  "idempotencyKey": "scenenode:2026-10-25-a:1d12cf8cfe15ddbc",
+  "media": [
+    {
+      "path": "01.jpg",
+      "sha256": "fd651a0ae4dbe13ba1b149e18c6e3cabdf873d3a24f75e5f0083e9a12350b1c9",
+      "bytes": 379823,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "3c2f1ecdcce67a44756d51e508e37329c1db41c9c0706e12b52a1206b09ddf0d"
+    },
+    {
+      "path": "02.jpg",
+      "sha256": "81c18968b9f92e6ead2137f405651eb4d4087286bf04f00acf71638595977596",
+      "bytes": 364190,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "827274bd25e100cbe4abb404776c669bc9d3a10d8448dc27ae7878fe1c937c25"
+    },
+    {
+      "path": "03.jpg",
+      "sha256": "43eb463cf9beab6d4251c905f355b2514a694e602a43788d3bd5e8da7ca4495b",
+      "bytes": 352616,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "cc8ab83ef89d3f4eeefb001015dd7003f611c19b70f980db2c3c00bf8aaeb186"
+    },
+    {
+      "path": "04.jpg",
+      "sha256": "07bf380e7ff94db6606113397f65ba3107c17462db2890a007f84a17b8d1ba24",
+      "bytes": 338791,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "2a53b5c81fd3b9b806d286e3be7362fa4df578a9c35b68e1a702c9d770340a74"
+    },
+    {
+      "path": "05.jpg",
+      "sha256": "ea85f4a57224f8c753ac31dce9947c03ac849363445e65b6ad64bf71b8b158b1",
+      "bytes": 267059,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "caa035a713a637134caf5b691acb90e46e14cd4b1d3395ebc6bfc13f738c109f"
+    },
+    {
+      "path": "06.jpg",
+      "sha256": "cde2a5520d65728db41bc4ddf880d03c9b6f8db203ffa39eacb945d04a1417d3",
+      "bytes": 331399,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "93b72042f9d8f9f4e4e73880a07cdedaf880ecd76b794c166a1ef561b8e479f4"
+    },
+    {
+      "path": "07.jpg",
+      "sha256": "e16aeae735e875475d51741695ac5c6a6513f8816fc82da5254817acc2c253e5",
+      "bytes": 563586,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "da5d0c81b1622994f7c3111a8f8d517cbd6b0aa60a32f6c11d11549f87264757"
+    },
+    {
+      "path": "08.jpg",
+      "sha256": "6237d38cf4391a0f28b8c7a9d04ef63de51f25586f3d24a1b5c911fe969b1832",
+      "bytes": 430951,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "52fd9c10270bce740400fab35cd8adbe4bfc6f1430ae36b0ab4f711a863dfbbc"
+    },
+    {
+      "path": "09.jpg",
+      "sha256": "946808462576667724f5fd2bffb6dd57bc6dd82ec4ccc456c87580f120d2d0e1",
+      "bytes": 290882,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "d655cc8366837ca7161ec5fed8d79e23bb4711c075b0f69c3935e7e0d5535bcd"
+    },
+    {
+      "path": "10.jpg",
+      "sha256": "83253ef9becade611fcf5ff518b51ba6a5b4b1075ca861142609338a5983d01e",
+      "bytes": 45084,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "049d837fb7cf56e32d507e821adfc64abd63d037f683589ff4f039907241dee9"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Artemisia Gentileschi: the artist who shocked 17th-century Italy",
+      "url": "https://www.nationalgeographic.com/history/history-magazine/article/artist-artemisia-gentileschi-shocked-17th-century-italy",
+      "publisher": "National Geographic",
+      "publishedAt": "2020-02-13T00:00:00Z",
+      "retrievedAt": "2026-10-24T20:20:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "1593년 로마 출생, 1611년 타시의 성폭행, 1612년 재판과 유죄, 결혼 후 피렌체 이주, 1616년 피렌체 아카데미 첫 여성 회원.",
+      "usageNote": "생애 사실의 첫 번째 출처."
+    },
+    {
+      "title": "Artemisia (The National Gallery exhibition story)",
+      "url": "https://artsandculture.google.com/story/eQUhZsqIhuxf4g",
+      "publisher": "The National Gallery, London (Google Arts & Culture)",
+      "publishedAt": "2026-10-24T20:20:00+09:00",
+      "retrievedAt": "2026-10-24T20:20:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "재판이 8개월 넘게 이어짐, 손가락에 끈을 감아 조이는 고문(sibille)을 아르테미시아가 받음, 아카데미아 델레 아르티 델 디세뇨 첫 여성 회원.",
+      "usageNote": "재판 기간·고문·아카데미 사실의 두 번째 출처. 게시일 표기가 없어 확인 시각을 적음."
+    },
+    {
+      "title": "An exhibition in Florence on Artemisia Gentileschi and her time in Florence",
+      "url": "https://www.finestresullarte.info/en/exhibitions/an-exhibition-in-florence-on-artemisia-gentileschi-and-her-time-in-florence",
+      "publisher": "Finestre sull'Arte",
+      "publishedAt": "2026-10-24T20:20:00+09:00",
+      "retrievedAt": "2026-10-24T20:20:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "'Artemisia Gentileschi a Firenze', 인노첸티 미술관, 2026-10-21~2027-04-04, 카라바조 두 점과 피렌체 동시대 화가 작품.",
+      "usageNote": "전시 정보 첫 번째 출처. 게시일 표기가 없어 확인 시각을 적음."
+    },
+    {
+      "title": "Florence exhibition explores Artemisia Gentileschi's Tuscan years",
+      "url": "https://www.wantedinrome.com/whatson/florence-exhibition-explores-artemisia-gentileschis-tuscan-years.html",
+      "publisher": "Wanted in Rome",
+      "publishedAt": "2026-09-14T00:00:00+02:00",
+      "retrievedAt": "2026-10-24T20:20:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "전시 기간·장소, 매일 9:30~19:00, 입장권 16유로(할인 14, 오픈 19).",
+      "usageNote": "전시 정보·운영 시간·요금의 두 번째 출처."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-24T18:41:12.343Z",
+      "attempt": 1,
+      "url": "https://www.nationalgeographic.com/history/history-magazine/article/artist-artemisia-gentileschi-shocked-17th-century-italy",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-24T18:41:12.625Z",
+      "attempt": 1,
+      "url": "https://artsandculture.google.com/story/eQUhZsqIhuxf4g",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-24T18:41:13.572Z",
+      "attempt": 1,
+      "url": "https://www.finestresullarte.info/en/exhibitions/an-exhibition-in-florence-on-artemisia-gentileschi-and-her-time-in-florence",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-24T18:41:15.494Z",
+      "attempt": 1,
+      "url": "https://www.wantedinrome.com/whatson/florence-exhibition-explores-artemisia-gentileschis-tuscan-years.html",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-24T18:41:15.558Z",
+  "draftApprovedContentHash": "1d12cf8cfe15ddbc5d4f62de7bce57f789d9fd518c85caacfa6d4a8f0ab53298",
+  "renderedAt": "2026-10-24T18:41:25.338Z",
+  "deployedAt": "2026-10-25T01:00:24.677Z"
+}
