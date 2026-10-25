@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-25",
+  "slot": "c",
+  "postId": "2026-10-25-c",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "카메라가 1분 멈췄더니 마차가 영구차로",
+  "slug": "melies-stop-trick-omnibus-hearse",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "v3",
+    "topic": "멜리에스가 오페라 광장을 찍다 카메라가 1분 멈췄고, 다시 찍은 필름 속 승합 마차가 영구차로 바뀌어 멈춤 트릭을 찾았다는 본인 회고",
+    "category": "cg",
+    "editor": "Juno",
+    "shareScore": 9,
+    "coverLayout": "right",
+    "imageTiers": {
+      "public_domain": 9
+    }
+  },
+  "generatedAt": "2026-10-24T21:10:00+09:00",
+  "scheduledStartAt": "2026-10-24T18:30:00.000Z",
+  "actualStartedAt": "2026-10-24T20:40:00+09:00",
+  "imageCount": 10,
+  "contentHash": "d92c7e750c8796db7285204d3421ac850c6d9ba87cf307738dbcbe925ed96dbb",
+  "idempotencyKey": "scenenode:2026-10-25-c:d92c7e750c8796db",
+  "media": [
+    {
+      "path": "01.jpg",
+      "sha256": "d5d2ae0181f0f8f3d6d8cefb741173338a3fb60fe3b03591dd0da411aa530686",
+      "bytes": 150491,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "8524540223d3cb1242ae71821fba6ce1dfe22bbd5f2459fe9e1855d4fa5a4c5c"
+    },
+    {
+      "path": "02.jpg",
+      "sha256": "0a5581d92060f94d229bb68113f2a203168cd94623607554ffd9fad58926cd30",
+      "bytes": 306831,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "556efb85f8eca72164d37c6986f57c7c32c55fe60f0d129dc6fd5981c27c53ad"
+    },
+    {
+      "path": "03.jpg",
+      "sha256": "a13672942b0822f9f155e11a50af9ecc67a63c14d88de69f37082c181d94e46c",
+      "bytes": 316492,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "23e68f7c55f84b65d817191fcaa98c49a41209a7f547b257390b9ebdf6c6b418"
+    },
+    {
+      "path": "04.jpg",
+      "sha256": "a9636dae4632eebc57edb6aa442caee5193dcafd7b37bafb943f2fb6a8f0174c",
+      "bytes": 244425,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "277d353f0506ff47a854918492da5fa00d24ad2d8d87d5ac2c3dd04bfa546aa2"
+    },
+    {
+      "path": "05.jpg",
+      "sha256": "e6dabac486b4700c550c1f746161b107f9782a766a485a260bf6c449b74d2009",
+      "bytes": 389732,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "f313785a8e72ec00ff6a4197776a91eef0d50b81ca41ebec1d9713524933af82"
+    },
+    {
+      "path": "06.jpg",
+      "sha256": "327838d41bb75b5dcf971363e888a73113dfe7525089b8998cf4f22df67f0707",
+      "bytes": 237400,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "ed7b59b2ed052e96b5d774aefc79f4a265f42e7cdb60a634145ea2e571eb3466"
+    },
+    {
+      "path": "07.jpg",
+      "sha256": "4ecf9f939a65bdc349d9216e39e2347f325337b2b41775267a421b803843e25d",
+      "bytes": 241618,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "99e49d324fb883aac9875e41eda45149565587b5bd088438de62a5bb6997d21e"
+    },
+    {
+      "path": "08.jpg",
+      "sha256": "24dec87690707689a7c1ca806e1f1e60b6e0a168d9a26a517f6d919c96f36426",
+      "bytes": 323185,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "c34cbac81b307db819d1ec634846b4fd256954b66b69aba6e2adeb593509c7e2"
+    },
+    {
+      "path": "09.jpg",
+      "sha256": "11717c35de078433c8edf68dbe70ad48cc30f3b7cd48afda31107c292b57ee30",
+      "bytes": 178887,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "4fbfd3a8970ccc3a4270539287e1b985e257837eadad95f8ec232895629289a9"
+    },
+    {
+      "path": "10.jpg",
+      "sha256": "8063f354ac0bff9dd02ac944ac88e626f6e9e0e658c55ccf8079876dd6022a90",
+      "bytes": 45088,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "f1514b7001b680884ba8d2dbad2ade22deb253324e20aaf50e87fbcef9fb0fb4"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Georges Méliès, Magic and Cinema",
+      "url": "https://artsandculture.google.com/story/AwURw-D7QTN0Kg",
+      "publisher": "La Cinémathèque française (Google Arts & Culture)",
+      "publishedAt": "2026-10-24T20:45:00+09:00",
+      "retrievedAt": "2026-10-24T20:45:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "오페라 광장에서 필름이 걸렸고 영사해 보니 버스가 영구차로 바뀌어 있었다는 '우연한 substitution splice' 일화, 1888년 로베르우댕 극장 인수, 1895년 12월 28일 뤼미에르 시네마토그래프 관람, 1897년 몽트뢰유 유리 스튜디오, 1913년까지 그곳에서 약 500편, 1895년 멜리에스 초상 소장을 확인했습니다.",
+      "usageNote": "Google Arts & Culture에 시네마테크 프랑세즈 명의로 게시. 날짜 표기 없음. 게시일 표기가 없어 publishedAt은 확인 시각으로 기록."
+    },
+    {
+      "title": "Entre art magique et cinématographe : un cas de circulation technique, le Théâtre Noir",
+      "url": "https://journals.openedition.org/1895/4608",
+      "publisher": "1895. Mille huit cent quatre-vingt-quinze (AFRHC), Frédéric Tabet",
+      "publishedAt": "2013-01-01T00:00:00Z",
+      "retrievedAt": "2026-10-24T20:50:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "멜리에스 원문 인용: 초기에 쓰던 기계가 막혀 뜻밖의 효과가 났고(Un blocage de l'appareil dont je me servais au début produisit un effet inattendu), 필름을 푸는 데 1분이 걸렸으며(une minute fut nécessaire pour débloquer la pellicule), 마들렌-바스티유 승합 마차가 영구차로, 남자들이 여자로 바뀌었다(un omnibus Madeleine-Bastille changé en corbillard et des hommes changés en femmes)는 대목과 이것이 '멈춤 트릭(truc à arrêt)'이 되었다는 점을 확인했습니다.",
+      "usageNote": "학술지 69호(2013). 논문은 원문 출처를 1906년 『Annuaire de la photographie』로 적고, 주 62에서 자크 말테트(고드로 『Cinéma et attraction』 213쪽 주 20)를 인용. 1907년 「Les Vues cinématographiques」와의 연도 차이는 unknowns."
+    },
+    {
+      "title": "The magical films of Georges Méliès make him a name to conjure with",
+      "url": "https://apollo-magazine.com/georges-melies-films-cinemateque-francaise/",
+      "publisher": "Apollo Magazine (Emilie Bickerton)",
+      "publishedAt": "2021-10-16T00:00:00Z",
+      "retrievedAt": "2026-10-24T20:55:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "거리 장면을 찍다 카메라가 걸려 다시 돌렸더니 장면이 바뀌어 'stop trick/substitution splice'가 나왔다는 일화, 시네마테크 프랑세즈 상설 전시 'Méliès: the Magic of Cinema', 몽트뢰유 스튜디오, 「달세계 여행」(1902), 1923년 파테의 재산 압류 뒤 몽파르나스역 장난감 가게, 스타 필름 520편을 확인했습니다.",
+      "usageNote": "편수는 시네마테크 '약 500편', 라루스 '503편'과 달라 '약 500편'으로 썼습니다."
+    },
+    {
+      "title": "Georges Méliès",
+      "url": "https://www.larousse.fr/encyclopedie/personnage/M%C3%A9li%C3%A8s/126671",
+      "publisher": "Encyclopédie Larousse",
+      "publishedAt": "2026-10-24T21:00:00+09:00",
+      "retrievedAt": "2026-10-24T21:00:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "1897년 몽트뢰유에 스튜디오 건설, 「달세계 여행」(1902), 503편 집계, 스타 필름 파산 뒤 1923년에서 2년 뒤 몽파르나스역 장난감 가게 개업, 1938년 파리에서 사망을 확인했습니다.",
+      "usageNote": "멈춤 트릭 일화는 이 항목에 없음. 게시일 표기가 없어 publishedAt은 확인 시각으로 기록."
+    },
+    {
+      "title": "First shot using special effects",
+      "url": "https://www.guinnessworldrecords.com/world-records/first-shot-using-special-effects",
+      "publisher": "Guinness World Records",
+      "publishedAt": "2026-10-24T21:00:00+09:00",
+      "retrievedAt": "2026-10-24T21:00:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "1895년 에디슨 회사 영화 「The Execution of Mary, Queen of Scots」(앨프리드 클라크 감독)가 멈춤 트릭으로 배우를 마네킹으로 바꾼 첫 특수효과 장면으로 기록됨을 확인했습니다. 그래서 멜리에스 일화에 '최초'를 쓰지 않았습니다.",
+      "usageNote": "검색 결과 요약으로 확인, 페이지 본문은 직접 열지 않음. 게시일 표기가 없어 publishedAt은 확인 시각으로 기록."
+    },
+    {
+      "title": "Musée Méliès. La magie du cinéma",
+      "url": "https://www.universalis.fr/encyclopedie/musee-melies-la-magie-du-cinema/",
+      "publisher": "Encyclopædia Universalis (Bernard Génin)",
+      "publishedAt": "2021-05-19T00:00:00Z",
+      "retrievedAt": "2026-10-24T21:05:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2021년 5월 19일 시네마테크 프랑세즈에서 개관, 800㎡, 멜리에스의 첫 카메라(참나무 상자) 전시, 랑글루아 소장품과 2004년 손녀의 CNC 기증품을 모았다는 점을 확인했습니다.",
+      "usageNote": "게시일은 개관일로 기록(기사 날짜 미확인)."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-24T18:41:59.825Z",
+      "attempt": 1,
+      "url": "https://artsandculture.google.com/story/AwURw-D7QTN0Kg",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-24T18:42:00.652Z",
+      "attempt": 1,
+      "url": "https://journals.openedition.org/1895/4608",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-24T18:42:01.577Z",
+      "attempt": 1,
+      "url": "https://apollo-magazine.com/georges-melies-films-cinemateque-francaise/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-24T18:42:02.396Z",
+      "attempt": 1,
+      "url": "https://www.larousse.fr/encyclopedie/personnage/M%C3%A9li%C3%A8s/126671",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-24T18:42:03.522Z",
+      "attempt": 1,
+      "url": "https://www.guinnessworldrecords.com/world-records/first-shot-using-special-effects",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-24T18:42:04.570Z",
+      "attempt": 1,
+      "url": "https://www.universalis.fr/encyclopedie/musee-melies-la-magie-du-cinema/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [
+    {
+      "source": "cinematheque.fr / britannica.com",
+      "message": "시네마테크 공식 페이지(박물관 안내·기사)가 봇 접근에 404, Britannica는 403을 돌려 직접 열지 못함."
+    },
+    {
+      "source": "commons.wikimedia.org",
+      "message": "API·썸네일 요청 중 429가 몇 번 나 간격을 두고 재시도함."
+    }
+  ],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-24T18:42:04.622Z",
+  "draftApprovedContentHash": "d92c7e750c8796db7285204d3421ac850c6d9ba87cf307738dbcbe925ed96dbb",
+  "renderedAt": "2026-10-24T18:42:13.169Z",
+  "deployedAt": "2026-10-25T01:00:24.694Z"
+}
