@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "카메라가 1분 멈췄더니 마차가 영구차로",
   "slug": "melies-stop-trick-omnibus-hearse",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "멜리에스가 오페라 광장을 찍다 카메라가 1분 멈췄고, 다시 찍은 필름 속 승합 마차가 영구차로 바뀌어 멈춤 트릭을 찾았다는 본인 회고",
@@ -332,5 +332,8 @@
   "renderedAt": "2026-10-24T18:42:13.169Z",
   "deployedAt": "2026-10-25T01:00:24.694Z",
   "verifiedAt": "2026-10-25T01:02:20.925Z",
-  "publishAttemptedAt": "2026-10-25T06:30:08.898Z"
+  "publishAttemptedAt": "2026-10-25T06:30:08.898Z",
+  "publishedAt": "2026-10-25T06:31:13.028Z",
+  "externalPostId": "17990688314995439",
+  "externalUrl": "https://www.instagram.com/p/De6Eay0FZG0/"
 }
