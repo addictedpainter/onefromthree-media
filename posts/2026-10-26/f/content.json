@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-26",
+  "slot": "f",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-25T20:40:00+09:00",
+  "generatedAt": "2026-10-25T20:55:00+09:00",
+  "package": {
+    "contentVersion": "reel",
+    "category": "art",
+    "slug": "chaekgado-hidden-seal",
+    "topic": "국립중앙박물관 전(傳) 이형록 「책가도」 병풍 9폭, 선반 위 도장들 사이에 인면이 보이게 그려 넣은 화가의 도장",
+    "title": [
+      "조선 책장 그림 속",
+      "화가가 숨긴 도장"
+    ],
+    "window": "5:4",
+    "clips": [
+      {
+        "kind": "image",
+        "image": {
+          "file": "chaekgado-duk6004-90502.jpg",
+          "provider": "nmk",
+          "sourceUrl": "https://www.museum.go.kr/MUSEUM/contents/M0502000000.do?schM=view&searchId=search&relicId=83952",
+          "imageUrl": "https://www.museum.go.kr/relic_image/PS01001001/duk000/2019/0926102431417/duk006004-000-90502.jpg",
+          "license": "KOGL-1",
+          "artist": "전(傳) 이형록",
+          "title": "책가도",
+          "year": "조선",
+          "crop": {
+            "x": 0.08,
+            "y": 0,
+            "w": 0.893,
+            "h": 1
+          }
+        },
+        "from": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "to": {
+          "x": 0.73,
+          "y": 0.3331,
+          "w": 0.27,
+          "h": 0.2158
+        },
+        "duration": 20.5,
+        "moveStart": 1,
+        "moveEnd": 12.5
+      }
+    ],
+    "subtitleMode": "ours",
+    "subtitles": [
+      {
+        "text": "조선의 책장 그림, 책가도",
+        "start": 0,
+        "end": 2.8
+      },
+      {
+        "text": "책과 꽃병, 붓과 도장이\n칸칸이 놓여 있다",
+        "start": 3,
+        "end": 5.8
+      },
+      {
+        "text": "그런데 오른쪽 칸 선반 위",
+        "start": 6,
+        "end": 8.8
+      },
+      {
+        "text": "도장 여럿 사이\n붉은 면 하나",
+        "start": 9,
+        "end": 11.8
+      },
+      {
+        "text": "화가가 그려 넣은\n자기 도장",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "이름 대신 숨겨 그린 도장\n'은인'이라 부른다",
+        "start": 15.2,
+        "end": 17.9
+      },
+      {
+        "text": "전(傳) 이형록, 조선\n국립중앙박물관",
+        "start": 18.1,
+        "end": 20.5
+      }
+    ],
+    "music": {
+      "file": "chaekgado-music.m4a",
+      "title": "Ambient bed",
+      "artist": "MiniMax-Music3",
+      "license": "Generated",
+      "sourceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+      "volume": 1
+    },
+    "coverAt": 13,
+    "hook": "📚 조선 책장 그림 선반 위, 도장 하나는 화가가 몰래 그려 넣은 자기 도장이에요.",
+    "body": [
+      "국립중앙박물관이 소장한 전(傳) 이형록 「책가도」 병풍이에요. 책장 칸마다 책과 꽃병, 붓과 도장을 그린 조선 그림이에요.",
+      "9폭 선반 위 도장들 가운데 하나는 찍히는 면이 보이게 그려졌어요. 박물관은 이 도장을 화가가 자기 이름을 새겨 그려 넣은 것이라고 설명해요. 이렇게 그림 속 소품처럼 숨긴 도장을 '은인(隱印)'이라고 불러요."
+    ],
+    "question": "그림에 내 이름을 숨긴다면 어디에 넣을래요?",
+    "editor": "Haein",
+    "hashtags": [
+      "#책가도",
+      "#국립중앙박물관",
+      "#조선회화",
+      "#그림속디테일",
+      "#명화"
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 2,
+      "evidenceAndImages": 2,
+      "availableNow": 1,
+      "rationale": "'조선 책장 그림 속에 화가가 숨긴 도장'이라는 한 문장이 그대로 DM이 된다. 9폭 도장은 국립중앙박물관 큐레이터 글('인면이 보이도록 눕혀 표현', '제9폭에 자신의 이름을 새긴 도장'), 은인 관행은 독립 자료 한국민족문화대백과('은인(隱印)이 있어 … 이형록의 작품임을 알 수 있다')와 서울시 미디어허브가 적는다. 이미지는 소장품 상세 페이지 공공누리 제1유형, /relic_image/ 부분 컷 3000×2682. 한국어 확대 릴스 선발 계정이 없어 새로움 2점, 지금 고리는 없어 1점. 버린 제목 후보: ① '낙관 없는 조선 그림 / 선반 위 화가 도장' — '낙관'은 독자가 모르는 용어(작법 8)이고 '낙관 없는'이 배경을 설명하는 수식절(판정표 ★)이다. ② '도장 여럿 사이 / 진짜 화가 도장' — '진짜'가 나머지 도장을 가짜처럼 읽히게 해 사실을 비튼다."
+    },
+    "unknowns": [
+      "소장품 상세 페이지 명칭은 '전이형록필 책가도(傳李亨祿筆冊架圖)', 작가 칸은 '傳李應祿'이다. 화면·캡션 작가는 명칭대로 '전(傳) 이형록'으로 적었다.",
+      "한국민족문화대백과는 이형록이 1864년 이응록으로 개명했다고 적는다(작가 칸 한자 '應'과 백과의 '膺'은 다르다). 도장 글자는 판독하지 않아 자막에 쓰지 않았다(보고서 4절).",
+      "연도는 소장품 상세 페이지 표기('한국 - 조선')를 따라 '조선'으로만 적었다. 큐레이터 글의 '조선 19세기'는 쓰지 않았다.",
+      "부분 컷(병풍 오른쪽 폭들)이라 병풍 전체가 아니다. 왼쪽 장황 비단과 오른쪽 종이 테두리는 crop으로 뺐다. 도장은 원본 x 2525~2650, y 1122~1245px.",
+      "확대 끝 상자는 1.5배 한계 때문에 원본 723px 폭까지만 당겼다(도장은 창 폭의 약 17%). 큐레이터 글의 '작가 미상이었다가 도장으로 화가를 알게 됐다'와 정조 일화는 기관 단독이라 쓰지 않았다."
+    ]
+  },
+  "sources": [
+    {
+      "title": "전이형록필 책가도 (傳李亨祿筆冊架圖)",
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0502000000.do?schM=view&searchId=search&relicId=83952",
+      "publisher": "국립중앙박물관",
+      "publishedAt": "2026-10-25T00:00:00+09:00",
+      "retrievedAt": "2026-10-25T20:45:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "소장품 상세. 명칭 전이형록필 책가도, 다른명칭 傳李亨祿筆冊架圖, 국적/시대 한국 - 조선, 작가 傳李應祿, 세로 152.7cm 전체가로 352.0cm, 소장품번호 덕수6004, 공공누리 제1유형(출처표시). 이미지 내려받기 파일 duk006004-000-90502.jpg(/relic_image/).",
+      "usageNote": "이미지 원본, 작품 표기."
+    },
+    {
+      "title": "조선시대 책가도 - 책을 사랑하는 마음을 담다 (큐레이터 추천 소장품)",
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0501000000.do?schM=view&relicRecommendId=562147",
+      "publisher": "국립중앙박물관",
+      "publishedAt": "2026-10-25T00:00:00+09:00",
+      "retrievedAt": "2026-10-25T20:47:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "덕수6004 책가도 해설. '인장을 그려 넣으면서 인면(印面)이 보이도록 눕혀 표현한 경우가 있습니다 … 이를 숨겨진 도장, 즉 은인(隱印)이라고 합니다', '궁중화원이었던 이형록은 책가도 병풍 제9폭에 자신의 이름을 새긴 도장을 그려 넣었습니다'. 글의 이미지는 공공누리 3·4유형이라 쓰지 않는다.",
+      "usageNote": "9폭 도장 사실 확인(소장 기관). 이미지 사용 안 함."
+    },
+    {
+      "title": "책가도 (한국민족문화대백과사전)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055679",
+      "publisher": "한국학중앙연구원",
+      "publishedAt": "2026-10-25T00:00:00+09:00",
+      "retrievedAt": "2026-10-25T20:48:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "이형록의 다른 책가도에 대해 '화면 왼쪽 하단에 보이는 도장에 이형록인(李亨祿印)이라는 은인(隱印)이 있어 이 그림이 화원 이형록의 작품임을 알 수 있다'. 이형록이 1864년 이응록, 1871년 이택균으로 개명했다고 적는다.",
+      "usageNote": "은인 관행 확인 1(독립). 자막 '이름 대신 숨겨 그린 도장, 은인'의 근거."
+    },
+    {
+      "title": "궁중화원 이택균의 '책가도 병풍' 서울시 유형문화재로",
+      "url": "https://mediahub.seoul.go.kr/archives/1291746",
+      "publisher": "서울특별시 미디어허브",
+      "publishedAt": "2026-10-25T00:00:00+09:00",
+      "retrievedAt": "2026-10-25T20:49:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "'책가도 병풍 안에 숨겨 그려 놓은 은인(隱印)을 통해 작가 및 제작시기를 추정할 수 있어', '이택균의 본명은 이형록으로 … 1864년에 이응록(李膺祿)으로 개명'.",
+      "usageNote": "은인 관행 확인 2(독립)."
+    }
+  ],
+  "collectionErrors": []
+}

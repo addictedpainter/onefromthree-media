@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-26",
+  "slot": "f",
+  "postId": "2026-10-26-f",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "조선 책장 그림 속 화가가 숨긴 도장",
+  "slug": "chaekgado-hidden-seal",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "reel",
+    "topic": "국립중앙박물관 전(傳) 이형록 「책가도」 병풍 9폭, 선반 위 도장들 사이에 인면이 보이게 그려 넣은 화가의 도장",
+    "category": "art",
+    "editor": "Haein",
+    "shareScore": 9,
+    "durationSeconds": 20.5,
+    "clipCount": 1,
+    "channels": [],
+    "reelKind": "painting",
+    "imageTiers": {
+      "public_domain": 1
+    }
+  },
+  "generatedAt": "2026-10-25T20:55:00+09:00",
+  "scheduledStartAt": "2026-10-25T18:30:00.000Z",
+  "actualStartedAt": "2026-10-25T20:40:00+09:00",
+  "imageCount": 1,
+  "contentHash": "05155a8c3a729fee0f9f7c8277b4347cbf0ab45586598c4461ff8f7e5c3155e9",
+  "idempotencyKey": "scenenode:2026-10-26-f:05155a8c3a729fee",
+  "media": [
+    {
+      "path": "reel.mp4",
+      "sha256": "e2b4729904de3d43e5de0f5f2bef1f9806f60dcc36bd606bae41ae70ed058d44",
+      "bytes": 4739690,
+      "width": 1080,
+      "height": 1920,
+      "contentType": "video/mp4",
+      "durationSeconds": 20.5
+    }
+  ],
+  "sources": [
+    {
+      "title": "전이형록필 책가도 (傳李亨祿筆冊架圖)",
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0502000000.do?schM=view&searchId=search&relicId=83952",
+      "publisher": "국립중앙박물관",
+      "publishedAt": "2026-10-25T00:00:00+09:00",
+      "retrievedAt": "2026-10-25T20:45:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "소장품 상세. 명칭 전이형록필 책가도, 다른명칭 傳李亨祿筆冊架圖, 국적/시대 한국 - 조선, 작가 傳李應祿, 세로 152.7cm 전체가로 352.0cm, 소장품번호 덕수6004, 공공누리 제1유형(출처표시). 이미지 내려받기 파일 duk006004-000-90502.jpg(/relic_image/).",
+      "usageNote": "이미지 원본, 작품 표기."
+    },
+    {
+      "title": "조선시대 책가도 - 책을 사랑하는 마음을 담다 (큐레이터 추천 소장품)",
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0501000000.do?schM=view&relicRecommendId=562147",
+      "publisher": "국립중앙박물관",
+      "publishedAt": "2026-10-25T00:00:00+09:00",
+      "retrievedAt": "2026-10-25T20:47:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "덕수6004 책가도 해설. '인장을 그려 넣으면서 인면(印面)이 보이도록 눕혀 표현한 경우가 있습니다 … 이를 숨겨진 도장, 즉 은인(隱印)이라고 합니다', '궁중화원이었던 이형록은 책가도 병풍 제9폭에 자신의 이름을 새긴 도장을 그려 넣었습니다'. 글의 이미지는 공공누리 3·4유형이라 쓰지 않는다.",
+      "usageNote": "9폭 도장 사실 확인(소장 기관). 이미지 사용 안 함."
+    },
+    {
+      "title": "책가도 (한국민족문화대백과사전)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055679",
+      "publisher": "한국학중앙연구원",
+      "publishedAt": "2026-10-25T00:00:00+09:00",
+      "retrievedAt": "2026-10-25T20:48:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "이형록의 다른 책가도에 대해 '화면 왼쪽 하단에 보이는 도장에 이형록인(李亨祿印)이라는 은인(隱印)이 있어 이 그림이 화원 이형록의 작품임을 알 수 있다'. 이형록이 1864년 이응록, 1871년 이택균으로 개명했다고 적는다.",
+      "usageNote": "은인 관행 확인 1(독립). 자막 '이름 대신 숨겨 그린 도장, 은인'의 근거."
+    },
+    {
+      "title": "궁중화원 이택균의 '책가도 병풍' 서울시 유형문화재로",
+      "url": "https://mediahub.seoul.go.kr/archives/1291746",
+      "publisher": "서울특별시 미디어허브",
+      "publishedAt": "2026-10-25T00:00:00+09:00",
+      "retrievedAt": "2026-10-25T20:49:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "'책가도 병풍 안에 숨겨 그려 놓은 은인(隱印)을 통해 작가 및 제작시기를 추정할 수 있어', '이택균의 본명은 이형록으로 … 1864년에 이응록(李膺祿)으로 개명'.",
+      "usageNote": "은인 관행 확인 2(독립)."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-25T18:39:22.748Z",
+      "attempt": 1,
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0502000000.do?schM=view&searchId=search&relicId=83952",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-25T18:39:23.543Z",
+      "attempt": 1,
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0501000000.do?schM=view&relicRecommendId=562147",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-25T18:39:23.688Z",
+      "attempt": 1,
+      "url": "https://encykorea.aks.ac.kr/Article/E0055679",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-25T18:39:24.532Z",
+      "attempt": 1,
+      "url": "https://mediahub.seoul.go.kr/archives/1291746",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-25T18:39:24.550Z",
+  "draftApprovedContentHash": "05155a8c3a729fee0f9f7c8277b4347cbf0ab45586598c4461ff8f7e5c3155e9",
+  "renderedAt": "2026-10-25T18:39:50.683Z",
+  "deployedAt": "2026-10-26T01:00:29.606Z"
+}
