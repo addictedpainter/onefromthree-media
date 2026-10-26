@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-26",
+  "slot": "d",
+  "postId": "2026-10-26-d",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "초콜릿으로 만든 픽사 램프 불까지 켜진다",
+  "slug": "amaury-guichon-chocolate-pixar-lamp",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "reel",
+    "topic": "프랑스 출신 쇼콜라티에 아모리 기숑이 픽사 램프를 초콜릿으로 만들고 불을 켜는 작업 영상(본인 유튜브 쇼츠, 2026-09-29, 1,448만 회)",
+    "category": "art",
+    "editor": "Haein",
+    "shareScore": 9,
+    "durationSeconds": 26.5,
+    "clipCount": 9,
+    "channels": [
+      "Amaury Guichon"
+    ]
+  },
+  "generatedAt": "2026-10-25T21:20:00+09:00",
+  "scheduledStartAt": "2026-10-25T18:30:00.000Z",
+  "actualStartedAt": "2026-10-25T20:35:00+09:00",
+  "imageCount": 1,
+  "contentHash": "cd2b1b291c69875d0f8d48b06b79fba58f1a8c3119fc444d8164810bc589ed05",
+  "idempotencyKey": "scenenode:2026-10-26-d:cd2b1b291c69875d",
+  "media": [
+    {
+      "path": "reel.mp4",
+      "sha256": "e803aa7b4420aa1fd65187da35f912ce6b9c024efb77f113a674ab9c0ac4c7f6",
+      "bytes": 20005467,
+      "width": 1080,
+      "height": 1920,
+      "contentType": "video/mp4",
+      "durationSeconds": 26.5
+    }
+  ],
+  "sources": [
+    {
+      "title": "Chocolate Pixar Lamp!  Can you believe it actually works!! #amauryguichon #chocolate",
+      "url": "https://www.youtube.com/watch?v=NGiUO7_tzeA",
+      "publisher": "Amaury Guichon (YouTube, 작가 본인 채널)",
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "retrievedAt": "2026-10-25T21:05:00+09:00",
+      "kind": "official_social",
+      "evidenceSummary": "작가 본인 쇼츠 60초, 1080×1920, 2026-09-29 공개, 조회 14,487,451(yt-dlp 2026-10-25). 초콜릿을 부어 공을 굳히고 스프링·팔 부품을 깎아 조립, 색을 입혀 픽사 공 위에 세운 뒤 어두운 곳에서 불이 켜진다.",
+      "usageNote": "릴스 클립 원본: 52~54.5, 0~2.5, 6~8.5, 9~11.5, 18~20.5, 21~23.5, 36~38.5, 45~49, 55~60초. 원음 끔."
+    },
+    {
+      "title": "School of Chocolate",
+      "url": "https://www.netflix.com/title/81207686",
+      "publisher": "Netflix",
+      "publishedAt": "2021-11-26T00:00:00Z",
+      "retrievedAt": "2026-10-25T21:10:00+09:00",
+      "kind": "official_documentation",
+      "evidenceSummary": "넷플릭스 〈스쿨 오브 초콜릿〉(2021-11-26 공개, 8부작) 진행자 아모리 기숑. 검색 결과로 확인.",
+      "usageNote": "사실 확인용"
+    },
+    {
+      "title": "Amaury Guichon",
+      "url": "https://en.wikipedia.org/wiki/Amaury_Guichon",
+      "publisher": "Wikipedia (Deadline Hollywood·TheWrap·Las Vegas Weekly 인용)",
+      "publishedAt": "2026-10-25T00:00:00Z",
+      "retrievedAt": "2026-10-25T21:08:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "1991년생 프랑스·스위스 국적 페이스트리 셰프·쇼콜라티에, 라스베이거스 거주. 2019년 라스베이거스에 페이스트리 아카데미 공동 설립. 2021년 넷플릭스 〈School of Chocolate〉 진행. 유튜브 구독 약 2,390만.",
+      "usageNote": "보조로 Mashed 'The Untold Truth Of School Of Chocolate's Amaury Guichon'(https://www.mashed.com/620933/the-untold-truth-of-school-of-chocolates-amaury-guichon/)."
+    },
+    {
+      "title": "Luxo Jr.",
+      "url": "https://www.pixar.com/luxo-jr",
+      "publisher": "Pixar",
+      "publishedAt": "2026-10-25T00:00:00Z",
+      "retrievedAt": "2026-10-25T21:10:00+09:00",
+      "kind": "official_documentation",
+      "evidenceSummary": "픽사 단편 〈룩소 주니어〉 1986년, 감독 존 래시터, 아기 램프 이야기.",
+      "usageNote": "사실 확인용"
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-25T18:38:50.490Z",
+      "attempt": 1,
+      "url": "https://www.youtube.com/watch?v=NGiUO7_tzeA",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-25T18:38:52.258Z",
+      "attempt": 1,
+      "url": "https://www.netflix.com/title/81207686",
+      "httpStatus": 200,
+      "outcome": "verified",
+      "detail": "Redirected to https://www.netflix.com/kr/title/81207686"
+    },
+    {
+      "attemptedAt": "2026-10-25T18:38:52.643Z",
+      "attempt": 1,
+      "url": "https://en.wikipedia.org/wiki/Amaury_Guichon",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-25T18:38:53.167Z",
+      "attempt": 1,
+      "url": "https://www.pixar.com/luxo-jr",
+      "httpStatus": 206,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-25T18:38:53.836Z",
+  "draftApprovedContentHash": "cd2b1b291c69875d0f8d48b06b79fba58f1a8c3119fc444d8164810bc589ed05",
+  "renderedAt": "2026-10-25T18:39:02.182Z",
+  "deployedAt": "2026-10-26T01:00:29.600Z"
+}

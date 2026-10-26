@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-26",
+  "slot": "d",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-25T20:35:00+09:00",
+  "generatedAt": "2026-10-25T21:20:00+09:00",
+  "package": {
+    "contentVersion": "reel",
+    "category": "art",
+    "slug": "amaury-guichon-chocolate-pixar-lamp",
+    "topic": "프랑스 출신 쇼콜라티에 아모리 기숑이 픽사 램프를 초콜릿으로 만들고 불을 켜는 작업 영상(본인 유튜브 쇼츠, 2026-09-29, 1,448만 회)",
+    "title": [
+      "초콜릿으로 만든 픽사 램프",
+      "불까지 켜진다"
+    ],
+    "window": "9:16",
+    "clips": [
+      {
+        "file": "clip-01.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=NGiUO7_tzeA",
+        "channel": "Amaury Guichon",
+        "start": 52,
+        "end": 54.5,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "zoom": 1,
+        "audio": false
+      },
+      {
+        "file": "clip-02.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=NGiUO7_tzeA",
+        "channel": "Amaury Guichon",
+        "start": 0,
+        "end": 2.5,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "zoom": 1,
+        "audio": false
+      },
+      {
+        "file": "clip-03.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=NGiUO7_tzeA",
+        "channel": "Amaury Guichon",
+        "start": 6,
+        "end": 8.5,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "zoom": 1,
+        "audio": false
+      },
+      {
+        "file": "clip-04.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=NGiUO7_tzeA",
+        "channel": "Amaury Guichon",
+        "start": 9,
+        "end": 11.5,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "zoom": 1,
+        "audio": false
+      },
+      {
+        "file": "clip-05.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=NGiUO7_tzeA",
+        "channel": "Amaury Guichon",
+        "start": 18,
+        "end": 20.5,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "zoom": 1,
+        "audio": false
+      },
+      {
+        "file": "clip-06.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=NGiUO7_tzeA",
+        "channel": "Amaury Guichon",
+        "start": 21,
+        "end": 23.5,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "zoom": 1,
+        "audio": false
+      },
+      {
+        "file": "clip-07.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=NGiUO7_tzeA",
+        "channel": "Amaury Guichon",
+        "start": 36,
+        "end": 38.5,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "zoom": 1,
+        "audio": false
+      },
+      {
+        "file": "clip-08.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=NGiUO7_tzeA",
+        "channel": "Amaury Guichon",
+        "start": 45,
+        "end": 49,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "zoom": 1,
+        "audio": false
+      },
+      {
+        "file": "clip-09.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=NGiUO7_tzeA",
+        "channel": "Amaury Guichon",
+        "start": 55,
+        "end": 60,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "zoom": 1,
+        "audio": false
+      }
+    ],
+    "subtitleMode": "ours",
+    "subtitles": [
+      {
+        "text": "픽사 영화 첫 화면의\n바로 그 램프",
+        "start": 0.2,
+        "end": 2.4
+      },
+      {
+        "text": "녹인 초콜릿을 부어\n받침 공부터 만들고",
+        "start": 2.6,
+        "end": 7.3
+      },
+      {
+        "text": "스프링과 팔도\n하나하나 깎아 붙인다",
+        "start": 7.5,
+        "end": 12.3
+      },
+      {
+        "text": "조립하고\n색을 입히면",
+        "start": 12.5,
+        "end": 17.3
+      },
+      {
+        "text": "마지막으로 전구를 끼우고",
+        "start": 17.5,
+        "end": 21.3
+      },
+      {
+        "text": "완성된 램프에",
+        "start": 21.5,
+        "end": 23.1
+      },
+      {
+        "text": "진짜로\n불이 들어온다",
+        "start": 23.3,
+        "end": 26.3
+      }
+    ],
+    "music": {
+      "file": "amaury-guichon-chocolate-pixar-lamp-music.m4a",
+      "title": "Ambient bed",
+      "artist": "MiniMax-Music3",
+      "license": "Generated",
+      "sourceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+      "volume": 1
+    },
+    "coverAt": 1,
+    "hook": "💡 픽사 영화 첫 화면에 나오는 그 램프, 초콜릿으로 만들었는데 불까지 켜져요.",
+    "body": [
+      "만든 사람은 프랑스·스위스 국적의 쇼콜라티에 아모리 기숑이에요. 라스베이거스에서 디저트 학교를 운영하고, 2021년 넷플릭스 〈스쿨 오브 초콜릿〉에서 진행과 심사를 맡았던 사람이죠.",
+      "9월 29일 본인 유튜브에 올린 이 1분짜리 영상은 지금까지 1,400만 번 넘게 재생됐어요. 초콜릿을 부어 받침 공을 굳히고, 스프링과 팔을 깎아 이어 붙인 뒤, 색을 입혀 픽사 공 위에 램프를 세웁니다. 마지막엔 이 초콜릿 램프에 진짜로 불이 들어오죠.",
+      "이 램프의 원래 주인공은 1986년 존 래시터 감독의 픽사 단편 〈룩소 주니어〉에 나온 아기 램프예요. 아모리 기숑의 다른 초콜릿 작품은 유튜브 채널 'Amaury Guichon'에서 볼 수 있어요."
+    ],
+    "question": "이 램프, 먹는다면 어디부터 먹을 건가요?",
+    "credits": "Amaury Guichon (YouTube)",
+    "editor": "Haein",
+    "hashtags": [
+      "#아모리기숑",
+      "#초콜릿아트",
+      "#픽사",
+      "#룩소주니어",
+      "#작업영상"
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 2,
+      "evidenceAndImages": 2,
+      "availableNow": 1,
+      "rationale": "픽사 좋아하는 친구, 디저트 좋아하는 친구에게 '초콜릿 픽사 램프인데 불이 켜져'로 바로 보낼 영상. 원본은 작가 본인 유튜브 쇼츠(1,448만 회, 채널 구독 약 2,390만). 말 없이 상업 음악일 수 있는 배경음만 있어(자막 트랙은 비어 있음) 원음을 끄고 우리 배경음을 넣었다. 작가 작업 영상 점수 8: 화제 증거 1(조회 100만 이상), 반전 3(초콜릿인데 불이 켜짐), 첫 1초 2(완성 램프), 원본 2. 제목 후보: (1안, 선택) '초콜릿으로 만든 픽사 램프 / 불까지 켜진다' — 아는 물건(픽사 램프) + 반전 하나, 현재형은 한 줄만. (2안, 버림) '다 초콜릿인데 / 불이 켜지는 픽사 램프' — 전구·전선까지 초콜릿인지 영상과 출처로 확인되지 않아 '다'는 사실을 넘는다. (3안, 버림) '먹을 수 있는 / 픽사 램프' — 먹을 수 있는지는 확인 안 됐고 불 켜지는 반전이 빠짐."
+    },
+    "unknowns": [
+      "전구·전선·불빛을 내는 부품이 무엇으로 만들어졌는지는 영상에 설명이 없다. 그래서 '전부 초콜릿'이라고 쓰지 않고 '초콜릿으로 만든', '진짜로 켜지는'만 썼다. 영상 제목 원문은 'Chocolate Pixar Lamp! Can you believe it actually works!!'.",
+      "영상 오른쪽 아래의 원형 로고는 작가 본인 워터마크다(남의 워터마크 아님).",
+      "원음은 말 없는 음악(유튜브 자동 자막 없음). 곡 표기가 없어 상업 음악일 수 있으므로 audio:false + reel:music 배경음.",
+      "공개 2026-09-29라 48시간 신선도 기준 밖이지만, 작가 작업 영상 칸(2026-10-25 사용자 결정)이라 옛 영상이어도 쓴다. 최근 7일 클립 릴스가 국내 7·해외 3이라 해외로 잡았다."
+    ]
+  },
+  "sources": [
+    {
+      "title": "Chocolate Pixar Lamp!  Can you believe it actually works!! #amauryguichon #chocolate",
+      "url": "https://www.youtube.com/watch?v=NGiUO7_tzeA",
+      "publisher": "Amaury Guichon (YouTube, 작가 본인 채널)",
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "retrievedAt": "2026-10-25T21:05:00+09:00",
+      "kind": "official_social",
+      "evidenceSummary": "작가 본인 쇼츠 60초, 1080×1920, 2026-09-29 공개, 조회 14,487,451(yt-dlp 2026-10-25). 초콜릿을 부어 공을 굳히고 스프링·팔 부품을 깎아 조립, 색을 입혀 픽사 공 위에 세운 뒤 어두운 곳에서 불이 켜진다.",
+      "usageNote": "릴스 클립 원본: 52~54.5, 0~2.5, 6~8.5, 9~11.5, 18~20.5, 21~23.5, 36~38.5, 45~49, 55~60초. 원음 끔."
+    },
+    {
+      "title": "School of Chocolate",
+      "url": "https://www.netflix.com/title/81207686",
+      "publisher": "Netflix",
+      "publishedAt": "2021-11-26T00:00:00Z",
+      "retrievedAt": "2026-10-25T21:10:00+09:00",
+      "kind": "official_documentation",
+      "evidenceSummary": "넷플릭스 〈스쿨 오브 초콜릿〉(2021-11-26 공개, 8부작) 진행자 아모리 기숑. 검색 결과로 확인.",
+      "usageNote": "사실 확인용"
+    },
+    {
+      "title": "Amaury Guichon",
+      "url": "https://en.wikipedia.org/wiki/Amaury_Guichon",
+      "publisher": "Wikipedia (Deadline Hollywood·TheWrap·Las Vegas Weekly 인용)",
+      "publishedAt": "2026-10-25T00:00:00Z",
+      "retrievedAt": "2026-10-25T21:08:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "1991년생 프랑스·스위스 국적 페이스트리 셰프·쇼콜라티에, 라스베이거스 거주. 2019년 라스베이거스에 페이스트리 아카데미 공동 설립. 2021년 넷플릭스 〈School of Chocolate〉 진행. 유튜브 구독 약 2,390만.",
+      "usageNote": "보조로 Mashed 'The Untold Truth Of School Of Chocolate's Amaury Guichon'(https://www.mashed.com/620933/the-untold-truth-of-school-of-chocolates-amaury-guichon/)."
+    },
+    {
+      "title": "Luxo Jr.",
+      "url": "https://www.pixar.com/luxo-jr",
+      "publisher": "Pixar",
+      "publishedAt": "2026-10-25T00:00:00Z",
+      "retrievedAt": "2026-10-25T21:10:00+09:00",
+      "kind": "official_documentation",
+      "evidenceSummary": "픽사 단편 〈룩소 주니어〉 1986년, 감독 존 래시터, 아기 램프 이야기.",
+      "usageNote": "사실 확인용"
+    }
+  ],
+  "collectionErrors": []
+}
