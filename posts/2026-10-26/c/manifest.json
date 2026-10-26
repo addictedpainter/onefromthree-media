@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-26",
+  "slot": "c",
+  "postId": "2026-10-26-c",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "픽셀을 네모로 만든 사람 \"바보 같은 짓\"",
+  "slug": "kirsch-square-pixel-very-foolish",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "v3",
+    "topic": "1957년 첫 디지털 스캔 사진(생후 3개월 아들 월든, 176×176)을 만든 러셀 커시가 2010년 네모 픽셀을 '아주 바보 같은 짓'이라고 한 이야기",
+    "category": "cg",
+    "editor": "Juno",
+    "shareScore": 9,
+    "coverLayout": "caption",
+    "imageTiers": {
+      "public_domain": 9
+    }
+  },
+  "generatedAt": "2026-10-25T20:55:00+09:00",
+  "scheduledStartAt": "2026-10-25T18:30:00.000Z",
+  "actualStartedAt": "2026-10-25T20:40:00+09:00",
+  "imageCount": 10,
+  "contentHash": "8853075fb18e20f91da7496627244e69a5d04604c602e9e05e633b11ab50f638",
+  "idempotencyKey": "scenenode:2026-10-26-c:8853075fb18e20f9",
+  "media": [
+    {
+      "path": "01.jpg",
+      "sha256": "ab1db2807587594c8a85d7fbc048530004bf89dca634c55b4eabf58347f1bc82",
+      "bytes": 137513,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "730b3bad3f7ffd495c516c6dea62470a3b0753779e8174aa95a3a5470a8b0cfd"
+    },
+    {
+      "path": "02.jpg",
+      "sha256": "2fd6d102ab3661e9c45e3e8c6f11899e55ec5a2a9e4100197d8e08b11ad1249c",
+      "bytes": 513976,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "1d52fc95628d687bd2c66aed65a754813dbfe97699d8ab8df7382c1a71301ad8"
+    },
+    {
+      "path": "03.jpg",
+      "sha256": "0a71410fff46ee3884d64d080e1d3cb8715e5d25359912cc399c08aaf439b85b",
+      "bytes": 233098,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "ced5d02ef78efb9527a2e323491f7a873b74c29bd69c947eeadfbd13babe2acc"
+    },
+    {
+      "path": "04.jpg",
+      "sha256": "6bf6e1e89fb4136c47ab7928a151eb2c81e883f7ac50211e8788110e271d840a",
+      "bytes": 326513,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "89b6fe6579f1b4e723d343f0aab747c53fff3da1e4f445b7155485b79fdcd2a8"
+    },
+    {
+      "path": "05.jpg",
+      "sha256": "24c1353a0cffec5f466d28ab36d2e3987a9e36a8a6ec74d7e4e7c6ecb2870a06",
+      "bytes": 151403,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "e6ec7c6eb5cf2c74463863d1e730378f9c2c2cfc768e01602435fce3ba7203f3"
+    },
+    {
+      "path": "06.jpg",
+      "sha256": "cb207274e9c8b74246a556f01d7faa07db75326508229f2ecd02c190942079f6",
+      "bytes": 165214,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "6af5d71bdcc533e64a045ea4adf7bd8ff7022c0da89fb56fd5c26481a62d6a5b"
+    },
+    {
+      "path": "07.jpg",
+      "sha256": "00439b97593b975d9a32fee0f67a6a436b34994254a6ec059d7c8f2db23a5b87",
+      "bytes": 285236,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "b312d239c6dbbcae4b58d2d00912d2f13fc7a63087bb61d1cf6a30ca6cf4e437"
+    },
+    {
+      "path": "08.jpg",
+      "sha256": "ea4776e4b15e6e4e2b1ec0b6eb8baf16583855c10f9a5aa832a2efc14b874595",
+      "bytes": 647879,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "1c909b00c88aff5c1aec3ef295d4c668f24b57ef85d885cb682a7ca8ce46f574"
+    },
+    {
+      "path": "09.jpg",
+      "sha256": "98f492828d0895967b16a377c35dced98bc7ca13354a04f848bc25c0733f366c",
+      "bytes": 264688,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "b49ff9ffa0ea65c8c3f8e60e191d57a33c7b5909eca2e9aab5648baf58422102"
+    },
+    {
+      "path": "10.jpg",
+      "sha256": "d75529ff101bf277bf21b12f51a80d35e282dc2fce0616dc32c3cba6317dd551",
+      "bytes": 46358,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "66830a4de019cbb3d251e3d7d19b3f0219317c537305e2f4b15d64ccd5cd295b"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Circling the square",
+      "url": "https://www.sciencenews.org/article/circling-square",
+      "publisher": "Science News",
+      "publishedAt": "2010-06-25T00:00:00Z",
+      "retrievedAt": "2026-10-25T20:41:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "커시의 말 \"Squares was the logical thing to do\", \"It was something very foolish that everyone in the world has been suffering from ever since\", 첫 디지털 이미지가 176×176픽셀로 메모리에 묶였다는 점, 81세에 6×6 마스크로 모양이 바뀌는 픽셀 방법을 NIST 학술지 2010년 5·6월호에 냈다는 점을 확인했습니다.",
+      "usageNote": "2010년 7월 17일 인쇄판. Wired가 다시 실었다고 AP 부고가 적음(Wired는 직접 열지 못함)."
+    },
+    {
+      "title": "Computer scientist, pixel inventor Russell Kirsch dead at 91",
+      "url": "https://www.opb.org/article/2020/08/14/bc-us-russell-kirsch-obituary",
+      "publisher": "The Associated Press (Oregon Public Broadcasting 게재)",
+      "publishedAt": "2020-08-14T00:00:00Z",
+      "retrievedAt": "2026-10-25T20:48:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2020년 8월 11일 포틀랜드 집에서 91세로 사망, 1957년 아들 월든 사진, 약 2×2인치·한 변 176픽셀·약 3만 1천 픽셀, 모양이 바뀌는 픽셀 방법, 위 두 인용을 확인했습니다.",
+      "usageNote": "AP 기사 재게재."
+    },
+    {
+      "title": "Fiftieth Anniversary of First Digital Image Marked",
+      "url": "https://www.nist.gov/node/406506",
+      "publisher": "National Institute of Standards and Technology",
+      "publishedAt": "2007-05-24T00:00:00Z",
+      "retrievedAt": "2026-10-25T20:46:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "생후 3개월 아들 월든의 상반신 사진, 5cm×5cm, 한 변 176픽셀, 커시 팀이 만든 회전 드럼 스캐너와 프로그램, SEAC, 2003년 『라이프』 '세상을 바꾼 사진 100장' 선정, \"What would happen if computers could look at pictures?\"를 확인했습니다.",
+      "usageNote": "NIST 보도자료(2025-02-03 갱신)."
+    },
+    {
+      "title": "First Digital Image",
+      "url": "https://www.nist.gov/node/1697961",
+      "publisher": "National Institute of Standards and Technology",
+      "publishedAt": "2026-10-25T20:46:00+09:00",
+      "retrievedAt": "2026-10-25T20:46:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "1957년, 생후 3개월 월든, 176픽셀, 회전 드럼 스캐너, SEAC, 『라이프』 100장을 다시 확인했습니다.",
+      "usageNote": "게시일 표기가 없어 publishedAt은 확인 시각으로 기록."
+    },
+    {
+      "title": "Russell Kirsch, Inventor of the Pixel and Creator of the First Digital Photo, Dies at 91",
+      "url": "https://gizmodo.com/russell-kirsch-inventor-of-the-pixel-and-creator-of-th-1844724606",
+      "publisher": "Gizmodo (Matt Novak)",
+      "publishedAt": "2020-08-14T17:15:00Z",
+      "retrievedAt": "2026-10-25T20:50:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "새로 만든 드럼 스캐너를 시험하려고 생후 3개월 아기 사진을 넣었다는 점, SEAC(1950년)와 176×176픽셀을 확인했습니다.",
+      "usageNote": "광고·관련 기사 외 본문만 확인."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-25T18:42:11.771Z",
+      "attempt": 1,
+      "url": "https://www.sciencenews.org/article/circling-square",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-25T18:42:12.349Z",
+      "attempt": 1,
+      "url": "https://www.opb.org/article/2020/08/14/bc-us-russell-kirsch-obituary",
+      "httpStatus": 200,
+      "outcome": "verified",
+      "detail": "Redirected to https://www.opb.org/article/2020/08/14/bc-us-russell-kirsch-obituary/"
+    },
+    {
+      "attemptedAt": "2026-10-25T18:42:13.336Z",
+      "attempt": 1,
+      "url": "https://www.nist.gov/node/406506",
+      "httpStatus": 206,
+      "outcome": "verified",
+      "detail": "Redirected to https://www.nist.gov/news-events/news/2007/05/fiftieth-anniversary-first-digital-image-marked"
+    },
+    {
+      "attemptedAt": "2026-10-25T18:42:14.000Z",
+      "attempt": 1,
+      "url": "https://www.nist.gov/node/1697961",
+      "httpStatus": 206,
+      "outcome": "verified",
+      "detail": "Redirected to https://www.nist.gov/mathematics-statistics/first-digital-image"
+    },
+    {
+      "attemptedAt": "2026-10-25T18:42:14.599Z",
+      "attempt": 1,
+      "url": "https://gizmodo.com/russell-kirsch-inventor-of-the-pixel-and-creator-of-th-1844724606",
+      "httpStatus": 206,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [
+    {
+      "source": "wired.com",
+      "message": "Wired 2010년 재게재 기사를 직접 열지 못함."
+    },
+    {
+      "source": "commons.wikimedia.org",
+      "message": "API 요청 중 429가 한 번 나 간격을 두고 재시도함."
+    }
+  ],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-25T18:42:14.649Z",
+  "draftApprovedContentHash": "8853075fb18e20f91da7496627244e69a5d04604c602e9e05e633b11ab50f638",
+  "renderedAt": "2026-10-25T18:42:27.159Z",
+  "deployedAt": "2026-10-26T01:00:29.637Z"
+}
