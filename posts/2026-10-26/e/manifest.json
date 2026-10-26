@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-26",
+  "slot": "e",
+  "postId": "2026-10-26-e",
+  "runMode": "scheduled",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "캡틴이 둘이라 말 꼬인 앤트맨",
+  "slug": "avengers-doomsday-captains-america",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "reel",
+    "topic": "마블 〈어벤져스: 둠스데이〉 30초 새 예고편. 앤트맨이 두 캡틴을 부르다 '캡틴 아메리카들'이라고 말이 꼬이는 장면",
+    "category": "culture",
+    "editor": "Kang",
+    "shareScore": 9,
+    "durationSeconds": 22.95,
+    "clipCount": 6,
+    "channels": [
+      "Marvel Entertainment"
+    ]
+  },
+  "generatedAt": "2026-10-26T04:25:00+09:00",
+  "scheduledStartAt": "2026-10-25T18:30:00.000Z",
+  "actualStartedAt": "2026-10-26T03:37:06+09:00",
+  "imageCount": 1,
+  "contentHash": "751bd03e5900b0f63b2c37a20701b74cccd8445ac532370e78f2eaac73dd45f3",
+  "idempotencyKey": "scenenode:2026-10-26-e:751bd03e5900b0f6",
+  "media": [
+    {
+      "path": "reel.mp4",
+      "sha256": "4a365864006a71f5aa66e149f7cd824364c4de1fedc421cd85d64cac80039bd2",
+      "bytes": 4569631,
+      "width": 1080,
+      "height": 1920,
+      "contentType": "video/mp4",
+      "durationSeconds": 22.967
+    }
+  ],
+  "sources": [
+    {
+      "title": "Avengers: Doomsday | In Theaters December 18",
+      "url": "https://www.youtube.com/watch?v=UfNu7pcR0e8",
+      "publisher": "Marvel Entertainment (YouTube, 공식)",
+      "publishedAt": "2026-10-25T00:00:00Z",
+      "retrievedAt": "2026-10-26T04:05:00+09:00",
+      "kind": "official_social",
+      "evidenceSummary": "30초 공식 예고편, 1920×1080. 공식 자막 원문: 'Then it’s settled. / Right Cap? / I mean right Cap? / I was also Cap for a minute. / Captain zz… America. Captains America.' 'This doesn’t bother you, does it? / You know it does.' 'Doom will tear this world apart.' 'Team up and stand together.' 'Let’s go.' 끝 화면 'DECEMBER 18'. 화면에 샘 윌슨(캡틴 아메리카 슈트)·스티브 로저스·앤트맨·토르, 묠니르를 든 스티브.",
+      "usageNote": "릴스 클립: 15.55~22.8, 24.6~27.6, 4.0~7.2, 9.0~13.8, 0~3.0, 28.3~30초. 원음 사용. reel:scout: 유튜브 US·GB·JP 인기 차트 2위, 조회 속도 87배."
+    },
+    {
+      "title": "Avengers: Doomsday release date, cast, plot & more",
+      "url": "https://www.dexerto.com/tv-movies/avengers-doomsday-release-date-cast-plot-more-1949725/",
+      "publisher": "Dexerto",
+      "publishedAt": "2026-10-26T04:15:00+09:00",
+      "retrievedAt": "2026-10-26T04:15:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "미국 개봉 2026-12-18, 로버트 다우니 주니어가 닥터 둠, 크리스 에반스(스티브 로저스)·앤서니 매키(샘 윌슨)·폴 러드(앤트맨)·세바스찬 스탠 출연 확정.",
+      "usageNote": "개봉일·배역의 두 번째 출처. 게시일 표기를 확인하지 못해 확인 시각을 적음."
+    },
+    {
+      "title": "Avengers: Doomsday trailer reveals Chris Evans' Steve Rogers is still worthy of Mjolnir",
+      "url": "https://www.thepopverse.com/movies-avengers-doomsday-chris-evans-steve-rogers-reveal-still-worthy-captain-america-thor-mjolnir",
+      "publisher": "Popverse",
+      "publishedAt": "2026-07-20T00:00:00Z",
+      "retrievedAt": "2026-10-26T04:16:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "7월 예고편에서 스티브 로저스가 묠니르를 받아 듦, 〈어벤져스: 엔드게임〉에서 묠니르를 들 자격을 보인 장면을 잇는 연출. 개봉 2026-12-18.",
+      "usageNote": "묠니르 장면이 엔드게임에서 처음 나왔다는 서술의 출처."
+    },
+    {
+      "title": "Avengers: Doomsday Trailer Reveals First Footage Of RDJ's Doctor Doom In Action",
+      "url": "https://www.bgr.com/2218660/avengers-doomsday-trailer-rdj-doctor-doom-first-footage/",
+      "publisher": "BGR",
+      "publishedAt": "2026-07-20T00:00:00Z",
+      "retrievedAt": "2026-10-26T04:16:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "로버트 다우니 주니어가 닥터 둠을 연기.",
+      "usageNote": "닥터 둠 배역의 두 번째 출처. 게시일은 검색 결과 기준 추정(7월 예고편 기사)."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-25T18:48:07.490Z",
+      "attempt": 1,
+      "url": "https://www.youtube.com/watch?v=UfNu7pcR0e8",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-25T18:48:07.665Z",
+      "attempt": 1,
+      "url": "https://www.dexerto.com/tv-movies/avengers-doomsday-release-date-cast-plot-more-1949725/",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-25T18:48:07.698Z",
+      "attempt": 1,
+      "url": "https://www.thepopverse.com/movies-avengers-doomsday-chris-evans-steve-rogers-reveal-still-worthy-captain-america-thor-mjolnir",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-25T18:48:07.729Z",
+      "attempt": 1,
+      "url": "https://www.bgr.com/2218660/avengers-doomsday-trailer-rdj-doctor-doom-first-footage/",
+      "httpStatus": 206,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-25T18:48:08.075Z",
+  "draftApprovedContentHash": "751bd03e5900b0f63b2c37a20701b74cccd8445ac532370e78f2eaac73dd45f3",
+  "renderedAt": "2026-10-25T18:48:15.444Z",
+  "deployedAt": "2026-10-26T01:00:29.587Z"
+}

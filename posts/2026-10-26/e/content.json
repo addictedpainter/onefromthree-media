@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-26",
+  "slot": "e",
+  "runMode": "scheduled",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-26T03:37:06+09:00",
+  "generatedAt": "2026-10-26T04:25:00+09:00",
+  "package": {
+    "contentVersion": "reel",
+    "category": "culture",
+    "slug": "avengers-doomsday-captains-america",
+    "topic": "마블 〈어벤져스: 둠스데이〉 30초 새 예고편. 앤트맨이 두 캡틴을 부르다 '캡틴 아메리카들'이라고 말이 꼬이는 장면",
+    "title": [
+      "캡틴이 둘이라",
+      "말 꼬인 앤트맨"
+    ],
+    "window": "16:9",
+    "clips": [
+      {
+        "file": "clip-01.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=UfNu7pcR0e8",
+        "channel": "Marvel Entertainment",
+        "start": 15.55,
+        "end": 22.8,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "zoom": 1.35,
+        "audio": true
+      },
+      {
+        "file": "clip-02.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=UfNu7pcR0e8",
+        "channel": "Marvel Entertainment",
+        "start": 24.6,
+        "end": 27.6,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "zoom": 1.35,
+        "audio": true
+      },
+      {
+        "file": "clip-03.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=UfNu7pcR0e8",
+        "channel": "Marvel Entertainment",
+        "start": 4,
+        "end": 7.2,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "zoom": 1.35,
+        "audio": true
+      },
+      {
+        "file": "clip-04.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=UfNu7pcR0e8",
+        "channel": "Marvel Entertainment",
+        "start": 9,
+        "end": 13.8,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "zoom": 1.35,
+        "audio": true
+      },
+      {
+        "file": "clip-05.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=UfNu7pcR0e8",
+        "channel": "Marvel Entertainment",
+        "start": 0,
+        "end": 3,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "zoom": 1.35,
+        "audio": true
+      },
+      {
+        "file": "clip-06.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=UfNu7pcR0e8",
+        "channel": "Marvel Entertainment",
+        "start": 28.3,
+        "end": 30,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "zoom": 1.35,
+        "audio": true
+      }
+    ],
+    "subtitleMode": "ours",
+    "subtitles": [
+      {
+        "text": "그렇죠, 캡틴?",
+        "start": 0.1,
+        "end": 1.05
+      },
+      {
+        "text": "아니, 이쪽 캡틴?",
+        "start": 2.15,
+        "end": 3.05
+      },
+      {
+        "text": "나도 잠깐\n캡틴이었는데",
+        "start": 3.07,
+        "end": 4.45
+      },
+      {
+        "text": "캡틴… 즈 아메리카?",
+        "start": 4.47,
+        "end": 5.65
+      },
+      {
+        "text": "캡틴 아메리카'들'",
+        "start": 5.67,
+        "end": 7.15
+      },
+      {
+        "text": "이거, 신경 안 쓰이지?",
+        "start": 7.47,
+        "end": 8.77
+      },
+      {
+        "text": "쓰이는 거 알잖아",
+        "start": 8.79,
+        "end": 9.95
+      },
+      {
+        "text": "둠이 이 세상을\n찢어 놓을 거야",
+        "start": 10.45,
+        "end": 13.25
+      },
+      {
+        "text": "힘을 합쳐",
+        "start": 13.5,
+        "end": 15.25
+      },
+      {
+        "text": "함께 맞서야 해",
+        "start": 15.35,
+        "end": 18.05
+      },
+      {
+        "text": "가자",
+        "start": 20.35,
+        "end": 21.2
+      },
+      {
+        "text": "마블 스튜디오 공식 예고편",
+        "start": 21.25,
+        "end": 22.95
+      }
+    ],
+    "coverAt": 5.85,
+    "hook": "🛡️ 캡틴이 한자리에 둘이라, 앤트맨이 부르다가 말이 꼬였어요.",
+    "body": [
+      "마블이 10월 25일 공식 유튜브에 올린 〈어벤져스: 둠스데이〉 30초 예고편이에요. 공개 하루 만에 미국·영국·일본 유튜브 인기 차트 2위에 올랐어요.",
+      "앤트맨이 '캡틴'을 부르는데, 방패를 이어받은 샘 윌슨과 돌아온 스티브 로저스(크리스 에반스)가 같은 자리에 있어요. 한 번 더 부르고, 옆에서 '나도 잠깐 캡틴이었는데'까지 나오자 결국 '캡틴 아메리카들'이 됐죠. 예고편 끝에는 토르의 망치 묠니르를 든 스티브가 토르 옆에 서 있어요. 스티브가 묠니르를 드는 장면은 〈어벤져스: 엔드게임〉에서 처음 나왔어요.",
+      "닥터 둠은 로버트 다우니 주니어가 맡았고, 미국 개봉은 12월 18일이에요."
+    ],
+    "question": "캡틴 아메리카, 스티브 vs 샘. 누가 더 캡틴 같아요?",
+    "credits": "Marvel Entertainment (YouTube)",
+    "editor": "Kang",
+    "hashtags": [
+      "#어벤져스둠스데이",
+      "#캡틴아메리카",
+      "#앤트맨",
+      "#마블",
+      "#예고편"
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 2,
+      "evidenceAndImages": 2,
+      "availableNow": 1,
+      "rationale": "마블 좋아하는 친구에게 '캡틴이 둘이라 앤트맨이 캡틴 아메리카들이래'로 바로 보낼 장면. 공개 하루 안의 공식 예고편(Marvel Entertainment), 유튜브 US·GB·JP 인기 차트 2위, 채널 조회 속도 87배. 후보 점수 9: 화제 3, 아는 얼굴 2(캡틴 아메리카·앤트맨·토르), 반전 2('캡틴 아메리카들' 말실수), 참여 0, 원본 2. 제목 후보: (1안, 선택) '캡틴이 둘이라 / 말 꼬인 앤트맨' — 화면에서 바로 보이는 사실 하나와 웃음 포인트. (2안, 버림) '캡틴 아메리카만 셋 / 어벤져스 새 예고편' — '나도 잠깐 캡틴이었는데'를 말한 인물을 화면으로 확정하지 못해 '셋'은 확인 밖. (3안, 버림) '묠니르 든 스티브 / 토르 앞에서 다시' — 7월 첫 예고편에 이미 나온 장면이라 새 사실이 아님."
+    },
+    "unknowns": [
+      "'I was also Cap for a minute'를 말한 인물은 화면(썬더볼츠 쪽 무리)으로 확정하지 못해 자막과 캡션에서 이름을 쓰지 않았다.",
+      "'This doesn't bother you, does it? / You know it does'는 스티브와 토르의 대화지만 어느 쪽이 묻는지 컷으로 확정하지 못해 화자를 밝히지 않는 말로 옮겼다.",
+      "원음은 대사와 영화 자체 스코어(곡명 표기 없음). 별도 상업 음원이 아니라 공식 예고편 자체 음향이라 원음을 그대로 둔다(03:30 판단). Disney 음원 대조로 음소거·차단될 수 있다.",
+      "한국 개봉일은 확인하지 않아 미국 개봉일(12월 18일)만 썼다."
+    ]
+  },
+  "sources": [
+    {
+      "title": "Avengers: Doomsday | In Theaters December 18",
+      "url": "https://www.youtube.com/watch?v=UfNu7pcR0e8",
+      "publisher": "Marvel Entertainment (YouTube, 공식)",
+      "publishedAt": "2026-10-25T00:00:00Z",
+      "retrievedAt": "2026-10-26T04:05:00+09:00",
+      "kind": "official_social",
+      "evidenceSummary": "30초 공식 예고편, 1920×1080. 공식 자막 원문: 'Then it’s settled. / Right Cap? / I mean right Cap? / I was also Cap for a minute. / Captain zz… America. Captains America.' 'This doesn’t bother you, does it? / You know it does.' 'Doom will tear this world apart.' 'Team up and stand together.' 'Let’s go.' 끝 화면 'DECEMBER 18'. 화면에 샘 윌슨(캡틴 아메리카 슈트)·스티브 로저스·앤트맨·토르, 묠니르를 든 스티브.",
+      "usageNote": "릴스 클립: 15.55~22.8, 24.6~27.6, 4.0~7.2, 9.0~13.8, 0~3.0, 28.3~30초. 원음 사용. reel:scout: 유튜브 US·GB·JP 인기 차트 2위, 조회 속도 87배."
+    },
+    {
+      "title": "Avengers: Doomsday release date, cast, plot & more",
+      "url": "https://www.dexerto.com/tv-movies/avengers-doomsday-release-date-cast-plot-more-1949725/",
+      "publisher": "Dexerto",
+      "publishedAt": "2026-10-26T04:15:00+09:00",
+      "retrievedAt": "2026-10-26T04:15:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "미국 개봉 2026-12-18, 로버트 다우니 주니어가 닥터 둠, 크리스 에반스(스티브 로저스)·앤서니 매키(샘 윌슨)·폴 러드(앤트맨)·세바스찬 스탠 출연 확정.",
+      "usageNote": "개봉일·배역의 두 번째 출처. 게시일 표기를 확인하지 못해 확인 시각을 적음."
+    },
+    {
+      "title": "Avengers: Doomsday trailer reveals Chris Evans' Steve Rogers is still worthy of Mjolnir",
+      "url": "https://www.thepopverse.com/movies-avengers-doomsday-chris-evans-steve-rogers-reveal-still-worthy-captain-america-thor-mjolnir",
+      "publisher": "Popverse",
+      "publishedAt": "2026-07-20T00:00:00Z",
+      "retrievedAt": "2026-10-26T04:16:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "7월 예고편에서 스티브 로저스가 묠니르를 받아 듦, 〈어벤져스: 엔드게임〉에서 묠니르를 들 자격을 보인 장면을 잇는 연출. 개봉 2026-12-18.",
+      "usageNote": "묠니르 장면이 엔드게임에서 처음 나왔다는 서술의 출처."
+    },
+    {
+      "title": "Avengers: Doomsday Trailer Reveals First Footage Of RDJ's Doctor Doom In Action",
+      "url": "https://www.bgr.com/2218660/avengers-doomsday-trailer-rdj-doctor-doom-first-footage/",
+      "publisher": "BGR",
+      "publishedAt": "2026-07-20T00:00:00Z",
+      "retrievedAt": "2026-10-26T04:16:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "로버트 다우니 주니어가 닥터 둠을 연기.",
+      "usageNote": "닥터 둠 배역의 두 번째 출처. 게시일은 검색 결과 기준 추정(7월 예고편 기사)."
+    }
+  ],
+  "collectionErrors": []
+}
