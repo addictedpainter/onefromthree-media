@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "초콜릿으로 만든 픽사 램프 불까지 켜진다",
   "slug": "amaury-guichon-chocolate-pixar-lamp",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "reel",
     "topic": "프랑스 출신 쇼콜라티에 아모리 기숑이 픽사 램프를 초콜릿으로 만들고 불을 켜는 작업 영상(본인 유튜브 쇼츠, 2026-09-29, 1,448만 회)",
@@ -39,8 +39,8 @@
       "durationSeconds": 26.5,
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/d/reel.mp4",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:04.233Z",
-        "attempts": 8,
+        "verifiedAt": "2026-10-26T09:00:06.979Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "video/mp4",
         "bytes": 20005467,
@@ -123,10 +123,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 8,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-25T18:38:53.836Z",
   "draftApprovedContentHash": "cd2b1b291c69875d0f8d48b06b79fba58f1a8c3119fc444d8164810bc589ed05",
   "renderedAt": "2026-10-25T18:39:02.182Z",
   "deployedAt": "2026-10-26T01:00:29.600Z",
-  "verifiedAt": "2026-10-26T01:02:05.991Z"
+  "verifiedAt": "2026-10-26T01:02:05.991Z",
+  "publishAttemptedAt": "2026-10-26T09:00:06.979Z"
 }
