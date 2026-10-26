@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "초콜릿으로 만든 픽사 램프 불까지 켜진다",
   "slug": "amaury-guichon-chocolate-pixar-lamp",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "reel",
     "topic": "프랑스 출신 쇼콜라티에 아모리 기숑이 픽사 램프를 초콜릿으로 만들고 불을 켜는 작업 영상(본인 유튜브 쇼츠, 2026-09-29, 1,448만 회)",
@@ -129,5 +129,8 @@
   "renderedAt": "2026-10-25T18:39:02.182Z",
   "deployedAt": "2026-10-26T01:00:29.600Z",
   "verifiedAt": "2026-10-26T01:02:05.991Z",
-  "publishAttemptedAt": "2026-10-26T09:00:06.979Z"
+  "publishAttemptedAt": "2026-10-26T09:00:06.979Z",
+  "publishedAt": "2026-10-26T09:01:13.405Z",
+  "externalPostId": "18398116309165407",
+  "externalUrl": "https://www.instagram.com/reel/De86S1ogOQZ/"
 }
