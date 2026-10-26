@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "캡틴이 둘이라 말 꼬인 앤트맨",
   "slug": "avengers-doomsday-captains-america",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "reel",
     "topic": "마블 〈어벤져스: 둠스데이〉 30초 새 예고편. 앤트맨이 두 캡틴을 부르다 '캡틴 아메리카들'이라고 말이 꼬이는 장면",
@@ -39,8 +39,8 @@
       "durationSeconds": 22.967,
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/e/reel.mp4",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:05.778Z",
-        "attempts": 10,
+        "verifiedAt": "2026-10-26T12:00:02.111Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "video/mp4",
         "bytes": 4569631,
@@ -122,10 +122,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 10,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-25T18:48:08.075Z",
   "draftApprovedContentHash": "751bd03e5900b0f63b2c37a20701b74cccd8445ac532370e78f2eaac73dd45f3",
   "renderedAt": "2026-10-25T18:48:15.444Z",
   "deployedAt": "2026-10-26T01:00:29.587Z",
-  "verifiedAt": "2026-10-26T01:02:06.349Z"
+  "verifiedAt": "2026-10-26T01:02:06.349Z",
+  "publishAttemptedAt": "2026-10-26T12:00:02.111Z"
 }
