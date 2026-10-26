@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "파란 의자에 뻗은 소녀 배경 손본 사람은 드가",
   "slug": "cassatt-blue-armchair-degas-background",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "메리 커샛 '파란 안락의자의 소녀'(1878) 배경에 드가가 직접 붓을 댄 이야기. 커샛 100주기 오르세 미술관 회고전(~2027-01-31)",
@@ -307,5 +307,8 @@
   "renderedAt": "2026-10-25T18:41:53.000Z",
   "deployedAt": "2026-10-26T01:00:29.644Z",
   "verifiedAt": "2026-10-26T01:02:07.190Z",
-  "publishAttemptedAt": "2026-10-26T01:02:21.034Z"
+  "publishAttemptedAt": "2026-10-26T01:02:21.034Z",
+  "publishedAt": "2026-10-26T01:03:25.662Z",
+  "externalPostId": "18147888931545484",
+  "externalUrl": "https://www.instagram.com/p/De8DtEFjWxy/"
 }
