@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "캡틴이 둘이라 말 꼬인 앤트맨",
   "slug": "avengers-doomsday-captains-america",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "reel",
     "topic": "마블 〈어벤져스: 둠스데이〉 30초 새 예고편. 앤트맨이 두 캡틴을 부르다 '캡틴 아메리카들'이라고 말이 꼬이는 장면",
@@ -128,5 +128,8 @@
   "renderedAt": "2026-10-25T18:48:15.444Z",
   "deployedAt": "2026-10-26T01:00:29.587Z",
   "verifiedAt": "2026-10-26T01:02:06.349Z",
-  "publishAttemptedAt": "2026-10-26T12:00:02.111Z"
+  "publishAttemptedAt": "2026-10-26T12:00:02.111Z",
+  "publishedAt": "2026-10-26T12:00:56.637Z",
+  "externalPostId": "18643641559006224",
+  "externalUrl": "https://www.instagram.com/reel/De9O4uHkj42/"
 }
