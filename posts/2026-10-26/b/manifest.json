@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "데뷔 앨범 못 내던 RAYE 폴 매카트니 제치고 수상",
   "slug": "raye-mercury-prize-2026",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "음반사가 데뷔 앨범을 막아 독립한 영국 가수 RAYE, 두 번째 앨범으로 폴 매카트니를 제치고 2026 머큐리상(10-22) 수상",
@@ -306,5 +306,8 @@
   "renderedAt": "2026-10-25T18:38:18.726Z",
   "deployedAt": "2026-10-26T01:00:29.632Z",
   "verifiedAt": "2026-10-26T01:02:03.684Z",
-  "publishAttemptedAt": "2026-10-26T03:30:02.208Z"
+  "publishAttemptedAt": "2026-10-26T03:30:02.208Z",
+  "publishedAt": "2026-10-26T03:31:17.477Z",
+  "externalPostId": "17985848495896208",
+  "externalUrl": "https://www.instagram.com/p/De8UoCtADfz/"
 }
