@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "픽셀을 네모로 만든 사람 \"바보 같은 짓\"",
   "slug": "kirsch-square-pixel-very-foolish",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "v3",
     "topic": "1957년 첫 디지털 스캔 사진(생후 3개월 아들 월든, 176×176)을 만든 러셀 커시가 2010년 네모 픽셀을 '아주 바보 같은 짓'이라고 한 이야기",
@@ -38,8 +38,8 @@
       "sourceSha256": "730b3bad3f7ffd495c516c6dea62470a3b0753779e8174aa95a3a5470a8b0cfd",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/c/01.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:09.639Z",
-        "attempts": 8,
+        "verifiedAt": "2026-10-26T06:00:09.152Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 137513,
@@ -56,8 +56,8 @@
       "sourceSha256": "1d52fc95628d687bd2c66aed65a754813dbfe97699d8ab8df7382c1a71301ad8",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/c/02.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:09.880Z",
-        "attempts": 8,
+        "verifiedAt": "2026-10-26T06:00:09.152Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 513976,
@@ -74,8 +74,8 @@
       "sourceSha256": "ced5d02ef78efb9527a2e323491f7a873b74c29bd69c947eeadfbd13babe2acc",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/c/03.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:10.100Z",
-        "attempts": 8,
+        "verifiedAt": "2026-10-26T06:00:09.152Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 233098,
@@ -92,8 +92,8 @@
       "sourceSha256": "89b6fe6579f1b4e723d343f0aab747c53fff3da1e4f445b7155485b79fdcd2a8",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/c/04.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:10.306Z",
-        "attempts": 8,
+        "verifiedAt": "2026-10-26T06:00:09.152Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 326513,
@@ -110,8 +110,8 @@
       "sourceSha256": "e6ec7c6eb5cf2c74463863d1e730378f9c2c2cfc768e01602435fce3ba7203f3",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/c/05.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:10.527Z",
-        "attempts": 8,
+        "verifiedAt": "2026-10-26T06:00:09.152Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 151403,
@@ -128,8 +128,8 @@
       "sourceSha256": "6af5d71bdcc533e64a045ea4adf7bd8ff7022c0da89fb56fd5c26481a62d6a5b",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/c/06.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:10.755Z",
-        "attempts": 8,
+        "verifiedAt": "2026-10-26T06:00:09.152Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 165214,
@@ -146,8 +146,8 @@
       "sourceSha256": "b312d239c6dbbcae4b58d2d00912d2f13fc7a63087bb61d1cf6a30ca6cf4e437",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/c/07.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:10.965Z",
-        "attempts": 8,
+        "verifiedAt": "2026-10-26T06:00:09.152Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 285236,
@@ -164,8 +164,8 @@
       "sourceSha256": "1c909b00c88aff5c1aec3ef295d4c668f24b57ef85d885cb682a7ca8ce46f574",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/c/08.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:11.178Z",
-        "attempts": 8,
+        "verifiedAt": "2026-10-26T06:00:09.152Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 647879,
@@ -182,8 +182,8 @@
       "sourceSha256": "b49ff9ffa0ea65c8c3f8e60e191d57a33c7b5909eca2e9aab5648baf58422102",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/c/09.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:11.394Z",
-        "attempts": 8,
+        "verifiedAt": "2026-10-26T06:00:09.152Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 264688,
@@ -200,8 +200,8 @@
       "sourceSha256": "66830a4de019cbb3d251e3d7d19b3f0219317c537305e2f4b15d64ccd5cd295b",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/c/10.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:11.607Z",
-        "attempts": 8,
+        "verifiedAt": "2026-10-26T06:00:09.152Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 46358,
@@ -312,10 +312,11 @@
     }
   ],
   "deploymentAttempts": 8,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-25T18:42:14.649Z",
   "draftApprovedContentHash": "8853075fb18e20f91da7496627244e69a5d04604c602e9e05e633b11ab50f638",
   "renderedAt": "2026-10-25T18:42:27.159Z",
   "deployedAt": "2026-10-26T01:00:29.637Z",
-  "verifiedAt": "2026-10-26T01:02:11.809Z"
+  "verifiedAt": "2026-10-26T01:02:11.809Z",
+  "publishAttemptedAt": "2026-10-26T06:00:09.152Z"
 }
