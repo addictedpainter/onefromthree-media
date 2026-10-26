@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-26",
+  "slot": "b",
+  "postId": "2026-10-26-b",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "데뷔 앨범 못 내던 RAYE 폴 매카트니 제치고 수상",
+  "slug": "raye-mercury-prize-2026",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "v3",
+    "topic": "음반사가 데뷔 앨범을 막아 독립한 영국 가수 RAYE, 두 번째 앨범으로 폴 매카트니를 제치고 2026 머큐리상(10-22) 수상",
+    "category": "culture",
+    "editor": "Kang",
+    "shareScore": 9,
+    "coverLayout": "caption",
+    "imageTiers": {
+      "public_domain": 9
+    }
+  },
+  "generatedAt": "2026-10-25T20:55:00+09:00",
+  "scheduledStartAt": "2026-10-25T18:30:00.000Z",
+  "actualStartedAt": "2026-10-25T20:40:00+09:00",
+  "imageCount": 10,
+  "contentHash": "184d84db9da15a6237639f3db86085183026a6a0495354c2e747068176952259",
+  "idempotencyKey": "scenenode:2026-10-26-b:184d84db9da15a62",
+  "media": [
+    {
+      "path": "01.jpg",
+      "sha256": "da32aad39bdda9c59c066dee569972f84965dcb99bca832cb14f7e6eff0e048b",
+      "bytes": 372864,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "6a93ab38d7fa76fc9a7135eccaed0f2778380e6e6e6c85ff552bd2f4867eec1f"
+    },
+    {
+      "path": "02.jpg",
+      "sha256": "c3b8af4268447e2b0b7af88bb95e589a2e392b49c29f71c6de049cc6267437c4",
+      "bytes": 316139,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "fbf7f5d0eb5e4953bfd8272dedaafa089c5e14bca00672e958d9e1dc91ba6f42"
+    },
+    {
+      "path": "03.jpg",
+      "sha256": "61fa12803943873d3ba0d63179bfbb5cda0fa6a19781a5742fce49893faa167e",
+      "bytes": 372528,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "3df3915ea08c51beb1c40738fcfba78db9173fac9f3b4b90545f3d6c1c32e47b"
+    },
+    {
+      "path": "04.jpg",
+      "sha256": "6ff2d40c51a31be98ee5c4bd91c31cba8163698147c1ab1ceecdd3787b03a692",
+      "bytes": 202329,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "bf4f097a7d38a1f0a6d322815f7b53ae274a2326917a52cba14e06b3b0d94331"
+    },
+    {
+      "path": "05.jpg",
+      "sha256": "3607fc511bfbd74be9ebb1168125ba895cdc5afcee75c344046a45b2096eef31",
+      "bytes": 396356,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "a28e374ce1cc7c689ead513bb1c071c0ef71c10dc813a12d599c1f0e4f0c3204"
+    },
+    {
+      "path": "06.jpg",
+      "sha256": "6d2e77b9162f78a28b0ea02f425053f8343a3b0fcb9d515086abad02c4c621d7",
+      "bytes": 379670,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "cf019ad83b01a94642f931c412d92d8fc6a652a5bc6d293cb901560e4ce66102"
+    },
+    {
+      "path": "07.jpg",
+      "sha256": "13a82d42b099bcd9102a8221b719ca319df491a5c993b6ffdec10f42eff9faf1",
+      "bytes": 486343,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "de83172762d03d8996dcaea453ac88077f29c8b3fb0f21a4ac186d466ff3e59d"
+    },
+    {
+      "path": "08.jpg",
+      "sha256": "c76bc880336fe805e9c4af8075447289447e8450aae36fcb8c6efd5abb86a022",
+      "bytes": 416743,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "0057a5fb7dabbb3971e5eda9fe82c1d7f07629661bcf82c0d1c669a1def08b76"
+    },
+    {
+      "path": "09.jpg",
+      "sha256": "7f0cdf1b822cbffd162aec605ba1e5e2fc3ce1007981c51edd1611ee5a445037",
+      "bytes": 355830,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "887be06517601d12dfa6c4e810991882ca1b4f993db9626e52ce3b95ca130dcc"
+    },
+    {
+      "path": "10.jpg",
+      "sha256": "11d7e6974339ee846c11a3e9c2422e771e75b2ceb328210d400ccc5a7b5795f3",
+      "bytes": 46353,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "daacb1dbd1a2e7e194b5852072761ba6f70394863f9fe869285e6ea6f82e8949"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Raye wins the Mercury Prize with This Music May Contain Hope",
+      "url": "https://www.bbc.co.uk/news/articles/cw073mj02v72o",
+      "publisher": "BBC News",
+      "publishedAt": "2026-10-22T23:00:00+01:00",
+      "retrievedAt": "2026-10-25T20:47:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2026 머큐리상 수상, 폴 매카트니·올리비아 딘·JADE 등을 제친 점, 상금 2만 5천 파운드, 뉴캐슬 유틸리타 아레나, 17곡 73분, 연주자 100명 이상·오케스트라 넷·알 그린 참여, '7분짜리 노래도 있다'는 본인 말, 28세, 2년 전 노트·데모가 든 차를 도둑맞아 작업이 1년 가까이 밀렸다는 점, 영국·아일랜드 지난 12개월 최고 앨범상이라는 설명을 확인했습니다.",
+      "usageNote": "게시 시각 표기를 읽지 못해 publishedAt은 시상식 당일 밤으로 넣었습니다(RSS 날짜 기준)."
+    },
+    {
+      "title": "RAYE announced as winner of 2026 Mercury Prize",
+      "url": "https://www.officialcharts.com/chart-news/raye-announced-as-winner-of-2026-mercury-prize/",
+      "publisher": "Official Charts Company",
+      "publishedAt": "2026-10-22T23:00:00+01:00",
+      "retrievedAt": "2026-10-25T20:49:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2026-10-22 뉴캐슬 유틸리타 아레나 수상, 앨범이 3월 발매 첫 주 1위, 'WHERE IS MY HUSBAND!' 싱글 차트 1위, 수상 소감('앨범은 정말 중요하다고 늘 말해 왔다')을 확인했습니다.",
+      "usageNote": "기사 날짜는 2026-10-22로 표기, 시각은 미표기."
+    },
+    {
+      "title": "RAYE Mercury Prize 2026: Album Wins",
+      "url": "https://neonmusic.co.uk/raye-mercury-prize-2026-winner",
+      "publisher": "Neon Music",
+      "publishedAt": "2026-10-23T09:00:00+01:00",
+      "retrievedAt": "2026-10-25T20:52:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "상금 2만 5천 파운드, 17곡 73분, 후보 12장(데이브·플로렌스 앤 더 머신·올리비아 딘·폴 매카트니·스웨이드 등), 수상 소감에서 예전 음반사가 데뷔 앨범을 막았던 시절을 돌아봤다는 점, 데뷔 앨범 My 21st Century Blues가 2023년 후보였다는 점, 싱글 차트 1위를 확인했습니다.",
+      "usageNote": "게시 시각 미표기라 기사 문맥(시상식 다음 날)으로 넣었습니다."
+    },
+    {
+      "title": "Stolen car and missing notebooks could delay Raye's album",
+      "url": "https://insidecroydon.com/2024/10/31/stolen-car-and-missing-notebooks-could-delay-rayes-album/",
+      "publisher": "Inside Croydon",
+      "publishedAt": "2024-10-31T00:00:00Z",
+      "retrievedAt": "2026-10-25T20:52:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "생일에 가사 공책이 든 차를 도둑맞았다는 본인 게시물, 10대에 계약한 Polydor가 2021년까지 데뷔 앨범을 내주지 않아 계약 해지를 요청했다는 점, 독립 후 데뷔 앨범으로 2024년 브릿 어워즈 6관왕(기록), 데뷔 앨범의 머큐리상 후보 지명을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Raye announces new album This Music May Contain Hope",
+      "url": "https://www.rollingstone.co.uk/music/raye-announces-new-album-this-music-may-contain-hope-57857/",
+      "publisher": "Rolling Stone UK (Larisha Paul)",
+      "publishedAt": "2026-01-22T00:00:00Z",
+      "retrievedAt": "2026-10-25T20:52:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "가사 공책이 든 차를 도둑맞아 두 번째 앨범을 미뤘다는 점, 경찰이 차를 찾았고 공책은 손대지 않은 채 그대로였다는 본인 인터뷰, 앨범이 네 '계절'로 나뉜다는 점, 본인 Instagram @raye 임베드를 확인했습니다.",
+      "usageNote": "게시일은 앨범 발표(2026-01-22) 기준 추정입니다."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-25T18:38:02.555Z",
+      "attempt": 1,
+      "url": "https://www.bbc.co.uk/news/articles/cw073mj02v72o",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-25T18:38:03.684Z",
+      "attempt": 1,
+      "url": "https://www.officialcharts.com/chart-news/raye-announced-as-winner-of-2026-mercury-prize/",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-25T18:38:04.137Z",
+      "attempt": 1,
+      "url": "https://neonmusic.co.uk/raye-mercury-prize-2026-winner",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-25T18:38:05.144Z",
+      "attempt": 1,
+      "url": "https://insidecroydon.com/2024/10/31/stolen-car-and-missing-notebooks-could-delay-rayes-album/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-25T18:38:05.353Z",
+      "attempt": 1,
+      "url": "https://www.rollingstone.co.uk/music/raye-announces-new-album-this-music-may-contain-hope-57857/",
+      "httpStatus": 206,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-25T18:38:05.414Z",
+  "draftApprovedContentHash": "184d84db9da15a6237639f3db86085183026a6a0495354c2e747068176952259",
+  "renderedAt": "2026-10-25T18:38:18.726Z",
+  "deployedAt": "2026-10-26T01:00:29.632Z"
+}

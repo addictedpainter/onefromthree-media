@@ -1,0 +1,295 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-26",
+  "slot": "b",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-25T20:40:00+09:00",
+  "generatedAt": "2026-10-25T20:55:00+09:00",
+  "package": {
+    "contentVersion": "v3",
+    "category": "culture",
+    "slug": "raye-mercury-prize-2026",
+    "topic": "음반사가 데뷔 앨범을 막아 독립한 영국 가수 RAYE, 두 번째 앨범으로 폴 매카트니를 제치고 2026 머큐리상(10-22) 수상",
+    "headline": [
+      "데뷔 앨범 못 내던 RAYE",
+      "폴 매카트니 제치고 수상"
+    ],
+    "hook": "🎤 음반사가 앨범을 안 내주던 RAYE, 올해 영국 최고 앨범상을 받았어요.",
+    "body": [
+      "10월 22일 영국 뉴캐슬 유틸리타 아레나에서 열린 머큐리상 시상식에서 RAYE(레이)의 두 번째 앨범 〈This Music May Contain Hope〉가 올해의 앨범으로 뽑혔어요. 머큐리상은 지난 1년 동안 영국·아일랜드에서 나온 앨범 하나에 주는 상이에요. 폴 매카트니, 올리비아 딘, 데이브, 플로렌스 앤 더 머신 등 후보 12장과 겨뤘고 상금은 2만 5천 파운드예요. 17곡 73분짜리 앨범에는 연주자 100명 넘게, 소울 가수 알 그린까지 참여했어요.",
+      "사실 RAYE는 10대에 대형 음반사와 계약했지만 2021년까지 데뷔 앨범이 나오지 않았어요. 계약을 풀고 나와 혼자 낸 첫 앨범으로 2024년 브릿 어워즈 6관왕에 올랐고, 그 앨범도 2023년 머큐리상 후보였어요. 두 번째 앨범을 쓰던 2024년 생일에는 가사 공책을 실은 차를 도둑맞았어요. 차는 공책까지 그대로 돌아왔지만 작업은 1년 가까이 밀렸대요. \"앨범은 정말 중요하다고 늘 말해 왔어요.\" 수상 소감이에요.",
+      "앨범은 지금 스트리밍으로 들을 수 있어요. 영국 싱글 차트 1위곡 'Where Is My Husband!'도 이 앨범에 실려 있어요. 본인 말로는 7분짜리 노래도 있대요. @raye"
+    ],
+    "question": "7분짜리 노래, 끝까지 듣나요 넘기나요?",
+    "credits": "Wikimedia Commons: Raph_PH (CC BY 2.0·CC BY 4.0), Drew de F Fawkes (CC BY 2.0), SecretName101 (CC BY 4.0), M J Richardson (CC BY-SA 2.0), Ed Griffith (CC BY-SA 4.0)",
+    "editor": "Kang",
+    "hashtags": [
+      "#RAYE",
+      "#머큐리상",
+      "#폴매카트니",
+      "#팝송추천",
+      "#영국음악"
+    ],
+    "slides": [
+      {
+        "index": 1,
+        "text": "데뷔 앨범 못 내던 RAYE\n폴 매카트니 제치고 수상",
+        "image": {
+          "file": "01-cover.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boardmasters2023_(97_of_171)_(53120163026).jpg",
+          "credit": "Raph_PH, Raye at the Boardmasters Festival 2023, Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "checkedAt": "2026-10-25T20:50:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.22,
+              "y": 0,
+              "width": 0.4607,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 2,
+        "text": "10월 22일 영국 뉴캐슬, 올해의 앨범상인 머큐리상이 RAYE에게 갔어요.",
+        "image": {
+          "file": "02-newcastle.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Utilita_Arena,_Newcastle_upon_Tyne_-_geograph.org.uk_-_7176441.jpg",
+          "credit": "M J Richardson, Utilita Arena, Newcastle upon Tyne (2022), geograph.org.uk via Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "checkedAt": "2026-10-25T20:50:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.25,
+              "y": 0,
+              "width": 0.5625,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 3,
+        "text": "RAYE는 10대에 대형 음반사와 계약했지만 데뷔 앨범은 끝내 안 나왔어요.",
+        "image": {
+          "file": "03-kingston.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raye,_Pryzm,_Kingston.jpg",
+          "credit": "Drew de F Fawkes, Raye performing at Pryzm, Kingston (2023), Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "checkedAt": "2026-10-25T20:50:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.16,
+              "y": 0,
+              "width": 0.5625,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 4,
+        "text": "2021년 계약을 풀고 나와 혼자 낸 첫 앨범으로 브릿 어워즈 6관왕.",
+        "image": {
+          "file": "04-chicago.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raye_performing_at_Thalia_Hall_in_Chicago_in_2024_IMG_6545.jpg",
+          "credit": "SecretName101, Raye performing at Thalia Hall in Chicago (2024), Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "checkedAt": "2026-10-25T20:50:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.08,
+              "y": 0,
+              "width": 0.5625,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 5,
+        "text": "두 번째 앨범은 17곡 73분, 연주자는 100명이 넘어요.",
+        "image": {
+          "file": "05-big-band.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raye_Glastonbury_2025_-_273.jpg",
+          "credit": "Raph_PH, Raye at Glastonbury 2025, Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "checkedAt": "2026-10-25T20:50:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.32,
+              "y": 0,
+              "width": 0.5,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 6,
+        "text": "사실 이 앨범, 가사 공책을 실은 차를 도둑맞아 1년 가까이 밀렸대요.",
+        "image": {
+          "file": "06-close.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raye_Glastonbury_2025_-_276.jpg",
+          "credit": "Raph_PH, Raye at Glastonbury 2025, Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "checkedAt": "2026-10-25T20:50:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.27,
+              "y": 0,
+              "width": 0.519,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 7,
+        "text": "폴 매카트니, 올리비아 딘을 제치고 상금 2만 5천 파운드도 받았어요.",
+        "image": {
+          "file": "07-mccartney.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paul_McCartney_performing_with_bass_on_the_Got_Back_tour_at_Camping_World_Stadium_in_Orlando,_Florida,_28_May_2022_(06)_(cropped).jpg",
+          "credit": "Ed Griffith, Paul McCartney on the Got Back tour, Orlando (2022), Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-25T20:50:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.09,
+              "y": 0,
+              "width": 0.815,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 8,
+        "text": "'Where Is My Husband!'도 실린 이 앨범, 지금 바로 들을 수 있어요.",
+        "image": {
+          "file": "08-glastonbury.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raye_Glastonbury_2025_-_280.jpg",
+          "credit": "Raph_PH, Raye at Glastonbury 2025, Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "checkedAt": "2026-10-25T20:50:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.25,
+              "y": 0,
+              "width": 0.5,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 9,
+        "text": "7분짜리 노래, 끝까지 듣나요 넘기나요?",
+        "image": {
+          "file": "09-question.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raye_Glastonbury_2025_-_274.jpg",
+          "credit": "Raph_PH, Raye at Glastonbury 2025, Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "checkedAt": "2026-10-25T20:50:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.33,
+              "y": 0,
+              "width": 0.5217,
+              "height": 1
+            }
+          }
+        }
+      }
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 1,
+      "evidenceAndImages": 2,
+      "availableNow": 2,
+      "rationale": "'Where Is My Husband!'를 들어 본 팝 좋아하는 친구, 일이 막혀 있는 친구에게 '음반사가 앨범 안 내주던 가수가 폴 매카트니 제쳤대'로 바로 보낼 만하다. 표지 한 문장(수식 + 이름 / 사건)으로 오해 없이 읽힌다. 수상 자체는 해외 음악 팬에겐 사흘 된 뉴스라 의외성 1점(국내엔 머큐리상과 RAYE의 레이블 사연이 덜 알려짐). 수상·상금·후보는 BBC와 Official Charts·Neon Music으로, 레이블이 데뷔 앨범을 막은 사연은 Inside Croydon과 Neon Music(수상 소감 보도)으로, 공책 도난·회수는 Inside Croydon과 Rolling Stone UK로, 1년 가까운 지연은 BBC로 대조. 사진 9장 모두 1등급(CC BY·CC BY-SA). 앨범은 스트리밍으로 지금 들을 수 있어 2점. 버린 후보 1(사물형): '가사 공책 도둑맞은 RAYE / 2년 뒤 올해의 앨범' — 도난과 수상, 사실 둘을 한 문장에 엮었고 차가 공책째 돌아와 반전이 약하다. 버린 후보 2(숫자형): '7분짜리 노래 넣은 앨범 / 폴 매카트니 제쳤다' — 7분은 뚱딴지 숫자가 아니고 이름이 빠져 누구 얘기인지 모르며 '~다' 종결. 표지는 단위 숫자·반전 단어가 없어 키워드 없이 자막 박스형. 'IVE 레이'와 헷갈리지 않게 표지·카드는 영문 RAYE로 썼다."
+    },
+    "unknowns": [
+      "표지·카드 사진은 수상 당일 사진이 아니다(시상식 사진은 1등급이 없음). 2023 보드마스터스, 2023 킹스턴, 2024 시카고, 2025 글래스턴베리 공연과 2022 뉴캐슬 아레나 외관, 2022 폴 매카트니 올랜도 공연이다. 5장 빅밴드 사진도 앨범 녹음이 아니라 글래스턴베리 무대다.",
+      "음반사 계약 시기: Inside Croydon은 '10대에 계약, 2021년에도 5년째 데뷔 앨범을 안 내줌'으로 썼다. 계약 연도·기간 숫자는 출처마다 달라 카드에 넣지 않았다(음반사는 Polydor).",
+      "BBC는 팝 앨범의 수상이 1994년 M People 이후 처음이라고 썼지만 다른 출처로 확인하지 못해 쓰지 않았다. Neon Music의 '다음 날 로열 앨버트 홀 전곡 공연'도 한 곳뿐이라 뺐다.",
+      "브릿 어워즈 6관왕(2024)은 Inside Croydon 기사와 널리 알려진 기록으로 썼고, 이번 조사에서 두 번째 기사를 따로 읽지는 않았다.",
+      "@raye 핸들은 Rolling Stone UK 기사에 임베드된 본인 Instagram 게시물 표기로 확인했다. 'Where Is My Husband!' 표기는 Official Charts·Neon Music을 따랐다(BBC는 물음표)."
+    ]
+  },
+  "sources": [
+    {
+      "title": "Raye wins the Mercury Prize with This Music May Contain Hope",
+      "url": "https://www.bbc.co.uk/news/articles/cw073mj02v72o",
+      "publisher": "BBC News",
+      "publishedAt": "2026-10-22T23:00:00+01:00",
+      "retrievedAt": "2026-10-25T20:47:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2026 머큐리상 수상, 폴 매카트니·올리비아 딘·JADE 등을 제친 점, 상금 2만 5천 파운드, 뉴캐슬 유틸리타 아레나, 17곡 73분, 연주자 100명 이상·오케스트라 넷·알 그린 참여, '7분짜리 노래도 있다'는 본인 말, 28세, 2년 전 노트·데모가 든 차를 도둑맞아 작업이 1년 가까이 밀렸다는 점, 영국·아일랜드 지난 12개월 최고 앨범상이라는 설명을 확인했습니다.",
+      "usageNote": "게시 시각 표기를 읽지 못해 publishedAt은 시상식 당일 밤으로 넣었습니다(RSS 날짜 기준)."
+    },
+    {
+      "title": "RAYE announced as winner of 2026 Mercury Prize",
+      "url": "https://www.officialcharts.com/chart-news/raye-announced-as-winner-of-2026-mercury-prize/",
+      "publisher": "Official Charts Company",
+      "publishedAt": "2026-10-22T23:00:00+01:00",
+      "retrievedAt": "2026-10-25T20:49:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2026-10-22 뉴캐슬 유틸리타 아레나 수상, 앨범이 3월 발매 첫 주 1위, 'WHERE IS MY HUSBAND!' 싱글 차트 1위, 수상 소감('앨범은 정말 중요하다고 늘 말해 왔다')을 확인했습니다.",
+      "usageNote": "기사 날짜는 2026-10-22로 표기, 시각은 미표기."
+    },
+    {
+      "title": "RAYE Mercury Prize 2026: Album Wins",
+      "url": "https://neonmusic.co.uk/raye-mercury-prize-2026-winner",
+      "publisher": "Neon Music",
+      "publishedAt": "2026-10-23T09:00:00+01:00",
+      "retrievedAt": "2026-10-25T20:52:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "상금 2만 5천 파운드, 17곡 73분, 후보 12장(데이브·플로렌스 앤 더 머신·올리비아 딘·폴 매카트니·스웨이드 등), 수상 소감에서 예전 음반사가 데뷔 앨범을 막았던 시절을 돌아봤다는 점, 데뷔 앨범 My 21st Century Blues가 2023년 후보였다는 점, 싱글 차트 1위를 확인했습니다.",
+      "usageNote": "게시 시각 미표기라 기사 문맥(시상식 다음 날)으로 넣었습니다."
+    },
+    {
+      "title": "Stolen car and missing notebooks could delay Raye's album",
+      "url": "https://insidecroydon.com/2024/10/31/stolen-car-and-missing-notebooks-could-delay-rayes-album/",
+      "publisher": "Inside Croydon",
+      "publishedAt": "2024-10-31T00:00:00Z",
+      "retrievedAt": "2026-10-25T20:52:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "생일에 가사 공책이 든 차를 도둑맞았다는 본인 게시물, 10대에 계약한 Polydor가 2021년까지 데뷔 앨범을 내주지 않아 계약 해지를 요청했다는 점, 독립 후 데뷔 앨범으로 2024년 브릿 어워즈 6관왕(기록), 데뷔 앨범의 머큐리상 후보 지명을 확인했습니다.",
+      "usageNote": null
+    },
+    {
+      "title": "Raye announces new album This Music May Contain Hope",
+      "url": "https://www.rollingstone.co.uk/music/raye-announces-new-album-this-music-may-contain-hope-57857/",
+      "publisher": "Rolling Stone UK (Larisha Paul)",
+      "publishedAt": "2026-01-22T00:00:00Z",
+      "retrievedAt": "2026-10-25T20:52:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "가사 공책이 든 차를 도둑맞아 두 번째 앨범을 미뤘다는 점, 경찰이 차를 찾았고 공책은 손대지 않은 채 그대로였다는 본인 인터뷰, 앨범이 네 '계절'로 나뉜다는 점, 본인 Instagram @raye 임베드를 확인했습니다.",
+      "usageNote": "게시일은 앨범 발표(2026-01-22) 기준 추정입니다."
+    }
+  ],
+  "collectionErrors": []
+}
