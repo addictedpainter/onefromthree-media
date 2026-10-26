@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-26",
+  "slot": "a",
+  "postId": "2026-10-26-a",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "파란 의자에 뻗은 소녀 배경 손본 사람은 드가",
+  "slug": "cassatt-blue-armchair-degas-background",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "v3",
+    "topic": "메리 커샛 '파란 안락의자의 소녀'(1878) 배경에 드가가 직접 붓을 댄 이야기. 커샛 100주기 오르세 미술관 회고전(~2027-01-31)",
+    "category": "art",
+    "editor": "Haein",
+    "shareScore": 9,
+    "coverLayout": "caption",
+    "imageTiers": {
+      "public_domain": 9
+    }
+  },
+  "generatedAt": "2026-10-25T21:05:00+09:00",
+  "scheduledStartAt": "2026-10-25T18:30:00.000Z",
+  "actualStartedAt": "2026-10-25T20:37:00+09:00",
+  "imageCount": 10,
+  "contentHash": "55485b38daf742c1117b8adeab2e70c93a03c7d87c5c67ab2e77c4b4cb22c04a",
+  "idempotencyKey": "scenenode:2026-10-26-a:55485b38daf742c1",
+  "media": [
+    {
+      "path": "01.jpg",
+      "sha256": "e1faa5f37c6442420a9bb2f2ae0619b01d1642056ae4ec2a940c491440b29bd3",
+      "bytes": 474820,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "807482185868bde0ee4c4ec23869ce4cd0873aaa0b4dde0df274e8e19367b040"
+    },
+    {
+      "path": "02.jpg",
+      "sha256": "c2427f15152226752b834b34910fa47cbcd1918a8d98f7a42856cced2098d993",
+      "bytes": 330600,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "dd856ef04d3ccbb7a4d1ecc5de02469a9b8bf9d1dccb16c32c070b8f843491f9"
+    },
+    {
+      "path": "03.jpg",
+      "sha256": "2b0122df7ae73105b0ffbf50f5682a72c181a36a458dda9747cd49a17fa7db91",
+      "bytes": 438170,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "8075ba15572e3c4d255517a79d08c90af0ccee1c8e7ca884343af6708ed08c6b"
+    },
+    {
+      "path": "04.jpg",
+      "sha256": "3072b5947a3d09e5f68d6d2275b90c0e15e8d49e823a82d0088288e165b6ad64",
+      "bytes": 339021,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "5194d4be0f91c99d563acff4fd2d19c239fb44aaad85e0fd6d6280c28d6e971f"
+    },
+    {
+      "path": "05.jpg",
+      "sha256": "6fe129f6c1898d1b9df8c5c58ab912eecec9235e195f99c5afb161bdc808dc11",
+      "bytes": 410560,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "b30a529342782c7f95a2694c250468fd01d6adeaf916a2734c100cf9514e228e"
+    },
+    {
+      "path": "06.jpg",
+      "sha256": "b895318aeafd89100df387f00e325cfaa3915817baf99d0cb7fc1931addec2ba",
+      "bytes": 751036,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "e786440fc8bc8416207fa56641a890d353b0aa8ed683bf6313bf2c3b43f63546"
+    },
+    {
+      "path": "07.jpg",
+      "sha256": "b4f4c2d2fc1731ae3a5c5e39010284b8fee7d5b74e8de202a91dcae8a9ead809",
+      "bytes": 386957,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "b181d4c691b4de6525db5221f97b8eb8629a790007f490d0f06e6ba38b08cd26"
+    },
+    {
+      "path": "08.jpg",
+      "sha256": "5ef3e49bd0d64bafe9321285b8cf7fe8772eeb80087169a27ee8bdc91263b2a0",
+      "bytes": 361450,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "9f948dae838a7aa27118c1dea8179532da7990f6abce39b2be7b77f226eeda00"
+    },
+    {
+      "path": "09.jpg",
+      "sha256": "ef7a1584bbc08430ae9ff16c7c76b3b1a5d81b94395480d025c65c2bf6edce5f",
+      "bytes": 477063,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "654f360d019ef7175f62e39af2974af8d03c93d200e20ad3cfa120f176f3b4a9"
+    },
+    {
+      "path": "10.jpg",
+      "sha256": "5075ec84a690218ae0a03e4abc5390752b88319397c3b97c1d5db5c2369dfb0d",
+      "bytes": 46351,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "951b51e925fa836e489e9852016c09bcc749603edec2ae0af215782edb11bf5a"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Little Girl in a Blue Armchair",
+      "url": "https://en.wikipedia.org/wiki/Little_Girl_in_a_Blue_Armchair",
+      "publisher": "Wikipedia (National Gallery of Art 자료·커샛 편지 인용)",
+      "publishedAt": "2026-10-26T03:50:00+09:00",
+      "retrievedAt": "2026-10-26T03:50:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "드가가 친구네 딸을 모델로 데려옴, 커샛이 1903년 무렵 볼라르에게 쓴 편지에서 드가가 배경을 조언하고 직접 작업했다고 씀, 1878년 만국박람회 미국관 미술 전시에 냈다가 심사에서 떨어짐, 내셔널 갤러리 세척·적외선 사진이 드가의 손을 확인, 워싱턴 내셔널 갤러리 소장.",
+      "usageNote": "드가 개입·모델·낙선의 첫 번째 출처. NGA 공식 페이지는 자동 접속을 막아(403) 출처 검증을 통과하지 못해 2026-10-26 03:30 작업이 바꿈. 게시일 표기가 없어 확인 시각을 적음."
+    },
+    {
+      "title": "Museum reveals Degas, Cassatt's interaction in art",
+      "url": "https://wtop.com/news/2014/05/museum-reveals-degas-cassatts-interaction-in-art/",
+      "publisher": "Associated Press (WTOP)",
+      "publishedAt": "2014-05-09T07:52:00-04:00",
+      "retrievedAt": "2026-10-25T20:52:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "내셔널 갤러리가 X선·적외선으로 드가가 캔버스에 대각선을 그은 변화를 찾음, 커샛이 드가가 '배경까지 작업했다'고 쓴 편지, 개 위치를 바꾼 흔적.",
+      "usageNote": "2014년 조사·적외선·대각선 모서리의 두 번째 출처."
+    },
+    {
+      "title": "Mary Cassatt’s Work Defying the Odds as a Female Artist",
+      "url": "https://artandobject.com/news/mary-cassatt-work-defying-odds-female-artist",
+      "publisher": "Art & Object",
+      "publishedAt": "2024-08-05T00:00:00Z",
+      "retrievedAt": "2026-10-26T03:52:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "'파란 안락의자의 소녀'가 1878년 파리 만국박람회에서 떨어졌고, 커샛이 훗날 심사위원 셋 중 하나가 약사였다고 말함. 친구 드가가 이 그림을 인정함.",
+      "usageNote": "낙선의 두 번째 출처."
+    },
+    {
+      "title": "Mary Cassatt, pioneer of Impressionism, at the Musée d'Orsay from October 6, 2026 to January 31, 2027",
+      "url": "https://news.artprice.com/en/15566/mary-cassatt-pioneer-of-impressionism-at-the-musee-d-orsay-from-october-6-2026-to-january-31-2027",
+      "publisher": "Artprice",
+      "publishedAt": "2026-07-10T17:00:00+02:00",
+      "retrievedAt": "2026-10-25T20:55:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "오르세 미술관 2026-10-06~2027-01-31, 80여 점, 런던 내셔널 포트레이트 갤러리·보스턴 미술관 공동 기획, 프랑스 첫 대규모 커샛 전시.",
+      "usageNote": "전시 정보의 첫 번째 출처."
+    },
+    {
+      "title": "Mary Cassatt, The Choice of Independence",
+      "url": "https://www.visitparisregion.com/en/mary-cassatt-the-choice-of-independence",
+      "publisher": "Visit Paris Region",
+      "publishedAt": "2026-10-25T20:56:00+09:00",
+      "retrievedAt": "2026-10-25T20:56:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "2026-10-06~2027-01-31, 사망 100주기, 약 80점(유화·파스텔·판화), 일반 16유로·할인 13유로·야간 12유로, 18세 미만 무료, 월요일 휴관.",
+      "usageNote": "전시 기간·요금·휴관일의 두 번째 출처. 게시일 표기가 없어 확인 시각을 적음."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-25T18:41:35.644Z",
+      "attempt": 1,
+      "url": "https://en.wikipedia.org/wiki/Little_Girl_in_a_Blue_Armchair",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-25T18:41:37.404Z",
+      "attempt": 1,
+      "url": "https://wtop.com/news/2014/05/museum-reveals-degas-cassatts-interaction-in-art/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-25T18:41:38.549Z",
+      "attempt": 1,
+      "url": "https://artandobject.com/news/mary-cassatt-work-defying-odds-female-artist",
+      "httpStatus": 200,
+      "outcome": "verified",
+      "detail": "Redirected to https://www.artandobject.com/news/mary-cassatt-work-defying-odds-female-artist"
+    },
+    {
+      "attemptedAt": "2026-10-25T18:41:39.842Z",
+      "attempt": 1,
+      "url": "https://news.artprice.com/en/15566/mary-cassatt-pioneer-of-impressionism-at-the-musee-d-orsay-from-october-6-2026-to-january-31-2027",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-25T18:41:40.729Z",
+      "attempt": 1,
+      "url": "https://www.visitparisregion.com/en/mary-cassatt-the-choice-of-independence",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-25T18:41:40.787Z",
+  "draftApprovedContentHash": "55485b38daf742c1117b8adeab2e70c93a03c7d87c5c67ab2e77c4b4cb22c04a",
+  "renderedAt": "2026-10-25T18:41:53.000Z",
+  "deployedAt": "2026-10-26T01:00:29.644Z"
+}
