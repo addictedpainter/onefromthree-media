@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "파란 의자에 뻗은 소녀 배경 손본 사람은 드가",
   "slug": "cassatt-blue-armchair-degas-background",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "v3",
     "topic": "메리 커샛 '파란 안락의자의 소녀'(1878) 배경에 드가가 직접 붓을 댄 이야기. 커샛 100주기 오르세 미술관 회고전(~2027-01-31)",
@@ -38,8 +38,8 @@
       "sourceSha256": "807482185868bde0ee4c4ec23869ce4cd0873aaa0b4dde0df274e8e19367b040",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/a/01.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:04.499Z",
-        "attempts": 7,
+        "verifiedAt": "2026-10-26T01:02:21.034Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 474820,
@@ -56,8 +56,8 @@
       "sourceSha256": "dd856ef04d3ccbb7a4d1ecc5de02469a9b8bf9d1dccb16c32c070b8f843491f9",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/a/02.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:04.777Z",
-        "attempts": 7,
+        "verifiedAt": "2026-10-26T01:02:21.034Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 330600,
@@ -74,8 +74,8 @@
       "sourceSha256": "8075ba15572e3c4d255517a79d08c90af0ccee1c8e7ca884343af6708ed08c6b",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/a/03.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:05.001Z",
-        "attempts": 7,
+        "verifiedAt": "2026-10-26T01:02:21.034Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 438170,
@@ -92,8 +92,8 @@
       "sourceSha256": "5194d4be0f91c99d563acff4fd2d19c239fb44aaad85e0fd6d6280c28d6e971f",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/a/04.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:05.391Z",
-        "attempts": 7,
+        "verifiedAt": "2026-10-26T01:02:21.034Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 339021,
@@ -110,8 +110,8 @@
       "sourceSha256": "b30a529342782c7f95a2694c250468fd01d6adeaf916a2734c100cf9514e228e",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/a/05.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:05.603Z",
-        "attempts": 7,
+        "verifiedAt": "2026-10-26T01:02:21.034Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 410560,
@@ -128,8 +128,8 @@
       "sourceSha256": "e786440fc8bc8416207fa56641a890d353b0aa8ed683bf6313bf2c3b43f63546",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/a/06.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:05.829Z",
-        "attempts": 7,
+        "verifiedAt": "2026-10-26T01:02:21.034Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 751036,
@@ -146,8 +146,8 @@
       "sourceSha256": "b181d4c691b4de6525db5221f97b8eb8629a790007f490d0f06e6ba38b08cd26",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/a/07.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:06.307Z",
-        "attempts": 7,
+        "verifiedAt": "2026-10-26T01:02:21.034Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 386957,
@@ -164,8 +164,8 @@
       "sourceSha256": "9f948dae838a7aa27118c1dea8179532da7990f6abce39b2be7b77f226eeda00",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/a/08.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:06.529Z",
-        "attempts": 7,
+        "verifiedAt": "2026-10-26T01:02:21.034Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 361450,
@@ -182,8 +182,8 @@
       "sourceSha256": "654f360d019ef7175f62e39af2974af8d03c93d200e20ad3cfa120f176f3b4a9",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/a/09.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:06.767Z",
-        "attempts": 7,
+        "verifiedAt": "2026-10-26T01:02:21.034Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 477063,
@@ -200,8 +200,8 @@
       "sourceSha256": "951b51e925fa836e489e9852016c09bcc749603edec2ae0af215782edb11bf5a",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/a/10.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:06.987Z",
-        "attempts": 7,
+        "verifiedAt": "2026-10-26T01:02:21.034Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 46351,
@@ -301,10 +301,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 7,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-25T18:41:40.787Z",
   "draftApprovedContentHash": "55485b38daf742c1117b8adeab2e70c93a03c7d87c5c67ab2e77c4b4cb22c04a",
   "renderedAt": "2026-10-25T18:41:53.000Z",
   "deployedAt": "2026-10-26T01:00:29.644Z",
-  "verifiedAt": "2026-10-26T01:02:07.190Z"
+  "verifiedAt": "2026-10-26T01:02:07.190Z",
+  "publishAttemptedAt": "2026-10-26T01:02:21.034Z"
 }
