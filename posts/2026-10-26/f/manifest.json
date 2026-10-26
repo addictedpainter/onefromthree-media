@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "조선 책장 그림 속 화가가 숨긴 도장",
   "slug": "chaekgado-hidden-seal",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "reel",
     "topic": "국립중앙박물관 전(傳) 이형록 「책가도」 병풍 9폭, 선반 위 도장들 사이에 인면이 보이게 그려 넣은 화가의 도장",
@@ -41,8 +41,8 @@
       "durationSeconds": 20.5,
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/f/reel.mp4",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:06.359Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-26T07:30:02.353Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "video/mp4",
         "bytes": 4739690,
@@ -124,10 +124,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 9,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-25T18:39:24.550Z",
   "draftApprovedContentHash": "05155a8c3a729fee0f9f7c8277b4347cbf0ab45586598c4461ff8f7e5c3155e9",
   "renderedAt": "2026-10-25T18:39:50.683Z",
   "deployedAt": "2026-10-26T01:00:29.606Z",
-  "verifiedAt": "2026-10-26T01:02:06.839Z"
+  "verifiedAt": "2026-10-26T01:02:06.839Z",
+  "publishAttemptedAt": "2026-10-26T07:30:02.353Z"
 }
