@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "픽셀을 네모로 만든 사람 \"바보 같은 짓\"",
   "slug": "kirsch-square-pixel-very-foolish",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "1957년 첫 디지털 스캔 사진(생후 3개월 아들 월든, 176×176)을 만든 러셀 커시가 2010년 네모 픽셀을 '아주 바보 같은 짓'이라고 한 이야기",
@@ -318,5 +318,8 @@
   "renderedAt": "2026-10-25T18:42:27.159Z",
   "deployedAt": "2026-10-26T01:00:29.637Z",
   "verifiedAt": "2026-10-26T01:02:11.809Z",
-  "publishAttemptedAt": "2026-10-26T06:00:09.152Z"
+  "publishAttemptedAt": "2026-10-26T06:00:09.152Z",
+  "publishedAt": "2026-10-26T06:01:19.488Z",
+  "externalPostId": "18108773459629210",
+  "externalUrl": "https://www.instagram.com/p/De8ly9LFbUm/"
 }
