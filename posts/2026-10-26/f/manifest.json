@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "조선 책장 그림 속 화가가 숨긴 도장",
   "slug": "chaekgado-hidden-seal",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "reel",
     "topic": "국립중앙박물관 전(傳) 이형록 「책가도」 병풍 9폭, 선반 위 도장들 사이에 인면이 보이게 그려 넣은 화가의 도장",
@@ -130,5 +130,8 @@
   "renderedAt": "2026-10-25T18:39:50.683Z",
   "deployedAt": "2026-10-26T01:00:29.606Z",
   "verifiedAt": "2026-10-26T01:02:06.839Z",
-  "publishAttemptedAt": "2026-10-26T07:30:02.353Z"
+  "publishAttemptedAt": "2026-10-26T07:30:02.353Z",
+  "publishedAt": "2026-10-26T07:31:45.842Z",
+  "externalPostId": "17979741423172030",
+  "externalUrl": "https://www.instagram.com/reel/De8wGWvgrat/"
 }
