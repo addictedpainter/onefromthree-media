@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "데뷔 앨범 못 내던 RAYE 폴 매카트니 제치고 수상",
   "slug": "raye-mercury-prize-2026",
-  "status": "awaiting_visual_review",
+  "status": "publishing",
   "editorial": {
     "contentVersion": "v3",
     "topic": "음반사가 데뷔 앨범을 막아 독립한 영국 가수 RAYE, 두 번째 앨범으로 폴 매카트니를 제치고 2026 머큐리상(10-22) 수상",
@@ -38,8 +38,8 @@
       "sourceSha256": "6a93ab38d7fa76fc9a7135eccaed0f2778380e6e6e6c85ff552bd2f4867eec1f",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/b/01.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:01.161Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-26T03:30:02.208Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 372864,
@@ -56,8 +56,8 @@
       "sourceSha256": "fbf7f5d0eb5e4953bfd8272dedaafa089c5e14bca00672e958d9e1dc91ba6f42",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/b/02.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:01.443Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-26T03:30:02.208Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 316139,
@@ -74,8 +74,8 @@
       "sourceSha256": "3df3915ea08c51beb1c40738fcfba78db9173fac9f3b4b90545f3d6c1c32e47b",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/b/03.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:01.674Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-26T03:30:02.208Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 372528,
@@ -92,8 +92,8 @@
       "sourceSha256": "bf4f097a7d38a1f0a6d322815f7b53ae274a2326917a52cba14e06b3b0d94331",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/b/04.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:02.090Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-26T03:30:02.208Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 202329,
@@ -110,8 +110,8 @@
       "sourceSha256": "a28e374ce1cc7c689ead513bb1c071c0ef71c10dc813a12d599c1f0e4f0c3204",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/b/05.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:02.317Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-26T03:30:02.208Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 396356,
@@ -128,8 +128,8 @@
       "sourceSha256": "cf019ad83b01a94642f931c412d92d8fc6a652a5bc6d293cb901560e4ce66102",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/b/06.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:02.565Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-26T03:30:02.208Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 379670,
@@ -146,8 +146,8 @@
       "sourceSha256": "de83172762d03d8996dcaea453ac88077f29c8b3fb0f21a4ac186d466ff3e59d",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/b/07.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:02.774Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-26T03:30:02.208Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 486343,
@@ -164,8 +164,8 @@
       "sourceSha256": "0057a5fb7dabbb3971e5eda9fe82c1d7f07629661bcf82c0d1c669a1def08b76",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/b/08.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:02.997Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-26T03:30:02.208Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 416743,
@@ -182,8 +182,8 @@
       "sourceSha256": "887be06517601d12dfa6c4e810991882ca1b4f993db9626e52ce3b95ca130dcc",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/b/09.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:03.231Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-26T03:30:02.208Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 355830,
@@ -200,8 +200,8 @@
       "sourceSha256": "daacb1dbd1a2e7e194b5852072761ba6f70394863f9fe869285e6ea6f82e8949",
       "url": "https://addictedpainter.github.io/onefromthree-media/posts/2026-10-26/b/10.jpg",
       "verification": {
-        "verifiedAt": "2026-10-26T01:02:03.460Z",
-        "attempts": 9,
+        "verifiedAt": "2026-10-26T03:30:02.208Z",
+        "attempts": 1,
         "httpStatus": 200,
         "contentType": "image/jpeg",
         "bytes": 46353,
@@ -300,10 +300,11 @@
   ],
   "collectionErrors": [],
   "deploymentAttempts": 9,
-  "publishAttemptCount": 0,
+  "publishAttemptCount": 1,
   "draftApprovedAt": "2026-10-25T18:38:05.414Z",
   "draftApprovedContentHash": "184d84db9da15a6237639f3db86085183026a6a0495354c2e747068176952259",
   "renderedAt": "2026-10-25T18:38:18.726Z",
   "deployedAt": "2026-10-26T01:00:29.632Z",
-  "verifiedAt": "2026-10-26T01:02:03.684Z"
+  "verifiedAt": "2026-10-26T01:02:03.684Z",
+  "publishAttemptedAt": "2026-10-26T03:30:02.208Z"
 }
