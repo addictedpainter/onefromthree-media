@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-27",
+  "slot": "f",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-26T20:33:00+09:00",
+  "generatedAt": "2026-10-26T20:45:00+09:00",
+  "package": {
+    "contentVersion": "reel",
+    "category": "art",
+    "slug": "terborch-gallant-conversation-gesture",
+    "topic": "테르 보르흐 「정중한 대화(일명 '아버지의 훈계')」, 아버지로 불려 온 남자가 장교이고 엄지와 검지를 맞댄 손짓을 두고 해석이 갈린다",
+    "title": [
+      "아버지 훈계라던 그림",
+      "학자들 해석은 딴판"
+    ],
+    "window": "5:4",
+    "clips": [
+      {
+        "kind": "image",
+        "image": {
+          "file": "terborch-gallant-conversation.jpg",
+          "provider": "rijksmuseum",
+          "sourceUrl": "https://www.rijksmuseum.nl/en/collection/SK-A-404",
+          "imageUrl": "https://iiif.micr.io/RxOuM/full/max/0/default.jpg",
+          "license": "Public domain",
+          "artist": "헤라르트 테르 보르흐",
+          "title": "정중한 대화(일명 '아버지의 훈계')",
+          "year": "1654~1655년경"
+        },
+        "from": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "to": {
+          "x": 0.55,
+          "y": 0.45,
+          "w": 0.165,
+          "h": 0.13
+        },
+        "duration": 20.5,
+        "moveStart": 1,
+        "moveEnd": 12.5
+      }
+    ],
+    "subtitleMode": "ours",
+    "subtitles": [
+      {
+        "text": "'아버지의 훈계'로\n불려 온 그림",
+        "start": 0,
+        "end": 2.8
+      },
+      {
+        "text": "1765년 판화에\n붙은 제목이다",
+        "start": 3,
+        "end": 5.8
+      },
+      {
+        "text": "괴테도 소설에서\n딸을 타이르는 아버지로 썼다",
+        "start": 6,
+        "end": 8.8
+      },
+      {
+        "text": "그런데 이 '아버지'는\n군복 차림의 장교",
+        "start": 9,
+        "end": 11.8
+      },
+      {
+        "text": "엄지와 검지를 맞댄 손\n유혹의 손짓이라는 해석",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "그래서 지금 제목은\n'정중한 대화'",
+        "start": 15.2,
+        "end": 17.9
+      },
+      {
+        "text": "헤라르트 테르 보르흐, 1654~1655년경\n암스테르담 국립미술관",
+        "start": 18.1,
+        "end": 20.5
+      }
+    ],
+    "music": {
+      "file": "terborch-music.m4a",
+      "title": "Ambient bed",
+      "artist": "MiniMax-Music3",
+      "license": "Generated",
+      "sourceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+      "volume": 1
+    },
+    "coverAt": 13,
+    "hook": "🍷 '아버지의 훈계'로 불려 온 그림인데, 학자들은 전혀 다른 장면으로 읽어요.",
+    "body": [
+      "헤라르트 테르 보르흐가 1654~1655년경 그린 「정중한 대화」예요. 1765년 요한 게오르크 빌레가 베를린에 있는 같은 구도의 그림을 판화로 옮겼는데, 그 판화에 적힌 제목이 '아버지의 훈계'였어요. 괴테도 1809년 소설 『친화력』에서 이 장면을 딸을 타이르는 아버지로 그렸고요.",
+      "그런데 앉은 남자는 군복 차림의 장교예요. 엄지와 검지를 맞댄 손짓과 뒤쪽 커다란 침대를 두고, 유혹 장면이라는 해석과 구애 장면이라는 해석이 갈려요. 소장처인 암스테르담 국립미술관은 지금 이 그림을 '정중한 대화'라고 부르고, 화가가 여러 해석이 나오게 일부러 모호하게 그렸다고 설명해요."
+    ],
+    "question": "훈계 장면 vs 연애 장면, 여러분 눈엔 어느 쪽이에요?",
+    "editor": "Yuna",
+    "hashtags": [
+      "#테르보르흐",
+      "#명화",
+      "#그림속디테일",
+      "#네덜란드미술",
+      "#레이크스미술관"
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 2,
+      "evidenceAndImages": 2,
+      "availableNow": 1,
+      "rationale": "'아버지 훈계라던 그림, 학자들 해석은 딴판'이라는 한 문장이 그대로 DM이 된다. 제목 유래(1765년 빌레 판화 'Instruction Paternelle', 괴테 『친화력』)와 '아버지의 훈계' → '정중한 대화' 개칭, 유혹·구애 해석은 Rijksmuseum 카탈로그와 독립 자료 베를린 국립박물관(SMB) 전시 페이지가 함께 적는다. 엄지·검지 손짓은 Rijksmuseum 카탈로그 단독이라 자막에서 '~라는 해석'으로 낮췄다. 이미지는 Rijksmuseum Public Domain Mark 1.0, IIIF RxOuM 4647×4510. 한국어권에서 이 그림의 제목 반전을 다룬 확대 릴스가 드물어 새로움 2점, 지금 고리는 없어 1점. 버린 제목 후보: ① '아버지라던 그림 속 남자 / 정체는 장교' — 장교인 것이 아버지가 아니라는 뜻으로 읽혀 사실을 비튼다(카탈로그는 '부성에 오래 의문이 제기됐다'까지만 쓴다). ② '아버지 훈계라던 그림 / 뒤엔 커다란 침대' — 침대를 매춘 암시로 몰아가는데 구애 해석에선 혼인을 뜻해 한쪽 해석을 사실처럼 흘리고, 확대 끝 디테일(손)과도 어긋난다."
+    },
+    "unknowns": [
+      "기관에 한국어 표기가 없어 작가는 네덜란드어 발음 '헤라르트 테르 보르흐'로 적었다(기관 표기 Gerard ter Borch (II), c. 1654 - c. 1655).",
+      "한국어 제목은 기관 영어 제목 'Gallant Conversation, Known as The Paternal Admonition'을 보고서 2절 표기대로 옮겼다.",
+      "확대 끝 상자는 원본 4647×4510에서 직접 잡았다(x 2556~3323, y 2030~2616px). 장교의 얼굴과 엄지·검지를 맞댄 오른손이 함께 들어온다. 손은 원본 x 약 2660~2820, y 약 2270~2590px.",
+      "'장교 손에 동전'은 카탈로그가 기술 조사에서 '흔적 없음'이라 적어 쓰지 않았다(보고서 4절). 손짓이 유곽 그림에 자주 나온다는 설명은 Rijksmuseum 단독이라 '유혹의 손짓이라는 해석'으로만 썼다.",
+      "'아버지의 훈계' 제목이 판화를 만든 빌레 본인이 붙인 것인지는 확인하지 않았다. 그래서 '판화에 적힌 제목', '판화에 붙은 제목'으로만 썼다."
+    ]
+  },
+  "sources": [
+    {
+      "title": "Gallant Conversation, Known as ‘The Paternal Admonition’, Gerard ter Borch (II), c. 1654 - c. 1655 (catalogue entry)",
+      "url": "https://www.rijksmuseum.nl/en/collection/SK-A-404/catalogue-entry",
+      "publisher": "Rijksmuseum",
+      "publishedAt": "2026-10-26T00:00:00+09:00",
+      "retrievedAt": "2026-10-26T20:35:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "소장 기관 작품 페이지와 카탈로그. 작가 Gerard ter Borch (II), 연대 c. 1654 - c. 1655, 소장번호 SK-A-404, 캔버스에 유채 70×72.5cm, 1809년 구입. 'owes its traditional title The Paternal Admonition to an inscription on the engraving Instruction Paternelle which Johann Georg Wille made after a second version in Berlin in 1765', 'Goethe also described the picture in Die Wahlverwandtschaften of 1809 as a father admonishing his daughter'. 남자는 'identified as a military man by his buff coat', 'the officer’s gesture, which is often found in brothel scenes, could have sexual implications', 'thumb and index finger touching'. 동전설은 'not a trace of a coin was found during the painting’s technical examination'. 유곽 장면 해석과 구애 해석('the bed is not a reference to paid sex but to a future marriage')을 함께 적고, 화가가 'a deliberate strategy of conjuring up different interpretations'를 썼다고 본다.",
+      "usageNote": "이미지 원본(IIIF RxOuM, Public Domain Mark 1.0), 작품 표기, 사실 확인 1."
+    },
+    {
+      "title": "Gerard ter Borch: Gallant Conversation (exhibition)",
+      "url": "https://www.smb.museum/en/exhibitions/detail/gerard-ter-borch-gallant-conversation/",
+      "publisher": "Staatliche Museen zu Berlin",
+      "publishedAt": "2019-10-17T00:00:00+09:00",
+      "retrievedAt": "2026-10-26T20:36:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "베를린 국립박물관 회화관 전시 페이지. 거의 같은 두 판이 베를린 회화관과 암스테르담 Rijksmuseum에 있다. 'the recent renaming of the work, from The Paternal Admonition to Gallant Conversation', 'there is significant evidence to suggest that the scene actually depicts an amorous seduction', 'this scene of seduction could have been given the title The Paternal Admonition in the 18th century', 'J.G. Wille’s reproductive print (1765) … was also the source of Johann Wolfgang von Goethe’s famous description … in his novel Elective Affinities'.",
+      "usageNote": "사실 확인 2(독립 기관). 1765년 판화 제목 유래, 괴테 소설, '정중한 대화'로 개칭, 유혹 장면 해석의 근거."
+    }
+  ],
+  "collectionErrors": []
+}

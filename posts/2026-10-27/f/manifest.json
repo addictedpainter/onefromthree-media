@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-27",
+  "slot": "f",
+  "postId": "2026-10-27-f",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "아버지 훈계라던 그림 학자들 해석은 딴판",
+  "slug": "terborch-gallant-conversation-gesture",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "reel",
+    "topic": "테르 보르흐 「정중한 대화(일명 '아버지의 훈계')」, 아버지로 불려 온 남자가 장교이고 엄지와 검지를 맞댄 손짓을 두고 해석이 갈린다",
+    "category": "art",
+    "editor": "Yuna",
+    "shareScore": 9,
+    "durationSeconds": 20.5,
+    "clipCount": 1,
+    "channels": [],
+    "reelKind": "painting",
+    "imageTiers": {
+      "public_domain": 1
+    }
+  },
+  "generatedAt": "2026-10-26T20:45:00+09:00",
+  "scheduledStartAt": "2026-10-26T18:30:00.000Z",
+  "actualStartedAt": "2026-10-26T20:33:00+09:00",
+  "imageCount": 1,
+  "contentHash": "30d518beb2eab85bfaa59f12bc7c3c8c0a8d96513cca655faebecb1816ccefc7",
+  "idempotencyKey": "scenenode:2026-10-27-f:30d518beb2eab85b",
+  "media": [
+    {
+      "path": "reel.mp4",
+      "sha256": "9cd21473a4b8db593ccad0f2a5b744d9ea6c5f5e0c59d20415765475cd4e70b0",
+      "bytes": 5243762,
+      "width": 1080,
+      "height": 1920,
+      "contentType": "video/mp4",
+      "durationSeconds": 20.5
+    }
+  ],
+  "sources": [
+    {
+      "title": "Gallant Conversation, Known as ‘The Paternal Admonition’, Gerard ter Borch (II), c. 1654 - c. 1655 (catalogue entry)",
+      "url": "https://www.rijksmuseum.nl/en/collection/SK-A-404/catalogue-entry",
+      "publisher": "Rijksmuseum",
+      "publishedAt": "2026-10-26T00:00:00+09:00",
+      "retrievedAt": "2026-10-26T20:35:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "소장 기관 작품 페이지와 카탈로그. 작가 Gerard ter Borch (II), 연대 c. 1654 - c. 1655, 소장번호 SK-A-404, 캔버스에 유채 70×72.5cm, 1809년 구입. 'owes its traditional title The Paternal Admonition to an inscription on the engraving Instruction Paternelle which Johann Georg Wille made after a second version in Berlin in 1765', 'Goethe also described the picture in Die Wahlverwandtschaften of 1809 as a father admonishing his daughter'. 남자는 'identified as a military man by his buff coat', 'the officer’s gesture, which is often found in brothel scenes, could have sexual implications', 'thumb and index finger touching'. 동전설은 'not a trace of a coin was found during the painting’s technical examination'. 유곽 장면 해석과 구애 해석('the bed is not a reference to paid sex but to a future marriage')을 함께 적고, 화가가 'a deliberate strategy of conjuring up different interpretations'를 썼다고 본다.",
+      "usageNote": "이미지 원본(IIIF RxOuM, Public Domain Mark 1.0), 작품 표기, 사실 확인 1."
+    },
+    {
+      "title": "Gerard ter Borch: Gallant Conversation (exhibition)",
+      "url": "https://www.smb.museum/en/exhibitions/detail/gerard-ter-borch-gallant-conversation/",
+      "publisher": "Staatliche Museen zu Berlin",
+      "publishedAt": "2019-10-17T00:00:00+09:00",
+      "retrievedAt": "2026-10-26T20:36:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "베를린 국립박물관 회화관 전시 페이지. 거의 같은 두 판이 베를린 회화관과 암스테르담 Rijksmuseum에 있다. 'the recent renaming of the work, from The Paternal Admonition to Gallant Conversation', 'there is significant evidence to suggest that the scene actually depicts an amorous seduction', 'this scene of seduction could have been given the title The Paternal Admonition in the 18th century', 'J.G. Wille’s reproductive print (1765) … was also the source of Johann Wolfgang von Goethe’s famous description … in his novel Elective Affinities'.",
+      "usageNote": "사실 확인 2(독립 기관). 1765년 판화 제목 유래, 괴테 소설, '정중한 대화'로 개칭, 유혹 장면 해석의 근거."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-26T18:39:28.546Z",
+      "attempt": 1,
+      "url": "https://www.rijksmuseum.nl/en/collection/SK-A-404/catalogue-entry",
+      "httpStatus": 206,
+      "outcome": "verified",
+      "detail": "Redirected to https://www.rijksmuseum.nl/en/collection/object/Gallant-Conversation-Known-as-The-Paternal-Admonition--c7e6ee5e46db1ef891d311eff9f9b27e?tab=catalogue"
+    },
+    {
+      "attemptedAt": "2026-10-26T18:39:30.894Z",
+      "attempt": 1,
+      "url": "https://www.smb.museum/en/exhibitions/detail/gerard-ter-borch-gallant-conversation/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-26T18:39:30.912Z",
+  "draftApprovedContentHash": "30d518beb2eab85bfaa59f12bc7c3c8c0a8d96513cca655faebecb1816ccefc7",
+  "renderedAt": "2026-10-26T18:40:16.364Z",
+  "deployedAt": "2026-10-27T01:00:33.808Z"
+}
