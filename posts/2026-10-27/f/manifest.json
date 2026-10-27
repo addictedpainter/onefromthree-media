@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "아버지 훈계라던 그림 학자들 해석은 딴판",
   "slug": "terborch-gallant-conversation-gesture",
-  "status": "awaiting_visual_review",
+  "status": "blocked_deploy",
   "editorial": {
     "contentVersion": "reel",
     "topic": "테르 보르흐 「정중한 대화(일명 '아버지의 훈계')」, 아버지로 불려 온 남자가 장교이고 엄지와 검지를 맞댄 손짓을 두고 해석이 갈린다",
@@ -81,10 +81,11 @@
     }
   ],
   "collectionErrors": [],
-  "deploymentAttempts": 1,
+  "deploymentAttempts": 25,
   "publishAttemptCount": 0,
   "draftApprovedAt": "2026-10-26T18:39:30.912Z",
   "draftApprovedContentHash": "30d518beb2eab85bfaa59f12bc7c3c8c0a8d96513cca655faebecb1816ccefc7",
   "renderedAt": "2026-10-26T18:40:16.364Z",
-  "deployedAt": "2026-10-27T01:00:33.808Z"
+  "deployedAt": "2026-10-27T01:00:33.808Z",
+  "lastError": "GitHub Pages verification failed after 24 attempts: https://addictedpainter.github.io/onefromthree-media/posts/2026-10-27/f/reel.mp4 returned HTTP 404, text/html, SHA b620507312c5."
 }
