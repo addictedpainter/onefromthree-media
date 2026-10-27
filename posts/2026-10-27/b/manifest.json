@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-27",
+  "slot": "b",
+  "postId": "2026-10-27-b",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "사형 앞둔 안중근 글씨 받은 사람은 감옥 소장",
+  "slug": "ahn-junggeun-calligraphy-prison-warden",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "v3",
+    "topic": "국립고궁박물관 특별전 '독대'(10-27~12-27, 무료): 뤼순 감옥에서 쓴 안중근 유묵을 받은 사람이 형무소장이었다는 뒷면 기록",
+    "category": "culture",
+    "editor": "Seol",
+    "shareScore": 10,
+    "coverLayout": "caption",
+    "imageTiers": {
+      "public_domain": 9
+    }
+  },
+  "generatedAt": "2026-10-26T21:00:00+09:00",
+  "scheduledStartAt": "2026-10-26T18:30:00.000Z",
+  "actualStartedAt": "2026-10-26T20:31:00+09:00",
+  "imageCount": 10,
+  "contentHash": "7a57ea27fd52b6fb73510e205259a5bef5bb3c368217d9eec4b69d05a2d81667",
+  "idempotencyKey": "scenenode:2026-10-27-b:7a57ea27fd52b6fb",
+  "media": [
+    {
+      "path": "01.jpg",
+      "sha256": "e6f32943d138aec155fc71a7162fa90efbb1c699b8023cfa4498af358f7383d0",
+      "bytes": 344860,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "4def0bebec2ffb877aa2c1f6549d73e44e0f0e0aea0dd9864b9df09085910fbf"
+    },
+    {
+      "path": "02.jpg",
+      "sha256": "9c4df4329565ad864f87171293ef294947eb754408e39792bbe8bae061b3a8e2",
+      "bytes": 474021,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "268c8786331a0bb5cc5833a4e2469d9414a7ccd5613e651adbb4ff8b5d5a2818"
+    },
+    {
+      "path": "03.jpg",
+      "sha256": "eda8af861ca0139710bc4db2796b18900f4e686791d7f55cdce933fb8b39b3a7",
+      "bytes": 219414,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "c8725b39a4254f5fddac1e467b73b9993a7c1d11f7d15551dac7b7e6f93ce1dc"
+    },
+    {
+      "path": "04.jpg",
+      "sha256": "2165467136a1a12b65511083c11ad70c438ef82b21c7f9a9c4fbece468e619f6",
+      "bytes": 149728,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "a6ca183a35e7bd1035939a004be75282584c1150f3ed1737f0e406d49d98c34c"
+    },
+    {
+      "path": "05.jpg",
+      "sha256": "8e0bdab1578d77331e07c07c7bc25d765545bc44a770948b1cc6250ce6b5d1d7",
+      "bytes": 304121,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "29a6438fbb82b70882531367ec4076bdb1dd13aa37f3115a77182c77fb45ae7f"
+    },
+    {
+      "path": "06.jpg",
+      "sha256": "d0dfd2bfc92a5abaa37eb3411210322ede9d748a4cc2fada4089a3cb2bcbeb4b",
+      "bytes": 291411,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "910534db7646caa7de040d01d6c3accfe7ce9275e50b1420821fabefb9837315"
+    },
+    {
+      "path": "07.jpg",
+      "sha256": "adbe09216575e9aaba7f29d3aacd66ecf43f474ac4cb10c99ee9409edd39c783",
+      "bytes": 388317,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "8dded5f3e1c156273613c6eb0d921824d66bf9e1e57adf2b1ca765841620dccb"
+    },
+    {
+      "path": "08.jpg",
+      "sha256": "5535dd9f4c39ba91d2f4ca5a1e37c8d9daaf6cb2a6ad1e5f9f6124335a5c4594",
+      "bytes": 450643,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "86eb22b6abe2f61fcecb121b9866873cc261046ed665de95eded81283fbe4f4e"
+    },
+    {
+      "path": "09.jpg",
+      "sha256": "3d570794d51864eccc0c4c876abbe1ccb420c50d734add09317280c458b208b8",
+      "bytes": 243700,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "849c4fcac31b05cbd924b5f626a2737333ded13cab75c5086054b54b271e80b4"
+    },
+    {
+      "path": "10.jpg",
+      "sha256": "a964dbbe3f01f129e2bbb0e80ba54549f2530d65da46a3a248077a4ea3253aca",
+      "bytes": 44526,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "e5f02c9e8d854498d858295f4f0298b815a69f318bb61a9c439b842d82b2f96a"
+    }
+  ],
+  "sources": [
+    {
+      "title": "116년 만에 돌아온 안중근 의사의 유묵, 국립고궁박물관에서 만난다",
+      "url": "https://www.khs.go.kr/newsBbz/selectNewsBbzView.do?newsItemId=155706446&sectionId=b_sec_1&mn=NS_01_02",
+      "publisher": "국가유산청",
+      "publishedAt": "2026-10-26T00:00:00+09:00",
+      "retrievedAt": "2026-10-26T20:35:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "전시 기간 10월 27일~12월 27일, 국립고궁박물관 2층 기획전시실Ⅱ, 무료, 어두운 통로 끝 유묵 한 점과 마주하는 구성, 출구의 손바닥 도장 터치스크린·평화 메시지, '만국공법, 즉 국제법이 대포만 못하다' 뜻, '庚戌三月 於旅順獄中 大韓國人 安重根 書' 관지와 왼쪽 아래 손도장, 뒷면에 뤼순 감옥 형무소장 구리하라 사다키치가 받았다는 기록과 뒤 소장자의 표구, 사형 시기 오기, 유묵 70여 점·보물 31점, 2025년 5월 정보 입수·11월 20일 환수를 확인했습니다.",
+      "usageNote": "첨부 보도자료(PDF)의 유묵 사진을 1·5장에 씀. 페이지에 공공누리 제1유형 표시. korea.kr newsId=156786412에도 같은 글."
+    },
+    {
+      "title": "특별전 「독대(獨對): 안중근이 남긴 여덟 글자」",
+      "url": "https://www.gogung.go.kr/gogung/bbs/BMSR00002/view.do?boardId=7019&menuNo=800040",
+      "publisher": "국립고궁박물관",
+      "publishedAt": "2026-10-26T20:38:00+09:00",
+      "retrievedAt": "2026-10-26T20:38:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "전시명, 기간 10월 27일~12월 27일, 장소 2층 기획전시실Ⅱ, 무료 관람, 운영 시간(09:30 개관, 매달 마지막 월요일 휴관), 공식 Instagram @gogungmuseum을 확인했습니다.",
+      "usageNote": "게시일 표기가 불분명해 publishedAt은 확인 시각. 페이지 이미지는 800px이고 공공누리 표시가 없어 쓰지 않음."
+    },
+    {
+      "title": "(국영문 동시배포) 안중근 의사가 옥중에서 쓴 '만국공법불여대포(萬國公法不如大砲)' 유묵, 국내 귀환",
+      "url": "https://www.khs.go.kr/newsBbz/selectNewsBbzView.do?newsItemId=155706284&sectionId=b_sec_1&mn=NS_01_02",
+      "publisher": "국가유산청",
+      "publishedAt": "2026-08-13T00:00:00+09:00",
+      "retrievedAt": "2026-10-26T20:44:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "전체 196.8×44.8cm·화면 135.4×32.3cm 종이 족자, 8월 13일 덕수궁 중명전에서 첫 공개, 국외소재문화유산재단을 통한 환수를 확인했습니다.",
+      "usageNote": "korea.kr newsId=156774284에도 같은 글."
+    },
+    {
+      "title": "안중근의 '만국공법불여대포', 두 달간 관람객 만난다",
+      "url": "https://www.khan.co.kr/article/202610261157001",
+      "publisher": "경향신문",
+      "publishedAt": "2026-10-26T11:57:00+09:00",
+      "retrievedAt": "2026-10-26T20:58:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "27일부터 두 달간 국립고궁박물관 '독대' 전시, 하얼빈 의거 117주년, 지난해 11월 환수, '만국공법(국제법)이 대포만 못하다' 뜻, 1910년 3월 뤼순 감옥에서 썼다는 점, 손바닥 도장과 뒷면 기록을 독립적으로 확인했습니다.",
+      "usageNote": "기사 사진은 쓰지 않음."
+    },
+    {
+      "title": "안중근 의사 유묵 '만국공법불여대포' 오는 27일부터 특별전시 [뉴시스Pic]",
+      "url": "https://www.newsis.com/view/NISX20261026_0003841478",
+      "publisher": "뉴시스",
+      "publishedAt": "2026-10-26T00:00:00+09:00",
+      "retrievedAt": "2026-10-26T20:58:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "10월 27일~12월 27일 특별전시, 1910년 3월 뤼순 감옥, 2025년 11월 국외소재문화유산재단 환수, 2026년 8월 13일 언론 공개를 확인했습니다.",
+      "usageNote": "기사 사진은 쓰지 않음."
+    },
+    {
+      "title": "사형 직전 안중근 의사의 8글자…유묵 '만국공법불여대포' 특별전 열린다",
+      "url": "https://www.news1.kr/life-culture/cultural-policy/6331499",
+      "publisher": "뉴스1",
+      "publishedAt": "2026-10-26T00:00:00+09:00",
+      "retrievedAt": "2026-10-26T20:58:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "27일~12월 27일 국립고궁박물관 기획전시실, 지난 8월 언론공개회에서 처음 공개, 크기 196.8×44.8cm, 2025년 5월 존재 확인을 확인했습니다.",
+      "usageNote": "기사 사진은 쓰지 않음."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-26T18:37:38.839Z",
+      "attempt": 1,
+      "url": "https://www.khs.go.kr/newsBbz/selectNewsBbzView.do?newsItemId=155706446&sectionId=b_sec_1&mn=NS_01_02",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-26T18:37:38.967Z",
+      "attempt": 1,
+      "url": "https://www.gogung.go.kr/gogung/bbs/BMSR00002/view.do?boardId=7019&menuNo=800040",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-26T18:37:39.429Z",
+      "attempt": 1,
+      "url": "https://www.khs.go.kr/newsBbz/selectNewsBbzView.do?newsItemId=155706284&sectionId=b_sec_1&mn=NS_01_02",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-26T18:37:39.587Z",
+      "attempt": 1,
+      "url": "https://www.khan.co.kr/article/202610261157001",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-26T18:37:39.739Z",
+      "attempt": 1,
+      "url": "https://www.newsis.com/view/NISX20261026_0003841478",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-26T18:37:40.242Z",
+      "attempt": 1,
+      "url": "https://www.news1.kr/life-culture/cultural-policy/6331499",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [
+    {
+      "source": "chosun.com",
+      "message": "조선일보 2026-10-25 기사가 webgrab 리더 경로에서 '원하시는 페이지를 찾을 수 없습니다'로 열리지 않아 출처로 쓰지 않음."
+    },
+    {
+      "source": "gogung.go.kr",
+      "message": "pressView.do 보도자료 주소가 오류 페이지를 돌려줘 전시 페이지(BMSR00002)로 대신 확인함."
+    }
+  ],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-26T18:37:40.299Z",
+  "draftApprovedContentHash": "7a57ea27fd52b6fb73510e205259a5bef5bb3c368217d9eec4b69d05a2d81667",
+  "renderedAt": "2026-10-26T18:37:56.457Z",
+  "deployedAt": "2026-10-27T01:00:33.737Z"
+}
