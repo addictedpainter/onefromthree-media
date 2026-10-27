@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-27",
+  "slot": "e",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-26T20:33:00+09:00",
+  "generatedAt": "2026-10-26T20:55:00+09:00",
+  "package": {
+    "contentVersion": "reel",
+    "category": "culture",
+    "slug": "noel-gallagher-coco-pops",
+    "topic": "노엘 갤러거, 치킨 숍 데이트 마지막 시즌(2026-10-23 공개)에서 상파울루 공연 이틀 뒤 집에서 두 아들의 코코팝스 다툼을 봤다는 일화",
+    "title": [
+      "상파울루 무대 48시간 뒤",
+      "노엘 집엔 코코팝스 싸움"
+    ],
+    "window": "1.37:1",
+    "clips": [
+      {
+        "file": "clip-01.mp4",
+        "sourceUrl": "https://www.youtube.com/watch?v=Z7wJd259qug",
+        "channel": "Amelia Dimoldenberg",
+        "start": 77.9,
+        "end": 111.9,
+        "fit": "cover",
+        "focusX": 0.5,
+        "focusY": 0.5,
+        "zoom": 1.15,
+        "audio": true
+      }
+    ],
+    "subtitleMode": "ours",
+    "subtitles": [
+      {
+        "text": "겸손을 지키는\n비결이 있어요?",
+        "start": 0,
+        "end": 1.3
+      },
+      {
+        "text": "애들이랑\n같이 살거든요",
+        "start": 1.3,
+        "end": 3.1
+      },
+      {
+        "text": "애들이 겸손하게\n만들어 주는군요",
+        "start": 3.1,
+        "end": 4.4
+      },
+      {
+        "text": "상파울루에서 9만 명 앞에서\n일요일 밤에 공연하고",
+        "start": 4.4,
+        "end": 8
+      },
+      {
+        "text": "화요일 아침에\n집에 왔어요",
+        "start": 8,
+        "end": 10.4
+      },
+      {
+        "text": "아래층에 내려가 보니\n두 아들이 싸우고 있더라고요",
+        "start": 10.4,
+        "end": 16.2
+      },
+      {
+        "text": "코코팝스 상자에\n남은 걸 두고요",
+        "start": 16.2,
+        "end": 20
+      },
+      {
+        "text": "그래서 속으로 생각했죠",
+        "start": 20,
+        "end": 22.4
+      },
+      {
+        "text": "'48시간 전엔\n상파울루 무대에 있었고'",
+        "start": 22.4,
+        "end": 25.9
+      },
+      {
+        "text": "'세상이 내 손안에 있었는데'",
+        "start": 25.9,
+        "end": 28.2
+      },
+      {
+        "text": "'지금은 두 녀석이랑\n코코팝스로 싸우고 있네'",
+        "start": 28.2,
+        "end": 31.8
+      },
+      {
+        "text": "코코팝스 맛있긴 하죠\n꽤 맛있죠",
+        "start": 31.8,
+        "end": 34
+      }
+    ],
+    "coverAt": 6,
+    "hook": "🥣 노엘 갤러거가 상파울루 공연을 마치고 이틀 뒤 집에 와 보니, 두 아들이 코코팝스로 싸우고 있었대요.",
+    "body": [
+      "오아시스의 노엘 갤러거가 10월 23일 공개된 유튜브 토크 〈치킨 숍 데이트〉 마지막 시즌에 나왔어요. 진행자 어밀리아 디몰덴버그가 겸손을 지키는 비결을 묻자 \"애들이랑 같이 산다\"고 답했죠.",
+      "본인 말로는 일요일 밤 상파울루에서 \"9만 명 앞에서\" 공연하고 화요일 아침 집에 왔더니, 두 아들이 코코팝스 상자에 남은 걸 두고 다투고 있었대요. \"48시간 전엔 세상이 내 손안에 있었는데\"라는 말이 이어집니다.",
+      "같은 영상에서 오아시스 재결합까지 기다린 시간을 두고는 \"16년\"이라고 짧게 답했어요. 오아시스는 내년 'Live '27' 투어로 다시 무대에 섭니다."
+    ],
+    "question": "스타디움 무대 vs 집 안의 코코팝스, 더 어려운 쪽은 어디일까요?",
+    "credits": "Amelia Dimoldenberg (YouTube)",
+    "editor": "Sian",
+    "hashtags": [
+      "#노엘갤러거",
+      "#오아시스",
+      "#치킨숍데이트",
+      "#Oasis",
+      "#해외토크쇼"
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 2,
+      "evidenceAndImages": 1,
+      "availableNow": 1,
+      "rationale": "오아시스·브릿팝 좋아하는 친구에게 '노엘 갤러거도 집에선 코코팝스 싸움 말린대'로 바로 보낼 이야기. 원본은 진행자 본인 공식 유튜브(10-23 공개, 약 90만 회)이고 NME가 노엘의 출연을 보도했다. 일화 자체는 영상 속 본인 발언이라 근거 1. 제목 후보: (1안, 선택) '9만 명 앞에 섰던 노엘 / 48시간 뒤 코코팝스 싸움' — 아는 얼굴 + 숫자 대비 반전 하나, 명사로 끝. (2안, 버림) '오아시스 노엘 갤러거를 / 겸손하게 만드는 두 아들' — 설명하는 수식절이고 반전(코코팝스)이 빠짐. (3안, 버림) '세상을 손에 쥔 록스타 / 코코팝스 앞에선 아빠' — '세상을 손에 쥔'이 과장된 수식이고 사실(9만 명·48시간)이 사라짐."
+    },
+    "unknowns": [
+      "원음 전사는 영어 자동 자막 단어 시각으로 맞춰 번역했다. 'bell ends'(영국 속어 욕설)는 '두 녀석'으로 순화했다.",
+      "Times Brasil은 상파울루 2회 공연 합계를 약 14만 명(하룻밤 약 7만)으로 적어 9만 명은 확인되지 않는다. 그래서 제목·캡션 첫 줄·질문에서 숫자를 빼고 자막과 본문(본인 말로는)에만 남겼다(03:30 점검).",
+      "상파울루 상파울루 공연이 오아시스 재결합 투어의 어느 날짜인지는 영상에 없고 따로 확인하지 않아 쓰지 않았다. 9만 명은 본인 발언 그대로다.",
+      "해외 영상 쪽 수: 최근 7일(10-20~26) 클립 릴스가 국내 6·해외 6이라 내일 2건을 국내 1·해외 1로 맞췄다. 연예(토크) 클립은 내일 이 1건뿐이다.",
+      "주제 점수 7: 화제 증거 1(조회 약 90만, 매체 보도는 출연 사실만), 아는 얼굴 2, 반전 2(9만 명 → 코코팝스), 참여 장치 0, 원본 2(공식 채널)."
+    ]
+  },
+  "sources": [
+    {
+      "title": "NOEL GALLAGHER | CHICKEN SHOP DATE: THE FINAL SERIES",
+      "url": "https://www.youtube.com/watch?v=Z7wJd259qug",
+      "publisher": "Amelia Dimoldenberg (YouTube, 진행자 공식 채널)",
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "retrievedAt": "2026-10-26T20:50:00+09:00",
+      "kind": "official_social",
+      "evidenceSummary": "8분 44초 영상. 1:17~1:52에 노엘 갤러거가 \"We played a gig in Sao Paulo to 90,000 people on a Sunday night... arguing over what was left in a box of Coco Pops\", \"48 hours ago, I was on stage in Sao Paulo. The world was in my hands\"라고 말한다(영어 자동 자막).",
+      "usageNote": "릴스 클립 원본: 77.3~111.9초, 원음 사용."
+    },
+    {
+      "title": "Watch Ali G mock Noel Gallagher's Oasis comeback and try to kick him out of cinema",
+      "url": "https://www.nme.com/news/music/watch-ali-g-mock-noel-gallagher-oasis-comeback-cinema-3974172",
+      "publisher": "NME",
+      "publishedAt": "2026-10-25T10:31:00Z",
+      "retrievedAt": "2026-10-26T20:45:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "노엘 갤러거가 이번 주 〈치킨 숍 데이트〉 마지막 시즌에 출연해 재결합까지 기다릴 시간을 묻자 \"16 years\"라고 답했다고 보도. 오아시스 'Live '27' 투어(42회) 예정도 적음.",
+      "usageNote": "출연 사실·'16년' 발언·투어 확인용"
+    }
+  ],
+  "collectionErrors": []
+}

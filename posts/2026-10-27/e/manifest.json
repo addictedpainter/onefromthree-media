@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-27",
+  "slot": "e",
+  "postId": "2026-10-27-e",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "상파울루 무대 48시간 뒤 노엘 집엔 코코팝스 싸움",
+  "slug": "noel-gallagher-coco-pops",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "reel",
+    "topic": "노엘 갤러거, 치킨 숍 데이트 마지막 시즌(2026-10-23 공개)에서 상파울루 공연 이틀 뒤 집에서 두 아들의 코코팝스 다툼을 봤다는 일화",
+    "category": "culture",
+    "editor": "Sian",
+    "shareScore": 8,
+    "durationSeconds": 34,
+    "clipCount": 1,
+    "channels": [
+      "Amelia Dimoldenberg"
+    ]
+  },
+  "generatedAt": "2026-10-26T20:55:00+09:00",
+  "scheduledStartAt": "2026-10-26T18:30:00.000Z",
+  "actualStartedAt": "2026-10-26T20:33:00+09:00",
+  "imageCount": 1,
+  "contentHash": "162dcd41d0d709dc50b98c58cc496bd25626f2532e4b5db788ce4c4fca9acae2",
+  "idempotencyKey": "scenenode:2026-10-27-e:162dcd41d0d709dc",
+  "media": [
+    {
+      "path": "reel.mp4",
+      "sha256": "c839d91d7673b8e3465cc7d53ca2be5f55703fa253f29ad0a46677060aa876ea",
+      "bytes": 6365248,
+      "width": 1080,
+      "height": 1920,
+      "contentType": "video/mp4",
+      "durationSeconds": 34
+    }
+  ],
+  "sources": [
+    {
+      "title": "NOEL GALLAGHER | CHICKEN SHOP DATE: THE FINAL SERIES",
+      "url": "https://www.youtube.com/watch?v=Z7wJd259qug",
+      "publisher": "Amelia Dimoldenberg (YouTube, 진행자 공식 채널)",
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "retrievedAt": "2026-10-26T20:50:00+09:00",
+      "kind": "official_social",
+      "evidenceSummary": "8분 44초 영상. 1:17~1:52에 노엘 갤러거가 \"We played a gig in Sao Paulo to 90,000 people on a Sunday night... arguing over what was left in a box of Coco Pops\", \"48 hours ago, I was on stage in Sao Paulo. The world was in my hands\"라고 말한다(영어 자동 자막).",
+      "usageNote": "릴스 클립 원본: 77.3~111.9초, 원음 사용."
+    },
+    {
+      "title": "Watch Ali G mock Noel Gallagher's Oasis comeback and try to kick him out of cinema",
+      "url": "https://www.nme.com/news/music/watch-ali-g-mock-noel-gallagher-oasis-comeback-cinema-3974172",
+      "publisher": "NME",
+      "publishedAt": "2026-10-25T10:31:00Z",
+      "retrievedAt": "2026-10-26T20:45:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "노엘 갤러거가 이번 주 〈치킨 숍 데이트〉 마지막 시즌에 출연해 재결합까지 기다릴 시간을 묻자 \"16 years\"라고 답했다고 보도. 오아시스 'Live '27' 투어(42회) 예정도 적음.",
+      "usageNote": "출연 사실·'16년' 발언·투어 확인용"
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-26T18:42:52.416Z",
+      "attempt": 1,
+      "url": "https://www.youtube.com/watch?v=Z7wJd259qug",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-26T18:42:53.178Z",
+      "attempt": 1,
+      "url": "https://www.nme.com/news/music/watch-ali-g-mock-noel-gallagher-oasis-comeback-cinema-3974172",
+      "httpStatus": 206,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-26T18:42:53.254Z",
+  "draftApprovedContentHash": "162dcd41d0d709dc50b98c58cc496bd25626f2532e4b5db788ce4c4fca9acae2",
+  "renderedAt": "2026-10-26T18:43:08.297Z",
+  "deployedAt": "2026-10-27T01:00:33.802Z"
+}
