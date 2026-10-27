@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "사형 앞둔 안중근 글씨 받은 사람은 감옥 소장",
   "slug": "ahn-junggeun-calligraphy-prison-warden",
-  "status": "awaiting_visual_review",
+  "status": "blocked_deploy",
   "editorial": {
     "contentVersion": "v3",
     "topic": "국립고궁박물관 특별전 '독대'(10-27~12-27, 무료): 뤼순 감옥에서 쓴 안중근 유묵을 받은 사람이 형무소장이었다는 뒷면 기록",
@@ -235,10 +235,11 @@
       "message": "pressView.do 보도자료 주소가 오류 페이지를 돌려줘 전시 페이지(BMSR00002)로 대신 확인함."
     }
   ],
-  "deploymentAttempts": 1,
+  "deploymentAttempts": 25,
   "publishAttemptCount": 0,
   "draftApprovedAt": "2026-10-26T18:37:40.299Z",
   "draftApprovedContentHash": "7a57ea27fd52b6fb73510e205259a5bef5bb3c368217d9eec4b69d05a2d81667",
   "renderedAt": "2026-10-26T18:37:56.457Z",
-  "deployedAt": "2026-10-27T01:00:33.737Z"
+  "deployedAt": "2026-10-27T01:00:33.737Z",
+  "lastError": "GitHub Pages verification failed after 24 attempts: https://addictedpainter.github.io/onefromthree-media/posts/2026-10-27/b/01.jpg returned HTTP 404, text/html, SHA b620507312c5."
 }
