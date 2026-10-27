@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "사용자들이 돈 모아 사들인 블렌더",
   "slug": "free-blender-users-bought-the-code",
-  "status": "awaiting_visual_review",
+  "status": "blocked_deploy",
   "editorial": {
     "contentVersion": "v3",
     "topic": "NaN 폐업 뒤 사용자들이 7주 만에 11만 유로를 모아 블렌더 코드를 사들여 2002년 10월 13일 GPL로 공개한 이야기",
@@ -214,10 +214,11 @@
       "message": "API 요청 중 429가 한 번 나 간격을 두고 재시도함."
     }
   ],
-  "deploymentAttempts": 1,
+  "deploymentAttempts": 25,
   "publishAttemptCount": 0,
   "draftApprovedAt": "2026-10-26T18:38:08.234Z",
   "draftApprovedContentHash": "2415a7dfb7d6bb9f348da9128ac93316bad7d197b56acff51d323a0f9a16efa7",
   "renderedAt": "2026-10-26T18:38:23.156Z",
-  "deployedAt": "2026-10-27T01:00:33.769Z"
+  "deployedAt": "2026-10-27T01:00:33.769Z",
+  "lastError": "GitHub Pages verification failed after 24 attempts: https://addictedpainter.github.io/onefromthree-media/posts/2026-10-27/c/01.jpg returned HTTP 404, text/html, SHA b620507312c5."
 }
