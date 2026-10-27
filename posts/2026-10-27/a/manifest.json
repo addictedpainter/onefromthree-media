@@ -9,7 +9,7 @@
   "openAiPlatformCalls": 0,
   "title": "천 년 만에 영국 온 자수 표는 내년 3월까지 매진",
   "slug": "bayeux-tapestry-british-museum-sold-out",
-  "status": "publishing",
+  "status": "published",
   "editorial": {
     "contentVersion": "v3",
     "topic": "바이외 태피스트리, 거의 천 년 만에 잉글랜드(대영박물관) 전시. 2027년 3월 관람분까지 매진, 카드사 집계로 블록버스터 개봉날의 두 배",
@@ -308,5 +308,8 @@
   "renderedAt": "2026-10-26T18:37:30.239Z",
   "deployedAt": "2026-10-27T01:13:16.113Z",
   "verifiedAt": "2026-10-27T01:13:22.508Z",
-  "publishAttemptedAt": "2026-10-27T01:13:26.108Z"
+  "publishAttemptedAt": "2026-10-27T01:13:26.108Z",
+  "publishedAt": "2026-10-27T01:14:28.935Z",
+  "externalPostId": "17918005047532647",
+  "externalUrl": "https://www.instagram.com/p/De-pw5CCbRp/"
 }
