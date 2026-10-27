@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-27",
+  "slot": "a",
+  "postId": "2026-10-27-a",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "천 년 만에 영국 온 자수 표는 내년 3월까지 매진",
+  "slug": "bayeux-tapestry-british-museum-sold-out",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "v3",
+    "topic": "바이외 태피스트리, 거의 천 년 만에 잉글랜드(대영박물관) 전시. 2027년 3월 관람분까지 매진, 카드사 집계로 블록버스터 개봉날의 두 배",
+    "category": "art",
+    "editor": "Dain",
+    "shareScore": 9,
+    "coverLayout": "caption",
+    "imageTiers": {
+      "public_domain": 9
+    }
+  },
+  "generatedAt": "2026-10-26T20:58:00+09:00",
+  "scheduledStartAt": "2026-10-26T18:30:00.000Z",
+  "actualStartedAt": "2026-10-26T20:38:00+09:00",
+  "imageCount": 10,
+  "contentHash": "b47b3f66bae8c078f99ab456b3ce150a0081e0482a404220be276cfa473c3499",
+  "idempotencyKey": "scenenode:2026-10-27-a:b47b3f66bae8c078",
+  "media": [
+    {
+      "path": "01.jpg",
+      "sha256": "8e98cccfe714a69e9573dea02ff1badd2cdb8c16923e268ca86cd3f78d12b4b7",
+      "bytes": 748879,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "a40619e989287f5025eeeb9aa0c31fe42e38c7b1412ac5ae9bcbe860ec77d310"
+    },
+    {
+      "path": "02.jpg",
+      "sha256": "e0b290b03b91af74a094cd0637dce5a8daf9a48610dae9c4ed007c8c78abdcf6",
+      "bytes": 837288,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "b3cf2f4e66845ecd1e4e6f94d94ea2e4dc1dd3cff187fa18b20383bb576370e6"
+    },
+    {
+      "path": "03.jpg",
+      "sha256": "d492d8d71ff3867b02aabba491db731995b48bac1f46d1a8ebb85329e7042312",
+      "bytes": 456836,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "6d0361464de691d2bcb38ea60fd46da22e1cb882ab2045c3bf46ed351c4fc062"
+    },
+    {
+      "path": "04.jpg",
+      "sha256": "70fb574f5ffaadf8d9ffedefa75973f3c82bf401e9972877fac4a0b056f19ee5",
+      "bytes": 500984,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "eecd9004377099b6c1d4780331a12d1bdf05a48596bc2d7b72967a6b2da38e3f"
+    },
+    {
+      "path": "05.jpg",
+      "sha256": "55f8d9a1e61a932822bde57fcdae73f8c81be8b5b0a67bf2f0ebf245c274ab82",
+      "bytes": 392926,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "6fa65c5c24b5daafed2db95bd0a1997965a825a455a01d844abdcc7a7a300a0c"
+    },
+    {
+      "path": "06.jpg",
+      "sha256": "1dadcff3d944ce4667daf0242b09b548b910bfb48a7a7075231e131a16376a6a",
+      "bytes": 611343,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "9f0572d81b7ef894028faa7ca6625121a3f34c3b7e7cbff43406f7e6a55842ef"
+    },
+    {
+      "path": "07.jpg",
+      "sha256": "f4a295375c637e7a139483485c18f6a2c34fe15e63c8faf061afb33af845e765",
+      "bytes": 490336,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "6e64de460a49c861719d7683d6135ff3578c088dba71318739a46331f5fde3e7"
+    },
+    {
+      "path": "08.jpg",
+      "sha256": "3bccf3fa07155b4e729d6e110f7815740d24250e2e996159992036495d6c08c4",
+      "bytes": 329144,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "190b1256b395d7d99346630d53810833cc2bbd2feb5d09c4c045298054ed2b01"
+    },
+    {
+      "path": "09.jpg",
+      "sha256": "9ab8158b9b702afd9c3bd342872a9ad03c845452436d0a894f2f1cb343a95497",
+      "bytes": 516976,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "d40f31f19d91bfe19330104c6f7b607ed3fac32101cf49decc767d8a201849d5"
+    },
+    {
+      "path": "10.jpg",
+      "sha256": "483ff9319ff798c0b071305b0ea28dd226e1ffcf6a9deb97e1b62fbe9996c19e",
+      "bytes": 44550,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "f0aa1d42e9342b9bd771bc673e8d8c1723be3d1212825177751f42919a482829"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bayeux tapestry becomes pop culture hit as young people more keen to see exhibition than top films",
+      "url": "https://www.theguardian.com/world/2026/oct/26/young-britons-bayeux-tapestry-tickets-british-museum-hollywood-blockbusters",
+      "publisher": "The Guardian (Rachel Hall)",
+      "publishedAt": "2026-10-26T00:00:00Z",
+      "retrievedAt": "2026-10-26T20:40:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "지난 수요일(10-21) 오전 10시 두 번째 예매가 3시간 만에 매진(첫 판매는 24시간). 몬조 고객 결제: 첫 한 시간 대영박물관 결제 1만 4,100파운드(평소 수요일 아침의 48배), 구매자 55% 35세 미만, 올해 〈오디세이〉 7,000파운드·〈스파이더맨: 브랜드 뉴 데이〉 6,300파운드 개봉날 아침의 두 배. 11세기 프랑스로 간 뒤 처음 잉글랜드 전시. 성인 피크 33파운드·비피크 27파운드. 줄 때문에 사진 촬영 금지.",
+      "usageNote": "몬조 수치·3시간 매진·55%는 이 기사 단독이라 6장·캡션에 출처를 밝혀 씀. 매진·첫 잉글랜드 전시·가격·촬영 금지는 다른 출처와 대조함."
+    },
+    {
+      "title": "The Bayeux Tapestry",
+      "url": "https://www.britishmuseum.org/exhibitions/bayeux-tapestry",
+      "publisher": "British Museum",
+      "publishedAt": "2026-09-10T00:00:00+01:00",
+      "retrievedAt": "2026-10-26T20:42:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "2026-09-10~2027-07-11, Room 30. '2026-09-10~2027-03-31 관람분 매진'. 만들어진 지 거의 1,000년 만에 처음 잉글랜드로 돌아옴. 길이 70m, 1066년 노르만 정복. 노르만 후원자 주문·잉글랜드 자수공 제작으로 추정. 다음 판매는 뉴스레터로 안내.",
+      "usageNote": "전시 기간·장소·매진 범위·'천 년 만'·70m·제작 추정의 공식 출처."
+    },
+    {
+      "title": "British Museum bans photos of Bayeux Tapestry as crowds linger",
+      "url": "https://kuwaittimes.com/article/50239/lifestyle/art-fashion/british-museum-bans-photos-of-bayeux-tapestry-as-crowds-linger",
+      "publisher": "AFP (Kuwait Times)",
+      "publishedAt": "2026-09-22T00:00:00+03:00",
+      "retrievedAt": "2026-10-26T20:44:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "대변인이 AFP에 줄이 밀려 자수 앞 사진 촬영을 제한했다고 확인. 거의 1,000년 된 작품, 70m, 잉글랜드에서 만들어져 바이외로 옮겨졌다는 것이 통설. 프랑스 밖으로 나온 것은 처음으로 알려짐. 2027년 7월까지 대여. 12월 31일까지 매진, 다음 판매 10월 21일.",
+      "usageNote": "사진 촬영 금지·잉글랜드 제작설·10월 21일 판매일의 두 번째 출처."
+    },
+    {
+      "title": "Record ticket sales for Bayeux Tapestry exhibition",
+      "url": "https://www.museumsassociation.org/museums-journal/news/2026/07/record-ticket-sales-for-bayeux-tapestry-exhibition/",
+      "publisher": "Museums Association (Museums Journal)",
+      "publishedAt": "2026-07-07T00:00:00+01:00",
+      "retrievedAt": "2026-10-26T20:46:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "7월 1일 예매 개시, 하루 250만 파운드 넘게 팔려 박물관 역대 최대 판매일. 온라인 대기 최고 8만 명 이상. 첫 판매분은 첫날 매진. 1983년부터 바이외 태피스트리 박물관에 있었고, 박물관 리노베이션으로 영국 대여 기회가 생김. 전시 뒤 새 바이외 박물관으로 돌아감.",
+      "usageNote": "첫 예매 날 250만 파운드·8만 명 대기·박물관 공사 계기의 출처(The Art Newspaper 2026-07-02 기사 제목도 같은 수치)."
+    },
+    {
+      "title": "The Bayeux Tapestry at the British Museum: What to Expect",
+      "url": "https://www.medievalists.net/2026/09/british-museum-bayeux-tapestry/",
+      "publisher": "Medievalists.net",
+      "publishedAt": "2026-09-10T00:00:00Z",
+      "retrievedAt": "2026-10-26T20:47:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2026-09-10~2027-07-11. 성인 표준 33파운드, 비피크 27파운드, 슈퍼 오프피크 25파운드, 16세 미만 무료(성인 동반 예약). 자수가 유리 아래 눕혀 전시돼 위에서 내려다보며 바늘땀까지 가까이 볼 수 있음.",
+      "usageNote": "가격과 전시 방식의 두 번째 출처. 기사 제목은 페이지에서 정확히 확인하지 못해 요지로 적음."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-26T18:37:04.551Z",
+      "attempt": 1,
+      "url": "https://www.theguardian.com/world/2026/oct/26/young-britons-bayeux-tapestry-tickets-british-museum-hollywood-blockbusters",
+      "httpStatus": 206,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-26T18:37:05.346Z",
+      "attempt": 1,
+      "url": "https://www.britishmuseum.org/exhibitions/bayeux-tapestry",
+      "httpStatus": 206,
+      "outcome": "verified",
+      "detail": "Verified with public web-client fallback."
+    },
+    {
+      "attemptedAt": "2026-10-26T18:37:05.645Z",
+      "attempt": 1,
+      "url": "https://kuwaittimes.com/article/50239/lifestyle/art-fashion/british-museum-bans-photos-of-bayeux-tapestry-as-crowds-linger",
+      "httpStatus": 200,
+      "outcome": "verified",
+      "detail": "Redirected to https://kuwaittimes.com/article/50239/lifestyle/art-fashion/british-museum-bans-photos-of-bayeux-tapestry-as-crowds-linger/"
+    },
+    {
+      "attemptedAt": "2026-10-26T18:37:06.868Z",
+      "attempt": 1,
+      "url": "https://www.museumsassociation.org/museums-journal/news/2026/07/record-ticket-sales-for-bayeux-tapestry-exhibition/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-26T18:37:07.080Z",
+      "attempt": 1,
+      "url": "https://www.medievalists.net/2026/09/british-museum-bayeux-tapestry/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-26T18:37:07.145Z",
+  "draftApprovedContentHash": "b47b3f66bae8c078f99ab456b3ce150a0081e0482a404220be276cfa473c3499",
+  "renderedAt": "2026-10-26T18:37:30.239Z",
+  "deployedAt": "2026-10-27T01:00:33.770Z"
+}

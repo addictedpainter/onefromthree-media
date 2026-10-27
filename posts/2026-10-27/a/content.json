@@ -1,0 +1,265 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-27",
+  "slot": "a",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-26T20:38:00+09:00",
+  "generatedAt": "2026-10-26T20:58:00+09:00",
+  "package": {
+    "contentVersion": "v3",
+    "category": "art",
+    "slug": "bayeux-tapestry-british-museum-sold-out",
+    "topic": "바이외 태피스트리, 거의 천 년 만에 잉글랜드(대영박물관) 전시. 2027년 3월 관람분까지 매진, 카드사 집계로 블록버스터 개봉날의 두 배",
+    "headline": [
+      "천 년 만에 영국 온 자수",
+      "표는 내년 3월까지 매진"
+    ],
+    "hook": "🧵 천 년 된 자수 한 폭 보려는 표가 런던에서 내년 3월 치까지 다 팔렸어요.",
+    "body": [
+      "바이외 태피스트리는 1066년 노르만 정복 이야기를 길이 70m 천에 수놓은 작품이에요. 잉글랜드 자수공들이 만들었을 거라 보는데, 오랫동안 프랑스 바이외에 있었어요. 바이외 박물관이 새 단장에 들어가면서 9월 10일부터 런던 대영박물관에 와 있어요. 박물관은 만들어진 지 천 년 가까이 만에 처음 잉글랜드로 돌아왔다고 소개해요.",
+      "사실 표 구하기가 콘서트급이에요. 7월 1일 첫 예매 날 하루 매출이 250만 파운드로 박물관 역대 최고였고, 온라인 대기 줄은 8만 명을 넘었어요. 10월 21일 두 번째 예매는 3시간 만에 끝났대요. 영국 은행 몬조가 자기 고객 카드 결제를 집계했더니, 판매 첫 한 시간 대영박물관 결제액이 1만 4,100파운드로 올해 개봉한 〈스파이더맨: 브랜드 뉴 데이〉 개봉날 아침(6,300파운드)의 두 배를 넘었대요. 산 사람의 55%는 35세 미만이었고요. 줄이 밀리자 박물관은 자수 앞 사진 촬영도 막았어요.",
+      "전시는 런던 대영박물관 30번 전시실에서 2027년 7월 11일까지 열려요. 성인 표는 33파운드, 비수기 시간대는 27파운드예요. 3월 31일 관람분까지는 매진이고, 4월 이후 표는 아직 풀리지 않았어요. 자수는 유리 진열장 안에 눕혀 놓여 있어서 위에서 내려다보며 바늘땀까지 볼 수 있대요."
+    ],
+    "question": "천 년 된 자수랑 개봉날 영화, 표 하나만 산다면 뭘 고를래요?",
+    "credits": "바이외 태피스트리(11세기, 퍼블릭 도메인) 사진: Université de Caen Normandie · CNRS · ENSICAEN(2017 촬영 캠페인), Myrabella, Wikimedia Commons · 대영박물관 사진: Death Star Central (CC BY-SA 4.0), Tom Page (CC BY-SA 2.0), Wikimedia Commons",
+    "editor": "Dain",
+    "hashtags": [
+      "#바이외태피스트리",
+      "#대영박물관",
+      "#런던여행",
+      "#중세미술",
+      "#전시추천"
+    ],
+    "slides": [
+      {
+        "index": 1,
+        "text": "천 년 만에 영국 온 자수\n표는 내년 3월까지 매진",
+        "image": {
+          "file": "01-cover.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_scene57_Harold_death.jpg",
+          "credit": "Bayeux Tapestry, scene 57 (11th century), photo: Myrabella, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-26T20:50:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.22,
+              "y": 0,
+              "width": 0.65,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 2,
+        "text": "1066년 노르만 정복 이야기를 수놓은 길이 70m짜리 자수예요.",
+        "image": {
+          "file": "02-edward.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_Scene_01_(cropped).jpg",
+          "credit": "Bayeux Tapestry, scene 1 (11th century), Université de Caen Normandie · CNRS · ENSICAEN, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-26T20:50:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.36,
+              "y": 0,
+              "width": 0.48,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 3,
+        "text": "잉글랜드 자수공들이 놓았을 거라는 이 자수는 프랑스 바이외에 있었어요.",
+        "image": {
+          "file": "03-comet.png",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_Scene_32_(cropped).png",
+          "credit": "Bayeux Tapestry, scene 32 (11th century), Université de Caen Normandie · CNRS · ENSICAEN, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-26T20:50:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.29,
+              "y": 0,
+              "width": 0.7,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 4,
+        "text": "바이외 박물관이 공사로 문을 닫자, 자수가 바다를 건너 런던에 왔어요.",
+        "image": {
+          "file": "04-ships.png",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_Scene_39_(cropped).png",
+          "credit": "Bayeux Tapestry, scene 39 (11th century), Université de Caen Normandie · CNRS · ENSICAEN, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-26T20:50:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.28,
+              "y": 0,
+              "width": 0.52,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 5,
+        "text": "7월 첫 예매 날에만 250만 파운드어치가 팔렸어요. 박물관 역대 최고예요.",
+        "image": {
+          "file": "05-great-court.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:British_Museum_Great_Court_roof_2024-02-10.jpg",
+          "credit": "British Museum Great Court roof. Photo: Tom Page, Wikimedia Commons (CC BY-SA 2.0)",
+          "license": "CC BY-SA 2.0",
+          "checkedAt": "2026-10-26T20:50:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 6,
+        "text": "사실 첫 한 시간 카드 결제액이 스파이더맨 개봉날 아침의 두 배였대요.",
+        "image": {
+          "file": "06-william.png",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_Scene_55_(cropped).png",
+          "credit": "Bayeux Tapestry, scene 55 (11th century), Université de Caen Normandie · CNRS · ENSICAEN, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-26T20:50:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 7,
+        "text": "보는 줄이 밀리자 박물관은 자수 앞 사진 촬영을 막았어요.",
+        "image": {
+          "file": "07-feast.png",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_Scene_43_(cropped).png",
+          "credit": "Bayeux Tapestry, scene 43 (11th century), Université de Caen Normandie · CNRS · ENSICAEN, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-26T20:50:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.42,
+              "y": 0,
+              "width": 0.55,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 8,
+        "text": "대영박물관에서 내년 7월 11일까지 열려요. 남은 건 4월 이후 표뿐이에요.",
+        "image": {
+          "file": "08-british-museum.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:British_Museum_Front_Facade.jpg",
+          "credit": "British Museum front facade. Photo: Death Star Central, Wikimedia Commons (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "checkedAt": "2026-10-26T20:50:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 9,
+        "text": "천 년 된 자수랑 개봉날 영화, 표 하나만 산다면 뭘 고를래요?",
+        "image": {
+          "file": "09-rider.png",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_Scene_49_(cropped).png",
+          "credit": "Bayeux Tapestry, scene 49 (11th century), Université de Caen Normandie · CNRS · ENSICAEN, Wikimedia Commons",
+          "license": "Public domain",
+          "checkedAt": "2026-10-26T20:50:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.1,
+              "y": 0,
+              "width": 0.75,
+              "height": 1
+            }
+          }
+        }
+      }
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 2,
+      "evidenceAndImages": 2,
+      "availableNow": 1,
+      "rationale": "'천 년 된 자수 표가 콘서트처럼 매진'이라는 한 사실이 표지 두 줄로 전달되고, 런던 여행 갈 친구·역사 좋아하는 친구에게 보내기 좋다. 거의 천 년 만의 잉글랜드 전시는 대영박물관 공식 페이지와 AFP(쿠웨이트타임스 전재), 2027-03-31 관람분까지 매진은 공식 페이지와 Guardian, 첫 예매 날 250만 파운드는 Museums Association과 The Art Newspaper(검색 결과), 사진 촬영 금지는 AFP와 Guardian, 가격은 Guardian과 Medievalists.net으로 확인. 몬조 결제 수치·3시간 매진·55% 35세 미만은 Guardian 단독이라 표지에서 빼고 6장·캡션에 카드사 집계로 출처를 밝혔다. 사진 9장 모두 퍼블릭 도메인(11세기 자수 촬영본) 또는 CC BY-SA. 4월 이후 표가 아직 안 풀려 지금 바로 예매는 못 하므로 '지금 볼 수 있는가' 1점. 버린 표지: '스파이더맨보다 잘 팔린 / 천 년 된 자수'(가장 세지만 Guardian 단독 카드사 집계라 표지에서 단정할 수 없음), '사진 한 장 못 찍는 / 천 년 된 자수'(촬영 금지는 줄 관리 조치라 작품 보호로 오해되고, 보낼 이유가 매진보다 약함)."
+    },
+    "unknowns": []
+  },
+  "sources": [
+    {
+      "title": "Bayeux tapestry becomes pop culture hit as young people more keen to see exhibition than top films",
+      "url": "https://www.theguardian.com/world/2026/oct/26/young-britons-bayeux-tapestry-tickets-british-museum-hollywood-blockbusters",
+      "publisher": "The Guardian (Rachel Hall)",
+      "publishedAt": "2026-10-26T00:00:00Z",
+      "retrievedAt": "2026-10-26T20:40:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "지난 수요일(10-21) 오전 10시 두 번째 예매가 3시간 만에 매진(첫 판매는 24시간). 몬조 고객 결제: 첫 한 시간 대영박물관 결제 1만 4,100파운드(평소 수요일 아침의 48배), 구매자 55% 35세 미만, 올해 〈오디세이〉 7,000파운드·〈스파이더맨: 브랜드 뉴 데이〉 6,300파운드 개봉날 아침의 두 배. 11세기 프랑스로 간 뒤 처음 잉글랜드 전시. 성인 피크 33파운드·비피크 27파운드. 줄 때문에 사진 촬영 금지.",
+      "usageNote": "몬조 수치·3시간 매진·55%는 이 기사 단독이라 6장·캡션에 출처를 밝혀 씀. 매진·첫 잉글랜드 전시·가격·촬영 금지는 다른 출처와 대조함."
+    },
+    {
+      "title": "The Bayeux Tapestry",
+      "url": "https://www.britishmuseum.org/exhibitions/bayeux-tapestry",
+      "publisher": "British Museum",
+      "publishedAt": "2026-09-10T00:00:00+01:00",
+      "retrievedAt": "2026-10-26T20:42:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "2026-09-10~2027-07-11, Room 30. '2026-09-10~2027-03-31 관람분 매진'. 만들어진 지 거의 1,000년 만에 처음 잉글랜드로 돌아옴. 길이 70m, 1066년 노르만 정복. 노르만 후원자 주문·잉글랜드 자수공 제작으로 추정. 다음 판매는 뉴스레터로 안내.",
+      "usageNote": "전시 기간·장소·매진 범위·'천 년 만'·70m·제작 추정의 공식 출처."
+    },
+    {
+      "title": "British Museum bans photos of Bayeux Tapestry as crowds linger",
+      "url": "https://kuwaittimes.com/article/50239/lifestyle/art-fashion/british-museum-bans-photos-of-bayeux-tapestry-as-crowds-linger",
+      "publisher": "AFP (Kuwait Times)",
+      "publishedAt": "2026-09-22T00:00:00+03:00",
+      "retrievedAt": "2026-10-26T20:44:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "대변인이 AFP에 줄이 밀려 자수 앞 사진 촬영을 제한했다고 확인. 거의 1,000년 된 작품, 70m, 잉글랜드에서 만들어져 바이외로 옮겨졌다는 것이 통설. 프랑스 밖으로 나온 것은 처음으로 알려짐. 2027년 7월까지 대여. 12월 31일까지 매진, 다음 판매 10월 21일.",
+      "usageNote": "사진 촬영 금지·잉글랜드 제작설·10월 21일 판매일의 두 번째 출처."
+    },
+    {
+      "title": "Record ticket sales for Bayeux Tapestry exhibition",
+      "url": "https://www.museumsassociation.org/museums-journal/news/2026/07/record-ticket-sales-for-bayeux-tapestry-exhibition/",
+      "publisher": "Museums Association (Museums Journal)",
+      "publishedAt": "2026-07-07T00:00:00+01:00",
+      "retrievedAt": "2026-10-26T20:46:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "7월 1일 예매 개시, 하루 250만 파운드 넘게 팔려 박물관 역대 최대 판매일. 온라인 대기 최고 8만 명 이상. 첫 판매분은 첫날 매진. 1983년부터 바이외 태피스트리 박물관에 있었고, 박물관 리노베이션으로 영국 대여 기회가 생김. 전시 뒤 새 바이외 박물관으로 돌아감.",
+      "usageNote": "첫 예매 날 250만 파운드·8만 명 대기·박물관 공사 계기의 출처(The Art Newspaper 2026-07-02 기사 제목도 같은 수치)."
+    },
+    {
+      "title": "The Bayeux Tapestry at the British Museum: What to Expect",
+      "url": "https://www.medievalists.net/2026/09/british-museum-bayeux-tapestry/",
+      "publisher": "Medievalists.net",
+      "publishedAt": "2026-09-10T00:00:00Z",
+      "retrievedAt": "2026-10-26T20:47:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2026-09-10~2027-07-11. 성인 표준 33파운드, 비피크 27파운드, 슈퍼 오프피크 25파운드, 16세 미만 무료(성인 동반 예약). 자수가 유리 아래 눕혀 전시돼 위에서 내려다보며 바늘땀까지 가까이 볼 수 있음.",
+      "usageNote": "가격과 전시 방식의 두 번째 출처. 기사 제목은 페이지에서 정확히 확인하지 못해 요지로 적음."
+    }
+  ],
+  "collectionErrors": []
+}
