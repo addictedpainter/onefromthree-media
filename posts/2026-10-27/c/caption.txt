@@ -1,0 +1,15 @@
+🐵 블렌더가 공짜인 건 2002년에 사용자들이 돈을 모아 코드를 사들여서래요.
+
+블렌더는 네덜란드 애니메이션 스튜디오 NeoGeo의 사내 프로그램으로 시작했어요. 1994년 1월 2일 톤 루젠달이 첫 소스 파일을 썼고, 1998년에는 그가 세운 회사 NaN이 블렌더를 팔았어요. 투자금을 두 번에 걸쳐 550만 달러쯤 받았지만 2002년 초 회사는 문을 닫았고, 블렌더 개발도 그대로 멈췄대요.
+
+사실 루젠달에게는 투자자들한테서 권리를 되살 돈이 없었어요. 그래서 2002년 비영리 블렌더 재단을 세우고, 7월에 'Free Blender' 모금을 열었어요. 투자자들이 부른 값은 10만 유로였어요. 사용자들이 7주 만에 11만 유로를 모았고, 2002년 10월 13일 블렌더는 GPL 라이선스로 풀렸어요. 누구나 공짜로 쓰고 코드까지 고칠 수 있게요. 그 뒤 재단은 이 프로그램으로 단편 영화를 만들어 하나씩 공개해 왔어요.
+
+지금 최신 버전은 10월 22일 나온 5.2.3 LTS이고, 5.3은 11월 10일에 나올 예정이에요. blender.org에서 누구나 무료로 받을 수 있어요. 『빅 벅 버니』, 『스프라이트 프라이트』 같은 재단 단편도 CC 라이선스라 누구나 볼 수 있어요. @blender.official
+
+돈을 모아서라도 살리고 싶은 프로그램이나 앱, 있어요?
+
+📸 Blender 4.3.2 화면: UnnecessaryDecision, Wikimedia Commons (CC0) · 톤 루젠달(2008): Kennisland, Wikimedia Commons (CC BY-SA 2.0) · 『Elephants Dream』·『Tears of Steel』·『Big Buck Bunny』: Blender Foundation (CC BY 2.5·3.0) · 『Sintel』 아트워크: David Revoy, Blender Foundation (CC BY 3.0) · 『Sprite Fright』 포스터: Blender Studio (CC BY 4.0) · 『Spring』 포스터: Francesco Siddi, Blender Foundation (CC BY 4.0)
+
+EDITOR | Siwoo
+
+#블렌더 #Blender #3D #오픈소스 #CG

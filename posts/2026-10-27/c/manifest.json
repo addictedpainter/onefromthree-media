@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 2,
+  "storyDate": "2026-10-27",
+  "slot": "c",
+  "postId": "2026-10-27-c",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "openAiPlatformCalls": 0,
+  "title": "사용자들이 돈 모아 사들인 블렌더",
+  "slug": "free-blender-users-bought-the-code",
+  "status": "awaiting_visual_review",
+  "editorial": {
+    "contentVersion": "v3",
+    "topic": "NaN 폐업 뒤 사용자들이 7주 만에 11만 유로를 모아 블렌더 코드를 사들여 2002년 10월 13일 GPL로 공개한 이야기",
+    "category": "cg",
+    "editor": "Siwoo",
+    "shareScore": 10,
+    "coverLayout": "caption",
+    "imageTiers": {
+      "public_domain": 9
+    }
+  },
+  "generatedAt": "2026-10-26T21:05:00+09:00",
+  "scheduledStartAt": "2026-10-26T18:30:00.000Z",
+  "actualStartedAt": "2026-10-26T20:38:00+09:00",
+  "imageCount": 10,
+  "contentHash": "2415a7dfb7d6bb9f348da9128ac93316bad7d197b56acff51d323a0f9a16efa7",
+  "idempotencyKey": "scenenode:2026-10-27-c:2415a7dfb7d6bb9f",
+  "media": [
+    {
+      "path": "01.jpg",
+      "sha256": "b1c538a55d255510a843491ed2be9bd904f10c658dffe557802a9088c1de1d08",
+      "bytes": 347535,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "666efbd76253272b1c0d45d506a435ec0af3535c73f3dbc0dc71e8364fcb698f"
+    },
+    {
+      "path": "02.jpg",
+      "sha256": "c8b2970bc30ded1e195eeeb0f196b1bdf959cb5096a13fab6be1517af26864df",
+      "bytes": 235533,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "f094ed8d0f6f6c52a14fbb267fc356803b74ab3486dd3a6643867967196a70c2"
+    },
+    {
+      "path": "03.jpg",
+      "sha256": "099bffff9d30cd5aa30491aefc25d19e6a810acad6ec5f3dc2d43ede9c9f7897",
+      "bytes": 293567,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "3670ecf018cbb4cb3c2cb763a439f40a114845fc701fd01925250bf966b1b1fd"
+    },
+    {
+      "path": "04.jpg",
+      "sha256": "bb676091d1350a7e9ec079568c81170f8926e2359ba9cfd24d1cb47f2b5b39a9",
+      "bytes": 285779,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "4649cf2e5fc853fab6c52d2784ba19f4f20a533ff148f41674bd5f008e3f27a7"
+    },
+    {
+      "path": "05.jpg",
+      "sha256": "69b799bd7c74ba0bf6f8ac1ae2a49c05722355cdf7d40cea3e9cf540b17eae76",
+      "bytes": 250309,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "6c08939a09b559a3ff8d792e2c77f2c6a5be731ab87af1e64f5d9f21dbd94891"
+    },
+    {
+      "path": "06.jpg",
+      "sha256": "198c805a41c1e63b96abb393b07479acf41d00a33815ae7b01b7564bbdb1e5e3",
+      "bytes": 239981,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "94a1efa52db6ce9576047c760a1eadc30aa64166f4230eca71060e3cefb68626"
+    },
+    {
+      "path": "07.jpg",
+      "sha256": "7959b2ab98c169c6bf79e09be14b3a50c21fe5568dfc53f5bf2caf7a84ecb416",
+      "bytes": 382602,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "efbd89052fc829fc263e8b679f9dc2166c9e1aa0917aad0d864284d87cb6ca24"
+    },
+    {
+      "path": "08.jpg",
+      "sha256": "aa2948405d93355fdd9d69da4280e6bc07e756174bc806d198ece896ea69788a",
+      "bytes": 464848,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "7cdc81d071f245638a96d4f290d7d35c48cb81ac23f1ca72bab7ece7bf7dd212"
+    },
+    {
+      "path": "09.jpg",
+      "sha256": "a3efffb7c664ef141525b3358931eafd95c95f544139bd77680c6e60621a725a",
+      "bytes": 428853,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "88561d31eb6b64a7c510fcd3e650006d2d7b32b7b3bcea5dd5289199d8a309a4"
+    },
+    {
+      "path": "10.jpg",
+      "sha256": "05e7d49ecb6e2914a7898727df4f3548f8c5b19173c2b5a5d4391cfd96511da2",
+      "bytes": 44554,
+      "width": 1080,
+      "height": 1440,
+      "contentType": "image/jpeg",
+      "sourceSha256": "ba0b911d51f4f6c377dfa172cefb3989d4bb7d28e6cf0c680b055325b6d190e9"
+    }
+  ],
+  "sources": [
+    {
+      "title": "History — Blender",
+      "url": "https://www.blender.org/about/history/",
+      "publisher": "Blender Foundation",
+      "publishedAt": "2013-09-01T00:00:00Z",
+      "retrievedAt": "2026-10-26T20:41:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "1994년 1월 2일 첫 소스 파일, NeoGeo 사내 프로그램, 1998년 6월 NaN 설립, 투자 두 번 약 550만 달러, 2002년 초 NaN 폐업과 개발 중단, 투자자에게서 권리를 살 수 없었던 점, 2002년 5월 블렌더 재단 설립, 7월 'Free Blender' 모금, 사용자 25만 명, 7주 만에 11만 유로, 2002년 10월 13일(일) GNU GPL 공개, 오픈 무비 목록을 확인했습니다.",
+      "usageNote": "게시일 표기는 페이지 메타데이터 기준."
+    },
+    {
+      "title": "Blender's History — Blender Manual",
+      "url": "https://docs.blender.org/manual/en/latest/getting_started/about/history.html",
+      "publisher": "Blender Foundation",
+      "publishedAt": "2026-10-26T20:42:00+09:00",
+      "retrievedAt": "2026-10-26T20:42:00+09:00",
+      "kind": "official_documentation",
+      "evidenceSummary": "11만 유로·7주·2002년 10월 13일 GPL 공개와 연표(2002년 10월 13일 오픈 소스 전환, 첫 블렌더 컨퍼런스)를 다시 확인했습니다.",
+      "usageNote": "공식 역사 페이지와 같은 기관이라 독립 출처로 세지 않음. 게시일 표기가 없어 확인 시각으로 기록."
+    },
+    {
+      "title": "Ton Roosendaal to step down as Blender chairman and CEO",
+      "url": "https://www.cgchannel.com/2025/09/ton-roosendaal-to-step-down-as-blender-chairman-and-ceo/",
+      "publisher": "CG Channel (Jim Thacker)",
+      "publishedAt": "2025-09-17T00:00:00Z",
+      "retrievedAt": "2026-10-26T20:44:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "투자자들이 NaN을 접은 뒤 루젠달이 오픈 소스로 돌린 점, 크라우드펀딩이 코드를 되사는 데 필요한 11만 유로를 빠르게 모은 점, 2002년 10월 13일 GPL 공개, 재단을 첫 공개 전에 세운 점을 확인했습니다.",
+      "usageNote": "독립 매체 기사."
+    },
+    {
+      "title": "Rachetons Blender",
+      "url": "https://linuxfr.org/news/rachetons-blender",
+      "publisher": "LinuxFr.org",
+      "publishedAt": "2002-07-20T00:00:00Z",
+      "retrievedAt": "2026-10-26T20:45:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2002년 7월 당시 권리자가 블렌더를 GPL로 풀어 주는 대가로 10만 유로를 요구했다는 점을 확인했습니다. 같은 매체 2002-08-15 기사(https://linuxfr.org/news/blender-la-campagne-continue)는 10만 유로가 차야 넘긴다는 조건과 한 달 가까이 지나 86%가 모였다는 점을 적습니다.",
+      "usageNote": "2002년 당시 프랑스 리눅스 뉴스 사이트 기사. 10만 유로 조건의 독립 근거."
+    },
+    {
+      "title": "Download — Blender",
+      "url": "https://www.blender.org/download/",
+      "publisher": "Blender Foundation",
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "retrievedAt": "2026-10-26T20:46:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "최신 버전 Blender 5.2.3 LTS(2026년 10월 22일 공개), 다음 버전 5.3(2026년 11월 10일 예정), 무료 다운로드를 확인했습니다.",
+      "usageNote": "지금 볼 수 있는 곳."
+    }
+  ],
+  "sourceVerification": [
+    {
+      "attemptedAt": "2026-10-26T18:38:04.372Z",
+      "attempt": 1,
+      "url": "https://www.blender.org/about/history/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-26T18:38:04.771Z",
+      "attempt": 1,
+      "url": "https://docs.blender.org/manual/en/latest/getting_started/about/history.html",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-26T18:38:05.559Z",
+      "attempt": 1,
+      "url": "https://www.cgchannel.com/2025/09/ton-roosendaal-to-step-down-as-blender-chairman-and-ceo/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-26T18:38:07.432Z",
+      "attempt": 1,
+      "url": "https://linuxfr.org/news/rachetons-blender",
+      "httpStatus": 200,
+      "outcome": "verified"
+    },
+    {
+      "attemptedAt": "2026-10-26T18:38:07.828Z",
+      "attempt": 1,
+      "url": "https://www.blender.org/download/",
+      "httpStatus": 200,
+      "outcome": "verified"
+    }
+  ],
+  "collectionErrors": [
+    {
+      "source": "commons.wikimedia.org",
+      "message": "API 요청 중 429가 한 번 나 간격을 두고 재시도함."
+    }
+  ],
+  "deploymentAttempts": 1,
+  "publishAttemptCount": 0,
+  "draftApprovedAt": "2026-10-26T18:38:08.234Z",
+  "draftApprovedContentHash": "2415a7dfb7d6bb9f348da9128ac93316bad7d197b56acff51d323a0f9a16efa7",
+  "renderedAt": "2026-10-26T18:38:23.156Z",
+  "deployedAt": "2026-10-27T01:00:33.769Z"
+}

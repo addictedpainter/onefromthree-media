@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "storyDate": "2026-10-27",
+  "slot": "c",
+  "runMode": "preview",
+  "account": "@scene.node",
+  "generationProvider": "claude_code",
+  "actualStartedAt": "2026-10-26T20:38:00+09:00",
+  "generatedAt": "2026-10-26T21:05:00+09:00",
+  "package": {
+    "contentVersion": "v3",
+    "category": "cg",
+    "slug": "free-blender-users-bought-the-code",
+    "topic": "NaN 폐업 뒤 사용자들이 7주 만에 11만 유로를 모아 블렌더 코드를 사들여 2002년 10월 13일 GPL로 공개한 이야기",
+    "headline": [
+      "사용자들이 돈 모아",
+      "사들인 블렌더"
+    ],
+    "hook": "🐵 블렌더가 공짜인 건 2002년에 사용자들이 돈을 모아 코드를 사들여서래요.",
+    "body": [
+      "블렌더는 네덜란드 애니메이션 스튜디오 NeoGeo의 사내 프로그램으로 시작했어요. 1994년 1월 2일 톤 루젠달이 첫 소스 파일을 썼고, 1998년에는 그가 세운 회사 NaN이 블렌더를 팔았어요. 투자금을 두 번에 걸쳐 550만 달러쯤 받았지만 2002년 초 회사는 문을 닫았고, 블렌더 개발도 그대로 멈췄대요.",
+      "사실 루젠달에게는 투자자들한테서 권리를 되살 돈이 없었어요. 그래서 2002년 비영리 블렌더 재단을 세우고, 7월에 'Free Blender' 모금을 열었어요. 투자자들이 부른 값은 10만 유로였어요. 사용자들이 7주 만에 11만 유로를 모았고, 2002년 10월 13일 블렌더는 GPL 라이선스로 풀렸어요. 누구나 공짜로 쓰고 코드까지 고칠 수 있게요. 그 뒤 재단은 이 프로그램으로 단편 영화를 만들어 하나씩 공개해 왔어요.",
+      "지금 최신 버전은 10월 22일 나온 5.2.3 LTS이고, 5.3은 11월 10일에 나올 예정이에요. blender.org에서 누구나 무료로 받을 수 있어요. 『빅 벅 버니』, 『스프라이트 프라이트』 같은 재단 단편도 CC 라이선스라 누구나 볼 수 있어요. @blender.official"
+    ],
+    "question": "돈을 모아서라도 살리고 싶은 프로그램이나 앱, 있어요?",
+    "credits": "Blender 4.3.2 화면: UnnecessaryDecision, Wikimedia Commons (CC0) · 톤 루젠달(2008): Kennisland, Wikimedia Commons (CC BY-SA 2.0) · 『Elephants Dream』·『Tears of Steel』·『Big Buck Bunny』: Blender Foundation (CC BY 2.5·3.0) · 『Sintel』 아트워크: David Revoy, Blender Foundation (CC BY 3.0) · 『Sprite Fright』 포스터: Blender Studio (CC BY 4.0) · 『Spring』 포스터: Francesco Siddi, Blender Foundation (CC BY 4.0)",
+    "editor": "Siwoo",
+    "hashtags": [
+      "#블렌더",
+      "#Blender",
+      "#3D",
+      "#오픈소스",
+      "#CG"
+    ],
+    "slides": [
+      {
+        "index": 1,
+        "text": "사용자들이 돈 모아\n사들인 블렌더",
+        "image": {
+          "file": "01-cover.png",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blender_4.3.2_screenshot.png",
+          "credit": "UnnecessaryDecision, Blender 4.3.2 기본 화면(Suzanne), Wikimedia Commons (CC0)",
+          "license": "CC0 1.0",
+          "checkedAt": "2026-10-26T20:44:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.4,
+              "y": 0,
+              "width": 0.5625,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 2,
+        "text": "2002년 초, 블렌더를 팔던 회사 NaN이 문을 닫았어요.",
+        "image": {
+          "file": "02-elephants.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephants_Dream_s5_both.jpg",
+          "credit": "Blender Foundation, 『Elephants Dream』(2006) 장면, Wikimedia Commons (CC BY 2.5)",
+          "license": "CC BY 2.5",
+          "checkedAt": "2026-10-26T20:44:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.4,
+              "y": 0,
+              "width": 0.5625,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 3,
+        "text": "블렌더를 만든 사람은 네덜란드 개발자 톤 루젠달이에요.",
+        "image": {
+          "file": "03-ton.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ton_Roosendaal_-_Economies_of_the_Commons_2008_-_2008-04-11.jpg",
+          "credit": "Kennisland, Ton Roosendaal on Economies of the Commons conference(암스테르담, 2008), Wikimedia Commons (CC BY-SA 2.0)",
+          "license": "CC BY-SA 2.0",
+          "checkedAt": "2026-10-26T20:44:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.1,
+              "y": 0,
+              "width": 0.6,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 4,
+        "text": "투자자들은 코드를 10만 유로에 넘기겠다고 했어요.",
+        "image": {
+          "file": "04-tos-robot.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tears_of_Steel_frame_07_3f.jpg",
+          "credit": "Blender Foundation, 『Tears of Steel』(2012) 장면, Wikimedia Commons (CC BY 3.0)",
+          "license": "CC BY 3.0",
+          "checkedAt": "2026-10-26T20:44:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 5,
+        "text": "사용자들이 7주 만에 11만 유로를 모았어요.",
+        "image": {
+          "file": "05-sintel.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Durian_-_Sintel-wallpaper-sintel.jpg",
+          "credit": "David Revoy, 『Sintel』(Durian 프로젝트) 아트워크, Blender Foundation, Wikimedia Commons (CC BY 3.0)",
+          "license": "CC BY 3.0",
+          "checkedAt": "2026-10-26T20:44:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.08,
+              "y": 0,
+              "width": 0.57,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 6,
+        "text": "사실 그 코드는 2002년 10월 13일, 누구나 쓰게 풀렸어요.",
+        "image": {
+          "file": "06-bunny.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Big_buck_bunny_poster_big.jpg",
+          "credit": "Blender Foundation, 『Big Buck Bunny』(2008) 포스터, Wikimedia Commons (CC BY 3.0)",
+          "license": "CC BY 3.0",
+          "checkedAt": "2026-10-26T20:44:00+09:00",
+          "focus": "top"
+        }
+      },
+      {
+        "index": 7,
+        "text": "그 뒤 재단은 블렌더로 단편 영화를 만들어 공개해 왔어요.",
+        "image": {
+          "file": "07-tos.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tears_of_Steel_frame_01_2a.jpg",
+          "credit": "Blender Foundation, 『Tears of Steel』(2012) 장면, Wikimedia Commons (CC BY 3.0)",
+          "license": "CC BY 3.0",
+          "checkedAt": "2026-10-26T20:44:00+09:00",
+          "focus": "centre",
+          "edit": {
+            "crop": {
+              "x": 0.33,
+              "y": 0,
+              "width": 0.36,
+              "height": 1
+            }
+          }
+        }
+      },
+      {
+        "index": 8,
+        "text": "지금 최신 5.2 버전도 blender.org에서 무료예요.",
+        "image": {
+          "file": "08-sprite.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sprite_Fright-movie_poster.jpg",
+          "credit": "Blender Studio, 『Sprite Fright』(2021) 포스터, Wikimedia Commons (CC BY 4.0)",
+          "license": "CC BY 4.0",
+          "checkedAt": "2026-10-26T20:44:00+09:00",
+          "focus": "centre"
+        }
+      },
+      {
+        "index": 9,
+        "text": "돈을 모아서라도 살리고 싶은 프로그램이나 앱, 있어요?",
+        "image": {
+          "file": "09-spring.jpg",
+          "tier": "public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spring2019PillarPosterBlender.jpg",
+          "credit": "Francesco Siddi, 『Spring』(2019) 포스터, Blender Foundation, Wikimedia Commons (CC BY 4.0)",
+          "license": "CC BY 4.0",
+          "checkedAt": "2026-10-26T20:44:00+09:00",
+          "focus": "centre"
+        }
+      }
+    ],
+    "shareEvaluation": {
+      "recipientComesToMind": 2,
+      "oneSentence": 2,
+      "novelty": 2,
+      "evidenceAndImages": 2,
+      "availableNow": 2,
+      "rationale": "3D·모션 하는 친구에게 '블렌더 원래 사용자들이 돈 모아서 사들인 거래'로 바로 보낼 이야기다. 블렌더는 다 쓰지만 공짜가 된 사연은 잘 모른다(새로움 2). 표지는 그 한 문장을 이름(블렌더) + 사건 하나(사용자들이 돈 모아 사들임)로 두 토막에 끊고 체언으로 맺었다. 투자자들이 부른 값 10만 유로·모금 7주·모은 돈 11만 유로·2002년 10월 13일 GPL 공개는 blender.org 공식 역사 페이지와 블렌더 매뉴얼, CG Channel(2025-09-17) 기사, 2002년 7·8월 LinuxFr 기사(10만 유로 조건)로 대조했고 위키백과는 보조로만 봤다. 사진 9장 모두 1등급(CC0 1장, CC BY 2.5·3.0·4.0 7장, CC BY-SA 2.0 1장). 최신 5.2.3 LTS를 blender.org에서 지금 무료로 받을 수 있어 2점. 버린 후보 1(숫자형): '10만 유로에 팔릴 뻔한 / 공짜 3D 프로그램' — '팔릴 뻔'은 사실과 어긋난다(투자자들이 10만 유로에 넘기기로 했고 실제로 넘겼다). 자랑 숫자가 첫 줄. 버린 후보 2(사물형): '문 닫은 회사의 3D 프로그램 / 산 건 사용자들' — 첫 줄이 13자 한도에 걸리고 '회사'가 막연해 이름(블렌더)이 빠진다. 표지에 단위 숫자·반전 단어가 없어 keyword 없이 자막 박스형. 표지 원숭이(Suzanne)는 화면 위쪽 가운데라 아래 박스가 가리지 않는다."
+    },
+    "unknowns": [
+      "목표(투자자가 부른 값)는 10만 유로(LinuxFr 2002·위키백과), 모은 돈은 11만 유로(blender.org·매뉴얼·CG Channel)라 둘을 나눠 썼다. 15만 유로라는 2009년 인터뷰 요약은 한 곳뿐이라 뺐다.",
+      "재단 설립이 현행 공식 페이지·위키백과는 2002년 5월, 옛 매뉴얼은 3월이라 캡션에는 '2002년'까지만 적었다. '7주'는 공식 표현이며 위키백과의 7월 18일 시작·9월 7일 달성과 맞는다.",
+      "2002년 당시 고해상도 1·2등급 사진이 없어 2·4~9장은 2006~2021년 재단 오픈 무비 장면·포스터·아트워크다. 2장 문장(2002년 폐업)과 사진(2006년 영화)은 시기가 다르다.",
+      "1장은 Blender 4.3.2 화면(최신 5.2 아님), 3장 톤 루젠달 사진은 2008년이다. 위키백과는 보조로만 읽고 sources에 넣지 않았다.",
+      "@blender.official은 blender.org 첫 화면 Instagram 링크로 확인했다. 루젠달의 2026-01-01 의장·CEO 퇴임(CG Channel)은 본문에 쓰지 않았다."
+    ]
+  },
+  "sources": [
+    {
+      "title": "History — Blender",
+      "url": "https://www.blender.org/about/history/",
+      "publisher": "Blender Foundation",
+      "publishedAt": "2013-09-01T00:00:00Z",
+      "retrievedAt": "2026-10-26T20:41:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "1994년 1월 2일 첫 소스 파일, NeoGeo 사내 프로그램, 1998년 6월 NaN 설립, 투자 두 번 약 550만 달러, 2002년 초 NaN 폐업과 개발 중단, 투자자에게서 권리를 살 수 없었던 점, 2002년 5월 블렌더 재단 설립, 7월 'Free Blender' 모금, 사용자 25만 명, 7주 만에 11만 유로, 2002년 10월 13일(일) GNU GPL 공개, 오픈 무비 목록을 확인했습니다.",
+      "usageNote": "게시일 표기는 페이지 메타데이터 기준."
+    },
+    {
+      "title": "Blender's History — Blender Manual",
+      "url": "https://docs.blender.org/manual/en/latest/getting_started/about/history.html",
+      "publisher": "Blender Foundation",
+      "publishedAt": "2026-10-26T20:42:00+09:00",
+      "retrievedAt": "2026-10-26T20:42:00+09:00",
+      "kind": "official_documentation",
+      "evidenceSummary": "11만 유로·7주·2002년 10월 13일 GPL 공개와 연표(2002년 10월 13일 오픈 소스 전환, 첫 블렌더 컨퍼런스)를 다시 확인했습니다.",
+      "usageNote": "공식 역사 페이지와 같은 기관이라 독립 출처로 세지 않음. 게시일 표기가 없어 확인 시각으로 기록."
+    },
+    {
+      "title": "Ton Roosendaal to step down as Blender chairman and CEO",
+      "url": "https://www.cgchannel.com/2025/09/ton-roosendaal-to-step-down-as-blender-chairman-and-ceo/",
+      "publisher": "CG Channel (Jim Thacker)",
+      "publishedAt": "2025-09-17T00:00:00Z",
+      "retrievedAt": "2026-10-26T20:44:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "투자자들이 NaN을 접은 뒤 루젠달이 오픈 소스로 돌린 점, 크라우드펀딩이 코드를 되사는 데 필요한 11만 유로를 빠르게 모은 점, 2002년 10월 13일 GPL 공개, 재단을 첫 공개 전에 세운 점을 확인했습니다.",
+      "usageNote": "독립 매체 기사."
+    },
+    {
+      "title": "Rachetons Blender",
+      "url": "https://linuxfr.org/news/rachetons-blender",
+      "publisher": "LinuxFr.org",
+      "publishedAt": "2002-07-20T00:00:00Z",
+      "retrievedAt": "2026-10-26T20:45:00+09:00",
+      "kind": "article",
+      "evidenceSummary": "2002년 7월 당시 권리자가 블렌더를 GPL로 풀어 주는 대가로 10만 유로를 요구했다는 점을 확인했습니다. 같은 매체 2002-08-15 기사(https://linuxfr.org/news/blender-la-campagne-continue)는 10만 유로가 차야 넘긴다는 조건과 한 달 가까이 지나 86%가 모였다는 점을 적습니다.",
+      "usageNote": "2002년 당시 프랑스 리눅스 뉴스 사이트 기사. 10만 유로 조건의 독립 근거."
+    },
+    {
+      "title": "Download — Blender",
+      "url": "https://www.blender.org/download/",
+      "publisher": "Blender Foundation",
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "retrievedAt": "2026-10-26T20:46:00+09:00",
+      "kind": "institution",
+      "evidenceSummary": "최신 버전 Blender 5.2.3 LTS(2026년 10월 22일 공개), 다음 버전 5.3(2026년 11월 10일 예정), 무료 다운로드를 확인했습니다.",
+      "usageNote": "지금 볼 수 있는 곳."
+    }
+  ],
+  "collectionErrors": [
+    {
+      "source": "commons.wikimedia.org",
+      "message": "API 요청 중 429가 한 번 나 간격을 두고 재시도함."
+    }
+  ]
+}
